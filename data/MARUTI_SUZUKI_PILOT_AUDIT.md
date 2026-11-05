@@ -116,3 +116,32 @@ Audit status:
 - Firestore import: not performed
 
 Note: The official page content is the evidence for the captured amount set. Third-party price aggregators are not used to fill or correct OEM values. The data remains an audit observation pending terms review and human approval.
+
+
+## Celerio variant price audit
+
+Checked: 2026-11-06
+Primary source: https://www.marutisuzuki.com/arena/celerio/price?city=perembra
+
+The official Celerio page exposes a list of eight variant names in its variant selector, and four cards with exact displayed starting prices in the captured page content. Capture only the four directly displayed amounts; do not infer the other four prices from the selector or third-party sources.
+
+| Official variant label | Fuel | Transmission | Displayed starting price (INR) | Evidence |
+|---|---|---|---:|---|
+| Celerio LXi MT | Petrol | Manual (5MT) | 469900 | Price displayed |
+| Celerio VXi MT | Petrol | Manual (5MT) | 518400 | Price displayed |
+| Celerio VXi AGS | Petrol | Automatic (AGS) | 563400 | Price displayed |
+| Celerio ZXi MT | Petrol | Manual (5MT) | 573400 | Price displayed |
+
+The page's variant selector additionally lists Celerio VXi CNG, ZXi+ AGS, ZXi+ MT, ZXi AGS and other trim labels; no exact amount for those variants is included here because the captured page content did not expose their price cards. Note that the captured card text appears to have some transmission feature labels out of sequence; use the explicit variant name and the card's headline powertrain summary as evidence, and recheck the detailed variant specification before importing transmission values.
+
+The official page's terms say prices prevailing at invoice/bill time apply, and its FAQ describes the displayed base price as ex-showroom. No on-road price is recorded in this audit.
+
+Audit status:
+- Exact variant labels: partial list visible
+- Exact displayed prices: 4 captured
+- Full variant × specification matrix: pending
+- City-wise on-road prices: not captured
+- Source reuse / redistribution permission: review required
+- Firestore import: not performed
+
+Source note: The official website page was opened with a city query parameter (`city=perembra`). Do not assume the displayed starting price is a local on-road quote; retain it as an OEM displayed starting/ex-showroom observation subject to final source semantics review.
