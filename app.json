@@ -6,8 +6,18 @@
     "version": "1.0.0",
     "orientation": "portrait",
     "userInterfaceStyle": "dark",
-    "web": { "bundler": "metro", "output": "static", "name": "Motivo", "shortName": "Motivo" },
-    "plugins": ["expo-router"],
-    "experiments": { "typedRoutes": true, "baseUrl": "/motivo" }
+    "web": {
+      "bundler": "metro",
+      "output": "single",
+      "name": "Motivo",
+      "shortName": "Motivo"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "experiments": {
+      "typedRoutes": true,
+      "baseUrl": "/motivo"
+    }
   }
 }
