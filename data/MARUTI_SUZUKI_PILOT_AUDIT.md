@@ -82,3 +82,37 @@ The official page currently lists eight variant labels, while only seven exact s
 
 Additional source:
 - https://www.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/s-presso/documents/S-presso-Brochure.pdf
+
+
+## Detailed Alto K10 variant and ex-showroom price capture
+
+Checked: 2026-11-06
+Primary source: https://www.marutisuzuki.com/arena/alto-k10/price
+
+The official Alto K10 variant page lists eight current variant labels with displayed "Starting at" prices. The page's city query parameter varies across search snapshots, but the amounts shown in the page content are consistent across the retrieved variants. The page also states that prices/schemes prevailing at invoice/bill time apply. Capture these as dated official ex-showroom observations only after confirming the page's displayed amount semantics; do not treat them as on-road amounts.
+
+| Official variant label | Fuel | Transmission | Displayed starting price (INR) |
+|---|---|---|---:|
+| Alto K10 Std (O) | Petrol | Manual | 369900 |
+| Alto K10 LXi (O) MT | Petrol | Manual | 399900 |
+| Alto K10 VXi (O) MT | Petrol | Manual | 452400 |
+| Alto K10 LXi (O) CNG | S-CNG | Manual | 484400 |
+| Alto K10 VXi (O) AGS | Petrol | Automatic (AGS) | 497400 |
+| Alto K10 VXi+ (O) MT | Petrol | Manual | 499900 |
+| Alto K10 VXi (O) CNG | S-CNG | Manual | 534400 |
+| Alto K10 VXi+ (O) AGS | Petrol | Automatic (AGS) | 544900 |
+
+The official brochure supports the variant-family names and confirms 5MT/AGS availability for petrol and 5MT for CNG. It also states CNG seating capacity as four persons, while petrol seating capacity is five. Do not store one seating value across all variants.
+
+Sources:
+- https://www.marutisuzuki.com/arena/alto-k10/price
+- https://www.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/alto-k10/documents/AltoK10-KV-Brochure.pdf
+
+Audit status:
+- Variant names and displayed amounts: captured from OEM page
+- Detailed variant specifications: brochure cross-check available
+- City-specific on-road prices: not captured
+- Source reuse / redistribution permission: review required
+- Firestore import: not performed
+
+Note: The official page content is the evidence for the captured amount set. Third-party price aggregators are not used to fill or correct OEM values. The data remains an audit observation pending terms review and human approval.
