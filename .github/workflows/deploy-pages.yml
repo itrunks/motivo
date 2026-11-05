@@ -28,6 +28,8 @@ jobs:
         run: npm install
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v5
+        with:
+          enablement: true
       - name: Export web app
         run: npx expo export --platform web --output-dir dist
       - name: Upload Pages artifact
