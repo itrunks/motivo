@@ -1,0 +1,2 @@
+source_id,publisher,source_url,terms_or_license_url,license_name,commercial_reuse_allowed,redistribution_allowed,attribution_required,coverage_type,brands_covered,models_covered,variants_covered,fields_available,geography,model_year_coverage,update_frequency,last_checked_at,ingestion_method,review_status,review_notes
+example_oem_specs,OEM official site,https://example.com,https://example.com/terms,To be reviewed,unknown,unknown,unknown,specifications,,,,India,,,manual,,"pending","Do not import until terms are reviewed"
