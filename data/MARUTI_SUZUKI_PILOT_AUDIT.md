@@ -177,3 +177,40 @@ Audit status:
 - Firestore import not performed
 
 Source: Maruti Suzuki official WagonR price and variants page. The page was opened with a city query parameter, but the displayed amounts are treated as OEM starting prices, not location-specific on-road quotes.
+
+
+## Swift variant price audit
+
+Checked: 2026-11-06
+Primary source: https://www.marutisuzuki.com/arena/swift/price
+
+The official Maruti Suzuki Swift price page exposes the following exact variant cards and displayed starting prices. Prices are recorded as official OEM ex-showroom starting-price observations, not on-road quotes.
+
+| Official variant label | Fuel | Transmission | Displayed starting price (INR) |
+|---|---|---|---:|
+| Swift LXi MT | Petrol | Manual | 583900 |
+| Swift VXi MT | Petrol | Manual | 667900 |
+| Swift VXi (O) MT | Petrol | Manual | 693900 |
+| Swift VXi AMT | Petrol | Automatic (AMT) | 712900 |
+| Swift VXi (O) AMT | Petrol | Automatic (AMT) | 738900 |
+| Swift VXi CNG | S-CNG | Manual | 757400 |
+| Swift ZXi MT | Petrol | Manual | 761900 |
+| Swift VXi (O) CNG | S-CNG | Manual | 783400 |
+| Swift VXi CNG AGS | S-CNG | Automatic (AGS) | 792400 |
+| Swift ZXi AMT | Petrol | Automatic (AMT) | 806900 |
+| Swift VXi (O) CNG AGS | S-CNG | Automatic (AGS) | 818400 |
+| Swift ZXi+ MT | Petrol | Manual | 843900 |
+| Swift ZXi CNG | S-CNG | Manual | 851400 |
+| Swift ZXi CNG AGS | S-CNG | Automatic (AGS) | 886400 |
+| Swift ZXi+ AMT | Petrol | Automatic (AMT) | 888900 |
+
+The official page indicates 2+ months waiting on many cards and states prices/schemes prevailing at invoice/bill time apply. Treat waiting-time text as a page snapshot only, not a delivery promise. Some CNG AGS cards do not expose engine displacement in the card text; do not fill missing engine values from inference.
+
+Audit status:
+- 15 official variant cards and displayed amounts captured
+- Fuel and transmission captured from OEM card labels
+- City-wise on-road prices not captured
+- Source reuse / redistribution permission review required
+- Firestore import not performed
+
+Source: Maruti Suzuki official Swift price and variants page. The official page states that displayed prices are indicative ex-showroom prices and applicability is based on invoice date.
