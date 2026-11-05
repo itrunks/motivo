@@ -434,3 +434,54 @@ Sources:
 - https://www.nexaexperience.com/invicto/price
 - https://www.nexaexperience.com/e-vitara/price
 
+
+
+## NEXA follow-up: Baleno exact variant table and conflicts
+
+Checked: 2026-11-06
+Primary source: https://www.nexaexperience.com/baleno/price
+
+The official Baleno price-page indexed table exposes nine variant rows. These amounts are captured as page observations, but **the page's own FAQ conflicts with its table** on base and top-variant prices. A current 2026 facelift price list is also reported by Autocar, so do not assume the nine-row table is the current post-facelift matrix without live dealer/OEM confirmation.
+
+| Official page variant label | Displayed table amount (INR) | Audit status |
+|---|---:|---|
+| BALENO DELTA CNG | 769900 | Table observation; model-year mapping pending |
+| BALENO ZETA CNG | 859900 | Table observation; model-year mapping pending |
+| BALENO SIGMA | 598900 | Table observation; FAQ conflict |
+| BALENO DELTA | 679899 | Table observation; FAQ conflict |
+| BALENO DELTA AGS | 729900 | Table observation; model-year mapping pending |
+| BALENO ZETA | 769900 | Table observation; model-year mapping pending |
+| BALENO ZETA AGS | 819901 | Table observation; model-year mapping pending |
+| BALENO ALPHA | 859900 | Table observation; FAQ conflict |
+| BALENO ALPHA AGS | 909900 | Table observation; FAQ conflict |
+
+The same official page FAQ says base variant starts at ₹6,70,000 (ex-showroom Delhi), top model starts at ₹9,92,000 (ex-showroom Delhi), Alpha manual is ₹9.42 lakh and Alpha automatic ₹9.92 lakh. These do not align with the visible table. The official homepage shows Baleno from ₹5,98,900 while the compare page shows ₹9,09,900. Treat all conflicting values as unapproved observations, not a reconciled price list.
+
+A September 2026 Autocar report describes a 2026 Baleno facelift with a different variant matrix and prices from ₹5.99 lakh to ₹9.99 lakh, including CNG AMT variants. That is useful as a freshness warning only; it is not substituted for the OEM source.
+
+## NEXA additional model coverage status
+
+- FRONX: official price page confirms that listed website prices are ex-showroom and on-road varies by city/state. The variant-price table is loaded dynamically and was not exposed in the captured content; no exact variant prices recorded.
+- XL6: official page exposes the variant filter fragment and confirms price applicability at invoice date; the complete amount matrix was not exposed in the captured content. No exact variant prices recorded.
+- Jimny: official model price page is listed, and official brochure supports the Zeta/Alpha MT/AT variant families. Complete current exact price cards were not captured. Third-party price tables are not used as OEM observations.
+- Invicto: official brochure/manual pages provide model-level price range only; exact variant amounts not captured from the official price page.
+- e VITARA: official price page describes prices as indicative ex-showroom and invoice-date applicable. e VITARA also uses BaaS pricing on some offers; do not mix BaaS entry price with full-vehicle ex-showroom price. Exact variant-price cards not captured.
+
+Sources:
+- https://www.nexaexperience.com/baleno/price
+- https://www.nexaexperience.com/fronx/price
+- https://www.nexaexperience.com/xl6/price
+- https://www.nexaexperience.com/jimny/price
+- https://www.nexaexperience.com/invicto/price
+- https://www.nexaexperience.com/e-vitara/price
+- https://www.nexaexperience.com/
+- https://www.nexaexperience.com/compare-cars
+- https://www.nexaexperience.com/car-manual
+- https://www.nexaexperience.com/e-brochure
+- https://www.autocarindia.com/car-news-amp/2026-maruti-baleno-full-price-list-revealed-440706
+
+NEXA audit status after follow-up:
+- Grand Vitara: 18 indexed official price rows, pending live-page and effective-date confirmation.
+- Baleno: 9 indexed official table rows, held due to material OEM page conflicts and 2026 facelift/model-year uncertainty.
+- FRONX, XL6, Jimny, Invicto, e VITARA: official current model presence verified; exact current variant price matrices remain incomplete.
+- No NEXA price observations are approved for Firestore import.
