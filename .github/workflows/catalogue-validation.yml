@@ -1,0 +1,27 @@
+name: Catalogue validation
+
+on:
+  pull_request:
+    paths:
+      - "data/**"
+      - "scripts/validate_catalogue.py"
+      - ".github/workflows/catalogue-validation.yml"
+  push:
+    branches: [main]
+    paths:
+      - "data/**"
+      - "scripts/validate_catalogue.py"
+      - ".github/workflows/catalogue-validation.yml"
+
+jobs:
+  validate-catalogue-template:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+      - name: Compile validator
+        run: python -m py_compile scripts/validate_catalogue.py
+      - name: Validate import template
+        run: python scripts/validate_catalogue.py data/catalogue-import-template.csv --out-dir /tmp/motivo-catalogue-staging
