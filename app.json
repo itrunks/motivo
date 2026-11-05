@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "Motivo",
+    "slug": "motivo",
+    "scheme": "motivo",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "web": { "bundler": "metro", "name": "Motivo", "shortName": "Motivo" },
+    "plugins": ["expo-router"],
+    "experiments": { "typedRoutes": true }
+  }
+}
