@@ -368,3 +368,69 @@ Audit status:
 - Eeco: 5 exact price cards; ambulance shell held outside the retail passenger variant set.
 
 All captured amounts remain source-audit observations only. No Firestore write or public catalogue publication has been performed. OEM terms/reuse permission still require review.
+
+
+## NEXA current model and source audit
+
+Checked: 2026-11-06
+Primary sources:
+- https://www.nexaexperience.com/
+- https://www.nexaexperience.com/compare-cars
+
+The official NEXA homepage and comparison page currently expose seven India-market models: Baleno, FRONX, Grand Vitara, Jimny, XL6, Invicto and e VITARA. This verifies current official catalogue presence, but does not by itself establish every variant's orderability, stock availability or exact model-year mapping.
+
+| Model | Official price/detail page | Audit finding |
+|---|---|---|
+| Baleno | https://www.nexaexperience.com/baleno/price | Price page exists; captured page content is dynamic and does not expose a reliable complete variant-price table |
+| FRONX | https://www.nexaexperience.com/fronx/price | Price page exists; FAQ explicitly says displayed site price is ex-showroom and on-road varies by city/state |
+| Grand Vitara | https://www.nexaexperience.com/grand-vitara/price | Search-indexed official variant table exposes 18 named variants and exact amounts; source page's price effective-date context requires confirmation before importing |
+| Jimny | https://www.nexaexperience.com/jimny/price | Official price page and top-model ex-showroom amount are exposed; complete card table not captured in this pass |
+| XL6 | https://www.nexaexperience.com/xl6/price | Official model page confirms seven variants: Zeta, Zeta AT, Alpha, Alpha AT, Alpha+, Alpha+ AT and Zeta CNG; exact complete price table not captured |
+| Invicto | https://www.nexaexperience.com/invicto/price | Official price page exists and states prices are indicative ex-showroom; complete variant table not captured |
+| e VITARA | https://www.nexaexperience.com/e-vitara/price | Official electric model price page exists; exact price cards not exposed in captured page content |
+
+### Grand Vitara: official variant price table captured from search index
+
+The official NEXA Grand Vitara price page's indexed content exposes the following 18 exact variant amounts. Treat these as preliminary observations because the indexed page text says reductions/starting prices are effective from 22 September 2025 and vary by variant; re-open the live price page and confirm current applicability/effective date before import.
+
+| Official variant label | Displayed price (INR) |
+|---|---:|
+| Grand Vitara Sigma | 1076500 |
+| Grand Vitara Delta | 1209700 |
+| Grand Vitara Delta AT | 1344700 |
+| Grand Vitara Zeta | 1370000 |
+| Grand Vitara Zeta (O) | 1428000 |
+| Grand Vitara Zeta AT | 1505000 |
+| Grand Vitara Alpha | 1519700 |
+| Grand Vitara Zeta (O) AT | 1563000 |
+| Grand Vitara Alpha (O) | 1577600 |
+| Grand Vitara Alpha AT | 1654700 |
+| Grand Vitara Strong Hybrid Delta+ | 1663300 |
+| Grand Vitara Alpha (O) AT | 1712600 |
+| Grand Vitara Strong Hybrid Zeta+ | 1791600 |
+| Grand Vitara Alpha ALLGRIP | 1799700 |
+| Grand Vitara Strong Hybrid Zeta+ (O) | 1850300 |
+| Grand Vitara Alpha (O) ALLGRIP | 1857600 |
+| Grand Vitara Strong Hybrid Alpha+ | 1950200 |
+| Grand Vitara Strong Hybrid Alpha+ (O) | 1957000 |
+
+### NEXA source and price-quality flags
+
+- The official NEXA compare page lists Baleno from ₹9,09,900, while the official homepage search snapshot lists Baleno from ₹5,98,900. These are materially inconsistent; neither amount is accepted as a price observation until the live model price page is rechecked and the discrepancy explained.
+- The NEXA compare page lists starting prices for Invicto, e VITARA, Jimny, XL6, Grand Vitara and FRONX, but these summary values are not a substitute for exact variant cards.
+- NEXA price-page FAQs describe site prices as ex-showroom and explain that on-road prices vary with city/state taxes, registration and insurance. Do not convert these figures into city on-road prices.
+- Official page presence is a model-listing signal, not proof of current dealer stock or a complete current variant matrix.
+- Source terms and commercial reuse permission remain review required.
+- No NEXA records have been imported into Firestore.
+
+Sources:
+- https://www.nexaexperience.com/compare-cars
+- https://www.nexaexperience.com/
+- https://www.nexaexperience.com/baleno/price
+- https://www.nexaexperience.com/fronx/price
+- https://www.nexaexperience.com/grand-vitara/price
+- https://www.nexaexperience.com/jimny/price
+- https://www.nexaexperience.com/xl6/price
+- https://www.nexaexperience.com/invicto/price
+- https://www.nexaexperience.com/e-vitara/price
+
