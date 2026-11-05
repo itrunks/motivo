@@ -145,3 +145,35 @@ Audit status:
 - Firestore import: not performed
 
 Source note: The official website page was opened with a city query parameter (`city=perembra`). Do not assume the displayed starting price is a local on-road quote; retain it as an OEM displayed starting/ex-showroom observation subject to final source semantics review.
+
+
+## WagonR variant price audit
+
+Checked: 2026-11-06
+Primary source: https://www.marutisuzuki.com/arena/wagon-r/price?city=kurukshetra
+
+The official OEM page exposes the following variant cards and exact displayed starting prices. Amounts are retained as OEM displayed starting/ex-showroom observations; they are not on-road quotes.
+
+| Official variant label | Engine | Fuel | Transmission | Displayed starting price (INR) |
+|---|---:|---|---|---:|
+| WagonR LXi MT | 998 cc | Petrol | Manual | 498900 |
+| WagonR VXi MT | 998 cc | Petrol | Manual | 554400 |
+| WagonR LXi CNG | 998 cc | S-CNG | Manual | 593900 |
+| WagonR ZXi MT | 1197 cc | Petrol | Manual | 598400 |
+| WagonR VXi AGS | 998 cc | Petrol | Automatic (AGS) | 599400 |
+| WagonR ZXi AGS | 1197 cc | Petrol | Automatic (AGS) | 643400 |
+| WagonR VXi CNG | 998 cc | S-CNG | Manual | 649400 |
+| WagonR ZXi+ MT | 1197 cc | Petrol | Manual | 652400 |
+| WagonR ZXi+ AGS | 1197 cc | Petrol | Automatic (AGS) | 697400 |
+| WagonR Bioflex (ZXi+ MT FFV) | 1197 cc | Flex Fuel | Manual | 723900 |
+
+The OEM page displays a "2+ months waiting" indicator alongside the listed cards. This is captured as page context only, not a guaranteed delivery estimate. The page states prices/schemes prevailing at invoice/bill time apply.
+
+Audit status:
+- Ten exact OEM variant labels and displayed amounts captured
+- Variant powertrain summary captured from OEM cards
+- City-wise on-road prices not captured
+- Source reuse / redistribution permission review required
+- Firestore import not performed
+
+Source: Maruti Suzuki official WagonR price and variants page. The page was opened with a city query parameter, but the displayed amounts are treated as OEM starting prices, not location-specific on-road quotes.
