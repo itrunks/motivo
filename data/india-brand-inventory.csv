@@ -1,0 +1,27 @@
+brand_id,brand_name,segment,parent_or_group,india_official_site,product_catalogue_url,source_checked_at,current_sales_status,status_evidence_url,audit_status,notes
+maruti_suzuki,Maruti Suzuki,mass_market,Suzuki,https://www.marutisuzuki.com/,https://www.marutisuzuki.com/,2026-11-06,needs_verification,,pending,Verify each currently listed passenger car and variant from OEM pages
+tata,Tata Motors,mass_market,Tata Group,https://cars.tatamotors.com/,https://cars.tatamotors.com/,2026-11-06,needs_verification,,pending,Separate passenger cars and EV derivatives only where OEM lists them
+mahindra,Mahindra,mass_market,Mahindra Group,https://auto.mahindra.com/,https://auto.mahindra.com/,2026-11-06,needs_verification,,pending,Exclude commercial vehicles and discontinued models
+hyundai,Hyundai,mass_market,Hyundai Motor Group,https://www.hyundai.com/in/en,https://www.hyundai.com/in/en,2026-11-06,needs_verification,,pending,Use India-specific model and variant pages
+kia,Kia,mass_market,Hyundai Motor Group,https://www.kia.com/in/,https://www.kia.com/in/,2026-11-06,needs_verification,,pending,Use India-specific model and variant pages
+toyota,Toyota,mass_market,Toyota Motor Corporation,https://www.toyotabharat.com/,https://www.toyotabharat.com/,2026-11-06,needs_verification,,pending,Check India product catalogue and current price lists
+mg,MG Motor,mass_market,JSW MG Motor India,https://www.mgmotor.co.in/,https://www.mgmotor.co.in/,2026-11-06,needs_verification,,pending,Verify current India model availability and ownership/brand naming
+honda,Honda,mass_market,Honda Motor Co.,https://www.hondacarindia.com/,https://www.hondacarindia.com/,2026-11-06,needs_verification,,pending,Use passenger-car catalogue only
+skoda,Skoda,mass_market,Skoda Auto Volkswagen India,https://www.skoda-auto.co.in/,https://www.skoda-auto.co.in/,2026-11-06,needs_verification,,pending,Group corporate source confirms India brand operations; verify each current model
+volkswagen,Volkswagen,mass_market,Skoda Auto Volkswagen India,https://www.volkswagen.co.in/,https://www.volkswagen.co.in/,2026-11-06,needs_verification,,pending,Verify current India product list
+renault,Renault,mass_market,Renault Group,https://www.renault.co.in/,https://www.renault.co.in/,2026-11-06,needs_verification,,pending,Verify current India product list
+nissan,Nissan,mass_market,Nissan Motor Co.,https://www.nissan.in/,https://www.nissan.in/,2026-11-06,needs_verification,,pending,Verify current India product list
+citroen,Citroen,mass_market,Stellantis,https://www.citroen.in/,https://www.citroen.in/,2026-11-06,needs_verification,,pending,Verify current India product list
+jeep,Jeep,mass_market,Stellantis,https://www.jeep-india.com/,https://www.jeep-india.com/,2026-11-06,needs_verification,,pending,Verify current India product list
+byd,BYD,electric_and_premium,BYD,https://www.bydautoindia.com/,https://www.bydautoindia.com/,2026-11-06,needs_verification,,pending,Verify current India product list and variant data
+vinfast,VinFast,electric,VinFast,https://vinfastauto.in/,https://vinfastauto.in/,2026-11-06,needs_verification,,pending,New entrant; confirm current orderable products
+force_motors,Force Motors,utility_and_passenger,Force Motors,https://www.forcemotors.com/,https://www.forcemotors.com/,2026-11-06,needs_verification,,pending,Include only passenger vehicles sold to retail customers; exclude pure commercial fleet products
+bmw,BMW,luxury,BMW Group,https://www.bmw.in/,https://www.bmw.in/,2026-11-06,needs_verification,,pending,Verify current India passenger-car catalogue
+mercedes_benz,Mercedes-Benz,luxury,Mercedes-Benz Group,https://www.mercedes-benz.co.in/,https://www.mercedes-benz.co.in/,2026-11-06,needs_verification,,pending,Verify current India passenger-car catalogue
+audi,Audi,luxury,Volkswagen Group,https://www.audi.in/,https://www.audi.in/,2026-11-06,needs_verification,,pending,Corporate group lists Audi as an India operating brand; verify active product list
+porsche,Porsche,luxury,Volkswagen Group,https://www.porsche.com/india/,https://www.porsche.com/india/,2026-11-06,needs_verification,,pending,Corporate group lists Porsche as an India operating brand; verify active product list
+land_rover,Land Rover,luxury,JLR,https://www.landrover.in/,https://www.landrover.in/,2026-11-06,needs_verification,,pending,Verify current India model and trim availability
+jaguar,Jaguar,luxury,JLR,https://www.jaguar.in/,https://www.jaguar.in/,2026-11-06,needs_verification,,pending,Do not assume legacy listings equal current orderable vehicles; confirm sales status
+lexus,Lexus,luxury,Toyota Motor Corporation,https://www.lexusindia.co.in/,https://www.lexusindia.co.in/,2026-11-06,needs_verification,,pending,Verify current India passenger-car catalogue
+volvo,Volvo,luxury,Volvo Cars,https://www.volvocars.com/in/,https://www.volvocars.com/in/,2026-11-06,needs_verification,,pending,Verify current India passenger-car catalogue
+mini,MINI,luxury,BMW Group,https://www.mini.in/,https://www.mini.in/,2026-11-06,needs_verification,,pending,Verify current India passenger-car catalogue
