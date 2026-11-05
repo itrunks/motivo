@@ -97,3 +97,48 @@ Sources:
 - https://www.hyundai.com/in/en/find-a-car
 - https://org2.hyundai.com/in/en/connect-to-service/hyundai-service/owners-manual
 - https://www.hyundai.com/in/en/investor-relations/financial-information/reports/annual-report-2025-26
+
+
+## November 2026 price freshness recheck
+
+Checked: 2026-11-06
+Primary source: https://www.hyundai.com/in/en
+Secondary freshness context: https://www.autocarindia.com/car-news/hyundai-to-hike-prices-from-september-2026-440539
+
+The official Hyundai homepage now exposes the following model-level ex-showroom starting prices. These are model starting-price observations only; they are not variant-level prices and must not be expanded into variant records.
+
+| Model | Official homepage starting price (INR) |
+|---|---:|
+| BAYON | 999900 |
+| Exter | 580600 |
+| Venue | 799900 |
+| Venue N Line | 1066100 |
+| Creta | 1090700 |
+| Alcazar | 1450700 |
+| Creta N Line | 1903300 |
+| Verna | 1099200 |
+| Aura | 599990 |
+| Grand i10 NIOS | 559700 |
+| i20 | 599700 |
+| i20 N Line | 932200 |
+
+The official homepage page captured in this check does not expose the full price ranges for each model or exact variant price cards. The official Find-a-Car page still provides model-level ranges; keep that as a separate source observation rather than combining it with homepage starting figures.
+
+Autocar reported Hyundai's September 2026 price revision of up to 1%, varying by model and variant. Its September model-level ranges are third-party context only. This confirms why January/older price-list values should not be assumed current. It does not authorize applying a flat 1% uplift to any individual variant.
+
+### Exact variant price capture outcome
+
+This web pass did not expose reliable, complete official variant-level price cards for Hyundai's 12 current retail model families. Accordingly:
+- No individual variant prices have been added in this section.
+- Do not derive variant prices from model-level starting/range values.
+- Do not apply the announced maximum 1% price revision uniformly.
+- Obtain current OEM downloadable price lists or dated dealer/OEM quotations per model and preserve the exact effective date and city where relevant.
+- Keep current variant names/powertrain mappings as a separate audit from prices; the official homepage only gives engine/transmission availability summaries.
+
+Sources:
+- https://www.hyundai.com/in/en
+- https://www.hyundai.com/in/en/find-a-car
+- https://www.hyundai.com/in/en/investor-relations/financial-information/reports/annual-report-2025-26
+- https://www.autocarindia.com/car-news/hyundai-to-hike-prices-from-september-2026-440539
+
+No city-wise on-road prices were captured. Source reuse / redistribution permission remains review required. No Firestore import performed.
