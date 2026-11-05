@@ -214,3 +214,157 @@ Audit status:
 - Firestore import not performed
 
 Source: Maruti Suzuki official Swift price and variants page. The official page states that displayed prices are indicative ex-showroom prices and applicability is based on invoice date.
+
+
+## Dzire variant price audit
+
+Checked: 2026-11-06
+Primary source: https://www.marutisuzuki.com/arena/dzire/price
+
+The official price page exposes nine exact variant cards. The page FAQ states that the displayed base price is ex-showroom and that on-road price varies by city, insurance and registration. The following are captured as OEM ex-showroom starting-price observations.
+
+| Official variant label | Fuel | Transmission | Displayed starting price (INR) |
+|---|---|---|---:|
+| Dzire LXi MT | Petrol | Manual | 630600 |
+| Dzire VXi MT | Petrol | Manual | 727100 |
+| Dzire VXi AMT | Petrol | Automatic | 772100 |
+| Dzire VXi CNG | S-CNG | Manual | 818100 |
+| Dzire ZXi MT | Petrol | Manual | 827700 |
+| Dzire ZXi AMT | Petrol | Automatic | 872700 |
+| Dzire ZXi+ MT | Petrol | Manual | 896300 |
+| Dzire ZXi CNG | S-CNG | Manual | 918700 |
+| Dzire ZXi+ AMT | Petrol | Automatic | 941300 |
+
+**Source inconsistency to resolve:** the same page's FAQ says the top ZXi+ AMT ex-showroom price is ₹9,31,300, while the visible variant card says ₹9,41,300. Retain the card observation with an explicit conflict flag; do not silently reconcile or publish this record until rechecked against a dated official price list/dealer confirmation.
+
+Audit status:
+- Nine exact variant cards and displayed amounts captured
+- One internal OEM page price conflict flagged
+- City-wise on-road prices not captured
+- Source reuse / redistribution permission review required
+- Firestore import not performed
+
+## Brezza variant price audit
+
+Checked: 2026-11-06
+Primary source: https://www.marutisuzuki.com/arena/brezza/price
+
+The official page exposes a selector with 13 variant labels, but only three price cards and exact amounts were available in the captured page content. Do not infer the other ten amounts.
+
+| Official variant label | Fuel | Transmission | Displayed starting price (INR) |
+|---|---|---|---:|
+| Brezza VXi AT | Petrol | Automatic | 1060900 |
+| Brezza ZXi AT | Petrol | Automatic | 1200500 |
+| Brezza ZXi+ AT | Petrol | Automatic | 1370500 |
+
+The official page explicitly labels these as Delhi ex-showroom prices effective 24 July 2026. Preserve that geography and effective date in each observation; do not convert them to national prices or on-road prices. The selector also lists LXI/VXI/ZXI manual, CNG manual and Turbo-labelled variants, but the captured content does not expose corresponding exact amounts. The page's selected-card engine summary appears inconsistent with the broader Brezza product configuration; verify variant-to-engine mapping from the matching official brochure before variant import.
+
+Audit status:
+- 13 variant labels visible in selector
+- 3 exact Delhi ex-showroom card amounts captured
+- Remaining displayed amounts not captured; no inference
+- City-wise on-road prices not captured
+- Source reuse / redistribution permission review required
+- Firestore import not performed
+
+## Ertiga variant price audit
+
+Checked: 2026-11-06
+Primary source: https://www.marutisuzuki.com/arena/ertiga/price
+
+The official page exposes nine exact variant cards and starting prices. The captured OEM card summaries identify 1,462 cc, manual/6AT, Smart Hybrid petrol or S-CNG.
+
+| Official variant label | Fuel / powertrain | Transmission | Displayed starting price (INR) |
+|---|---|---|---:|
+| Ertiga LXi MT | Smart Hybrid petrol | Manual (5MT) | 890000 |
+| Ertiga VXi MT | Smart Hybrid petrol | Manual (5MT) | 995300 |
+| Ertiga VXi CNG | S-CNG | Manual (5MT) | 1093800 |
+| Ertiga ZXi MT | Smart Hybrid petrol | Manual (5MT) | 1101500 |
+| Ertiga VXi AT | Smart Hybrid petrol | Automatic (6AT) | 1130300 |
+| Ertiga ZXi+ MT | Smart Hybrid petrol | Manual (5MT) | 1169100 |
+| Ertiga ZXi CNG | S-CNG | Manual (5MT) | 1200000 |
+| Ertiga ZXi AT | Smart Hybrid petrol | Automatic (6AT) | 1236500 |
+| Ertiga ZXi+ AT | Smart Hybrid petrol | Automatic (6AT) | 1304100 |
+
+The page's FAQ contains an apparent unrelated Eeco CNG price sentence under an Ertiga question. Ignore that FAQ text for Ertiga price facts; use the Ertiga variant cards only. The page states invoice-date pricing applies. Seating capacity is shown as seven.
+
+Audit status:
+- Nine exact OEM variant cards and displayed amounts captured
+- City-wise on-road prices not captured
+- Source reuse / redistribution permission review required
+- Firestore import not performed
+
+## Victoris variant price audit
+
+Checked: 2026-11-06
+Primary source: https://www.marutisuzuki.com/arena/victoris/price
+
+The official page exposes 21 variant price cards. Exact displayed starting prices are captured below without filling any missing values. Petrol and S-CNG card summaries show 1,462 cc; strong-hybrid cards show 1,490 cc. Some AWD/ADAS naming differs between the image/card title and the visible card text; retain the exact OEM label and verify the final variant code against the brochure before import.
+
+| Official variant label | Fuel / powertrain | Transmission / drive | Displayed starting price (INR) |
+|---|---|---|---:|
+| Victoris LXI MT 2W | Petrol | Manual, 2WD | 1049900 |
+| Victoris LXI CNG MT | S-CNG | Manual | 1154900 |
+| Victoris VXI MT 2W | Petrol | Manual, 2WD | 1184900 |
+| Victoris VXI CNG MT 2W | S-CNG | Manual, 2WD | 1289900 |
+| Victoris VXI AT 2W | Petrol | Automatic, 2WD | 1340900 |
+| Victoris ZXI MT | Petrol | Manual | 1377300 |
+| Victoris ZXI (O) MT | Petrol | Manual | 1384400 |
+| Victoris ZXI CNG MT | S-CNG | Manual | 1482300 |
+| Victoris ZXI AT | Petrol | Automatic | 1533300 |
+| Victoris ZXI (O) AT | Petrol | Automatic | 1540400 |
+| Victoris ZXI+ MT | Petrol | Manual | 1544300 |
+| Victoris ZXI+ (O) MT | Petrol | Manual | 1563400 |
+| Victoris VXI THS 2W | Strong Hybrid | Automatic, 2WD | 1642900 |
+| Victoris ZXI+ AT 2W (ADAS) | Petrol | Automatic, 2WD | 1739300 |
+| Victoris ZXI+ (O) AT 2W (ADAS) | Petrol | Automatic, 2WD | 1758400 |
+| Victoris ZXI Strong Hybrid | Strong Hybrid | Automatic | 1800300 |
+| Victoris ZXI (O) Strong Hybrid | Strong Hybrid | Automatic | 1859300 |
+| Victoris ZXI+ AT 4W (AllGrip) | Petrol | Automatic, 4WD | 1884300 |
+| Victoris ZXI+ (O) AT 4W (AllGrip) | Petrol | Automatic, 4WD | 1942300 |
+| Victoris ZXI+ Strong Hybrid | Strong Hybrid | Automatic | 1967300 |
+| Victoris ZXI+ (O) Strong Hybrid | Strong Hybrid | Automatic | 1998900 |
+
+The source page displays a waiting-time indicator on these cards; this is a dated page snapshot, not a delivery guarantee. No city-wise on-road prices were captured.
+
+Audit status:
+- 21 exact OEM card amounts captured
+- Variant naming / 2WD-4WD / ADAS labels need brochure-code cross-check before import
+- City-wise on-road prices not captured
+- Source reuse / redistribution permission review required
+- Firestore import not performed
+
+## Eeco variant price audit
+
+Checked: 2026-11-06
+Primary source: https://www.marutisuzuki.com/arena/eeco/price
+
+The official Eeco page exposes five exact price cards. Four are passenger configurations; the ambulance shell is a special-purpose configuration and should not be mixed into the retail passenger-car variant catalogue without a separately approved scope decision.
+
+| Official variant label | Fuel | Transmission | Displayed starting price (INR) | Catalogue treatment |
+|---|---|---|---:|---|
+| Eeco 5 Seater Standard | Petrol | Manual (5MT) | 528400 | Passenger |
+| Eeco 6 Seater Standard | Petrol | Manual (5MT) | 554900 | Passenger |
+| Eeco 5 Seater AC | Petrol | Manual (5MT) | 561300 | Passenger |
+| Eeco Ambulance Shell | Petrol | Manual (5MT) | 644600 | Hold: special-purpose |
+| Eeco 5 Seater AC CNG | S-CNG | Manual (5MT) | 645800 | Passenger |
+
+The variant selector also lists Eeco Ambulance, but no exact price card for that label was exposed in the captured content. Do not infer its price. The page FAQ contains a different base cargo-variant amount and a CNG cargo-variant amount; those do not match the passenger variant cards above and must not be substituted for them. Keep the passenger card observations separate from cargo/ambulance configurations. The page displays a waiting-time indicator and states invoice-date prices/schemes apply.
+
+Audit status:
+- Five exact OEM card amounts captured
+- Four passenger configurations separated from ambulance special-purpose variant
+- Eeco Ambulance exact amount not captured
+- City-wise on-road prices not captured
+- Source reuse / redistribution permission review required
+- Firestore import not performed
+
+## Arena audit progress after this batch
+
+- Dzire: 9 exact price cards; one conflicting top-variant amount in the OEM FAQ flagged for reconciliation.
+- Brezza: 3 exact Delhi ex-showroom price cards; 10 other selector variants remain without captured amounts.
+- Ertiga: 9 exact price cards.
+- Victoris: 21 exact price cards; exact variant codes and drivetrain labels need brochure cross-check.
+- Eeco: 5 exact price cards; ambulance shell held outside the retail passenger variant set.
+
+All captured amounts remain source-audit observations only. No Firestore write or public catalogue publication has been performed. OEM terms/reuse permission still require review.
