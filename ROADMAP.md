@@ -109,6 +109,9 @@
 | Tata | Tiago (ICE) | [ ] | [ ] | [ ] | [ ] | Pending |
 | Tata | Curvv (ICE) | [ ] | [ ] | [ ] | [ ] | Pending |
 | Tata | Tigor (ICE) | [ ] | [ ] | [ ] | [ ] | Pending |
+| VinFast | VF 6 | [x] | [x] model-level starting price only | [x] | [x] | Complete — Earth/Wind/Wind Infinity; no trim prices inferred |
+| VinFast | VF 7 | [x] | [x] model-level starting price only | [x] | [x] | Complete — five variants; 70.8 gross/70 usable battery distinction retained |
+| VinFast | VF MPV 7 | [x] | [x] current + historical launch price | [x] | [x] | Complete — single 7-seat configuration; November 2026 price reduction recorded |
 | Tesla | Model Y | [x] | [x] 2 official base prices + inventory total observations | [x] | [x] | Complete — Premium RWD and 6-seat Model Y L AWD; price bases separated |
 | Force Motors | Gurkha | [x] | [x] 2 official ex-showroom price observations | [x] | [x] | Complete — 3-door 4-seat and 5-door 7-seat 4WD configurations |
 | MINI | Cooper (3-Door) | [x] | [x] 3 Delhi on-road observations | [x] | [x] | Complete — 3 petrol trim/edition variants |
