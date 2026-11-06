@@ -243,3 +243,32 @@ The companion variant-source worklog now includes all **three VinFast model cand
 - No variant prices are approved for production import. Obtain dated official dealer/configurator quotations, reconcile current price basis, and confirm the current homologated battery/specification values before staging.
 
 The VinFast batch adds three source-review rows. The overall variant-source worklog now contains **72 model rows**: Hyundai 14, Kia 9, Toyota 13, MG Motor 10, Tata Motors 16, MINI 5, Force Motors 1, Tesla 1 and VinFast 3. This remains a research worklog, not a production import manifest.
+
+
+## Cross-brand variant-source quality review (2026-11-06)
+
+A structural and source-quality review was completed across the 72-row `variant-source-audit.csv` and the 251-row `current-model-audit.csv`.
+
+### Integrity and coverage
+
+- 72 variant-source rows, 8 columns, no blank fields, malformed rows, or duplicate brand/model pairs.
+- All 72 rows match an existing model candidate; no extra rows.
+- 179 of 251 model candidates (71.3%) still have no variant-source row. Coverage is 28.7% across 9 of 35 brands; 26 brands have not yet entered the variant-source pass.
+- The file currently uses 22 distinct audit-status labels. None is an approved/import-ready status. A controlled status vocabulary should be introduced in a later schema cleanup.
+
+### Source and price exceptions
+
+- **Hyundai Creta:** current official price page displays 38 petrol/diesel price rows, with the highest displayed at ₹20,45,700. The highlights page describes seven broader variant families. The earlier ₹20.11 lakh model-listing ceiling does not align with the detailed price table. Reclassified as a source-scope/version discrepancy, not a confirmed current price conflict. Verify effective date and city scope before import.
+- **MG Majestor:** official current product page lists three Savvy seating/drivetrain configurations and a ₹43.49 lakh starting price. The May launch release contains historical prices; November secondary reporting says all three variants received a ₹1 lakh increase, to ₹43.49 lakh (4X2 6S/7S) and ₹45.99 lakh (4X4 7S). No updated official variant-price matrix was captured; obtain a dated dealer/configurator price list.
+- **Tesla Model Y:** official inventory shows configuration-specific totals by paint/interior. These are not directly comparable with launch ex-showroom prices. Reclassified as price-basis pending, not a direct source conflict.
+- **VinFast source-domain correction:** the candidate audit previously referenced `vinfastautos.in`. The manufacturer's India product pages are on `vinfastauto.in`; all three candidate and variant-source links now point to the exact VF 6, VF 7 and VF MPV 7 product pages.
+- **VinFast VF MPV 7:** official product page currently displays ₹20,39,000 for the single configuration. A 2026-11-04 secondary report attributes this to a ₹4.10 lakh reduction from the ₹24.49 lakh launch price. The official homepage does not display a conflicting price. The row remains subject to effective-date and dealer confirmation.
+- **Kia Carnival:** the official page renders ₹0,00,000 as a placeholder; it is invalid and must not be ingested.
+- **Tata Motors:** seven official ICE product-page fetches returned HTTP 403. No variant or price data was inferred from those pages.
+
+### Import gate
+
+- Zero prices are approved for production import by this worklog.
+- Before import, capture exact OEM variant identity, model-year applicability, powertrain/transmission/seating mapping, numeric price and price basis, effective date, city/state scope where applicable, current orderability, and OEM content-reuse permission.
+- Keep ex-showroom, inventory totals, on-road prices, BaaS upfront payments and per-kilometre rentals as separate price types.
+- The remaining 179 candidates remain unreviewed. This 72-row pilot is not a complete India passenger-car variant catalogue.
