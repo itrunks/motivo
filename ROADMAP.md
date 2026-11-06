@@ -242,7 +242,7 @@
 | X3 | [x] | [x] ₹76.90L petrol; ₹78.20L diesel | [x] | Partial — two current grades mapped; dedicated product page still shows conflicting ₹75.70L starting price |
 | X5 | [x] | [x] ₹96.90L petrol / ₹98.90L diesel model-level prices | [x] | Partial — four technical trim configurations; prices not mapped to each trim |
 | X6 M60i | [x] | [x] ₹1.779Cr official current price | [x] | Complete — single X6 M60i xDrive; 530 hp/750 Nm, AWD, 4.3 s verified |
-| X7 | [ ] | [ ] | [ ] | Pending |
+| X7 | [x] | [x] ₹1.349Cr petrol / ₹1.322Cr diesel DPE / ₹1.386Cr diesel M Model | [x] | Complete — three current India configurations; 48V engine/system outputs separated |
 | i4 | [ ] | [ ] | [ ] | Pending |
 | i5 | [ ] | [ ] | [ ] | Pending |
 | i5 Long Wheelbase | [ ] | [ ] | [ ] | Pending |
