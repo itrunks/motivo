@@ -116,7 +116,8 @@
 | Maruti Suzuki | S-Presso | [x] | [x] 8 official ex-showroom prices | [x] | [x] | Complete — 6 petrol and 2 S-CNG variants |
 | Maruti Suzuki | Swift | [x] | [x] 17 official ex-showroom prices | [x] | [x] | Complete — petrol and CNG manual/AGS including new CNG AGS |
 | Maruti Suzuki | Dzire | [x] | [x] 11 official ex-showroom prices | [x] | [x] | Complete — petrol/CNG manual and AGS including new CNG AGS |
-| Maruti Suzuki | Brezza | [ ] | [ ] | [ ] | [ ] | Pending — next model |
+| Maruti Suzuki | Brezza | [x] | [x] 13 October 2026 ex-showroom prices (secondary source) | [x] | [x] | Complete — turbo Boosterjet, K15C petrol and S-CNG kept distinct |
+| Maruti Suzuki | Grand Vitara | [ ] | [ ] | [ ] | [ ] | Pending — next model |
 | VinFast | VF 6 | [x] | [x] model-level starting price only | [x] | [x] | Complete — Earth/Wind/Wind Infinity; no trim prices inferred |
 | VinFast | VF 7 | [x] | [x] model-level starting price only | [x] | [x] | Complete — five variants; 70.8 gross/70 usable battery distinction retained |
 | VinFast | VF MPV 7 | [x] | [x] current + historical launch price | [x] | [x] | Complete — single 7-seat configuration; November 2026 price reduction recorded |
