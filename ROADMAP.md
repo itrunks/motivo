@@ -3,7 +3,7 @@
 **Project target:** 100% evidence-backed catalogue normalization and validation.  
 **Working branch:** `feature/catalogue-source-audit-ingestion`  
 **Current PR:** #1 — https://github.com/itrunks/motivo/pull/1  
-**Last checkpoint:** 2026-11-06 — BMW iX historical India variants and dated OEM launch prices normalized; current catalogue no longer lists iX (partial)
+**Last checkpoint:** 2026-11-06 — BMW iX1 Long Wheelbase current India eDrive20L M Sport configuration and current displayed price normalized; catalogue crosswalk CI failure also repaired.
 
 ## Progress rules
 
@@ -272,4 +272,4 @@
 | BMW | i7 | [x] | [x] official launch price evidence | [x] | [x] | Complete — two current India electric variants. |
 
 
-| BMW | iX | [x] | [x] historical OEM launch prices; no current price | [x] | [x] | Partial — xDrive40 (2021) and xDrive50 (2024) captured; absent from current full-electric catalogue, current orderability unverified. |
+| BMW | iX | [x] | [x] historical OEM launch prices; no current price | [x] | [x] | Partial — xDrive40 (2021) and xDrive50 (2024) captured; absent from current full-electric catalogue, current orderability unverified. |\n| BMW | iX1 Long Wheelbase | [x] | [x] current official displayed price; 2025 launch intro retained separately | [x] | [x] | Complete — one current India eDrive20L M Sport configuration; 2026 brochure confirms 204 hp, 250 Nm, FWD, 66.4 kWh and 546 km MIDC. |
