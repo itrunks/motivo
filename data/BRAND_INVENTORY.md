@@ -166,3 +166,16 @@ Toyota variant-source coverage now includes **eight models**: Innova Crysta, Inn
 The official Toyota pages also state that website pricing and availability may change and that online orderability depends on city/dealer coverage. These constraints are retained in the audit: starting prices are model-level observations, not variant prices, and current manufacturable/orderable status must be verified at the configurator/dealer stage.
 
 The Toyota batch has eight model records. No price rows have been approved for production import; exact current grade/variant price evidence remains incomplete for every model in this pilot.
+
+
+### Toyota completion and MG Motor variant-source batch (2026-11-06)
+
+Toyota's variant-source worklog now covers all 13 model candidates in the model audit, including Rumion, Urban Cruiser Ebella, Vellfire, Land Cruiser 300 and Legender. The companion variant-source-audit.csv now also contains the first **10 MG Motor model reviews**: Comet EV, Windsor EV, ZS EV, Hector, Astor, Hector Tomahawk EV, Hector Tomahawk PHEV, Majestor, Cyberster and M9.
+
+- MG official product pages expose current trim names and displayed prices for Comet EV, Windsor EV, ZS EV, Hector and Astor. For EVs, Battery-as-a-Service (BaaS) upfront amounts and per-kilometre battery rental are kept separate from full-battery ex-showroom prices.
+- Hector Tomahawk EV and PHEV official launch material publishes separate variant-wise price tables and seating configurations. The two powertrains remain separate model identities in the candidate audit.
+- Majestor's current official page and separate official launch/price announcements do not map cleanly to one variant-price matrix; its price mapping is quarantined.
+- MG SELECT lists Cyberster and M9 with single product prices; official Couture Editions are limited special editions and are not treated as general retail trims. Exact standard grade labels remain to be confirmed.
+- No MG price is approved for production import. Price effective date, city scope, exact powertrain mapping, dealer orderability and OEM content-reuse permission remain review gates.
+
+The variant worklog now contains 46 model rows: Hyundai 14, Kia 9, Toyota 13 and MG 10. This is source-review coverage only, not a production import manifest.
