@@ -516,3 +516,15 @@ Added source-review rows for all **24 Mercedes-Benz model candidates**. The offi
 No Mercedes-Benz grade-level prices are approved for production import from this batch. Confirm exact model-year, India-specific engine/trim/gearbox mapping, price effective date, current stock/orderability and OEM content-reuse permission before staging. The configurator observations are model-level starting prices only.
 
 The Mercedes-Benz batch adds 24 rows. The overall variant-source worklog now contains **216 model rows** across 26 brands; 35 of 251 model candidates remain without variant-source rows.
+
+## Nissan variant-source audit (2026-11-06)
+
+Added source-review rows for all **three Nissan model candidates**: Tekton, Gravite and Magnite.
+
+- **Tekton:** official Nissan price list exposes six trim families (Visia, Visia+, Acenta, N-Connecta, Tekna, Tekna+) across explicit 1.0L turbo T160 MT and 1.3L turbo T280 MT/DCT combinations. The official price table provides each populated combination from ₹10.49 lakh to ₹18.59 lakh. Do not fill missing trim/engine/gearbox cells.
+- **Gravite:** official price list exposes Visia/Acenta/N-Connecta/Tekna and Launch Edition across 5MT and EZ Shift AMT combinations. It is a 7-seat 1.0L naturally aspirated petrol MPV. CNG is an approved retrofit kit with separate installation/endorsement costs, not a factory-built CNG variant.
+- **Magnite:** official price list exposes Visia, Visia+, Acenta, N-Connecta, Tekna, Tekna+ and KURO special edition across 1.0L NA petrol MT/AMT and 1.0L turbo petrol MT/CVT. CNG is a retrofit kit and its costs remain separate from vehicle grade prices.
+
+Nissan's current official price-list page provides exact ex-showroom grade/powertrain rows. Current homepage starting prices and price-list values can differ slightly due to page timing or offers; the dated OEM price list is retained as the audit observation, with current dealer/state quotation still required. No Nissan price is approved for production import until effective date, city scope, current orderability and content-reuse permission are confirmed.
+
+The Nissan batch adds three rows. The overall variant-source worklog now contains **219 model rows** across 27 brands; 32 of 251 model candidates remain without variant-source rows.
