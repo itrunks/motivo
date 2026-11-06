@@ -78,7 +78,8 @@
 | Toyota | Glanza | [ ] | [x] model starting price only | [x] | [x] | Partial — 2026 trim mapping not exposed |
 | Toyota | Urban Cruiser Taisor | [ ] | [x] historical 2024 launch prices only | [x] | [x] | Blocked — current 2026 variant matrix/price not captured |
 | Toyota | Fortuner | [ ] | [x] model start + Leader Edition prices | [x] | [x] | Partial — powertrain families only; grade mapping unavailable |
-| Toyota | Remaining work-queue models | [ ] | [ ] | [ ] | [ ] | Pending — next: Hilux |
+| Toyota | Hilux | [x] | [x] 3 launch prices | [x] | [x] | Complete — 3 current grades |
+| Toyota | Remaining work-queue models | [ ] | [ ] | [ ] | [ ] | Pending — next: Camry |
 
 ## Resume/checkpoint protocol
 
