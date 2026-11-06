@@ -184,3 +184,14 @@
 - [ ] Data quality and crosswalk reconciliation passed
 - [ ] Final validation and CI passed on the final PR head
 - [ ] Explicit production-import authorization received
+
+
+## MINI India queue
+
+| Model | Structure | Price evidence | Evidence notes | Status |
+|---|---|---|---|---|
+| MINI Cooper | [x] | [x] 3 Delhi on-road price observations (secondary); 2024 official ex-showroom sheet historical only | [x] | Complete — three India-listed 3-door retail labels normalized; current official price matrix not exposed |
+| MINI Cooper Convertible | [ ] | [ ] | [ ] | Pending |
+| MINI Countryman C | [ ] | [ ] | [ ] | Pending |
+| MINI Countryman Electric | [ ] | [ ] | [ ] | Pending |
+| MINI John Cooper Works Countryman ALL4 | [ ] | [ ] | [ ] | Pending |
