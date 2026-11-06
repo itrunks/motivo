@@ -220,7 +220,7 @@
 | Q3 | [ ] | [ ] | [x] | Partial — new-generation page is pre-booking only; India variants and numeric price not published in captured sources |
 | Q5 | [ ] | [ ] | [x] | Partial — current Signature Line page lacks India grade/engine/price matrix; 2024 specs kept historical |
 | Q7 | [x] | [ ] | [x] | Partial — current model-level performance and optional 7-seat layout captured; price/grade matrix unavailable |
-| Q8 | [ ] | [ ] | [ ] | Pending |
+| Q8 | [x] | [ ] | [x] | Partial — official 3.0L V6 quattro configuration captured; current India price unavailable |
 | A4 | [ ] | [ ] | [ ] | Pending |
 | A6 | [ ] | [ ] | [ ] | Pending |
 | Q3 Sportback | [ ] | [ ] | [ ] | Pending |
