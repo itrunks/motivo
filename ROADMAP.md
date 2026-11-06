@@ -260,4 +260,4 @@
 
 | Brand | Model | Structure | Price evidence | Evidence notes | Commit verification | Status |
 |---|---|---|---|---|---|---|
-| BMW | i4 | [x] | [ ] no current official India price found | [x] | [ ] pending fetch-back verification | Partial — two historical India-market eDrive variants normalized from the December 2023 OEM specification sheet; i4 is absent from the current BMW India all-models catalogue, so current orderability and price remain unverified. |
+| BMW | i4 | [x] | [ ] no current official India price found | [x] | [x] | Partial — two historical India-market eDrive variants normalized from the December 2023 OEM specification sheet; i4 is absent from the current BMW India all-models catalogue, so current orderability and price remain unverified. |
