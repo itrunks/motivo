@@ -458,3 +458,18 @@ Added source-review rows for all **four Aston Martin model candidates**: Vantage
 These August 2026 India-UK FTA prices were reported as manufacturer-announced revised prices, but a direct OEM India price list was not captured in this pass. Current global OEM pages confirm the model families; exact India allocation, suffix/grade, model-year, options, tax eligibility and orderability require authorized dealer confirmation. Do not infer global DBX707 or other international variants as India retail options. No Aston Martin price is approved for production import.
 
 The Aston Martin batch adds four rows. The overall variant-source worklog now contains **177 model rows** across 22 brands; 74 of 251 model candidates remain without variant-source rows.
+
+## Bentley variant-source audit (2026-11-06)
+
+Added source-review rows for all **five Bentley model candidates**: Bentayga, Bentayga Extended Wheelbase, Continental GT, Continental GT Convertible and Flying Spur.
+
+- **India model catalogue:** Bentley's current official India page lists Bentayga Extended Wheelbase, Flying Spur and Continental GT. It does not separately list standard-wheelbase Bentayga or Continental GTC convertible.
+- **Bentayga:** standard-wheelbase India orderability is not independently confirmed. Keep separate from EWB; do not infer standard Bentayga price from EWB.
+- **Bentayga EWB:** official India page confirms 4.0L V8 petrol. Global grade families include EWB, Azure and Mulliner, but India-specific grade mapping is not published on the captured India page. July 2026 reporting described an estimated ₹4.20 crore post-FTA EWB amount and explicitly noted Bentley had not confirmed the exact reduction; this is not an OEM price observation.
+- **Continental GT:** official India page confirms the current 782PS/1,000Nm Ultra Performance Hybrid V8. Global GT/Azure/S/Speed/Mulliner grade families are not assumed to be India orderable without a local configurator/dealer matrix.
+- **Continental GT Convertible:** global OEM calls the convertible Continental GTC and lists GTC/Azure/S/Speed/Mulliner families. The India page does not separately show GTC; local orderability requires dealer confirmation.
+- **Flying Spur:** official India page confirms the Ultra Performance Hybrid V8, 782PS/1,000Nm. Global Flying Spur/Azure/S/Speed/Mulliner grades are not assumed to map directly to India retail.
+
+No current official India grade-wise price list was captured for these candidates. The India-UK FTA reporting indicates the Bentayga petrol model may qualify for reduced-duty order intake subject to quota, while hybrid Continental GT/Flying Spur do not receive the same immediate reduction. Confirm exact model/grade, import eligibility, current allocation, orderability and written dealer quote. No Bentley price is approved for production import.
+
+The Bentley batch adds five rows. The overall variant-source worklog now contains **182 model rows** across 23 brands; 69 of 251 model candidates remain without variant-source rows.
