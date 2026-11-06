@@ -1,0 +1,10 @@
+brand_id,model_name,oem_variant_label,normalized_variant_name,engine,fuel,transmission,battery_kwh,body_style,source_url,source_checked_at,source_review_status,commercial_reuse_allowed,redistribution_allowed
+hyundai,Creta EV,Executive,Creta EV 42 kWh Executive,,Electric,Automatic,42,SUV,https://www.hyundai.com/in/en/find-a-car/creta-electric/features,2026-11-06,review_required,unknown,unknown
+hyundai,Creta EV,Executive Tech,Creta EV 42 kWh Executive Tech,,Electric,Automatic,42,SUV,https://www.hyundai.com/in/en/find-a-car/creta-electric/features,2026-11-06,review_required,unknown,unknown
+hyundai,Creta EV,Premium,Creta EV 42 kWh Premium,,Electric,Automatic,42,SUV,https://www.hyundai.com/in/en/find-a-car/creta-electric/features,2026-11-06,review_required,unknown,unknown
+hyundai,Creta EV,Excellence,Creta EV 42 kWh Excellence,,Electric,Automatic,42,SUV,https://www.hyundai.com/in/en/find-a-car/creta-electric/features,2026-11-06,review_required,unknown,unknown
+hyundai,Creta EV,Excellence Knight,Creta EV 42 kWh Excellence Knight,,Electric,Automatic,42,SUV,https://www.hyundai.com/in/en/find-a-car/creta-electric/features,2026-11-06,review_required,unknown,unknown
+hyundai,Creta EV,Executive (O) LR,Creta EV 51.4 kWh Executive (O) LR,,Electric,Automatic,51.4,SUV,https://www.hyundai.com/in/en/find-a-car/creta-electric/features,2026-11-06,review_required,unknown,unknown
+hyundai,Creta EV,ESmart (O) LR,Creta EV 51.4 kWh ESmart (O) LR,,Electric,Automatic,51.4,SUV,https://www.hyundai.com/in/en/find-a-car/creta-electric/features,2026-11-06,review_required,unknown,unknown
+hyundai,Creta EV,Excellence LR,Creta EV 51.4 kWh Excellence LR,,Electric,Automatic,51.4,SUV,https://www.hyundai.com/in/en/find-a-car/creta-electric/features,2026-11-06,review_required,unknown,unknown
+hyundai,Creta EV,Excellence LR Knight,Creta EV 51.4 kWh Excellence LR Knight,,Electric,Automatic,51.4,SUV,https://www.hyundai.com/in/en/find-a-car/creta-electric/features,2026-11-06,review_required,unknown,unknown
