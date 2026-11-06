@@ -218,7 +218,7 @@
 | Model | Structure | Price evidence | Evidence notes | Status |
 |---|---|---|---|---|
 | Q3 | [ ] | [ ] | [x] | Partial — new-generation page is pre-booking only; India variants and numeric price not published in captured sources |
-| Q5 | [ ] | [ ] | [ ] | Pending |
+| Q5 | [ ] | [ ] | [x] | Partial — current Signature Line page lacks India grade/engine/price matrix; 2024 specs kept historical |
 | Q7 | [ ] | [ ] | [ ] | Pending |
 | Q8 | [ ] | [ ] | [ ] | Pending |
 | A4 | [ ] | [ ] | [ ] | Pending |
