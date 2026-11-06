@@ -267,3 +267,6 @@
 
 
 | BMW | i5 Long Wheelbase | [x] | [x] current official displayed ex-showroom price | [x] | [x] | Complete — one current India configuration, eDrive35L M Sport; limited First Edition noted as sold out. |
+
+
+| BMW | i7 | [x] | [x] official launch price evidence | [x] | [x] | Complete — two current India electric variants. |
