@@ -4,7 +4,9 @@ Checked: 2026-11-06
 
 ## Deliverable
 
-- `data/mini-cooper-convertible-variant-price-observations.csv`: 3 India-listed convertible variants with powertrain and Delhi on-road price observations.
+- `data/mini-cooper-convertible-variant-structure.csv`: 3 current India retail labels with powertrain and seating.
+- `data/mini-cooper-convertible-variant-price-observations.csv`: 3 secondary Delhi on-road price observations.
+- `data/mini-cooper-convertible-official-price-observations.csv`: one official S ex-showroom price.
 
 ## Current India variants
 
@@ -16,7 +18,13 @@ MINI India's official product page confirms 204 PS and four-seat configuration. 
 
 ## Price basis
 
-All three prices are **on-road Delhi INR** observations from Autocar India: ₹68.74 lakh, ₹71.65 lakh and ₹73.28 lakh. These are not ex-showroom prices and must not be reused as national or Tamil Nadu prices.
+MINI India's December 2025 official S specification sheet and live product page list ₹58,50,000 ex-showroom for Cooper Convertible S. The official page FAQ says both Cooper and Cooper S performance levels exist, but only S is detailed in the retrieved specification sheet. Do not copy the S price to the base Cooper level or the special editions.
+
+Autocar India lists three **on-road Delhi INR** observations: ₹68.74 lakh, ₹71.65 lakh and ₹73.28 lakh for S, S JCW Pack and Stardust Edition respectively. These are secondary-source city-specific prices, not ex-showroom prices and must not be reused as national or Tamil Nadu prices.
+
+## Status
+
+Partial. The official S configuration and S ex-showroom price are documented; the base Cooper performance level and edition-specific official prices are not mapped in the captured India sources.
 
 ## Rights and import gate
 
