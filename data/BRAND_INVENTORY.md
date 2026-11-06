@@ -610,3 +610,13 @@ Added source-review rows for all **five Volvo Cars model candidates**: XC90, XC6
 Volvo's official quote flow now lists the five current candidate models and MY26/MY27 model years. The older MY25/MY26 price PDF is retained only as historical context; current homepage amounts are model-level observations, not grade-level prices. Confirm current model year, battery/motor/drive configuration, local trim label, stock/orderability and written dealer quotation before staging. No Volvo price is approved for production import.
 
 The Volvo Cars batch adds five rows. The overall variant-source worklog now contains **247 model rows** across 33 brands; four of 251 model candidates remain without variant-source rows.
+
+## Isuzu variant-source audit (2026-11-06)
+
+Added a source-review row for the single Isuzu model candidate: **mu-X**.
+
+- Current Isuzu India product page confirms the 1.9L common-rail VGS turbo diesel (120kW/163hp, 360Nm), automatic transmission, seven seats and shift-on-the-fly 4x4 capability.
+- India variant references identify Standard 4x2 AT and Standard 4x4 AT. The official product page did not render a numeric current price table; secondary prices are retained only as cross-check leads and not as OEM price observations.
+- Confirm current dealer price list, city/invoice-date amount, exact trim name, stock and booking status before import.
+
+No Isuzu price is approved for production import. The Isuzu batch adds one row. The overall variant-source worklog now contains **248 model rows** across 34 brands; three of 251 model candidates remain without variant-source rows.
