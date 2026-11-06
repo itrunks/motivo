@@ -620,3 +620,15 @@ Added a source-review row for the single Isuzu model candidate: **mu-X**.
 - Confirm current dealer price list, city/invoice-date amount, exact trim name, stock and booking status before import.
 
 No Isuzu price is approved for production import. The Isuzu batch adds one row. The overall variant-source worklog now contains **248 model rows** across 34 brands; three of 251 model candidates remain without variant-source rows.
+
+## Lotus Cars variant-source audit (2026-11-06)
+
+Added source-review rows for all **three Lotus model candidates**: Eletre, Emeya and Emira.
+
+- **Eletre:** official Lotus India page confirms the electric hyper-SUV and configurator entry. Global current range has six grades across 600 and 900 power levels: 600, 600 GT, 600 GT SE, 600 SPORT SE, 900 SPORT and 900 SPORT CARBON. All use 112kWh AWD; the 900 SPORT CARBON uses a two-speed rear transmission. India-specific saleable grade mapping was not exposed in the captured India configurator page.
+- **Emeya:** official India page describes 600 and 900 ranges for the 102kWh electric hyper-GT. Secondary India sources disagree on the current starting amount and whether the India car is a single Emeya R configuration; retain this as a source discrepancy, not a resolved OEM variant matrix.
+- **Emira:** official India page highlights the 420 Sport for summer 2026. The current global lineup contains Turbo, Turbo SE, V6 SE and 420 Sport. Turbo/Turbo SE use 2.0L turbo I4 with 8-speed DCT; V6 SE uses 3.5L supercharged V6 with 6-speed manual. Exact India grade/engine availability and local price need Lotus Centre confirmation.
+
+Lotus India pages confirm the three product families and provide configurator/test-drive entry points, but a current India grade-wise price sheet was not captured. Publicly reported India price figures are treated only as secondary leads. Confirm local allocation, exact India grade, powertrain/gearbox, current price, taxes and written retailer quotation before staging. No Lotus price is approved for production import.
+
+The Lotus batch adds three rows. The overall variant-source worklog now contains **251 model rows** across 35 brands, matching all 251 current model candidates. This completes source-review row coverage only; it does not mean every model has a fully verified variant-price matrix or is approved for production import.
