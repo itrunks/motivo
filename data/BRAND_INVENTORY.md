@@ -134,3 +134,9 @@ The Kia source worklog now includes **seven models**: Sonet, Seltos, Carens Clav
 - The prior Sonet, Seltos and Carens Clavis EV observations remain unchanged.
 
 The Kia batch is still a research worklog. Officially displayed prices are not approved until price basis, effective date, variant-to-powertrain mapping and source-reuse checks are complete. No Firestore or catalogue writes have been made.
+
+
+- **Carens:** current official showroom content renders Premium (O) Petrol MT and Premium (O) CNG MT. Legacy trim families are not carried forward. A third-party listing also shows a diesel MT configuration, but it is not corroborated by the captured official page and remains excluded pending dealer confirmation.
+- **EV9:** the official India showroom page explicitly labels the vehicle an "Overseas model". It displays GT-Line AWD as a single trim but does not establish India retail availability or an India price. Keep it out of the approved India variant queue until local orderability is confirmed.
+
+The Kia source worklog now covers **nine model candidates**, including the two unresolved cases above. Do not interpret model-catalogue presence as proof of India retail sale: EV9 remains unconfirmed, and Carnival still needs dealer confirmation.
