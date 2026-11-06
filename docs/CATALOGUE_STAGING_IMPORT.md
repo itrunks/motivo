@@ -6,18 +6,29 @@ This workflow deliberately separates factual review, reuse permission, staging w
 
 The current variant audit CSV is a research worklog, not an import manifest. It does not provide a normalized row per exact variant and does not prove commercial reuse or redistribution rights. Do not transform its semicolon-delimited observations into publishable records by guessing trim/powertrain mappings.
 
+## Variant normalization work queue
+
+Generate the source-linked manual review queue:
+
+```bash
+python3 scripts/build_variant_normalization_queue.py
+```
+
+The generated `data/variant-normalization-workqueue.csv` contains one work item per audited model. It preserves the raw variant and price observations, links each item to its exact source registry entry, and leaves normalized engine, fuel, transmission, body style, model year and price fields blank until verified. Every row is marked `needs_manual_review`; the queue is not an import manifest and does not imply that each semicolon-separated fragment is a retail variant. The script fails closed if an exact crosswalk or registry URL is missing or duplicated.
+
 ## Pipeline
 
-1. Prepare exact variant and price rows in the format in `data/catalogue-import-template.csv`.
-2. Run the offline validator:
+1. Review each work item against the exact OEM source and capture exact retail variant labels, engine, fuel, transmission, body style and model year. Preserve distinct powertrain/trim combinations; do not infer combinations from a model-level summary.
+2. Prepare exact variant and price rows in the format in `data/catalogue-import-template.csv`.
+3. Run the offline validator:
 
    ```bash
    python3 scripts/validate_catalogue.py path/to/import.csv --out-dir data/staging
    ```
 
-3. Review the source-specific permission record in `data/source-registry.csv`. The current 224 source URLs are linked through `data/audit-source-crosswalk.csv`; all remain `review_required` until terms and commercial redistribution rights are documented. Each imported record must use an exact source URL with an explicit terms/licence URL, licence name, `review_status=approved`, `commercial_reuse_allowed=yes`, and `redistribution_allowed=yes`. Public visibility is not permission.
-4. Validate source mapping with `python scripts/validate_source_crosswalk.py`.
-5. Run the reuse gate against the same canonical registry. It checks every draft row against the exact audited source URL and fails closed on duplicate registry IDs or URLs:
+4. Review the source-specific permission record in `data/source-registry.csv`. The current 224 source URLs are linked through `data/audit-source-crosswalk.csv`; all remain `review_required` until terms and commercial redistribution rights are documented. Each imported record must use an exact source URL with an explicit terms/licence URL, licence name, `review_status=approved`, `commercial_reuse_allowed=yes`, and `redistribution_allowed=yes`. Public visibility is not permission.
+5. Validate source mapping with `python scripts/validate_source_crosswalk.py`.
+6. Run the reuse gate against the same canonical registry. It checks every draft row against the exact audited source URL and fails closed on duplicate registry IDs or URLs:
 
    ```bash
    python3 scripts/approve_catalogue_sources.py data/staging/import.draft.jsonl \
@@ -26,14 +37,14 @@ The current variant audit CSV is a research worklog, not an import manifest. It 
    ```
 
    It fails closed if any source is missing, duplicated, unapproved, or has unknown/denied reuse rights.
-6. Dry-run the Firestore importer:
+7. Dry-run the Firestore importer:
 
    ```bash
    cd functions && npm install && npm run build
    node lib/admin/importCatalogue.js --input ../data/staging/import.approved.jsonl --batch-id pilot-2026-11-06
    ```
 
-7. Start the Firestore emulator and explicitly write the draft batch:
+8. Start the Firestore emulator and explicitly write the draft batch:
 
    ```bash
    firebase emulators:start --only firestore

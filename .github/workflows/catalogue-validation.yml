@@ -24,11 +24,13 @@ jobs:
         with:
           python-version: "3.x"
       - name: Compile catalogue scripts
-        run: python -m py_compile scripts/validate_catalogue.py scripts/approve_catalogue_sources.py
-      - name: Test source approval gate and crosswalk
+        run: python -m py_compile scripts/validate_catalogue.py scripts/approve_catalogue_sources.py scripts/build_variant_normalization_queue.py
+      - name: Test source approval gate, crosswalk and normalization queue
         run: python -m unittest discover -s tests -v
       - name: Validate exact source registry crosswalk
         run: python scripts/validate_source_crosswalk.py
+      - name: Build source-linked variant normalization work queue
+        run: python scripts/build_variant_normalization_queue.py --out /tmp/variant-normalization-workqueue.csv --report /tmp/variant-normalization-workqueue.report.json
       - name: Validate import template
         run: python scripts/validate_catalogue.py data/catalogue-import-template.csv --out-dir /tmp/motivo-catalogue-staging
       - uses: actions/setup-node@v4
