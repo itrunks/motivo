@@ -3,7 +3,7 @@
 **Project target:** 100% evidence-backed catalogue normalization and validation.  
 **Working branch:** `feature/catalogue-source-audit-ingestion`  
 **Current PR:** #1 — https://github.com/itrunks/motivo/pull/1  
-**Last checkpoint:** 2026-11-06 — BMW i4 India technical variants normalized; current official orderability and price not verified (partial)
+**Last checkpoint:** 2026-11-06 — BMW i5 M60 India technical and current price evidence normalized and verified
 
 ## Progress rules
 
@@ -261,3 +261,6 @@
 | Brand | Model | Structure | Price evidence | Evidence notes | Commit verification | Status |
 |---|---|---|---|---|---|---|
 | BMW | i4 | [x] | [ ] no current official India price found | [x] | [x] | Partial — two historical India-market eDrive variants normalized from the December 2023 OEM specification sheet; i4 is absent from the current BMW India all-models catalogue, so current orderability and price remain unverified. |
+
+
+| BMW | i5 | [x] | [x] current official ex-showroom observation | [x] | [x] | Complete — one current India configuration, BMW i5 M60 xDrive; i5 LWB remains a separate queue model. |
