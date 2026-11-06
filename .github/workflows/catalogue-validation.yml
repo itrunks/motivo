@@ -35,3 +35,8 @@ jobs:
       - name: Build Firebase Functions and staging importer
         working-directory: functions
         run: npm install --no-audit --no-fund && npm run build
+      - name: Dry-run approved staging fixture
+        working-directory: functions
+        run: node lib/admin/importCatalogue.js --input ../tests/fixtures/approved-staging-record.jsonl --batch-id ci-pilot
+      - name: Verify draft write against Firestore Emulator
+        run: npx --yes firebase-tools emulators:exec --only firestore --project demo-motivo "cd functions && FIRESTORE_EMULATOR_HOST=127.0.0.1:8080 GCLOUD_PROJECT=demo-motivo node lib/admin/importCatalogue.js --input ../tests/fixtures/approved-staging-record.jsonl --batch-id ci-pilot --write"
