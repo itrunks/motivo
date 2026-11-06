@@ -3,7 +3,7 @@
 **Project target:** 100% evidence-backed catalogue normalization and validation.  
 **Working branch:** `feature/catalogue-source-audit-ingestion`  
 **Current PR:** #1 — https://github.com/itrunks/motivo/pull/1  
-**Last checkpoint:** 2026-11-06 — XEV 9S six grade/battery configurations and launch/BaaS price observations committed; four intermediate full-battery prices remain unavailable
+**Last checkpoint:** 2026-11-06 — Kia Seltos 6iMT mapping resolved; 44 exact trim/powertrain combinations verified and committed
 
 ## Progress rules
 
@@ -75,7 +75,7 @@
 | Hyundai | Creta N Line | [x] | [ ] | [x] | [x] | Complete — structure only |
 | Hyundai | BAYON | [x] | [ ] | [x] | [x] | Complete — structure only |
 | Kia | Sonet | [x] | [x] 8 trim prices; HTK missing | [x] | [x] | Complete — 24 combinations |
-| Kia | Seltos | [x] | [x] 12 trim prices | [x] | [x] | Partial — T-GDi 6iMT trim mapping unresolved |
+| Kia | Seltos | [x] | [x] 12 trim-level MSRP observations | [x] | [x] | Complete — 44 exact trim/powertrain combinations; 6iMT mapping resolved for HTE(O), HTK and HTK(O); HTE price discrepancy remains documented |
 | Kia | Carens Clavis EV | [x] | [x] 9 trim prices | [x] | [x] | Complete — 17 battery/seating combinations |
 | Kia | Syros | [x] | [x] 7 trim prices | [x] | [x] | Complete — 17 combinations |
 | Kia | Carens Clavis | [ ] | [ ] | [x] | [x] | Blocked — unnamed trim column and price/powertrain reconciliation |
