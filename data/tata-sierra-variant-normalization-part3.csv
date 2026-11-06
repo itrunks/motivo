@@ -1,4 +1,4 @@
-brand_id,model_name,variant,fuel,transmission,engine,displacement_cc,power_hp,torque_nm,onroad_delhi_inr,price_basis,source_url,checked,effective_date,city_scope,source_status,commercial_reuse,redistribution
+brand_id,model_name,variant,fuel,transmission,engine,displacement_cc,power_ps,torque_nm,onroad_delhi_inr,price_basis,source_url,checked,effective_date,city_scope,source_status,commercial_reuse,redistribution
 tata,Sierra,Accomplished Petrol MT,Petrol,6MT,1.5L Revotron NA,1498,106,145,2087000,On-road Delhi INR,https://www.autocarindia.com/cars/tata/sierra/variants,2026-11-06,2026-10-31,Delhi,review_required,unknown,unknown
 tata,Sierra,Accomplished Diesel MT,Diesel,6MT,1.5L Kryojet turbo diesel,1497,118,260,2251000,On-road Delhi INR,https://www.autocarindia.com/cars/tata/sierra/variants,2026-11-06,2026-10-31,Delhi,review_required,unknown,unknown
 tata,Sierra,Accomplished Turbo Petrol AT,Turbo Petrol,6AT,1.5L Hyperion turbo petrol,1498,160,255,2319000,On-road Delhi INR,https://www.autocarindia.com/cars/tata/sierra/variants,2026-11-06,2026-10-31,Delhi,review_required,unknown,unknown
