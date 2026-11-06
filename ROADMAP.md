@@ -234,7 +234,7 @@
 |---|---|---|---|---|
 | 2 Series Gran Coupe | [x] | [x] ₹45.80L official list + ₹45.30L limited GST offer | [x] | Complete — one 218 M Sport India configuration; offer price kept separate |
 | 3 Series Long Wheelbase | [x] | [x] 330Li ₹62.70L; 320Ld ₹64.20L listing | [x] | Partial — 320Ld remains listed but current orderability/price basis needs confirmation |
-| 5 Series Long Wheelbase | [ ] | [ ] | [ ] | Pending |
+| 5 Series Long Wheelbase | [x] | [x] 3 official observations: ₹76.60L, ₹77.00L, ₹76.50L | [x] | Partial — 530Li M Sport LWB verified; official page prices differ by source/basis |
 | 7 Series | [ ] | [ ] | [ ] | Pending |
 | M340i | [ ] | [ ] | [ ] | Pending |
 | X1 | [ ] | [ ] | [ ] | Pending |
