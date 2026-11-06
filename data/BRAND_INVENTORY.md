@@ -528,3 +528,17 @@ Added source-review rows for all **three Nissan model candidates**: Tekton, Grav
 Nissan's current official price-list page provides exact ex-showroom grade/powertrain rows. Current homepage starting prices and price-list values can differ slightly due to page timing or offers; the dated OEM price list is retained as the audit observation, with current dealer/state quotation still required. No Nissan price is approved for production import until effective date, city scope, current orderability and content-reuse permission are confirmed.
 
 The Nissan batch adds three rows. The overall variant-source worklog now contains **219 model rows** across 27 brands; 32 of 251 model candidates remain without variant-source rows.
+
+## Porsche variant-source audit (2026-11-06)
+
+Added source-review rows for all **five Porsche model candidates**: 911, Taycan, Panamera, Macan and Cayenne.
+
+- **911:** current India configurator lists Carrera, Carrera 4 GTS, Turbo S and GT3, with individual incl.-VAT starting prices. Do not import global Targa, Carrera S/GTS or GT3 Touring variants absent from the India configurator capture.
+- **Taycan:** India configurator lists 4S, 4S Black Edition and Turbo, all electric AWD configurations with individual incl.-VAT prices.
+- **Panamera:** current India configurator capture exposes one Sport Saloon petrol RWD configuration, 353PS, with ₹1.7912 crore incl.-VAT starting price. Older hybrid derivatives are not carried forward without current India evidence.
+- **Macan:** official India configurator lists one petrol AWD Macan plus three electric families: Macan Electric RWD, Macan 4S Electric AWD and Macan Turbo Electric AWD. The current model audit has one Macan candidate; Step 4 reconciliation should decide whether the electric Macan deserves its own model identity rather than combining propulsion families under one model.
+- **Cayenne:** official India configurator lists petrol SUV, Black Edition, GTS, Coupé, Coupé Black Edition and GTS Coupé, plus Cayenne Electric and Cayenne Turbo Electric. The model audit currently has one Cayenne candidate; Step 4 should assess whether coupe and electric product families need separate model rows.
+
+Porsche India configurator amounts are displayed inclusive of VAT. The prices in the worklog are manufacturer-configurator observations, not dealer on-road quotations. Keep model-level/body-style/powertrain identities separate, and verify model year, availability and current dealer quotation before import. No Porsche price is approved for production import.
+
+The Porsche batch adds five rows. The overall variant-source worklog now contains **224 model rows** across 28 brands; 27 of 251 model candidates remain without variant-source rows.
