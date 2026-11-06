@@ -110,3 +110,14 @@ The Hyundai batch now has 14 model records in the worklog. All remain evidence-r
 - BAYON: official page confirms 1.5L MPi petrol, 6MT across the range and IVT on selected trims, but does not name the individual trims or expose prices.
 
 Hyundai model coverage in the source worklog is now **14 of 14 non-taxi models** displayed in the official India catalogue. Prime-HB and Prime-SD are taxi products and remain outside the passenger retail scope. This does not mean all 14 models have complete variant data: exact variant prices remain unapproved and several pages expose only model-level or powertrain-level information.
+
+
+## Kia variant-source pilot (2026-11-06)
+
+The companion variant worklog now includes three Kia model reviews, using Kia India pages:
+
+- **Sonet:** official trim comparison exposes prices for seven trims, while HTK and HTX price cells are not rendered in the captured result. The official brochure is needed to map exact engine/transmission applicability; missing values remain blank.
+- **Seltos:** official comparison page exposes prices for 12 named trims (HTE through X-Line(O)). Treat these as observed OEM comparison-page amounts only; verify city/ex-showroom basis, effective date and powertrain-specific applicability before importing.
+- **Carens Clavis EV:** official comparison page exposes nine trim/battery combinations and their displayed prices. Keep 42 kWh Standard Range and 51.4 kWh Extended Range distinct, and preserve 6-/7-seat configuration applicability. Battery-as-a-Service is a separate pricing/financing basis and must not be merged with full vehicle price.
+
+No Kia variant price is approved for production import yet. Source reuse terms, price basis, effective date and dealer confirmation remain outstanding. The internal dealer circular and third-party reporting are not treated as publication-grade evidence where official Kia pages can provide the same facts.
