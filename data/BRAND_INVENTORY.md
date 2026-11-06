@@ -140,3 +140,16 @@ The Kia batch is still a research worklog. Officially displayed prices are not a
 - **EV9:** the official India showroom page explicitly labels the vehicle an "Overseas model". It displays GT-Line AWD as a single trim but does not establish India retail availability or an India price. Keep it out of the approved India variant queue until local orderability is confirmed.
 
 The Kia source worklog now covers **nine model candidates**, including the two unresolved cases above. Do not interpret model-catalogue presence as proof of India retail sale: EV9 remains unconfirmed, and Carnival still needs dealer confirmation.
+
+
+## Toyota variant-source pilot (2026-11-06)
+
+The companion variant worklog begins Toyota with five model reviews: Innova Crysta, Innova Hycross, Urban Cruiser Hyryder, Glanza and Urban Cruiser Taisor.
+
+- **Innova Crysta:** Toyota's official showroom confirms diesel G/GX/VX/ZX grades, 5-speed manual and 7-/8-seat applicability. Toyota's 2026-11-05 release confirms retail grades GX, GX+, VX and ZX, and separately introduces Crysta LIMO for fleet/commercial customers. Do not mix the fleet LIMO identity or fleet-only GX-SLF with the retail passenger variants. The official release gives GX Fleet prices only; do not apply them to retail GX.
+- **Innova Hycross:** Toyota's official showroom confirms petrol G-SLF/GX/GX(O) and strong-hybrid VX/VX(O)/ZX/ZX(O), with 7-/8-seat availability varying by grade. Only the model starting price is captured; individual grade prices need an official price list/configurator capture.
+- **Urban Cruiser Hyryder:** Toyota's official page confirms separate E-CNG, Neodrive and Hybrid families, and explicitly names E-CNG S and G with 5MT. The full grade/engine/transmission matrix and exact prices remain incomplete.
+- **Glanza:** the current Toyota catalogue confirms the model, but a complete official current grade/price matrix was not captured. A 2026 facelift price table exists in secondary reporting, but it is not accepted as final evidence without Toyota corroboration.
+- **Urban Cruiser Taisor:** Toyota's official launch release documents the original grade/powertrain matrix and introductory 2024 prices. This is historical evidence only; it cannot be treated as a current 2026 variant/price list.
+
+The Toyota batch currently contains **five model records**. Official source evidence is intentionally separated from historical launch prices, model-card starting prices and fleet-only variants. No Toyota price is approved for production import. Continue with current official price-list/configurator capture and dealer confirmation where the official public pages do not expose full matrices.
