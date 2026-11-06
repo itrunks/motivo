@@ -555,3 +555,16 @@ Added source-review rows for all **four Renault model candidates**: Duster, Trib
 Renault's official price pages state ex-showroom prices are subject to city/local tax and purchase-date changes. Grade starting amounts are not treated as full price matrices. Confirm exact powertrain/gearbox/grade combinations, hybrid introductory-price expiry, city scope and dealer orderability before staging. No Renault price is approved for production import.
 
 The Renault batch adds four rows. The overall variant-source worklog now contains **228 model rows** across 29 brands; 23 of 251 model candidates remain without variant-source rows.
+
+## Rolls-Royce variant-source audit (2026-11-06)
+
+Added source-review rows for all **four Rolls-Royce model candidates**: Ghost, Phantom, Cullinan and Spectre.
+
+- **Ghost:** Series II, Extended Series II and Black Badge Series II are the current India configurations. Secondary sources report ₹8.95–10.52 crore ex-showroom. Captured variant pages have inconsistent Extended price snapshots; no amount is approved.
+- **Phantom:** India configurations are Phantom SWB and Phantom Extended Wheelbase (EWB), with a 6.75L twin-turbo V12. Secondary reports show ₹12.87 crore and ₹15.07 crore ex-showroom respectively.
+- **Cullinan:** Series II and Black Badge Series II are the two current India configurations, both 6.75L V12 petrol AWD. Secondary reports show ₹10.33 crore and ₹11.92 crore ex-showroom.
+- **Spectre:** standard Spectre and Spectre Black Badge are the two India configurations. It is a four-seat, dual-motor AWD electric coupe with a 102kWh battery; secondary reports show ₹7.62 crore and ₹9.50 crore ex-showroom.
+
+Rolls-Royce India pricing is not published as a conventional OEM fixed trim-price matrix in the captured official pages. India price amounts above are secondary-source observations only and remain unapproved. Bespoke paint, interior, materials and commissioned features are customer-specific specification choices, not separate retail variants. Confirm current model-year, India allocation, exact body/wheelbase/Black Badge configuration and written authorized-retailer quote before staging.
+
+The Rolls-Royce batch adds four rows. The overall variant-source worklog now contains **232 model rows** across 30 brands; 19 of 251 model candidates remain without variant-source rows.
