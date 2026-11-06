@@ -52,6 +52,6 @@ The current variant audit CSV is a research worklog, not an import manifest. It 
 - No publication, public read permission, or production write is performed.
 - Production import requires a separately reviewed admin-only deployment path, a dedicated staging/production project decision, backup/rollback plan, and human approval of the exact manifest. Do not put service-account credentials in Git or the client.
 
-## Current blocker
+## Environment boundary
 
-The repository currently has only the Firebase project `motivo-car-research` configured. No separate staging project or Firestore emulator execution environment is provisioned by this repository. Keep all writes in the local emulator until the staging project and credentials are configured securely.
+The repository currently has only the Firebase project `motivo-car-research` configured; there is no dedicated staging Firebase project. CI provisions an ephemeral Firestore Emulator and verifies a synthetic draft write there. That CI fixture is not real vehicle data and is never sent to a Firebase project. Keep manual writes in the local emulator until a dedicated staging project and credentials are configured securely.
