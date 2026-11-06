@@ -7,9 +7,9 @@ PR: https://github.com/itrunks/motivo/pull/1
 ## Overall status
 
 - Audited work queue: 251 models across 35 brands.
-- Models with normalization work committed and fetched back: 69.
-- Completed/staging-ready model evidence: 51.
-- Partial models needing exact trim/price mapping: 16.
+- Models with normalization work committed and fetched back: 70.
+- Completed/staging-ready model evidence: 52.
+- Partial models needing exact trim/price mapping: 15.
 - Explicitly blocked models: 2.
 - Not yet started: 182 models across 30 brands.
 
@@ -20,7 +20,7 @@ PR: https://github.com/itrunks/motivo/pull/1
 | Brand | Models in queue | Completed | Partial | Blocked | Pending | Status |
 |---|---:|---:|---:|---:|---:|---|
 | Hyundai | 14 | 14 | 0 | 0 | 0 | Complete — staging |
-| Kia | 9 | 7 | 1 | 1 | 0 | Partial |
+| Kia | 9 | 8 | 0 | 1 | 0 | Audited with one blocked model |
 | Toyota | 13 | 9 | 3 | 1 | 0 | Partial |
 | MG | 10 | 8 | 2 | 0 | 0 | Partial |
 | Tata | 16 | 8 | 2 | 0 | 6 | In progress |
