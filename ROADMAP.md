@@ -117,7 +117,8 @@
 | Maruti Suzuki | Swift | [x] | [x] 17 official ex-showroom prices | [x] | [x] | Complete — petrol and CNG manual/AGS including new CNG AGS |
 | Maruti Suzuki | Victoris | [x] | [x] 21 official ex-showroom prices | [x] | [x] | Complete — petrol, S-CNG, strong hybrid and ALLGRIP AWD |
 | Maruti Suzuki | Wagon R | [x] | [x] 12 official ex-showroom prices | [x] | [x] | Complete — 1.0L/1.2L petrol, S-CNG and flex-fuel selector entry |
-| Maruti Suzuki | Baleno | [ ] | [ ] | [ ] | [ ] | Pending — next model |
+| Maruti Suzuki | Baleno | [x] | [x] 13 official NEXA ex-showroom prices | [x] | [x] | Complete — current petrol/S-CNG manual and AGS matrix |
+| Maruti Suzuki | Fronx | [ ] | [ ] | [ ] | [ ] | Pending — next model |
 | Maruti Suzuki | Dzire | [x] | [x] 11 official ex-showroom prices | [x] | [x] | Complete — petrol/CNG manual and AGS including new CNG AGS |
 | Maruti Suzuki | Brezza | [x] | [x] 13 October 2026 ex-showroom prices (secondary source) | [x] | [x] | Complete — turbo Boosterjet, K15C petrol and S-CNG kept distinct |
 | Maruti Suzuki | Grand Vitara | [x] | [x] 20 Delhi on-road prices (secondary source) | [x] | [x] | Complete — petrol, CNG, strong hybrid and ALLGRIP AWD kept distinct |
