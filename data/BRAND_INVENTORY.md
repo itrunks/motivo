@@ -192,3 +192,16 @@ The companion variant-source worklog now contains reviews for all **16 Tata mode
 - **Catalogue reconciliation lead:** the current Tata Cars homepage also displays **Aeris**, which is not in the 16-row Tata model candidate set. Add it to the Step 4 model reconciliation queue for identity, current India retail orderability and source verification. The homepage also lists XPRES, which remains outside this private passenger-car scope unless a distinct retail passenger variant is substantiated.
 
 The Tata worklog has 16 model rows, but it is not a complete approved variant catalogue. The official EV price pages contain dynamic blank price cells, the ICE detail pages were inaccessible to the research fetch, and Tigor orderability is unresolved. No Tata variant price is approved for production import. Preserve ex-showroom All India prices, model-year context, battery capacity, drivetrain, charger pack and edition as separate attributes. Review OEM terms and permitted reuse before bulk ingestion.
+
+
+## MINI variant-source pilot (2026-11-06)
+
+The companion variant-source worklog now contains reviews for all **five MINI model candidates** from the current model audit: Cooper, Cooper Convertible, Countryman C, Countryman Electric and John Cooper Works Countryman ALL4.
+
+- **Cooper:** official India page shows a Classic Trim example and refers to four engine/performance options and four style levels, but the captured page does not expose the exact India retail variant combinations or prices.
+- **Cooper Convertible:** official FAQ confirms Cooper and Cooper S performance levels and Classic/Favoured/JCW style packages. The page shows ₹58,50,000, but no grade-wise price matrix or exact performance/style combination mapping was captured.
+- **Countryman C:** official range page displays a ₹47,50,000 model starting amount; the product page confirms 156 HP. Favoured Style appears in imagery, not as a separately priced retail grade.
+- **Countryman Electric:** official page confirms a 64.6 kWh battery, 204 PS and 462 km WLTP range; official range page shows ₹55,65,000 as a model starting amount. No India variant-price matrix was captured.
+- **John Cooper Works Countryman ALL4:** official page confirms 300 HP, 400 Nm and ALL4 AWD; official range page displays ₹66,15,000 as a model-level amount. No additional India grade/price matrix was exposed.
+
+The MINI India range page currently lists these five product families. Do not import international-market trim names or manufacture variant combinations by crossing engine/performance levels with style packages. Model-level starting prices and a single page price are not variant-level price rows. Exact configurator output, price effective date, city scope and source-reuse permission remain review gates. No MINI variant price is approved for production import.
