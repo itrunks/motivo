@@ -307,3 +307,17 @@ The Maruti Suzuki batch adds 17 source-review rows. The overall variant-source w
 ## Mahindra variant-source audit
 
 Added 13 Mahindra source-review rows to `data/variant-source-audit.csv`. Current total: 102 rows across 11 brands. No prices approved for production import; current orderability, exact variant mapping, price date/scope, EV charger/BaaS basis and OEM reuse permission remain validation gates.
+
+## Audi variant-source audit (2026-11-06)
+
+Added source-review rows for all **nine Audi model candidates**: Q3, Q5, Q7, Q8, A4, A6, Q3 Sportback, SQ8 and RS Q8 Performance.
+
+- Audi India's current model overview groups the lineup into six families: Q3, Q5, Q7, Q8, A4 and A6. Q8 contains three distinct products: Q8, SQ8 and RS Q8 Performance. The audit preserves those three candidate identities separately.
+- **Q3:** the 2026-10-16 OEM launch release confirms the new 2.0L TFSI quattro configuration and a ₹51.99 lakh introductory ex-showroom model price, but does not publish grade names or a full variant-price matrix. Secondary-reported Nova/Zenith details were not treated as OEM-confirmed variant data.
+- **A4:** the official product page identifies Premium, Premium Plus and Technology trim/equipment labels, but current grade-wise numeric prices and full equipment mapping were not captured.
+- **Q5, Q7 and A6:** current official product pages confirm the product identities, but the captured OEM pages did not expose a complete current India trim-price matrix. Older brochure labels are not assumed to be current orderable variants.
+- **Q3 Sportback:** it remains in the candidate audit, but is not independently shown in the current Audi India model grid. A legacy sitemap/navigation link is not sufficient evidence of current orderability; dealer confirmation is required.
+- **SQ8 and RS Q8 Performance:** official India product/teaser pages identify each separately and describe their performance configurations. Current India grade-wise prices and full orderable configuration tables were not captured.
+- Audi's official Price Reckoner states that ex-showroom prices exclude TCS, but the embedded dynamic price table did not render in this research capture. No third-party price was substituted as OEM evidence.
+
+No Audi price is approved for production import. Confirm current orderability, exact trim identity, model-year applicability, price basis/effective date and dealer scope, and OEM content-reuse permission before staging. The Audi batch adds nine rows; the overall variant-source worklog now contains **111 model rows** across 12 brands, with 140 of 251 model candidates still uncovered.
