@@ -79,7 +79,8 @@
 | Toyota | Urban Cruiser Taisor | [ ] | [x] historical 2024 launch prices only | [x] | [x] | Blocked — current 2026 variant matrix/price not captured |
 | Toyota | Fortuner | [ ] | [x] model start + Leader Edition prices | [x] | [x] | Partial — powertrain families only; grade mapping unavailable |
 | Toyota | Hilux | [x] | [x] 3 launch prices | [x] | [x] | Complete — 3 current grades |
-| Toyota | Remaining work-queue models | [ ] | [ ] | [ ] | [ ] | Pending — next: Camry |
+| Toyota | Camry | [x] | [x] 1 current price | [x] | [x] | Complete — one current hybrid configuration |
+| Toyota | Remaining work-queue models | [ ] | [ ] | [ ] | [ ] | Pending — next: Legender |
 
 ## Resume/checkpoint protocol
 
