@@ -237,7 +237,7 @@
 | 5 Series Long Wheelbase | [x] | [x] 3 official observations: ₹76.60L, ₹77.00L, ₹76.50L | [x] | Partial — 530Li M Sport LWB verified; official page prices differ by source/basis |
 | 7 Series | [x] | [x] ₹1.95Cr official current starting price | [x] | Partial — 740 M Sport current listing confirmed; current India technical sheet unavailable |
 | M340i | [x] | [x] ₹77.80L current listing; ₹75.40L legacy page | [x] | Partial — current technical tune unclear; 2021/2023 official spec sheets differ |
-| X1 | [ ] | [ ] | [ ] | Pending |
+| X1 | [x] | [x] ₹52.90L sDrive18d; ₹50.90L model-level start | [x] | Partial — two powertrains mapped; petrol starting price not grade-assigned |
 | X1 Long Wheelbase | [ ] | [ ] | [ ] | Pending |
 | X3 | [ ] | [ ] | [ ] | Pending |
 | X5 | [ ] | [ ] | [ ] | Pending |
