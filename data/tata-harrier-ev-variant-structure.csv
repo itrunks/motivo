@@ -1,0 +1,13 @@
+brand_id,model_name,variant,battery_kwh,drive_type,ac_fast_charger_package,motor_power_ps,motor_torque_nm,seats,body_style,source_url,checked,source_status,commercial_reuse,redistribution
+tata,Harrier.ev,Adventure 65,65,RWD,No,238,,5,SUV,https://ev.tata.cars/harrier/ev/price.html,2026-11-06,review_required,unknown,unknown
+tata,Harrier.ev,Adventure 65 ACFC,65,RWD,Yes 7.2 kW AC wallbox,238,,5,SUV,https://ev.tata.cars/harrier/ev/price.html,2026-11-06,review_required,unknown,unknown
+tata,Harrier.ev,Adventure S 65,65,RWD,No,238,,5,SUV,https://ev.tata.cars/harrier/ev/price.html,2026-11-06,review_required,unknown,unknown
+tata,Harrier.ev,Adventure S 65 ACFC,65,RWD,Yes 7.2 kW AC wallbox,238,,5,SUV,https://ev.tata.cars/harrier/ev/price.html,2026-11-06,review_required,unknown,unknown
+tata,Harrier.ev,Fearless+ 65,65,RWD,No,238,,5,SUV,https://ev.tata.cars/harrier/ev/price.html,2026-11-06,review_required,unknown,unknown
+tata,Harrier.ev,Fearless+ 65 ACFC,65,RWD,Yes 7.2 kW AC wallbox,238,,5,SUV,https://ev.tata.cars/harrier/ev/price.html,2026-11-06,review_required,unknown,unknown
+tata,Harrier.ev,Fearless+ 75,75,RWD,No,238,,5,SUV,https://ev.tata.cars/harrier/ev/price.html,2026-11-06,review_required,unknown,unknown
+tata,Harrier.ev,Fearless+ 75 ACFC,75,RWD,Yes 7.2 kW AC wallbox,238,,5,SUV,https://ev.tata.cars/harrier/ev/price.html,2026-11-06,review_required,unknown,unknown
+tata,Harrier.ev,Fearless+ 75 AWD,75,AWD,No,396,504,5,SUV,https://ev.tata.cars/harrier/ev/price.html,2026-11-06,review_required,unknown,unknown
+tata,Harrier.ev,Fearless+ 75 AWD ACFC,75,AWD,Yes 7.2 kW AC wallbox,396,504,5,SUV,https://ev.tata.cars/harrier/ev/price.html,2026-11-06,review_required,unknown,unknown
+tata,Harrier.ev,Empowered 75,75,RWD,No,238,,5,SUV,https://ev.tata.cars/harrier/ev/price.html,2026-11-06,review_required,unknown,unknown
+tata,Harrier.ev,Empowered 75 ACFC,75,RWD,Yes 7.2 kW AC wallbox,238,,5,SUV,https://ev.tata.cars/harrier/ev/price.html,2026-11-06,review_required,unknown,unknown
