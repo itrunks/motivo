@@ -179,3 +179,16 @@ Toyota's variant-source worklog now covers all 13 model candidates in the model 
 - No MG price is approved for production import. Price effective date, city scope, exact powertrain mapping, dealer orderability and OEM content-reuse permission remain review gates.
 
 The variant worklog now contains 46 model rows: Hyundai 14, Kia 9, Toyota 13 and MG 10. This is source-review coverage only, not a production import manifest.
+
+
+## Tata Motors variant-source pilot (2026-11-06)
+
+The companion variant-source worklog now contains reviews for all **16 Tata model candidates** from the current model audit: Sierra, Sierra.ev, Harrier, Harrier.ev, Safari, Nexon, Nexon.ev, Punch, Punch.ev, Altroz, Tiago, Tiago.ev, Curvv, Curvv.ev, Tigor and Tigor.ev.
+
+- **EV pages with usable variant evidence:** Sierra.ev (63/75 kWh families, ACFC and AWD/QWD derivatives); Harrier.ev (65/75 kWh, RWD/QWD, ACFC and Stealth); Nexon.ev (30 kWh MR and 45 kWh LR); Punch.ev (30/40 kWh); Tiago.ev (19.2/24 kWh); Curvv.ev (Series X current trim/price evidence); Tigor.ev (legacy trim labels observed, current retail orderability unconfirmed).
+- **ICE product-page access:** the official catalogue links to Sierra, Harrier, Safari, Nexon, Punch, Altroz and Curvv product pages, but those detail-page fetches returned HTTP 403 in this audit session. No trim or price values were inferred from the corresponding EV models or older third-party listings.
+- **Tiago ICE:** the official 2026 price page exposes Smart/Pure and CNG trim cards, including Pure+A CNG at ₹7,49,990 and Pure+A CNG Automatic at ₹8,04,990. Other dynamic price cells were blank in the captured result; do not fill them from secondary launch reporting.
+- **Tigor ICE:** the model remains in the existing candidate list, but it was absent from the current official Tata Cars model navigation captured on 2026-11-06. Current retail availability needs confirmation.
+- **Catalogue reconciliation lead:** the current Tata Cars homepage also displays **Aeris**, which is not in the 16-row Tata model candidate set. Add it to the Step 4 model reconciliation queue for identity, current India retail orderability and source verification. The homepage also lists XPRES, which remains outside this private passenger-car scope unless a distinct retail passenger variant is substantiated.
+
+The Tata worklog has 16 model rows, but it is not a complete approved variant catalogue. The official EV price pages contain dynamic blank price cells, the ICE detail pages were inaccessible to the research fetch, and Tigor orderability is unresolved. No Tata variant price is approved for production import. Preserve ex-showroom All India prices, model-year context, battery capacity, drivetrain, charger pack and edition as separate attributes. Review OEM terms and permitted reuse before bulk ingestion.
