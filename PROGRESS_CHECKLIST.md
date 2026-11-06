@@ -7,11 +7,11 @@ PR: https://github.com/itrunks/motivo/pull/1
 ## Overall status
 
 - Audited work queue: 251 models across 35 brands.
-- Models with normalization work committed and fetched back: 111.
-- Completed/staging-ready model evidence: 73.
+- Models with normalization work committed and fetched back: 112.
+- Completed/staging-ready model evidence: 74.
 - Partial models needing exact trim/price mapping: 36.
 - Explicitly blocked models: 2.
-- Not yet started: 140 models across 30 brands.
+- Not yet started: 139 models across 30 brands.
 
 **Important:** “Complete” means research/normalization files and evidence notes are committed and verified. It does not mean commercial reuse rights are approved or production import is authorized. Source rights remain `review_required` / `unknown` unless separately proven.
 
@@ -31,7 +31,7 @@ PR: https://github.com/itrunks/motivo/pull/1
 | Maruti Suzuki | 17 | 0 | 0 | 0 | 17 | Pending |
 | Mahindra | 13 | 5 | 8 | 0 | 0 | Audited with partial evidence |
 | Audi | 9 | 0 | 9 | 0 | 0 | Audited with official price gaps |
-| BMW | 22 | 8 | 9 | 0 | 5 | In progress |
+| BMW | 22 | 9 | 9 | 0 | 4 | In progress |
 | BYD | 4 | 0 | 0 | 0 | 4 | Pending |
 | Citroën | 5 | 0 | 0 | 0 | 5 | Pending |
 | Honda | 5 | 0 | 0 | 0 | 5 | Pending |
@@ -121,4 +121,4 @@ PR: https://github.com/itrunks/motivo/pull/1
 
 
 ### BMW
-- iX — historical India iX xDrive40 (December 2021) and iX xDrive50 (March 2024) technical configurations and dated OEM launch prices captured. Current BMW India full-electric catalogue no longer lists iX; current orderability and price remain unverified.
+- iX — historical India iX xDrive40 (December 2021) and iX xDrive50 (March 2024) technical configurations and dated OEM launch prices captured. Current BMW India full-electric catalogue no longer lists iX; current orderability and price remain unverified.\n\n### BMW\n- iX1 Long Wheelbase — current eDrive20L M Sport normalized from BMW India September 2026 brochure and product page: 150 kW/204 hp, 250 Nm, FWD, 66.4 kWh, 546 km MIDC, 8.6 s, 130 kW DC and 11 kW AC. Current displayed price ₹54.70L; ₹49.90L launch introductory price retained as historical. Transmission not stated and left blank.
