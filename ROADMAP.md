@@ -109,6 +109,11 @@
 | Tata | Tiago (ICE) | [ ] | [ ] | [ ] | [ ] | Pending |
 | Tata | Curvv (ICE) | [ ] | [ ] | [ ] | [ ] | Pending |
 | Tata | Tigor (ICE) | [ ] | [ ] | [ ] | [ ] | Pending |
+| MINI | Cooper (3-Door) | [x] | [x] 3 Delhi on-road observations | [x] | [x] | Complete — 3 petrol trim/edition variants |
+| MINI | Cooper Convertible | [x] | [x] 3 Delhi on-road observations | [x] | [x] | Complete — 3 petrol convertible editions |
+| MINI | Countryman C | [x] | [x] 1 Delhi on-road observation | [x] | [x] | Complete — one locally assembled petrol configuration |
+| MINI | Countryman Electric | [x] | [x] 4 Delhi on-road observations | [x] | [x] | Complete — single-motor E trims and dual-motor SE ALL4 kept distinct |
+| MINI | John Cooper Works Countryman ALL4 | [x] | [x] 1 Delhi on-road observation | [x] | [x] | Complete — one 2.0L AWD petrol configuration |
 | MG | Comet EV | [x] | [x] 5 standard-purchase prices | [x] | [x] | Complete — 5 current variants |
 | MG | Windsor EV | [x] | [x] 6 standard/edition prices | [x] | [x] | Complete — 5 grades + INDULGE |
 | MG | ZS EV | [x] | [x] 6 current prices | [x] | [x] | Complete — 6 retail/interior configurations |
