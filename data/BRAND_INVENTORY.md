@@ -389,3 +389,15 @@ Added source-review rows for all **four Jeep India model candidates**: Compass, 
 Jeep's current model/variant pages and recent OEM releases provide useful price observations, but model-year, effective date, city scope, edition availability and exact powertrain/drive mapping must be reconfirmed before staging. No Jeep price is approved for production import.
 
 The Jeep batch adds four rows. The overall variant-source worklog now contains **151 model rows** across 17 brands; 100 of 251 model candidates remain without variant-source rows.
+
+## Lamborghini variant-source audit (2026-11-06)
+
+Added source-review rows for all **three Lamborghini model candidates**: Urus SE, Temerario and Revuelto.
+
+- **Urus SE:** one current India model configuration is observed: 4.0L twin-turbo V8 plug-in hybrid, 25.9kWh battery, AWD and 8-speed automatic. Earlier Urus S/Performante configurations are not carried forward as current India variants.
+- **Temerario:** official model page confirms the HPEV V8 hybrid model with three electric motors and an 8-speed dual-clutch transmission. First India delivery was reported in June 2026, but India allocation, dealer orderability and exact customer configuration remain dealer-confirmation items.
+- **Revuelto:** official model page confirms the V12 HPEV coupe configuration. India allocation, Ad Personam options and final dealer pricing require direct authorized-dealer confirmation. Revuelto Roadster is not added as a coupe variant.
+
+Lamborghini's public global pages provide product identity/specifications, but no official India grade-wise price matrix was captured. Third-party price estimates are not used as OEM price evidence. All three candidates retain dealer-confirmation-required status; obtain authorized India dealer quotations, allocation/orderability and price/tax basis before staging. No Lamborghini price is approved for production import.
+
+The Lamborghini batch adds three rows. The overall variant-source worklog now contains **154 model rows** across 18 brands; 97 of 251 model candidates remain without variant-source rows.
