@@ -272,4 +272,5 @@
 | BMW | i7 | [x] | [x] official launch price evidence | [x] | [x] | Complete — two current India electric variants. |
 
 
-| BMW | iX | [x] | [x] historical OEM launch prices; no current price | [x] | [x] | Partial — xDrive40 (2021) and xDrive50 (2024) captured; absent from current full-electric catalogue, current orderability unverified. |\n| BMW | iX1 Long Wheelbase | [x] | [x] current official displayed price; 2025 launch intro retained separately | [x] | [x] | Complete — one current India eDrive20L M Sport configuration; 2026 brochure confirms 204 hp, 250 Nm, FWD, 66.4 kWh and 546 km MIDC. |
+| BMW | iX | [x] | [x] historical OEM launch prices; no current price | [x] | [x] | Partial — xDrive40 (2021) and xDrive50 (2024) captured; absent from current full-electric catalogue, current orderability unverified. | 
+| BMW | iX1 Long Wheelbase | [x] | [x] current official displayed price | [x] | [x] | Complete — one current India eDrive20L M Sport configuration; 2026 brochure confirms 204 hp, 250 Nm, FWD, 66.4 kWh and 546 km MIDC; price tax basis requires dealer confirmation. |
