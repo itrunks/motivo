@@ -3,7 +3,7 @@
 **Project target:** 100% evidence-backed catalogue normalization and validation.  
 **Working branch:** `feature/catalogue-source-audit-ingestion`  
 **Current PR:** #1 — https://github.com/itrunks/motivo/pull/1  
-**Last checkpoint:** 2026-11-06 — Kia Seltos 6iMT mapping resolved; 44 exact trim/powertrain combinations verified and committed
+**Last checkpoint:** 2026-11-06 — Kia Carens Clavis 28 named-trim configurations and 11 prices captured; unknown comparison column quarantined
 
 ## Progress rules
 
@@ -78,7 +78,7 @@
 | Kia | Seltos | [x] | [x] 12 trim-level MSRP observations | [x] | [x] | Complete — 44 exact trim/powertrain combinations; 6iMT mapping resolved for HTE(O), HTK and HTK(O); HTE price discrepancy remains documented |
 | Kia | Carens Clavis EV | [x] | [x] 9 trim prices | [x] | [x] | Complete — 17 battery/seating combinations |
 | Kia | Syros | [x] | [x] 7 trim prices | [x] | [x] | Complete — 17 combinations |
-| Kia | Carens Clavis | [ ] | [ ] | [x] | [x] | Blocked — unnamed trim column and price/powertrain reconciliation |
+| Kia | Carens Clavis | [x] | [x] 11 named trim prices; 28 exact configurations | [x] | [x] | Partial — 11 named grades normalized; one unnamed 7DCT-only column has no numeric price and remains quarantined |
 | Kia | Carnival | [x] | [x] 1 price | [x] | [x] | Complete — one India retail trim |
 | Kia | EV6 | [x] | [ ] | [x] | [x] | Complete — current GT-Line AWD only; price unavailable |
 | Kia | EV9 | [x] | [x] 1 price observation | [x] | [x] | Complete — one India retail trim |
