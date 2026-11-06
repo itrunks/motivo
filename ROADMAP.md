@@ -95,7 +95,8 @@
 | Tata | Sierra (ICE) | [x] | [x] 59 Delhi on-road prices (secondary source) | [x] | [x] | Complete — 59 unique variants; official price matrix still required |
 | Tata | Harrier (ICE) | [x] | [x] 50 Delhi on-road prices (secondary source) | [x] | [x] | Complete — 50 variants; dealer quote and rights review required |
 | Tata | Safari | [ ] | [ ] | [ ] | [ ] | Pending — next model |
-| Tata | Safari | [ ] | [ ] | [ ] | [ ] | Pending |
+| Tata | Safari | [x] | [x] 64 Delhi on-road prices (secondary source) | [x] | [x] | Complete — 64 variants; 6/7-seat combinations preserved |
+| Tata | Nexon (ICE) | [ ] | [ ] | [ ] | [ ] | Pending — next model |
 | Tata | Nexon (ICE) | [ ] | [ ] | [ ] | [ ] | Pending |
 | Tata | Punch (ICE) | [ ] | [ ] | [ ] | [ ] | Pending |
 | Tata | Altroz | [ ] | [ ] | [ ] | [ ] | Pending |
