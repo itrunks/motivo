@@ -3,7 +3,7 @@
 **Project target:** 100% evidence-backed catalogue normalization and validation.  
 **Working branch:** `feature/catalogue-source-audit-ingestion`  
 **Current PR:** #1 — https://github.com/itrunks/motivo/pull/1  
-**Last checkpoint:** 2026-11-06 — BMW iX1 Long Wheelbase current India eDrive20L M Sport configuration and current displayed price normalized; catalogue crosswalk CI failure also repaired.
+**Last checkpoint:** 2026-11-07 — BMW M2 standard, CS and xDrive Turbo Edition India configurations normalized; Turbo Edition price remains unannounced (partial).
 
 ## Progress rules
 
@@ -273,4 +273,4 @@
 
 
 | BMW | iX | [x] | [x] historical OEM launch prices; no current price | [x] | [x] | Partial — xDrive40 (2021) and xDrive50 (2024) captured; absent from current full-electric catalogue, current orderability unverified. | 
-| BMW | iX1 Long Wheelbase | [x] | [x] current official displayed price | [x] | [x] | Complete — one current India eDrive20L M Sport configuration; 2026 brochure confirms 204 hp, 250 Nm, FWD, 66.4 kWh and 546 km MIDC; price tax basis requires dealer confirmation. |
+| BMW | iX1 Long Wheelbase | [x] | [x] current official displayed price | [x] | [x] | Complete — one current India eDrive20L M Sport configuration; 2026 brochure confirms 204 hp, 250 Nm, FWD, 66.4 kWh and 546 km MIDC; price tax basis requires dealer confirmation. |\n| BMW | M2 | [x] | [x] current catalogue starting price; CS launch price; Turbo price not announced | [x] | [x] | Partial — standard M2 automatic/manual, limited M2 CS and M2 xDrive Turbo Edition separately normalized; Turbo Edition price and some India technical fields remain unpublished. |
