@@ -225,4 +225,4 @@
 | A6 | [x] | [ ] | [x] | Partial — one A6 45 TFSI configuration captured; current price/trim matrix unavailable |
 | Q3 Sportback | [x] | [ ] | [x] | Partial — 40 TFSI quattro configuration captured; current India price unavailable |
 | SQ8 | [x] | [ ] | [x] | Partial — new 4.0L V8 373 kW/770 Nm model is pre-booking only; price/grade matrix unavailable |
-| RS Q8 Performance | [ ] | [ ] | [ ] | Pending |
+| RS Q8 Performance | [x] | [ ] | [x] | Partial — 4.0L V8 471 kW/850 Nm model verified; current India price unavailable |
