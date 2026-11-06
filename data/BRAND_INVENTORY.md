@@ -153,3 +153,16 @@ The companion variant worklog begins Toyota with five model reviews: Innova Crys
 - **Urban Cruiser Taisor:** Toyota's official launch release documents the original grade/powertrain matrix and introductory 2024 prices. This is historical evidence only; it cannot be treated as a current 2026 variant/price list.
 
 The Toyota batch currently contains **five model records**. Official source evidence is intentionally separated from historical launch prices, model-card starting prices and fleet-only variants. No Toyota price is approved for production import. Continue with current official price-list/configurator capture and dealer confirmation where the official public pages do not expose full matrices.
+
+
+### Toyota follow-on batch (2026-11-06)
+
+Toyota variant-source coverage now includes **eight models**: Innova Crysta, Innova Hycross, Urban Cruiser Hyryder, Glanza, Urban Cruiser Taisor, Fortuner, Hilux and Camry.
+
+- **Fortuner:** official specifications confirm petrol 2.7L and diesel 2.8L powertrains, with 5MT/6MT/6AT and 2WD/4WD applicability depending on engine/grade. The full trim-to-powertrain matrix and prices were not captured; do not generate every possible combination.
+- **Hilux:** official page identifies STD MT, High MT and High AT, all within the 2.8L diesel 4WD range. STD/High MT use 6MT with iMT; High AT uses 6AT. Only a model starting price is visible.
+- **Camry:** official page confirms one India petrol-hybrid configuration with 2.5L engine, e-CVT and five seats. The exact retail grade label and variant-specific price are not exposed.
+
+The official Toyota pages also state that website pricing and availability may change and that online orderability depends on city/dealer coverage. These constraints are retained in the audit: starting prices are model-level observations, not variant prices, and current manufacturable/orderable status must be verified at the configurator/dealer stage.
+
+The Toyota batch has eight model records. No price rows have been approved for production import; exact current grade/variant price evidence remains incomplete for every model in this pilot.
