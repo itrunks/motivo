@@ -211,3 +211,18 @@
 | VF 6 | [x] | [x] ₹18.19L official model-level starting price | [x] | Partial — three grades normalized; current official trim-wise prices are not published in the captured page |
 | VF 7 | [x] | [x] ₹22.99L official model-level starting price | [x] | Partial — five grades normalized; current official trim-wise prices unavailable |
 | VF MPV 7 | [x] | [x] ₹20.39L current official ex-showroom; ₹24.49L historical launch price | [x] | Complete — single 7-seat configuration; November 2026 price reduction verified |
+
+
+## Audi India queue
+
+| Model | Structure | Price evidence | Evidence notes | Status |
+|---|---|---|---|---|
+| Q3 | [ ] | [ ] | [x] | Partial — new-generation page is pre-booking only; India variants and numeric price not published in captured sources |
+| Q5 | [ ] | [ ] | [ ] | Pending |
+| Q7 | [ ] | [ ] | [ ] | Pending |
+| Q8 | [ ] | [ ] | [ ] | Pending |
+| A4 | [ ] | [ ] | [ ] | Pending |
+| A6 | [ ] | [ ] | [ ] | Pending |
+| Q3 Sportback | [ ] | [ ] | [ ] | Pending |
+| SQ8 | [ ] | [ ] | [ ] | Pending |
+| RS Q8 Performance | [ ] | [ ] | [ ] | Pending |
