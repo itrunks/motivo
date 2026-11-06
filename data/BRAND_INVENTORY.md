@@ -488,3 +488,15 @@ Added source-review rows for all **seven Ferrari model candidates**: Amalfi, Ama
 Ferrari's public India price information is reported through dealer/industry coverage; a current OEM India variant-price sheet was not captured. The 30% lower FTA-anticipatory prices are estimates, not final invoice prices, and apply only to certain pure-petrol models. Hybrid models (296 GTB and 849 Testarossa) have uncertain tariff treatment. Confirm direct Ferrari dealer allocation, order acceptance, final written price, tax/FTA eligibility and delivery-date applicability before staging. No Ferrari price is approved for production import.
 
 The Ferrari batch adds seven rows. The overall variant-source worklog now contains **189 model rows** across 24 brands; 62 of 251 model candidates remain without variant-source rows.
+
+## McLaren variant-source audit (2026-11-06)
+
+Added source-review rows for all **three McLaren model candidates**: Artura, GTS and 750S.
+
+- **Artura:** current India range includes the V6 plug-in hybrid model. Coupe/Spider body-style availability in India and exact local price mapping need confirmation. The reported ₹5.10 crore amount is a model-level reference; no OEM grade-specific price list was captured. Do not apply pure-petrol FTA reductions to the hybrid without written confirmation.
+- **GTS:** current India model is the GTS, the successor identity to the old McLaren GT. The ₹6.15 crore pre-FTA amount is a reported price reference. A ₹3.83 crore FTA-anticipatory amount was reported but McLaren had not publicly confirmed it; do not treat it as a final price.
+- **750S:** India Coupe and Spider body styles are documented. Production is scheduled to end in 2027 and final orders are being accepted. Reported anticipated FTA amounts are ₹4.94 crore (Coupe) and ₹5.46 crore (Spider), before options; actual invoice amount depends on duty eligibility, quota and delivery date.
+
+All McLaren models are CBU imports and India retail is handled through Infinity Cars. Current order acceptance, local allocation, body-style availability, final FTA price basis and written dealer quote remain mandatory gates. No McLaren price is approved for production import.
+
+The McLaren batch adds three rows. The overall variant-source worklog now contains **192 model rows** across 25 brands; 59 of 251 model candidates remain without variant-source rows.
