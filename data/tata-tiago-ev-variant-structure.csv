@@ -1,0 +1,5 @@
+brand_id,model_name,variant,battery_kwh,motor_type,motor_power_kw,motor_torque_nm,range_midc_km,drive,seats,body_style,source_url,checked,source_status,commercial_reuse,redistribution
+tata,Tiago.ev,Smart 19,19.2,PMSM,45,110,226,FWD,5,Hatchback,https://ev.tata.cars/tiago/ev/price.html,2026-11-06,review_required,unknown,unknown
+tata,Tiago.ev,Pure+ 19,19.2,PMSM,45,110,226,FWD,5,Hatchback,https://ev.tata.cars/tiago/ev/price.html,2026-11-06,review_required,unknown,unknown
+tata,Tiago.ev,Pure+ 24,24,PMSM,55,114,285,FWD,5,Hatchback,https://ev.tata.cars/tiago/ev/price.html,2026-11-06,review_required,unknown,unknown
+tata,Tiago.ev,Creative+ 24,24,PMSM,55,114,285,FWD,5,Hatchback,https://ev.tata.cars/tiago/ev/price.html,2026-11-06,review_required,unknown,unknown
