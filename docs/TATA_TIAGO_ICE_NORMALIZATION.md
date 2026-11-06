@@ -8,7 +8,7 @@ Checked: 2026-11-06
 
 ## Current variant coverage
 
-Autocar India's variant page was last updated 14 October 2026 and lists 20 variants across Smart, Pure, Pure+, Pure+ A, Creative and Creative+. The current listing contains 12 petrol variants and 8 CNG variants. Petrol and CNG are both offered with 5-speed manual and 5-speed AMT on selected trims. Creative+ is petrol-only in the captured matrix.
+Autocar India's variant page was last updated 14 October 2026 and lists 20 variants across Smart, Pure, Pure+, Pure+ A, Creative and Creative+. The current listing contains 11 petrol variants and 9 CNG variants. Petrol and CNG are both offered with 5-speed manual and 5-speed AMT on selected trims. Creative+ is petrol-only in the captured matrix.
 
 ## Powertrain families
 
