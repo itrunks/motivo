@@ -4,7 +4,8 @@ Checked: 2026-11-06
 
 ## Deliverable
 
-- `data/force-gurkha-variant-price-observations.csv`: two official body/seating configurations with powertrain and OEM ex-showroom price observations.
+- `data/force-gurkha-variant-structure.csv`: two official body/seating configurations with shared powertrain specifications.
+- `data/force-gurkha-price-observations.csv`: six official price observations across product page, price list and historical launch release.
 
 ## Current configurations
 
@@ -15,13 +16,20 @@ Force Motors' official Gurkha site presents two configurations:
 
 Both use the same FM2.6 CR CD 2596 cc four-cylinder turbocharged intercooled diesel engine, 140 PS at 3200 rpm and 320 Nm at 1400–2600 rpm. Both use a 5-speed manual gearbox, manual transfer case with electronic shift knob, shift-on-the-fly 2H/4H/4L and 4WD. Both have front and rear manually locking differentials. These are two body/seating configurations, not separate engine variants.
 
-## Price basis
+## Price basis and official source conflict
 
-The live Force Motors official product page displays:
-- 3 Door: ₹16,68,400 ex-showroom.
-- 5 Door: ₹18,01,200 ex-showroom.
+Three official price sources are preserved separately:
 
-The page does not state a price effective date. Values are retained as official page observations checked on 6 November 2026, not as guaranteed dealer quotes. The official disclaimer says prices and specifications can change without notice.
+| Body | Gurkha product page | Force Motors central price list | May 2024 launch price |
+|---|---:|---:|---:|
+| 3 Door | ₹16,68,400 | ₹16,51,881 | ₹16,75,000 |
+| 5 Door | ₹18,01,200 | ₹17,83,366 | ₹18,00,000 |
+
+The current product page and central price list disagree by ₹16,519 for 3 Door and ₹17,834 for 5 Door. Neither page states an effective date. The May 2024 launch values are historical only. All six observations are retained; no preferred current price is selected pending Force Motors/dealer clarification.
+
+## Status
+
+Partial. The two body/seating configurations and shared powertrain are verified, but current official product-page and central price-list amounts conflict for both body styles.
 
 ## Rights and import gate
 
