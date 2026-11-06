@@ -109,6 +109,7 @@
 | Tata | Tiago (ICE) | [ ] | [ ] | [ ] | [ ] | Pending |
 | Tata | Curvv (ICE) | [ ] | [ ] | [ ] | [ ] | Pending |
 | Tata | Tigor (ICE) | [ ] | [ ] | [ ] | [ ] | Pending |
+| Force Motors | Gurkha | [x] | [x] 2 official ex-showroom price observations | [x] | [x] | Complete — 3-door 4-seat and 5-door 7-seat 4WD configurations |
 | MINI | Cooper (3-Door) | [x] | [x] 3 Delhi on-road observations | [x] | [x] | Complete — 3 petrol trim/edition variants |
 | MINI | Cooper Convertible | [x] | [x] 3 Delhi on-road observations | [x] | [x] | Complete — 3 petrol convertible editions |
 | MINI | Countryman C | [x] | [x] 1 Delhi on-road observation | [x] | [x] | Complete — one locally assembled petrol configuration |
