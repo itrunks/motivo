@@ -12,23 +12,37 @@ def main() -> int:
     args = parser.parse_args()
 
     approvals = {}
+    urls = {}
+    registry_errors = []
     with args.source_audit.open(encoding="utf-8-sig", newline="") as handle:
-        for row in csv.DictReader(handle):
+        for line_no, row in enumerate(csv.DictReader(handle), 2):
             source_id = (row.get("source_id") or "").strip()
-            if not source_id:
+            source_url = (row.get("source_url") or "").strip()
+            if not source_id or not source_url:
+                registry_errors.append(f"source registry line {line_no}: source_id and source_url are required")
                 continue
+            if source_id in approvals:
+                registry_errors.append(f"source registry line {line_no}: duplicate source_id {source_id!r}")
+                continue
+            if source_url in urls:
+                registry_errors.append(
+                    f"source registry line {line_no}: duplicate source_url {source_url!r} "
+                    f"(already assigned to {urls[source_url]!r})"
+                )
+                continue
+            urls[source_url] = source_id
             approvals[source_id] = {
                 "reviewStatus": (row.get("review_status") or "").strip(),
                 "commercialReuseAllowed": (row.get("commercial_reuse_allowed") or "").strip().lower(),
                 "redistributionAllowed": (row.get("redistribution_allowed") or "").strip().lower(),
-                "sourceUrl": (row.get("source_url") or "").strip(),
+                "sourceUrl": source_url,
                 "termsUrl": (row.get("terms_or_license_url") or "").strip(),
                 "licenseName": (row.get("license_name") or "").strip(),
                 "attributionRequired": (row.get("attribution_required") or "").strip().lower(),
-                "publisher": (row.get("publisher") or "").strip(),
+                "publisher": (row.get("publisher") or row.get("publisher_or_brand") or "").strip(),
             }
 
-    approved_records, errors = [], []
+    approved_records, errors = [], list(registry_errors)
     with args.draft_jsonl.open(encoding="utf-8") as handle:
         for line_no, raw in enumerate(handle, 1):
             if not raw.strip():
@@ -56,7 +70,12 @@ def main() -> int:
                 errors.append(f"line {line_no}: source {source_id!r} is missing terms URL or licence name")
             if record.get("publicationStatus") != "draft":
                 errors.append(f"line {line_no}: only draft records can enter staging")
-            if approval["reviewStatus"] == "approved" and approval["commercialReuseAllowed"] == "yes" and approval["redistributionAllowed"] == "yes" and approval["sourceUrl"] == source.get("url") and approval["termsUrl"] and approval["licenseName"] and record.get("publicationStatus") == "draft":
+            if (approval["reviewStatus"] == "approved"
+                    and approval["commercialReuseAllowed"] == "yes"
+                    and approval["redistributionAllowed"] == "yes"
+                    and approval["sourceUrl"] == source.get("url")
+                    and approval["termsUrl"] and approval["licenseName"]
+                    and record.get("publicationStatus") == "draft"):
                 record["sourceApproval"] = approval
                 approved_records.append(record)
 

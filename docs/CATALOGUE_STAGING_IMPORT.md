@@ -17,15 +17,15 @@ The current variant audit CSV is a research worklog, not an import manifest. It 
 
 3. Review the source-specific permission record in `data/source-registry.csv`. The current 224 source URLs are linked through `data/audit-source-crosswalk.csv`; all remain `review_required` until terms and commercial redistribution rights are documented. Each imported record must use an exact source URL with an explicit terms/licence URL, licence name, `review_status=approved`, `commercial_reuse_allowed=yes`, and `redistribution_allowed=yes`. Public visibility is not permission.
 4. Validate source mapping with `python scripts/validate_source_crosswalk.py`.
-5. Run the reuse gate. It checks every draft row against the source audit and requires an exact URL match:
+5. Run the reuse gate against the same canonical registry. It checks every draft row against the exact audited source URL and fails closed on duplicate registry IDs or URLs:
 
    ```bash
    python3 scripts/approve_catalogue_sources.py data/staging/import.draft.jsonl \
-     --source-audit data/source-audit-template.csv \
+     --source-audit data/source-registry.csv \
      --out data/staging/import.approved.jsonl
    ```
 
-   It fails closed if any source is missing, unapproved, or has unknown/denied reuse rights.
+   It fails closed if any source is missing, duplicated, unapproved, or has unknown/denied reuse rights.
 6. Dry-run the Firestore importer:
 
    ```bash
