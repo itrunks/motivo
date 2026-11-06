@@ -3,7 +3,7 @@
 **Project target:** 100% evidence-backed catalogue normalization and validation.  
 **Working branch:** `feature/catalogue-source-audit-ingestion`  
 **Current PR:** #1 — https://github.com/itrunks/motivo/pull/1  
-**Last checkpoint:** 2026-11-06 — BMW i5 Long Wheelbase current India variant and displayed price normalized and verified
+**Last checkpoint:** 2026-11-06 — BMW iX historical India variants and dated OEM launch prices normalized; current catalogue no longer lists iX (partial)
 
 ## Progress rules
 
@@ -270,3 +270,6 @@
 
 
 | BMW | i7 | [x] | [x] official launch price evidence | [x] | [x] | Complete — two current India electric variants. |
+
+
+| BMW | iX | [x] | [x] historical OEM launch prices; no current price | [x] | [x] | Partial — xDrive40 (2021) and xDrive50 (2024) captured; absent from current full-electric catalogue, current orderability unverified. |
