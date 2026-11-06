@@ -3,7 +3,7 @@
 **Project target:** 100% evidence-backed catalogue normalization and validation.  
 **Working branch:** `feature/catalogue-source-audit-ingestion`  
 **Current PR:** #1 — https://github.com/itrunks/motivo/pull/1  
-**Last checkpoint:** 2026-11-06 — Kia EV6 committed and verified; Carens Clavis remains blocked
+**Last checkpoint:** 2026-11-06 — Mahindra Scorpio-N 31 OEM grade/powertrain/drive/seating price observations committed and verified; source rights remain pending
 
 ## Progress rules
 
@@ -37,6 +37,7 @@
 - [x] All 14 Hyundai work-queue models have a normalization evidence record
 - [x] Hyundai — BAYON structure normalization and evidence notes
 - [x] Hyundai — all 14 work-queue models normalized (staging only)
+- [x] Mahindra — Scorpio-N 31 populated OEM grade/powertrain/drive/seating combinations normalized with dated ex-showroom observations (staging only)
 - [ ] Remaining brands/models in the work queue (process one evidence-backed model at a time)
 - [ ] Reconcile normalized model/variant rows against the 251-row work queue and 502-row crosswalk
 - [ ] Resolve source permission / commercial reuse / redistribution status for every source intended for production
@@ -125,7 +126,7 @@
 | Mahindra | XUV 3XO | [x] | [x] 31 Fatehabad on-road + 18 OEM ex-showroom observations | [x] | [x] | Complete — 31 variants; official selector price coverage partial, price sets kept separate |
 | Mahindra | Thar OG | [x] | [x] 15 official introductory ex-showroom prices | [x] | [x] | Complete — 3 engines, RWD/4WD, MT/AT; launch price valid through 30 Nov 2026 |
 | Mahindra | Thar ROXX | [x] | [x] 21 Delhi on-road prices (secondary source) | [x] | [x] | Complete — petrol/diesel, RWD/4WD, manual/automatic; Mocha interior codes kept separate |
-| Mahindra | Scorpio N | [ ] | [ ] | [ ] | [ ] | Pending — next model |
+| Mahindra | Scorpio N | [x] | [x] 31 populated OEM ex-showroom observations (2026-08-05 matrix) | [x] | [x] | Complete — 31 populated grade/powertrain/drive/seating combinations; price freshness and source rights still require review |
 | Maruti Suzuki | Dzire | [x] | [x] 11 official ex-showroom prices | [x] | [x] | Complete — petrol/CNG manual and AGS including new CNG AGS |
 | Maruti Suzuki | Brezza | [x] | [x] 13 October 2026 ex-showroom prices (secondary source) | [x] | [x] | Complete — turbo Boosterjet, K15C petrol and S-CNG kept distinct |
 | Maruti Suzuki | Grand Vitara | [x] | [x] 20 Delhi on-road prices (secondary source) | [x] | [x] | Complete — petrol, CNG, strong hybrid and ALLGRIP AWD kept distinct |
