@@ -87,7 +87,19 @@ async function main() {
     }
     await writeBatch.commit();
   }
-  console.log(JSON.stringify({...summary, status: "written_to_emulator", publicationPerformed: false}, null, 2));
+
+  const [batchSnapshot, recordsSnapshot] = await Promise.all([
+    batchRef.get(),
+    batchRef.collection("records").get()
+  ]);
+  if (!batchSnapshot.exists || recordsSnapshot.size !== records.length) {
+    throw new Error(`Post-write verification failed: expected ${records.length} records, found ${recordsSnapshot.size}`);
+  }
+  const nonDraft = recordsSnapshot.docs.filter((doc) => doc.get("publicationStatus") !== "draft");
+  if (nonDraft.length > 0 || batchSnapshot.get("publicationPerformed") !== false) {
+    throw new Error("Post-write verification failed: unexpected publication state");
+  }
+  console.log(JSON.stringify({...summary, status: "written_and_verified_in_emulator", verifiedRecords: recordsSnapshot.size, publicationPerformed: false}, null, 2));
 }
 
 main().catch((error: unknown) => {
