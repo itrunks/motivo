@@ -7,11 +7,11 @@ PR: https://github.com/itrunks/motivo/pull/1
 ## Overall status
 
 - Audited work queue: 251 models across 35 brands.
-- Models with normalization work committed and fetched back: 112.
+- Models with normalization work committed and fetched back: 113.
 - Completed/staging-ready model evidence: 74.
-- Partial models needing exact trim/price mapping: 36.
+- Partial models needing exact trim/price mapping: 37.
 - Explicitly blocked models: 2.
-- Not yet started: 139 models across 30 brands.
+- Not yet started: 138 models across 30 brands.
 
 **Important:** “Complete” means research/normalization files and evidence notes are committed and verified. It does not mean commercial reuse rights are approved or production import is authorized. Source rights remain `review_required` / `unknown` unless separately proven.
 
@@ -31,7 +31,7 @@ PR: https://github.com/itrunks/motivo/pull/1
 | Maruti Suzuki | 17 | 0 | 0 | 0 | 17 | Pending |
 | Mahindra | 13 | 5 | 8 | 0 | 0 | Audited with partial evidence |
 | Audi | 9 | 0 | 9 | 0 | 0 | Audited with official price gaps |
-| BMW | 22 | 9 | 9 | 0 | 4 | In progress |
+| BMW | 22 | 9 | 10 | 0 | 3 | In progress |
 | BYD | 4 | 0 | 0 | 0 | 4 | Pending |
 | Citroën | 5 | 0 | 0 | 0 | 5 | Pending |
 | Honda | 5 | 0 | 0 | 0 | 5 | Pending |
@@ -124,4 +124,4 @@ PR: https://github.com/itrunks/motivo/pull/1
 - iX — historical India iX xDrive40 (December 2021) and iX xDrive50 (March 2024) technical configurations and dated OEM launch prices captured. Current BMW India full-electric catalogue no longer lists iX; current orderability and price remain unverified.
 
 ### BMW
-- iX1 Long Wheelbase — current eDrive20L M Sport normalized from BMW India September 2026 brochure and product page: 150 kW/204 hp, 250 Nm, FWD, 66.4 kWh, 546 km MIDC, 8.6 s, 130 kW DC and 11 kW AC. Current BMW India product page displays ₹54.70L; page tax basis and city applicability require dealer confirmation. Older secondary launch coverage around ₹49L is not treated as an OEM price observation. Transmission not stated and left blank.
+- iX1 Long Wheelbase — current eDrive20L M Sport normalized from BMW India September 2026 brochure and product page: 150 kW/204 hp, 250 Nm, FWD, 66.4 kWh, 546 km MIDC, 8.6 s, 130 kW DC and 11 kW AC. Current BMW India product page displays ₹54.70L; page tax basis and city applicability require dealer confirmation. Transmission not stated and left blank.\n\n### BMW\n- M2 — standard M2 automatic/manual (480 hp; 600/550 Nm; 8-speed auto/optional 6-speed manual), M2 CS (530 hp/650 Nm, RWD, 8-speed auto, ₹1.66Cr March 2026 launch price) and M2 xDrive Turbo Edition (480 hp, 3.7 s, limited pre-orders opened Oct 2026) recorded separately. Current catalogue displays standard M2 from ₹1.065Cr. Turbo Edition India price, torque and transmission not announced in OEM release; CS launch price retained as historical after Apr 2026 range price increase. Partial.
