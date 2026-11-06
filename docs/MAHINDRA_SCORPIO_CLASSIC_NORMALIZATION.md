@@ -39,3 +39,22 @@ Source reuse and redistribution remain `review_required` / `unknown`. No Firesto
 - Classic S11 detail page: https://auto.mahindra.com/suv/scorpio-classic-classic-s11-diesel/SCRCM088817973500.html
 - Mahindra official Scorpio Classic brochure: https://auto.mahindra.com/on/demandware.static/-/Sites-amc-Library/default/dw560e60c0/SCRC/Scorpio-Classic-Brochure_SV.pdf
 - Current owner manual (revision August 2026): https://mvault-cloudfront.mahindra.com/Owner%27s-Manual/Scorpio%20Classic_HTML_01Sep2026/file3Dc405Busers5Bs054995Bdesktop5B-scorpioclassic-om.ditamap.html
+
+
+## Live OEM price recheck — 2026-11-07
+
+The earlier price conflict is resolved on the current live OEM pages. Both the online selector and the two model detail pages now show identical ex-showroom amounts:
+
+| Grade | Current selector | Current detail page | Result |
+|---|---:|---:|---|
+| CLASSIC S DIESEL | ₹13,43,200 | ₹13,43,200 | Aligned |
+| CLASSIC S11 DIESEL | ₹17,48,400 | ₹17,48,400 | Aligned |
+
+The previous detail-page captures of ₹13,36,700 and ₹17,39,900 are retained only as superseded historical observations in this workpaper narrative; they are not current prices. The four current source observations are updated to the live values and marked `official_sources_aligned`.
+
+The pages still provide no explicit price effective date or city scope. These are current OEM ex-showroom observations, not dated city-wise on-road quotes. Source reuse and redistribution remain unapproved.
+
+Rechecked sources:
+- Selector: https://auto.mahindra.com/own-online/variant-selection?mgc=SCRC
+- CLASSIC S DIESEL: https://auto.mahindra.com/suv/scorpio-classic-classic-s-diesel/SCRCM088617973485.html
+- CLASSIC S11 DIESEL: https://auto.mahindra.com/suv/scorpio-classic-classic-s11-diesel/SCRCM088817973500.html
