@@ -99,7 +99,8 @@
 | Tata | Nexon (ICE) | [x] | [x] 63 Delhi on-road prices (secondary source) | [x] | [x] | Complete — 63 petrol/diesel/CNG combinations |
 | Tata | Punch (ICE) | [x] | [x] 26 Delhi on-road prices (secondary source) | [x] | [x] | Complete — petrol, CNG and turbo-petrol combinations |
 | Tata | Altroz | [x] | [x] 27 Balod on-road prices (secondary source) | [x] | [x] | Complete — petrol, CNG and diesel combinations |
-| Tata | Tiago (ICE) | [ ] | [ ] | [ ] | [ ] | Pending — next model |
+| Tata | Tiago (ICE) | [x] | [x] 20 Delhi on-road prices (secondary source) | [x] | [x] | Complete — 12 petrol and 8 CNG variants |
+| Tata | Curvv (ICE) | [ ] | [ ] | [ ] | [ ] | Pending — next model |
 | Tata | Nexon (ICE) | [ ] | [ ] | [ ] | [ ] | Pending |
 | Tata | Punch (ICE) | [ ] | [ ] | [ ] | [ ] | Pending |
 | Tata | Altroz | [ ] | [ ] | [ ] | [ ] | Pending |
