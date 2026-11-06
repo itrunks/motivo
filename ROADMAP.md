@@ -222,7 +222,7 @@
 | Q7 | [x] | [ ] | [x] | Partial — current model-level performance and optional 7-seat layout captured; price/grade matrix unavailable |
 | Q8 | [x] | [ ] | [x] | Partial — official 3.0L V6 quattro configuration captured; current India price unavailable |
 | A4 | [x] | [ ] | [x] | Partial — Premium, Premium Plus and Technology trims mapped; grade-level prices/equipment unavailable |
-| A6 | [ ] | [ ] | [ ] | Pending |
+| A6 | [x] | [ ] | [x] | Partial — one A6 45 TFSI configuration captured; current price/trim matrix unavailable |
 | Q3 Sportback | [ ] | [ ] | [ ] | Pending |
 | SQ8 | [ ] | [ ] | [ ] | Pending |
 | RS Q8 Performance | [ ] | [ ] | [ ] | Pending |
