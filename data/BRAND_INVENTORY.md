@@ -230,3 +230,16 @@ The companion variant-source worklog now includes the Tesla **Model Y** candidat
 - Tesla's captured India product page does not expose battery capacity in kWh. Do not import third-party estimated battery capacities or motor outputs as OEM-confirmed facts. The discontinued earlier Model Y RWD/Long Range RWD entries are not carried forward as current variants.
 
 The Tesla row is a source observation only. No Tesla variant price is approved for production import; exact configurator price basis, current orderability, model-year applicability and OEM content-reuse permission remain review gates.
+
+
+## VinFast variant-source audit (2026-11-06)
+
+The companion variant-source worklog now includes all **three VinFast model candidates** from the current model audit: VF 6, VF 7 and VF MPV 7.
+
+- **VF 6:** the official India launch release identifies Earth, Wind and Wind Infinity. All use a 59.6 kWh battery and FWD; Earth is specified at 130 kW/250 Nm and 468 km ARAI range, while Wind/Wind Infinity use 150 kW/310 Nm and 463 km. Wind Infinity adds the fixed panoramic glass roof. The current official product page displays ₹18,19,000 as a model-level starting amount, not a per-trim price.
+- **VF 7:** the official launch release identifies Earth, Wind, Wind Infinity, Sky and Sky Infinity. Earth uses 59.6 kWh, 130 kW/250 Nm, FWD and 438 km ARAI range. Wind/Wind Infinity use 70.8 kWh, 150 kW/310 Nm, FWD and 532 km. Sky/Sky Infinity use 70.8 kWh, dual-motor AWD, 260 kW/500 Nm and 510 km. Infinity grades add the fixed panoramic glass roof. The official product page displays a ₹22,99,000 model-level starting amount, but no current trim-wise price matrix was captured.
+- **VF MPV 7:** the official 2026-04-15 launch release describes one seven-seat FWD configuration, 60.13 kWh usable battery, 150 kW/280 Nm and 517 km ARAI range. No individual grade/trim names are exposed in the captured India product page. The page displays ₹20,39,000, while the official homepage displays ₹24.49 lakh as the starting amount. This is a material OEM source conflict; do not choose either amount or infer a BaaS/price-basis explanation without confirmation.
+- Third-party 2026 variant price tables were consulted only as discrepancy leads. They are not substituted for missing official OEM variant price rows. The official VinFast total-cost page itself warns that displayed pricing is general reference and final pricing varies by model, variant, configuration, location, taxes, fees and promotions.
+- No variant prices are approved for production import. Obtain dated official dealer/configurator quotations, reconcile current price basis, and confirm the current homologated battery/specification values before staging.
+
+The VinFast batch adds three source-review rows. The overall variant-source worklog now contains **72 model rows**: Hyundai 14, Kia 9, Toyota 13, MG Motor 10, Tata Motors 16, MINI 5, Force Motors 1, Tesla 1 and VinFast 3. This remains a research worklog, not a production import manifest.
