@@ -3,7 +3,7 @@
 **Project target:** 100% evidence-backed catalogue normalization and validation.  
 **Working branch:** `feature/catalogue-source-audit-ingestion`  
 **Current PR:** #1 — https://github.com/itrunks/motivo/pull/1  
-**Last checkpoint:** 2026-11-06 — Hyundai i20 committed and verified
+**Last checkpoint:** 2026-11-06 — Hyundai i20 N Line committed and verified
 
 ## Progress rules
 
@@ -26,6 +26,7 @@
 - [x] Hyundai — Aura structure normalization and evidence notes
 - [x] Hyundai — Grand i10 NIOS structure normalization and evidence notes
 - [x] Hyundai — i20 structure normalization and evidence notes
+- [x] Hyundai — i20 N Line structure normalization and evidence notes
 - [ ] Remaining Hyundai models in the work queue
 - [ ] Remaining brands/models in the work queue (process one evidence-backed model at a time)
 - [ ] Reconcile normalized model/variant rows against the 251-row work queue and 502-row crosswalk
@@ -44,7 +45,8 @@
 | Hyundai | Venue | [x] | [ ] | [x] | [x] | Complete — structure only |
 | Hyundai | Exter | [x] | [x] launch-price observations; effective date/current city quote not confirmed | [x] | [x] | Complete — staging only |
 | Hyundai | Verna | [x] | [x] dated launch observations; current city quote needs confirmation | [x] | [x] | Complete — staging only |
-| Hyundai | Remaining work-queue models | [ ] | [ ] | [ ] | [ ] | Pending |
+| Hyundai | i20 N Line | [x] | [ ] | [x] | [x] | Complete — structure only; price matrix not captured |
+| Hyundai | Remaining work-queue models | [ ] | [ ] | [ ] | [ ] | Pending — next: Alcazar |
 | Other brands | Work-queue models | [ ] | [ ] | [ ] | [ ] | Pending |
 
 ## Resume/checkpoint protocol
