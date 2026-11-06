@@ -75,6 +75,8 @@
 | Toyota | Innova Crysta | [x] | [x] dated prices | [x] | [x] | Complete — 9 grade/seating configurations |
 | Toyota | Innova Hycross | [x] | [x] model-level starting price | [x] | [x] | Complete — 12 grade/seating configurations |
 | Toyota | Urban Cruiser Hyryder | [x] | [x] 11 configurator observations | [x] | [x] | Complete — 13 configurator variants |
+| Toyota | Rumion | [x] | [x] 4 current + 1 historical price observation | [x] | [x] | Complete — 8 grade/powertrain combinations |
+| Toyota | Urban Cruiser Ebella | [ ] | [ ] | [ ] | [ ] | Pending — next |
 | Toyota | Glanza | [ ] | [x] model starting price only | [x] | [x] | Partial — 2026 trim mapping not exposed |
 | Toyota | Urban Cruiser Taisor | [ ] | [x] historical 2024 launch prices only | [x] | [x] | Blocked — current 2026 variant matrix/price not captured |
 | Toyota | Fortuner | [ ] | [x] model start + Leader Edition prices | [x] | [x] | Partial — powertrain families only; grade mapping unavailable |
