@@ -71,7 +71,7 @@
 | Kia | Carens Clavis | [ ] | [ ] | [x] | [x] | Blocked — unnamed trim column and price/powertrain reconciliation |
 | Kia | Carnival | [x] | [x] 1 price | [x] | [x] | Complete — one India retail trim |
 | Kia | EV6 | [x] | [ ] | [x] | [x] | Complete — current GT-Line AWD only; price unavailable |
-| Kia | EV9 | [ ] | [ ] | [ ] | [ ] | Pending — next |
+| Kia | EV9 | [x] | [x] 1 price observation | [x] | [x] | Complete — one India retail trim |
 
 ## Resume/checkpoint protocol
 
