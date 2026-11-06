@@ -93,7 +93,8 @@
 | Tata | Curvv.ev | [x] | [x] 3 official Series X prices | [x] | [x] | Complete — current Series X only |
 | Tata | Tigor.ev | [x] | [x] model starting price only | [x] | [x] | Complete — 4 grades; trim prices not exposed |
 | Tata | Sierra (ICE) | [x] | [x] 59 Delhi on-road prices (secondary source) | [x] | [x] | Complete — 59 unique variants; official price matrix still required |
-| Tata | Harrier (ICE) | [ ] | [ ] | [ ] | [ ] | Pending — next model |
+| Tata | Harrier (ICE) | [x] | [x] 50 Delhi on-road prices (secondary source) | [x] | [x] | Complete — 50 variants; dealer quote and rights review required |
+| Tata | Safari | [ ] | [ ] | [ ] | [ ] | Pending — next model |
 | Tata | Safari | [ ] | [ ] | [ ] | [ ] | Pending |
 | Tata | Nexon (ICE) | [ ] | [ ] | [ ] | [ ] | Pending |
 | Tata | Punch (ICE) | [ ] | [ ] | [ ] | [ ] | Pending |
