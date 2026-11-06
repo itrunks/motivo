@@ -50,7 +50,7 @@
 
 | Brand | Model | Structure | Price evidence | Evidence notes | Commit verification | Status |
 |---|---|---|---|---|---|---|
-| Hyundai | Creta | [x] | [x] OEM observations; current city price still needs confirmation | [x] | [x] | Complete — staging only |
+| Hyundai | Creta | [x] | [x] OEM observations; current city price needs confirmation | [x] | [x] | Complete — staging only |
 | Hyundai | Venue | [x] | [ ] | [x] | [x] | Complete — structure only |
 | Hyundai | Exter | [x] | [x] launch observations; effective date/current city quote not confirmed | [x] | [x] | Complete — staging only |
 | Hyundai | Verna | [x] | [x] dated launch observations; current city quote needs confirmation | [x] | [x] | Complete — staging only |
@@ -65,7 +65,7 @@
 | Hyundai | Creta N Line | [x] | [ ] | [x] | [x] | Complete — structure only |
 | Hyundai | BAYON | [x] | [ ] | [x] | [x] | Complete — structure only |
 | Kia | Sonet | [x] | [x] 8 trim prices; HTK missing | [x] | [x] | Complete — 24 combinations |
-| Kia | Seltos | [x] | [x] 12 trim prices | [x] | [x] | Staged — T-GDi 6iMT trim mapping unresolved |
+| Kia | Seltos | [x] | [x] 12 trim prices | [x] | [x] | Partial — T-GDi 6iMT trim mapping unresolved |
 | Kia | Carens Clavis EV | [x] | [x] 9 trim prices | [x] | [x] | Complete — 17 battery/seating combinations |
 | Kia | Syros | [x] | [x] 7 trim prices | [x] | [x] | Complete — 17 combinations |
 | Kia | Carens Clavis | [ ] | [ ] | [x] | [x] | Blocked — unnamed trim column and price/powertrain reconciliation |
@@ -75,14 +75,26 @@
 | Toyota | Innova Crysta | [x] | [x] dated prices | [x] | [x] | Complete — 9 grade/seating configurations |
 | Toyota | Innova Hycross | [x] | [x] model-level starting price | [x] | [x] | Complete — 12 grade/seating configurations |
 | Toyota | Urban Cruiser Hyryder | [x] | [x] 11 configurator observations | [x] | [x] | Complete — 13 configurator variants |
-| Toyota | Rumion | [x] | [x] 4 current + 1 historical price observation | [x] | [x] | Complete — 8 grade/powertrain combinations |
-| Toyota | Urban Cruiser Ebella | [ ] | [ ] | [ ] | [ ] | Pending — next |
-| Toyota | Glanza | [ ] | [x] model starting price only | [x] | [x] | Partial — 2026 trim mapping not exposed |
-| Toyota | Urban Cruiser Taisor | [ ] | [x] historical 2024 launch prices only | [x] | [x] | Blocked — current 2026 variant matrix/price not captured |
-| Toyota | Fortuner | [ ] | [x] model start + Leader Edition prices | [x] | [x] | Partial — powertrain families only; grade mapping unavailable |
+| Toyota | Glanza | [ ] | [x] model starting price | [x] | [x] | Partial — 2026 trim mapping not published |
+| Toyota | Urban Cruiser Taisor | [ ] | [x] historical launch prices | [x] | [x] | Blocked — current 2026 matrix/price not captured |
+| Toyota | Fortuner | [ ] | [x] model start + Leader Edition prices | [x] | [x] | Partial — grade mapping unavailable |
 | Toyota | Hilux | [x] | [x] 3 launch prices | [x] | [x] | Complete — 3 current grades |
 | Toyota | Camry | [x] | [x] 1 current price | [x] | [x] | Complete — one current hybrid configuration |
-| Toyota | Remaining work-queue models | [ ] | [ ] | [ ] | [ ] | Pending — next: Legender |
+| Toyota | Rumion | [x] | [x] 4 current + 1 historical price observation | [x] | [x] | Complete — 8 grade/powertrain combinations |
+| Toyota | Urban Cruiser Ebella | [x] | [x] E3 price; E1/E2 unavailable | [x] | [x] | Complete — 3 battery/grade configurations |
+| Toyota | Vellfire | [x] | [x] historical grade prices; current model start only | [x] | [x] | Complete — 2 grades |
+| Toyota | Land Cruiser 300 | [x] | [x] dated grade prices + current listing discrepancy | [x] | [x] | Complete — 2 grades |
+| Toyota | Legender | [ ] | [x] model start + dated launch prices | [x] | [x] | Partial — current grade mapping unavailable |
+| MG | Comet EV | [x] | [x] 5 standard-purchase prices | [x] | [x] | Complete — 5 current variants |
+| MG | Windsor EV | [x] | [x] 6 standard/edition prices | [x] | [x] | Complete — 5 grades + INDULGE |
+| MG | ZS EV | [x] | [x] 6 current prices | [x] | [x] | Complete — 6 retail/interior configurations |
+| MG | Hector | [ ] | [x] 2 current Storm edition prices | [x] | [x] | Partial — full trim/powertrain matrix unavailable |
+| MG | Astor | [x] | [x] 7 prices effective 2026-01-02 | [x] | [x] | Complete — dealer order availability caveat |
+| MG | Hector Tomahawk EV | [x] | [x] 4 full-ownership prices | [x] | [x] | Complete — 4 grade/seating configurations |
+| MG | Hector Tomahawk PHEV | [x] | [x] 2 full-ownership prices | [x] | [x] | Complete — 2 current 7-seat configurations |
+| MG | Majestor | [ ] | [x] 2 model-level price observations | [x] | [x] | Partial — grade/seat/drive mapping unavailable |
+| MG | Cyberster | [x] | [x] full ownership + BaaS price bases | [x] | [x] | Complete — one roadster configuration |
+| MG | M9 | [x] | [x] launch + BaaS + Couture price bases | [x] | [x] | Complete — standard and Couture Edition |
 
 ## Resume/checkpoint protocol
 
