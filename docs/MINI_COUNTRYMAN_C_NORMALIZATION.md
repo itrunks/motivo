@@ -4,15 +4,21 @@ Checked: 2026-11-06
 
 ## Deliverable
 
-- `data/mini-countryman-c-variant-price-observations.csv`: one current India retail configuration with powertrain and Delhi on-road price observation.
+- `data/mini-countryman-c-variant-structure.csv`: one current India retail configuration with OEM technical specifications.
+- `data/mini-countryman-c-official-price-observations.csv`: one official June 2026 ex-showroom price.
+- `data/mini-countryman-c-variant-price-observations.csv`: one secondary Delhi on-road price observation.
 
 ## Current India configuration
 
-MINI India lists the Countryman C as its locally assembled entry Countryman SUV. The India configuration uses a 1.5-litre TwinPower Turbo three-cylinder petrol engine, 1499 cc, 156 PS, 240 Nm, 7-speed DCT and front-wheel drive. Seating capacity is five.
+MINI India lists the Countryman C as its locally assembled entry Countryman SUV. The June 2026 official specification sheet confirms one India configuration: 1.5-litre TwinPower Turbo three-cylinder petrol engine, 1499 cc, 156 hp / 115 kW, 240 Nm, 7-speed Steptronic automatic transmission and front-wheel drive. Seating capacity is five. Classic/Favoured style selections are personalization packages and are not treated as separate powertrain variants.
 
 ## Price basis
 
-Autocar India's Countryman variant page lists the Countryman C at **₹55.34 lakh on-road Delhi**. The official MINI India model page lists a ₹47.50 lakh starting price; the official figure is the manufacturer-listed base price and is kept separate from the on-road observation.
+Autocar India's Countryman variant page lists the Countryman C at **₹55.34 lakh on-road Delhi**. The June 2026 official specification sheet and MINI India model-range page list ₹47.50 lakh ex-showroom. The official amount is kept separate from the ₹55.34 lakh secondary on-road Delhi observation.
+
+## Status
+
+Complete for the currently promoted India Countryman C configuration: one official powertrain/configuration, official ex-showroom price and a separate secondary Delhi on-road observation. The source rights gate remains open.
 
 ## Rights and import gate
 
