@@ -1,0 +1,7 @@
+brand_id,model_name,variant,battery_kwh,motor_type,motor_power_kw,motor_torque_nm,range_midc_km,drive,seats,body_style,source_url,checked,source_status,commercial_reuse,redistribution
+tata,Punch.ev,Smart 30,30,PMSM,65,154,365-375,FWD,5,SUV,https://ev.tata.cars/punch/ev/price.html,2026-11-06,review_required,unknown,unknown
+tata,Punch.ev,Smart+ 30,30,PMSM,65,154,365-375,FWD,5,SUV,https://ev.tata.cars/punch/ev/price.html,2026-11-06,review_required,unknown,unknown
+tata,Punch.ev,Smart+ 40,40,PMSM,95,154,468,FWD,5,SUV,https://ev.tata.cars/punch/ev/price.html,2026-11-06,review_required,unknown,unknown
+tata,Punch.ev,Adventure 40,40,PMSM,95,154,468,FWD,5,SUV,https://ev.tata.cars/punch/ev/price.html,2026-11-06,review_required,unknown,unknown
+tata,Punch.ev,Empowered 40,40,PMSM,95,154,468,FWD,5,SUV,https://ev.tata.cars/punch/ev/price.html,2026-11-06,review_required,unknown,unknown
+tata,Punch.ev,Empowered+ S 40,40,PMSM,95,154,468,FWD,5,SUV,https://ev.tata.cars/punch/ev/price.html,2026-11-06,review_required,unknown,unknown
