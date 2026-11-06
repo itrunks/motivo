@@ -88,3 +88,18 @@ The companion `variant-source-audit.csv` begins Step 5 with an official-source p
 - A missing or dynamically empty OEM table is not evidence that the model has no variants.
 - Conflicting OEM values are quarantined and must not be resolved by selecting the more convenient value.
 - Third-party variant/price pages may be used as discrepancy leads only, not as final publication evidence when an OEM/dealer source is required.
+
+
+### Hyundai follow-on batch (2026-11-06)
+
+The variant-source worklog now covers **10 Hyundai models**: Creta, Venue, Exter, Verna, Aura, Grand i10 NIOS, i20, i20 N Line, Alcazar, Creta Electric and IONIQ 5 (11 rows because the original four are retained and seven more were added).
+
+- Aura: official feature matrix identifies E/S/SX/SX(O) and references SX+ AMT; confirm current SX+ retail naming and prices.
+- Grand i10 NIOS: official price-page text names petrol MT, AMT and CNG trim families; dynamic city-price table was empty in the captured content.
+- i20: official page names Era through Asta(O) Knight trim families and confirms 1.2L petrol MT/IVT; no individual price rows were exposed.
+- i20 N Line: official page names N6/N8, dual-tone variants and 6MT/7DCT; no individual price rows were exposed.
+- Alcazar: official page confirms petrol/diesel, MT/DCT/AT and 6-/7-seat layouts; exact trim labels were not exposed, so no combinations were generated.
+- Creta Electric: official highlights page identifies five 42 kWh and four 51.4 kWh configurations; BaaS pricing must remain separate from full-battery vehicle pricing.
+- IONIQ 5: the official catalogue exposes a single model-card ex-showroom amount and 72.6 kWh battery, not a verified variant price matrix.
+
+The Hyundai batch currently has 11 model records in the worklog. All remain evidence-review records; none is an approved variant-price import. The source worklog deliberately records empty/dynamic price tables as missing evidence rather than filling values from third-party aggregators.
