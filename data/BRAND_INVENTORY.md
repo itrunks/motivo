@@ -596,3 +596,17 @@ Added source-review rows for all **four Volkswagen model candidates**: Taigun, T
 No Volkswagen price is approved for production import. Confirm current state/dealer quotation, effective date, allocation and exact model-year/grade mapping before staging. Do not import global Golf R/Clubsport or other non-India variants.
 
 The Volkswagen batch adds four rows. The overall variant-source worklog now contains **242 model rows** across 32 brands; nine of 251 model candidates remain without variant-source rows.
+
+## Volvo Cars variant-source audit (2026-11-06)
+
+Added source-review rows for all **five Volvo Cars model candidates**: XC90, XC60, EC40, EX30 and EX90.
+
+- **XC90:** current Volvo India quote flow lists MY2026. India configuration is B5 AWD petrol mild hybrid, 8-speed automatic and 7 seats. Current Volvo India page displays ₹98.80 lakh as a model-level purchase amount.
+- **XC60:** current quote flow lists MY2027. India configuration is B5 AWD petrol mild hybrid, 8-speed automatic and 5 seats. Current India page displays ₹70.90 lakh as model-level purchase amount.
+- **EC40:** current quote flow lists MY2027; India page displays ₹59 lakh. The previous MY25 E80 Ultra price PDF is historical; current battery/motor/drive/grade mapping was not exposed in the captured quote page.
+- **EX30:** current quote flow lists MY2027; India page displays ₹41 lakh. The older MY26 Ultra price PDF is historical and does not establish current MY27 India trim/battery/drive mapping.
+- **EX90:** India launch reporting identifies a single 6-seat dual-motor AWD configuration and 625km WLTP claim. Current Volvo India page displays ₹1.26 crore. Exact India grade suffix and final dealer price remain to be confirmed.
+
+Volvo's official quote flow now lists the five current candidate models and MY26/MY27 model years. The older MY25/MY26 price PDF is retained only as historical context; current homepage amounts are model-level observations, not grade-level prices. Confirm current model year, battery/motor/drive configuration, local trim label, stock/orderability and written dealer quotation before staging. No Volvo price is approved for production import.
+
+The Volvo Cars batch adds five rows. The overall variant-source worklog now contains **247 model rows** across 33 brands; four of 251 model candidates remain without variant-source rows.
