@@ -3,7 +3,7 @@
 **Project target:** 100% evidence-backed catalogue normalization and validation.  
 **Working branch:** `feature/catalogue-source-audit-ingestion`  
 **Current PR:** #1 — https://github.com/itrunks/motivo/pull/1  
-**Last checkpoint:** 2026-11-06 — BE 6 SPORTEQ eight-grade full-battery matrix and published BaaS observations committed; BaaS gaps remain explicit
+**Last checkpoint:** 2026-11-06 — XEV 9e standard-pack historical prices, Cineluxe Edition price and current BaaS starting point captured; current full price matrix remains partial
 
 ## Progress rules
 
@@ -44,6 +44,7 @@
 - [ ] Mahindra — Bolero B4/B6 price-version discrepancies reconciled (four grades normalized; two current/prior selector amounts differ)
 - [ ] Mahindra — XUV400 full current range/orderability verified (only one selector card exposed; EL PRO ST crosswalk and charger inclusion need confirmation)
 - [x] Mahindra — BE 6 SPORTEQ eight-grade full-battery price matrix captured; BaaS upfront observations and charger exclusion kept separate
+- [ ] Mahindra — XEV 9e current full-battery grade matrix verified (2025 standard prices are historical; Cineluxe and BaaS observations captured)
 - [ ] Remaining brands/models in the work queue (process one evidence-backed model at a time)
 - [ ] Reconcile normalized model/variant rows against the 251-row work queue and 502-row crosswalk
 - [ ] Resolve source permission / commercial reuse / redistribution status for every source intended for production
@@ -139,6 +140,7 @@
 | Mahindra | Bolero | [x] | [ ] 4 current selector prices; 2 version conflicts | [x] | [x] | Partial — four grades normalized; current/prior selector captures disagree for B4 and B6 |
 | Mahindra | XUV400 | [ ] | [x] 1 current selector price observation | [x] | [x] | Partial — only one card exposed; current orderability and charger inclusion require dealer confirmation |
 | Mahindra | BE 6 SPORTEQ | [x] | [x] 10 full-battery + 2 BaaS price observations | [x] | [x] | Complete — eight OEM grades and all published battery-price combinations; BaaS and charger caveats preserved |
+| Mahindra | XEV 9e | [ ] | [ ] 4 historical pack prices + 1 Cineluxe price + model-level BaaS start | [x] | [x] | Partial — standard-pack prices are historical; current grade-wise full-battery/BaaS prices unavailable |
 | Maruti Suzuki | Dzire | [x] | [x] 11 official ex-showroom prices | [x] | [x] | Complete — petrol/CNG manual and AGS including new CNG AGS |
 | Maruti Suzuki | Brezza | [x] | [x] 13 October 2026 ex-showroom prices (secondary source) | [x] | [x] | Complete — turbo Boosterjet, K15C petrol and S-CNG kept distinct |
 | Maruti Suzuki | Grand Vitara | [x] | [x] 20 Delhi on-road prices (secondary source) | [x] | [x] | Complete — petrol, CNG, strong hybrid and ALLGRIP AWD kept distinct |
