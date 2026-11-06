@@ -254,7 +254,7 @@ A structural and source-quality review was completed across the 72-row `variant-
 - 72 variant-source rows, 8 columns, no blank fields, malformed rows, or duplicate brand/model pairs.
 - All 72 rows match an existing model candidate; no extra rows.
 - 179 of 251 model candidates (71.3%) still have no variant-source row. Coverage is 28.7% across 9 of 35 brands; 26 brands have not yet entered the variant-source pass.
-- The file currently uses 22 distinct audit-status labels. None is an approved/import-ready status. A controlled status vocabulary should be introduced in a later schema cleanup.
+- The file currently uses 23 distinct audit-status labels. None is an approved/import-ready status. A controlled status vocabulary should be introduced in a later schema cleanup.
 
 ### Source and price exceptions
 
