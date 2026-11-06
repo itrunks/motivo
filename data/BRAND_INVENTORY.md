@@ -430,3 +430,18 @@ Added source-review rows for all **five Lexus model candidates**: ES, NX, RX, LX
 Lexus India model/variant evidence is split across official brochures, 2026 launch material and authorized retailer pages. Retailer-displayed amounts are clearly kept separate from manufacturer-issued price evidence. Confirm current OEM price sheets, model-year, exact equipment/grade mapping, dealer allocation and content-reuse permission before staging. No Lexus price is approved for production import.
 
 The Lexus batch adds five rows. The overall variant-source worklog now contains **166 model rows** across 20 brands; 85 of 251 model candidates remain without variant-source rows.
+
+## Maserati variant-source audit (2026-11-06)
+
+Added source-review rows for all **seven Maserati model candidates**: Grecale, Grecale Folgore, GranTurismo, GranCabrio, MCPURA, MCPURA Cielo and GT2 Stradale.
+
+- **Grecale:** the current official India configurator lists Grecale 300PS mild hybrid, Modena 330PS mild hybrid, Modena V6 390PS petrol and Trofeo 530PS petrol. Official configurator starting prices are ₹1.14 crore, ₹1.29 crore, ₹1.39 crore and ₹2.00 crore respectively. These are manufacturer page observations; confirm delivery-date quote and option/tax scope.
+- **Grecale Folgore:** retained as a separate electric model identity. Official configurator lists 550PS AWD and ₹1.90 crore starting price. The October 30 OEM India release confirms updated Folgore range improvements.
+- **GranTurismo:** official India configurator lists 490, Trofeo and Folgore configurations. V6 490/Trofeo are AWD; Folgore is electric AWD. Current numeric India variant prices did not render in the captured configurator output.
+- **GranCabrio:** official India configurator lists 490, Trofeo and Folgore configurations. Kept separate from the GranTurismo coupe; current numeric India prices were not captured.
+- **MCPURA / MCPURA Cielo:** official India configurator lists 2027 model-year coupe and convertible entries, each with 630PS Nettuno V6 and RWD. No India price captured; verify local allocation and orderability.
+- **GT2 Stradale:** October 30 OEM release confirms India debut/display and the 640hp road-legal GT2 derivative; configurator lists a 2027 entry but does not prove retail booking or price. Dealer confirmation required. MCXtrema is track-only and excluded from the passenger retail model queue.
+
+The 2026-10-30 OEM India announcement confirms the refreshed Grecale, GranTurismo and GranCabrio range and India debut of GT2 Stradale. The current India configurator is used for exact product configurations and visible Grecale pricing; media-reported GranTurismo/GranCabrio amounts are not substituted for OEM price evidence. No Maserati price is approved for production import except as a recorded source observation pending effective-date/dealer verification.
+
+The Maserati batch adds seven rows. The overall variant-source worklog now contains **173 model rows** across 21 brands; 78 of 251 model candidates remain without variant-source rows.
