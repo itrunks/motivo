@@ -109,6 +109,7 @@
 | Tata | Tiago (ICE) | [ ] | [ ] | [ ] | [ ] | Pending |
 | Tata | Curvv (ICE) | [ ] | [ ] | [ ] | [ ] | Pending |
 | Tata | Tigor (ICE) | [ ] | [ ] | [ ] | [ ] | Pending |
+| Tesla | Model Y | [x] | [x] 2 official base prices + inventory total observations | [x] | [x] | Complete — Premium RWD and 6-seat Model Y L AWD; price bases separated |
 | Force Motors | Gurkha | [x] | [x] 2 official ex-showroom price observations | [x] | [x] | Complete — 3-door 4-seat and 5-door 7-seat 4WD configurations |
 | MINI | Cooper (3-Door) | [x] | [x] 3 Delhi on-road observations | [x] | [x] | Complete — 3 petrol trim/edition variants |
 | MINI | Cooper Convertible | [x] | [x] 3 Delhi on-road observations | [x] | [x] | Complete — 3 petrol convertible editions |
