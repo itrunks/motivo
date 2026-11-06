@@ -122,6 +122,8 @@
 | Maruti Suzuki | XL6 | [x] | [x] 7 official NEXA ex-showroom prices | [x] | [x] | Complete — 6-seat petrol Smart Hybrid and CNG variants |
 | Maruti Suzuki | Invicto | [x] | [x] 3 official NEXA ex-showroom prices | [x] | [x] | Complete — 7-seat and 8-seat strong-hybrid configurations |
 | Maruti Suzuki | e Vitara | [x] | [x] 3 battery-grade prices (secondary) + official BaaS offer | [x] | [x] | Complete — 49/61 kWh LFP, Delta/Zeta/Alpha; BaaS separated |
+| Mahindra | XUV 3XO | [x] | [x] 31 Fatehabad on-road + 18 OEM ex-showroom observations | [x] | [x] | Complete — 31 variants; official selector price coverage partial, price sets kept separate |
+| Mahindra | Thar | [ ] | [ ] | [ ] | [ ] | Pending — next model |
 | Maruti Suzuki | Dzire | [x] | [x] 11 official ex-showroom prices | [x] | [x] | Complete — petrol/CNG manual and AGS including new CNG AGS |
 | Maruti Suzuki | Brezza | [x] | [x] 13 October 2026 ex-showroom prices (secondary source) | [x] | [x] | Complete — turbo Boosterjet, K15C petrol and S-CNG kept distinct |
 | Maruti Suzuki | Grand Vitara | [x] | [x] 20 Delhi on-road prices (secondary source) | [x] | [x] | Complete — petrol, CNG, strong hybrid and ALLGRIP AWD kept distinct |
