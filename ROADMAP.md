@@ -239,7 +239,7 @@
 | M340i | [x] | [x] ₹77.80L current listing; ₹75.40L legacy page | [x] | Partial — current technical tune unclear; 2021/2023 official spec sheets differ |
 | X1 | [x] | [x] ₹52.90L sDrive18d; ₹50.90L model-level start | [x] | Partial — two powertrains mapped; petrol starting price not grade-assigned |
 | X1 Long Wheelbase | [x] | [x] ₹49.90L official current starting price | [x] | Complete — one petrol model configuration, 156 hp and 7-speed DCT; unspecified fields left blank |
-| X3 | [ ] | [ ] | [ ] | Pending |
+| X3 | [x] | [x] ₹69.90L petrol; ₹78.20L diesel | [x] | Partial — two current grades mapped; dedicated product page still shows conflicting ₹75.70L starting price |
 | X5 | [ ] | [ ] | [ ] | Pending |
 | X6 M60i | [ ] | [ ] | [ ] | Pending |
 | X7 | [ ] | [ ] | [ ] | Pending |
