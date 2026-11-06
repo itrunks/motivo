@@ -416,3 +416,17 @@ Added source-review rows for all **seven Land Rover model candidates**: Range Ro
 Land Rover's current India pages explicitly caution that global-market specifications/options may differ locally and direct customers to authorized retailers for current availability and pricing. The 2024 price PDF and retail-offer pages are historical; they are not used as current prices. Confirm exact India grade/engine/body-style combinations, current stock/orderability, price effective date and dealer quotation before staging. No Land Rover price is approved for production import.
 
 The Land Rover batch adds seven rows. The overall variant-source worklog now contains **161 model rows** across 19 brands; 90 of 251 model candidates remain without variant-source rows.
+
+## Lexus variant-source audit (2026-11-06)
+
+Added source-review rows for all **five Lexus model candidates**: ES, NX, RX, LX and LM.
+
+- **ES:** the India range contains ES 350h Exquisite/Luxury and ES 500e electric. Keep the 2.5L strong-hybrid and 74.68kWh dual-motor AWD electric configurations separate. 2026 launch reporting lists ₹66.10/71.80 lakh for 350h; authorized retailer page displays ES 500e from ₹91.20 lakh. A current OEM grade-price matrix was not captured.
+- **NX:** the official Lexus India 2025 brochure identifies NX 350h Exquisite, Overtrail, Luxury and F SPORT. An authorized retailer page displays current amounts for those four grades, but those are retailer observations, not a dated manufacturer price list. The global NX facelift announced in 2026 is not assumed to be the India-spec model before local launch.
+- **RX:** India grade names observed include RX 350h Exquisite and RX 500h F SPORT+. The 350h Exquisite also appears with Lexus Audio/Mark Levinson equipment distinctions in reporting; do not treat audio package as a separate grade unless the official configurator does so. Keep 350h and 500h powertrains separate.
+- **LX:** India model is LX 500d diesel; Urban and Overtrail Edition grade labels are observed in current variant reporting. Exact current manufacturer grade-price matrix was not captured. Do not import international petrol/hybrid derivatives.
+- **LM:** official brochure confirms LM 350h 7-Seater VIP and 4-Seater Ultra Luxury layouts. These are seating/grade configurations of one MPV model, not separate model identities. Authorized retailer page displays separate prices; confirm current manufacturer quote and allocation.
+
+Lexus India model/variant evidence is split across official brochures, 2026 launch material and authorized retailer pages. Retailer-displayed amounts are clearly kept separate from manufacturer-issued price evidence. Confirm current OEM price sheets, model-year, exact equipment/grade mapping, dealer allocation and content-reuse permission before staging. No Lexus price is approved for production import.
+
+The Lexus batch adds five rows. The overall variant-source worklog now contains **166 model rows** across 20 brands; 85 of 251 model candidates remain without variant-source rows.
