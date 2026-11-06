@@ -48,6 +48,7 @@ async function main() {
     if (value.entityType !== "variant" && value.entityType !== "price") throw new Error(`Unsupported entity type on line ${index + 1}`);
     return value;
   });
+  if (records.length === 0) throw new Error("Refusing to import an empty batch");
 
   const ids = new Set<string>();
   for (const record of records) {
@@ -67,20 +68,20 @@ async function main() {
   if (!getApps().length) initializeApp({projectId: process.env.GCLOUD_PROJECT || "motivo-staging"});
   const db = getFirestore();
   const batchRef = db.collection("catalogueStaging").doc(args.batchId);
-  const batch = db.batch();
-  batch.set(batchRef, {
-    batchId: args.batchId,
-    status: "draft",
-    recordCount: records.length,
-    createdAt: new Date().toISOString(),
-    target: "emulator",
-    publicationPerformed: false
-  }, {merge: false});
 
   for (let offset = 0; offset < records.length; offset += 450) {
-    const chunk = records.slice(offset, offset + 450);
-    const writeBatch = offset === 0 ? batch : db.batch();
-    for (const record of chunk) {
+    const writeBatch = db.batch();
+    if (offset === 0) {
+      writeBatch.set(batchRef, {
+        batchId: args.batchId,
+        status: "draft",
+        recordCount: records.length,
+        createdAt: new Date().toISOString(),
+        target: "emulator",
+        publicationPerformed: false
+      }, {merge: false});
+    }
+    for (const record of records.slice(offset, offset + 450)) {
       const docRef = batchRef.collection("records").doc(record.id);
       writeBatch.set(docRef, {...record, importBatchId: args.batchId, publicationStatus: "draft"}, {merge: false});
     }
