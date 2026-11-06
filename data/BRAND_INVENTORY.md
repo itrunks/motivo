@@ -272,3 +272,33 @@ A structural and source-quality review was completed across the 72-row `variant-
 - Before import, capture exact OEM variant identity, model-year applicability, powertrain/transmission/seating mapping, numeric price and price basis, effective date, city/state scope where applicable, current orderability, and OEM content-reuse permission.
 - Keep ex-showroom, inventory totals, on-road prices, BaaS upfront payments and per-kilometre rentals as separate price types.
 - The remaining 179 candidates remain unreviewed. This 72-row pilot is not a complete India passenger-car variant catalogue.
+
+
+## Maruti Suzuki variant-source audit (2026-11-06)
+
+The variant-source worklog now includes all **17 Maruti Suzuki model candidates** from the model audit: Alto K10, Celerio, Eeco, Ertiga, S-Presso, Swift, Victoris, Wagon R, Dzire, Brezza, Baleno, Grand Vitara, Fronx, Jimny, XL6, Invicto and eVitara.
+
+### Arena models
+
+- **Alto K10:** official page exposes Std (O), LXi (O), VXi (O), VXi+ (O), CNG and AGS families. Some exact card prices are visible; complete selector-to-price matrix still needs capture.
+- **Celerio:** official price page exposes LXi/VXi/ZXi and AGS variants, plus S-CNG filter. Captured card prices are partial; some rendered transmission text is inconsistent, so use exact card headings and confirm the remaining rows.
+- **Eeco:** official page mixes passenger and ambulance products. Only 5-seat/6-seat passenger, AC and 5-seat AC CNG configurations were retained. Ambulance and ambulance shell were excluded from this passenger catalogue. The page FAQ contains stale/conflicting cargo-price copy.
+- **Ertiga:** official price page exposes nine grade/powertrain combinations (LXi/VXi/ZXi/ZXi+ petrol manual/automatic and VXi/ZXi CNG) with numeric displayed prices. 1.5L K15C Smart Hybrid petrol and S-CNG are separate fuel configurations; 5MT/6AT mapping is retained.
+- **S-Presso:** eight petrol/CNG manual/AGS grade combinations are exposed. Seven displayed card amounts were captured; VXi+ (O) AGS price is not captured.
+- **Swift:** official price page exposes LXi/VXi/VXi(O)/ZXi/ZXi+ petrol, AMT and S-CNG variants. Multiple card prices were captured, but the CNG AGS selector rows need a full configurator check before the matrix is considered complete.
+- **Victoris:** official price page exposes a broad 21-card matrix across petrol, S-CNG, strong hybrid, 2WD/4WD and manual/automatic. Individual displayed prices were captured from the official page, but the full matrix still requires current effective-date and grade-mapping validation.
+- **Wagon R:** official page exposes petrol, S-CNG and a FLEX FUEL filter. LXi/VXi/ZXi grade observations and some prices were captured. Flex-fuel retail orderability and full AGS/CNG mapping need confirmation.
+- **Dzire:** official price page exposes nine named petrol/S-CNG grades with numeric displayed prices. Its top-price FAQ amount does not match the price-card amount; retain the card observation and verify before import.
+- **Brezza:** official price page explicitly says Delhi ex-showroom prices effective 2026-07-24 and exposes grade prices. The selector also renders anomalous “Turbo MT” labels, inconsistent with the 1.5L petrol/S-CNG powertrain evidence. Do not create turbo variants until Maruti clarifies the selector.
+
+### NEXA models
+
+- **Baleno:** official NEXA page lists Sigma/Delta/Zeta/Alpha/Alpha(O) petrol MT/AMT and Delta/Zeta CNG MT/AGS families. No numeric grade-wise price matrix captured.
+- **Grand Vitara:** official NEXA page separates petrol, strong hybrid, S-CNG and ALLGRIP SELECT 4x4. Exact grade and transmission mapping was captured from the official variant comparison; full current prices were not captured.
+- **Fronx:** official NEXA page maps 1.0L Boosterjet turbo, 1.2L K-series petrol and S-CNG to distinct trim families. No numeric grade-wise price matrix captured.
+- **Jimny:** official NEXA page lists Zeta/Alpha with MT/AT; brochure identifies 1.5L K15B petrol, 5MT/4AT and ALLGRIP PRO 4WD. Current orderability and price still require confirmation.
+- **XL6:** official NEXA page lists six Smart Hybrid combinations and Zeta CNG, with 6-seat layout. A FAQ typo “Apha+” was normalized to Alpha+ based on the official variant heading.
+- **Invicto:** official NEXA page lists Zeta+ 7-seat, Zeta+ 8-seat and Alpha+ 7-seat, strong hybrid only. Do not carry forward an older Alpha+ 8-seat combination without current evidence.
+- **eVitara:** official NEXA India page and configurator entry point are confirmed, but current India grade names, battery-to-grade mapping and prices were not extractable. Do not infer from international specifications or third-party variant pages; inspect the India configurator/brochure in a follow-up.
+
+The Maruti Suzuki batch adds 17 source-review rows. The overall variant-source worklog now contains **89 model rows** across 10 brands. It remains a research worklog: no Maruti price is approved for production import. Confirm exact price basis/effective date, live city/dealer orderability, model-year applicability and OEM content-reuse permission before staging.
