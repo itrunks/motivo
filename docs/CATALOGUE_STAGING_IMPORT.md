@@ -15,8 +15,9 @@ The current variant audit CSV is a research worklog, not an import manifest. It 
    python3 scripts/validate_catalogue.py path/to/import.csv --out-dir data/staging
    ```
 
-3. Review the source-specific permission record in `data/source-audit-template.csv`. Each imported record must use an exact source URL with an explicit terms/licence URL, licence name, `review_status=approved`, `commercial_reuse_allowed=yes`, and `redistribution_allowed=yes`. Public visibility is not permission.
-4. Run the reuse gate. It checks every draft row against the source audit and requires an exact URL match:
+3. Review the source-specific permission record in `data/source-registry.csv`. The current 224 source URLs are linked through `data/audit-source-crosswalk.csv`; all remain `review_required` until terms and commercial redistribution rights are documented. Each imported record must use an exact source URL with an explicit terms/licence URL, licence name, `review_status=approved`, `commercial_reuse_allowed=yes`, and `redistribution_allowed=yes`. Public visibility is not permission.
+4. Validate source mapping with `python scripts/validate_source_crosswalk.py`.
+5. Run the reuse gate. It checks every draft row against the source audit and requires an exact URL match:
 
    ```bash
    python3 scripts/approve_catalogue_sources.py data/staging/import.draft.jsonl \
@@ -25,14 +26,14 @@ The current variant audit CSV is a research worklog, not an import manifest. It 
    ```
 
    It fails closed if any source is missing, unapproved, or has unknown/denied reuse rights.
-5. Dry-run the Firestore importer:
+6. Dry-run the Firestore importer:
 
    ```bash
    cd functions && npm install && npm run build
    node lib/admin/importCatalogue.js --input ../data/staging/import.approved.jsonl --batch-id pilot-2026-11-06
    ```
 
-6. Start the Firestore emulator and explicitly write the draft batch:
+7. Start the Firestore emulator and explicitly write the draft batch:
 
    ```bash
    firebase emulators:start --only firestore
