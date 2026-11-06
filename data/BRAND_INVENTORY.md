@@ -48,3 +48,22 @@ These are **brand-level India retail-presence classifications**, not a statement
 - Lotus remains `unclear` until India retail orderability is confirmed. Aston Martin, Bentley, Ferrari and McLaren also remain `unclear` pending local dealer/orderability confirmation.
 
 The CSV is a completeness and review-control file. It is not an approved vehicle import manifest and does not grant permission to scrape, copy or redistribute OEM content.
+
+## Model-level reconciliation snapshot (2026-11-06)
+
+The companion `current-model-audit.csv` now contains **251 unique brand/model candidates across 35 brands**. Every `active_verified` brand in the brand inventory has at least one model candidate represented.
+
+- `listed_on_official_site`: 219 rows
+- `dealer_confirmation_required`: 32 rows
+- Variant-level audit: pending; model listing evidence is not proof that every derivative is currently orderable.
+- Jaguar and Genesis are intentionally excluded from the current-model candidate file because their brand status is `not_current`.
+- Lotus, Aston Martin, Bentley, Ferrari, McLaren, Rolls-Royce, Lamborghini, Force Gurkha and selected Mahindra EV candidates are held for dealer/orderability confirmation as recorded in the CSV.
+- Commercial pickups, buses, fleet vans, taxi-only products, discontinued nameplates and announced future products are excluded from the private passenger-car candidate set unless explicitly called out in the row notes.
+
+### Model identity and derivative rules
+
+- Keep separately marketed ICE and EV products separate where the OEM presents distinct model entries (for example Tata Nexon / Nexon.ev and MG Hector Tomahawk EV / PHEV).
+- Keep trims, editions, body styles, seating configurations and powertrain derivatives attached to their canonical model family unless the OEM gives them separate model identities.
+- Preserve OEM spelling and naming (including Citroën suffix-X names and official capitalization).
+- Do not convert model-level starting prices into variant prices. Do not create city on-road observations from ex-showroom amounts.
+- Every model candidate still requires exact current variant, price, model-year and source-reuse review before staging or publication.
