@@ -302,3 +302,8 @@ The variant-source worklog now includes all **17 Maruti Suzuki model candidates*
 - **eVitara:** official NEXA India page and configurator entry point are confirmed, but current India grade names, battery-to-grade mapping and prices were not extractable. Do not infer from international specifications or third-party variant pages; inspect the India configurator/brochure in a follow-up.
 
 The Maruti Suzuki batch adds 17 source-review rows. The overall variant-source worklog now contains **89 model rows** across 10 brands. It remains a research worklog: no Maruti price is approved for production import. Confirm exact price basis/effective date, live city/dealer orderability, model-year applicability and OEM content-reuse permission before staging.
+
+
+## Mahindra variant-source audit
+
+Added 13 Mahindra source-review rows to `data/variant-source-audit.csv`. Current total: 102 rows across 11 brands. No prices approved for production import; current orderability, exact variant mapping, price date/scope, EV charger/BaaS basis and OEM reuse permission remain validation gates.
