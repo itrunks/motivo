@@ -376,3 +376,16 @@ Added source-review rows for all **five Honda model candidates**: New City, New 
 No Honda price is approved for production import. Confirm current dealer/city price, price effective date, model-year and orderability (especially 2nd Gen Amaze), and OEM content-reuse permission before staging.
 
 The Honda batch adds five rows. The overall variant-source worklog now contains **147 model rows** across 16 brands; 104 of 251 model candidates remain without variant-source rows.
+
+## Jeep variant-source audit (2026-11-06)
+
+Added source-review rows for all **four Jeep India model candidates**: Compass, Meridian, Wrangler and Grand Cherokee.
+
+- **Compass:** OEM comparator lists Sport, Longitude, Trail, Limited (O), Model S (O), Track and BlackShark. The 2026-10-26 OEM press release adds Sport FWD 9AT at ₹21.99 lakh; keep it distinct from Sport MT. The full matrix uses 2.0L diesel with 6MT/9AT and selected 4x4 AT combinations; do not cross-join all trims and drivetrains.
+- **Meridian:** official comparator lists Longitude, Longitude Plus, Limited (O), Trail, Overland and Track. The July 2026 OEM release adds the 85th Anniversary Edition, limited to 85 units and based on Overland. Current comparator amounts and anniversary announcement differ by source snapshot; confirm exact current price, seating and drivetrain mapping.
+- **Wrangler:** standard India variants are Unlimited and Rubicon, both 2.0L petrol automatic 4WD. The 1941 Willys Edition is based on Rubicon and limited to 41 units; the Rubicon Whitecap Edition allocation of 25 units sold out in October 2026. Sold-out special editions are not marked as currently orderable.
+- **Grand Cherokee:** current official page lists Limited (O) at ₹63 lakh; an authorized Jeep dealer portal also lists Signature Edition. The Signature Edition is an equipment derivative of Limited (O), and current orderability/price needs confirmation. Do not import SRT or other global-market grades from legacy pages.
+
+Jeep's current model/variant pages and recent OEM releases provide useful price observations, but model-year, effective date, city scope, edition availability and exact powertrain/drive mapping must be reconfirmed before staging. No Jeep price is approved for production import.
+
+The Jeep batch adds four rows. The overall variant-source worklog now contains **151 model rows** across 17 brands; 100 of 251 model candidates remain without variant-source rows.
