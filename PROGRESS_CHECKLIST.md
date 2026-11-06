@@ -7,11 +7,11 @@ PR: https://github.com/itrunks/motivo/pull/1
 ## Overall status
 
 - Audited work queue: 251 models across 35 brands.
-- Models with normalization work committed and fetched back: 83.
+- Models with normalization work committed and fetched back: 84.
 - Completed/staging-ready model evidence: 64.
-- Partial models needing exact trim/price mapping: 18.
+- Partial models needing exact trim/price mapping: 19.
 - Explicitly blocked models: 2.
-- Not yet started: 168 models across 30 brands.
+- Not yet started: 167 models across 30 brands.
 
 **Important:** “Complete” means research/normalization files and evidence notes are committed and verified. It does not mean commercial reuse rights are approved or production import is authorized. Source rights remain `review_required` / `unknown` unless separately proven.
 
@@ -27,7 +27,7 @@ PR: https://github.com/itrunks/motivo/pull/1
 | MINI | 5 | 3 | 2 | 0 | 0 | Audited with partial price evidence |
 | Force Motors | 1 | 0 | 1 | 0 | 0 | Audited with official price conflict |
 | Tesla | 1 | 1 | 0 | 0 | 0 | Complete — two current India derivatives and official base prices verified |
-| VinFast | 3 | 0 | 1 | 0 | 2 | In progress |
+| VinFast | 3 | 0 | 2 | 0 | 1 | In progress |
 | Maruti Suzuki | 17 | 0 | 0 | 0 | 17 | Pending |
 | Mahindra | 13 | 5 | 8 | 0 | 0 | Audited with partial evidence |
 | Audi | 9 | 0 | 0 | 0 | 9 | Pending |
