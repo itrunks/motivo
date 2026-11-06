@@ -92,7 +92,7 @@ The companion `variant-source-audit.csv` begins Step 5 with an official-source p
 
 ### Hyundai follow-on batch (2026-11-06)
 
-The variant-source worklog now covers **10 Hyundai models**: Creta, Venue, Exter, Verna, Aura, Grand i10 NIOS, i20, i20 N Line, Alcazar, Creta Electric and IONIQ 5 (11 rows because the original four are retained and seven more were added).
+The variant-source worklog now covers **11 Hyundai models**: Creta, Venue, Exter, Verna, Aura, Grand i10 NIOS, i20, i20 N Line, Alcazar, Creta Electric and IONIQ 5 (11 rows because the original four are retained and seven more were added).
 
 - Aura: official feature matrix identifies E/S/SX/SX(O) and references SX+ AMT; confirm current SX+ retail naming and prices.
 - Grand i10 NIOS: official price-page text names petrol MT, AMT and CNG trim families; dynamic city-price table was empty in the captured content.
