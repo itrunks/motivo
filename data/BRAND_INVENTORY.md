@@ -583,3 +583,16 @@ Added source-review rows for all **six Škoda model candidates**: Kylaq, Slavia,
 No Škoda price is approved for production import. Confirm price effective date, city scope, current stock/allocation, model-year and OEM content-reuse permission before staging. Kylaq price cells and future Superb orderability remain explicit review gates.
 
 The Škoda batch adds six rows. The overall variant-source worklog now contains **238 model rows** across 31 brands; 13 of 251 model candidates remain without variant-source rows.
+
+## Volkswagen variant-source audit (2026-11-06)
+
+Added source-review rows for all **four Volkswagen model candidates**: Taigun, Tayron, Virtus and Golf GTI.
+
+- **Taigun:** official April 2026 facelift release confirms Comfortline, Highline, Highline Plus, Topline and GT offer structures. The official price layer exposes exact populated 1.0 TSI MT/8AT and 1.5 TSI 7DSG rows, with 8-speed torque-converter AT replacing the earlier 1.0L automatic.
+- **Tayron:** current India page lists Tayron Life (5-seat) at ₹41.99 lakh and Tayron R-Line (7-seat) at ₹47.74 lakh, both 2.0 TSI 204PS, 7-speed DSG and 4MOTION. The R-Line February introductory price of ₹46.99 lakh is historical and not used as current.
+- **Virtus:** official page uses Chrome and Sport offer structures, with Comfortline/Highline/Highline Plus/Topline/GT Line/GT Plus Chrome/GT Plus Sport grade families. Powertrains are 1.0 TSI 6MT/6AT and 1.5 TSI 7DSG. A 150-unit Anniversary Edition is based on GT Plus Sport. Full current OEM grade-price table did not render; only offer-structure starting amounts are recorded.
+- **Golf GTI:** one India 2.0 TSI 265PS 7-speed DSG FWD configuration; official homepage displays ₹50.90 lakh. Remaining allocation/orderability should be reconfirmed with dealer.
+
+No Volkswagen price is approved for production import. Confirm current state/dealer quotation, effective date, allocation and exact model-year/grade mapping before staging. Do not import global Golf R/Clubsport or other non-India variants.
+
+The Volkswagen batch adds four rows. The overall variant-source worklog now contains **242 model rows** across 32 brands; nine of 251 model candidates remain without variant-source rows.
