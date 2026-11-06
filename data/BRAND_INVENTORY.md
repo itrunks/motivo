@@ -121,3 +121,16 @@ The companion variant worklog now includes three Kia model reviews, using Kia In
 - **Carens Clavis EV:** official comparison page exposes nine trim/battery combinations and their displayed prices. Keep 42 kWh Standard Range and 51.4 kWh Extended Range distinct, and preserve 6-/7-seat configuration applicability. Battery-as-a-Service is a separate pricing/financing basis and must not be merged with full vehicle price.
 
 No Kia variant price is approved for production import yet. Source reuse terms, price basis, effective date and dealer confirmation remain outstanding. The internal dealer circular and third-party reporting are not treated as publication-grade evidence where official Kia pages can provide the same facts.
+
+
+### Kia follow-on batch (2026-11-06)
+
+The Kia source worklog now includes **seven models**: Sonet, Seltos, Carens Clavis EV, Syros, Carens Clavis, Carnival and EV6.
+
+- **Syros:** official trim-comparison page exposes seven named trims and displayed prices, plus engine/transmission availability. Preserve the comparison matrix to resolve which powertrain/gearbox is offered with each trim; do not duplicate one trim into multiple variants without that mapping.
+- **Carens Clavis:** the official 2026 brochure identifies core trim names, petrol/diesel engine families, transmission families and seating configurations. It is a brochure snapshot; the 2026 GT-Line/X-Line and HTX(O) A additions require a current official configurator/price-list check. A third-party article reports a refreshed 2026 price matrix, but this is retained as a discrepancy lead only and is not used as approved price evidence.
+- **Carnival:** official specifications confirm a 2.2L diesel, 8AT and 7-seat configuration. The official page's ₹0,00,000 placeholder is invalid as a price and must not be imported; current orderability and price need dealer confirmation.
+- **EV6:** official comparison page exposes GT-Line and GT-Line AWD, mapping 77.4 kWh RWD/AWD respectively. The GT-Line displayed ₹60,96,638 while AWD has no numeric amount; the displayed figure is kept as MSRP pending confirmation of India price basis and effective date.
+- The prior Sonet, Seltos and Carens Clavis EV observations remain unchanged.
+
+The Kia batch is still a research worklog. Officially displayed prices are not approved until price basis, effective date, variant-to-powertrain mapping and source-reuse checks are complete. No Firestore or catalogue writes have been made.
