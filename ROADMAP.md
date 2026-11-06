@@ -85,6 +85,22 @@
 | Toyota | Vellfire | [x] | [x] historical grade prices; current model start only | [x] | [x] | Complete — 2 grades |
 | Toyota | Land Cruiser 300 | [x] | [x] dated grade prices + current listing discrepancy | [x] | [x] | Complete — 2 grades |
 | Toyota | Legender | [ ] | [x] model start + dated launch prices | [x] | [x] | Partial — current grade mapping unavailable |
+| Tata | Sierra.ev | [x] | [x] 8 price observations (secondary source) | [x] | [x] | Complete — 8 battery/drive configurations; dealer price cross-check required |
+| Tata | Harrier.ev | [x] | [x] 6 prices (secondary source) | [x] | [x] | Complete — 12 battery/drive/charger configurations; dealer price cross-check required |
+| Tata | Nexon.ev | [x] | [x] 7 current price observations (secondary source) | [x] | [x] | Complete — 7 battery/trim configurations |
+| Tata | Punch.ev | [x] | [x] 6 official launch prices | [x] | [x] | Complete — 6 grade/battery configurations |
+| Tata | Tiago.ev | [x] | [x] 4 facelift prices (secondary source) | [x] | [x] | Complete — 4 battery/grade configurations |
+| Tata | Curvv.ev | [x] | [x] 3 official Series X prices | [x] | [x] | Complete — current Series X only |
+| Tata | Tigor.ev | [x] | [x] model starting price only | [x] | [x] | Complete — 4 grades; trim prices not exposed |
+| Tata | Sierra (ICE) | [x] | [x] 59 Delhi on-road prices (secondary source) | [x] | [x] | Complete — 59 unique variants; official price matrix still required |
+| Tata | Harrier (ICE) | [ ] | [ ] | [ ] | [ ] | Pending — next model |
+| Tata | Safari | [ ] | [ ] | [ ] | [ ] | Pending |
+| Tata | Nexon (ICE) | [ ] | [ ] | [ ] | [ ] | Pending |
+| Tata | Punch (ICE) | [ ] | [ ] | [ ] | [ ] | Pending |
+| Tata | Altroz | [ ] | [ ] | [ ] | [ ] | Pending |
+| Tata | Tiago (ICE) | [ ] | [ ] | [ ] | [ ] | Pending |
+| Tata | Curvv (ICE) | [ ] | [ ] | [ ] | [ ] | Pending |
+| Tata | Tigor (ICE) | [ ] | [ ] | [ ] | [ ] | Pending |
 | MG | Comet EV | [x] | [x] 5 standard-purchase prices | [x] | [x] | Complete — 5 current variants |
 | MG | Windsor EV | [x] | [x] 6 standard/edition prices | [x] | [x] | Complete — 5 grades + INDULGE |
 | MG | ZS EV | [x] | [x] 6 current prices | [x] | [x] | Complete — 6 retail/interior configurations |
