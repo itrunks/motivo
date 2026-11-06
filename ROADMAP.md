@@ -3,7 +3,7 @@
 **Project target:** 100% evidence-backed catalogue normalization and validation.  
 **Working branch:** `feature/catalogue-source-audit-ingestion`  
 **Current PR:** #1 — https://github.com/itrunks/motivo/pull/1  
-**Last checkpoint:** 2026-11-06 — BMW i5 M60 India technical and current price evidence normalized and verified
+**Last checkpoint:** 2026-11-06 — BMW i5 Long Wheelbase current India variant and displayed price normalized and verified
 
 ## Progress rules
 
@@ -264,3 +264,6 @@
 
 
 | BMW | i5 | [x] | [x] current official ex-showroom observation | [x] | [x] | Complete — one current India configuration, BMW i5 M60 xDrive; i5 LWB remains a separate queue model. |
+
+
+| BMW | i5 Long Wheelbase | [x] | [x] current official displayed ex-showroom price | [x] | [x] | Complete — one current India configuration, eDrive35L M Sport; limited First Edition noted as sold out. |
