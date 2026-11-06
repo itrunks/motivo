@@ -24,7 +24,7 @@ BMW India's current all-models catalogue lists the iX1 LWB under its full-electr
 | Top speed | 175 km/h |
 | DC charging | Up to 130 kW |
 | AC charging | 11 kW |
-| Seating | 5 seats; official BMW India 2026 X1 LWB launch release identifies the LWB X1 body as a 5-seater; not used to infer a separate iX1 variant. |
+| Seating | Not stated in the cited India iX1 technical brochure; left blank. |
 
 The current product page states 204 hp delivered to the front axle, 66.4 kWh battery and 546 km MIDC range. The September 2026 India brochure supplies the complete current technical row including 150 kW, 250 Nm, FWD, acceleration, top speed, range and charging ratings.
 
@@ -32,7 +32,7 @@ The current product page states 204 hp delivered to the front axle, 66.4 kWh bat
 
 - **Current official page observation:** ₹54,70,000, displayed as the starting price on BMW India's current iX1 LWB product page, checked 2026-11-06.
 - The product-page disclaimer states prices are exclusive of applicable taxes and statutory levies; exact invoice/tax basis and city applicability should be confirmed with an authorised BMW dealer.
-- **Historical launch observation:** ₹49,90,000 introductory ex-showroom price, announced for the 2025 launch. It is not substituted for the current displayed amount.
+- Older secondary launch coverage reported an introductory price around ₹49 lakh in January 2025. It is not recorded as an OEM price observation because the captured official sources do not establish a dated iX1 launch price.
 - No city-specific on-road price is inferred.
 
 ## Deliverables
@@ -46,7 +46,7 @@ The current product page states 204 hp delivered to the front axle, 66.4 kWh bat
 1. BMW India, current iX1 LWB product page: https://www.bmw.in/en/all-models/bmw-i/iX1/2025/bmw-ix1-highlights.html
 2. BMW India, September 2026 iX1 LWB brochure: https://www.bmw.in/content/dam/bmw/marketIN/bmw_in/brochure_pdf_2026/iX1_LWB_Brochure.pdf.asset.1790595797393.pdf
 3. BMW India, all-models catalogue: https://www.bmw.in/en/all-models.html
-4. BMW India, 2025 X1 LWB launch release (historical introductory price; petrol X1 LWB, not iX1): https://www.press.bmwgroup.com/india/article/detail/T0460233EN/when-head-and-heart-agree-the-new-bmw-x1-long-wheelbase
+4. Autocar India, 17 January 2025, secondary launch coverage (reported launch price only; not used as OEM price evidence): https://www.autocarindia.com/car-news-amp/bmw-ix1-lwb-launched-at-rs-49-lakh-auto-expo-2025
 
 ## Data governance
 
