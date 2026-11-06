@@ -193,5 +193,5 @@
 | MINI Cooper | [x] | [x] 3 Delhi on-road price observations (secondary); 2024 official ex-showroom sheet historical only | [x] | Complete — three India-listed 3-door retail labels normalized; current official price matrix not exposed |
 | MINI Cooper Convertible | [x] | [x] 1 official S ex-showroom + 3 Delhi on-road observations | [x] | Partial — S verified; base Cooper and edition-specific official prices remain unresolved |
 | MINI Countryman C | [x] | [x] ₹47.50L official ex-showroom + ₹55.34L Delhi on-road secondary | [x] | Complete — one current 1.5L petrol/FWD configuration; style packs kept as options |
-| MINI Countryman Electric | [ ] | [ ] | [ ] | Pending |
+| MINI Countryman Electric | [x] | [x] 4 Delhi on-road observations + 2 official price bases | [x] | Complete — four retail labels and powertrain configurations; price bases separated |
 | MINI John Cooper Works Countryman ALL4 | [ ] | [ ] | [ ] | Pending |
