@@ -3,7 +3,7 @@
 **Project target:** 100% evidence-backed catalogue normalization and validation.  
 **Working branch:** `feature/catalogue-source-audit-ingestion`  
 **Current PR:** #1 — https://github.com/itrunks/motivo/pull/1  
-**Last checkpoint:** 2026-11-07 — Mahindra Bolero current selector/detail prices reconciled with a ₹1 B4 delta retained; Bolero Neo price snapshots refreshed; Scorpio Classic price conflict resolved; XUV 7XO 27-combination structure normalized (complete — source rights remain pending).
+**Last checkpoint:** 2026-11-07 — Mahindra XUV400 selector rechecked: one EL PRO ST 39.4 kWh card remains; 7.2 kW wallbox inclusion confirmed by brochure, while suffix ST and current dealer order acceptance remain pending. Bolero, Bolero Neo, Scorpio Classic and XUV 7XO workpapers updated.
 
 ## Progress rules
 
