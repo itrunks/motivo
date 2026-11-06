@@ -7,11 +7,11 @@ PR: https://github.com/itrunks/motivo/pull/1
 ## Overall status
 
 - Audited work queue: 251 models across 35 brands.
-- Models with normalization work committed and fetched back: 108.
-- Completed/staging-ready model evidence: 71.
+- Models with normalization work committed and fetched back: 109.
+- Completed/staging-ready model evidence: 72.
 - Partial models needing exact trim/price mapping: 35.
 - Explicitly blocked models: 2.
-- Not yet started: 143 models across 30 brands.
+- Not yet started: 142 models across 30 brands.
 
 **Important:** “Complete” means research/normalization files and evidence notes are committed and verified. It does not mean commercial reuse rights are approved or production import is authorized. Source rights remain `review_required` / `unknown` unless separately proven.
 
@@ -31,7 +31,7 @@ PR: https://github.com/itrunks/motivo/pull/1
 | Maruti Suzuki | 17 | 0 | 0 | 0 | 17 | Pending |
 | Mahindra | 13 | 5 | 8 | 0 | 0 | Audited with partial evidence |
 | Audi | 9 | 0 | 9 | 0 | 0 | Audited with official price gaps |
-| BMW | 22 | 6 | 8 | 0 | 8 | In progress |
+| BMW | 22 | 7 | 8 | 0 | 7 | In progress |
 | BYD | 4 | 0 | 0 | 0 | 4 | Pending |
 | Citroën | 5 | 0 | 0 | 0 | 5 | Pending |
 | Honda | 5 | 0 | 0 | 0 | 5 | Pending |
@@ -114,3 +114,7 @@ PR: https://github.com/itrunks/motivo/pull/1
 
 ### BMW
 - i5 — one current India configuration, BMW i5 M60 xDrive, normalized from BMW India technical data. Current all-models catalogue lists ₹1,19,50,000 ex-showroom. i5 LWB is tracked separately and is not merged into this record.
+
+
+### BMW
+- i5 Long Wheelbase — one current India configuration, eDrive35L M Sport, normalized from BMW India product page and 7 September 2026 OEM launch release. Current product page displays ₹79,60,000 ex-showroom; launch release describes it as introductory pricing. Limited First Edition was sold out before launch and is not treated as current orderable variant.
