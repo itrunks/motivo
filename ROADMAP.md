@@ -3,7 +3,7 @@
 **Project target:** 100% evidence-backed catalogue normalization and validation.  
 **Working branch:** `feature/catalogue-source-audit-ingestion`  
 **Current PR:** #1 — https://github.com/itrunks/motivo/pull/1  
-**Last checkpoint:** 2026-11-06 — Hyundai Creta N Line committed and verified
+**Last checkpoint:** 2026-11-06 — Hyundai BAYON committed and verified; Hyundai pass complete
 
 ## Progress rules
 
@@ -33,7 +33,8 @@
 - [x] Hyundai — IONIQ 5 current powertrain normalization and evidence notes
 - [x] Hyundai — Venue N Line structure normalization and evidence notes
 - [x] Hyundai — Creta N Line structure normalization and evidence notes
-- [ ] Remaining Hyundai models in the work queue
+- [x] Hyundai — BAYON structure normalization and evidence notes
+- [x] All 14 Hyundai work-queue models have a normalization evidence record
 - [ ] Remaining brands/models in the work queue (process one evidence-backed model at a time)
 - [ ] Reconcile normalized model/variant rows against the 251-row work queue and 502-row crosswalk
 - [ ] Resolve source permission / commercial reuse / redistribution status for every source intended for production
