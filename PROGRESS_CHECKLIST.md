@@ -7,11 +7,11 @@ PR: https://github.com/itrunks/motivo/pull/1
 ## Overall status
 
 - Audited work queue: 251 models across 35 brands.
-- Models with normalization work committed and fetched back: 75.
-- Completed/staging-ready model evidence: 60.
+- Models with normalization work committed and fetched back: 76.
+- Completed/staging-ready model evidence: 61.
 - Partial models needing exact trim/price mapping: 14.
 - Explicitly blocked models: 2.
-- Not yet started: 176 models across 30 brands.
+- Not yet started: 175 models across 30 brands.
 
 **Important:** “Complete” means research/normalization files and evidence notes are committed and verified. It does not mean commercial reuse rights are approved or production import is authorized. Source rights remain `review_required` / `unknown` unless separately proven.
 
@@ -24,7 +24,7 @@ PR: https://github.com/itrunks/motivo/pull/1
 | Toyota | 13 | 9 | 3 | 1 | 0 | Partial |
 | MG | 10 | 8 | 2 | 0 | 0 | Partial |
 | Tata | 16 | 16 | 0 | 0 | 0 | Complete — source/price caveats documented |
-| MINI | 5 | 0 | 0 | 0 | 5 | Pending |
+| MINI | 5 | 1 | 0 | 0 | 4 | In progress |
 | Force Motors | 1 | 0 | 0 | 0 | 1 | Pending |
 | Tesla | 1 | 0 | 0 | 0 | 1 | Pending |
 | VinFast | 3 | 0 | 0 | 0 | 3 | Pending |
