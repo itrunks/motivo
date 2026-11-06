@@ -7,11 +7,11 @@ PR: https://github.com/itrunks/motivo/pull/1
 ## Overall status
 
 - Audited work queue: 251 models across 35 brands.
-- Models with normalization work committed and fetched back: 107.
-- Completed/staging-ready model evidence: 70.
+- Models with normalization work committed and fetched back: 108.
+- Completed/staging-ready model evidence: 71.
 - Partial models needing exact trim/price mapping: 35.
 - Explicitly blocked models: 2.
-- Not yet started: 144 models across 30 brands.
+- Not yet started: 143 models across 30 brands.
 
 **Important:** “Complete” means research/normalization files and evidence notes are committed and verified. It does not mean commercial reuse rights are approved or production import is authorized. Source rights remain `review_required` / `unknown` unless separately proven.
 
@@ -31,7 +31,7 @@ PR: https://github.com/itrunks/motivo/pull/1
 | Maruti Suzuki | 17 | 0 | 0 | 0 | 17 | Pending |
 | Mahindra | 13 | 5 | 8 | 0 | 0 | Audited with partial evidence |
 | Audi | 9 | 0 | 9 | 0 | 0 | Audited with official price gaps |
-| BMW | 22 | 5 | 8 | 0 | 9 | In progress |
+| BMW | 22 | 6 | 8 | 0 | 8 | In progress |
 | BYD | 4 | 0 | 0 | 0 | 4 | Pending |
 | Citroën | 5 | 0 | 0 | 0 | 5 | Pending |
 | Honda | 5 | 0 | 0 | 0 | 5 | Pending |
@@ -110,3 +110,7 @@ PR: https://github.com/itrunks/motivo/pull/1
 
 ### BMW
 - i4 — two India-market variants (eDrive35 M Sport and eDrive40 M Sport) normalized from the official December 2023 specification sheet. BMW India's current all-models catalogue does not list i4; no current official price or orderability confirmation was found. Retained as partial; no price inferred.
+
+
+### BMW
+- i5 — one current India configuration, BMW i5 M60 xDrive, normalized from BMW India technical data. Current all-models catalogue lists ₹1,19,50,000 ex-showroom. i5 LWB is tracked separately and is not merged into this record.
