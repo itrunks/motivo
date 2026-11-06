@@ -18,8 +18,8 @@ Model 3, Roadster, Model S, Model X and Cybertruck are not current India retail 
 
 | Derivative | Starting ex-showroom price | Evidence | Disposition |
 |---|---:|---|---|
-| Model Y Premium RWD | ₹50,89,000 | Current India market report, cross-checked with current Tesla India sales reporting | Secondary-source price; verify exact OEM checkout/price page and effective date before official price staging. |
-| Model Y L Premium AWD | ₹61,99,000 | Current India market report | Secondary-source price; verify exact OEM checkout/price page and effective date before official price staging. |
+| Model Y Premium RWD | ₹50,89,000 | Tesla India official configurator (2026-05-29) | Official ex-showroom base vehicle price; separate from inventory totals. |
+| Model Y L Premium AWD | ₹61,99,000 | Tesla India official configurator and Model Y L event page (2026-04-24) | Official ex-showroom base vehicle price; separate from inventory totals. |
 
 No variant matrix beyond these two derivatives is accepted. Do not import EMI, down-payment, FSD option or charging prices as vehicle ex-showroom prices.
 
@@ -31,4 +31,4 @@ No variant matrix beyond these two derivatives is accepted. Do not import EMI, d
 
 ## Import decision
 
-Create the Model Y family and two derivative candidates only after confirming OEM India product/price endpoints and source reuse terms. Current secondary price observations remain research-only. No on-road city prices captured.
+Model Y family and both current derivatives are normalized from Tesla India OEM product and configurator endpoints. Official base ex-showroom prices and inventory displayed totals are stored separately. Battery capacity and motor power/torque remain blank where not published in the captured India sources. Source reuse terms remain unapproved; no Firestore write or public catalogue publication has been performed.
