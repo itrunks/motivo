@@ -7,11 +7,11 @@ PR: https://github.com/itrunks/motivo/pull/1
 ## Overall status
 
 - Audited work queue: 251 models across 35 brands.
-- Models with normalization work committed and fetched back: 113.
-- Completed/staging-ready model evidence: 74.
+- Models with normalization work committed and fetched back: 114.
+- Completed/staging-ready model evidence: 75.
 - Partial models needing exact trim/price mapping: 37.
 - Explicitly blocked models: 2.
-- Not yet started: 138 models across 30 brands.
+- Not yet started: 137 models across 30 brands.
 
 **Important:** “Complete” means research/normalization files and evidence notes are committed and verified. It does not mean commercial reuse rights are approved or production import is authorized. Source rights remain `review_required` / `unknown` unless separately proven.
 
@@ -31,7 +31,7 @@ PR: https://github.com/itrunks/motivo/pull/1
 | Maruti Suzuki | 17 | 0 | 0 | 0 | 17 | Pending |
 | Mahindra | 13 | 5 | 8 | 0 | 0 | Audited with partial evidence |
 | Audi | 9 | 0 | 9 | 0 | 0 | Audited with official price gaps |
-| BMW | 22 | 9 | 10 | 0 | 3 | In progress |
+| BMW | 22 | 10 | 10 | 0 | 2 | In progress |
 | BYD | 4 | 0 | 0 | 0 | 4 | Pending |
 | Citroën | 5 | 0 | 0 | 0 | 5 | Pending |
 | Honda | 5 | 0 | 0 | 0 | 5 | Pending |
@@ -127,4 +127,4 @@ PR: https://github.com/itrunks/motivo/pull/1
 - iX1 Long Wheelbase — current eDrive20L M Sport normalized from BMW India September 2026 brochure and product page: 150 kW/204 hp, 250 Nm, FWD, 66.4 kWh, 546 km MIDC, 8.6 s, 130 kW DC and 11 kW AC. Current BMW India product page displays ₹54.70L; page tax basis and city applicability require dealer confirmation. Transmission not stated and left blank.
 
 ### BMW
-- M2 — standard M2 automatic/manual (480 hp; 600/550 Nm; 8-speed auto/optional 6-speed manual), M2 CS (530 hp/650 Nm, RWD, 8-speed auto, ₹1.66Cr March 2026 launch price) and M2 xDrive Turbo Edition (480 hp, 3.7 s, limited pre-orders opened Oct 2026) recorded separately. Current catalogue displays standard M2 from ₹1.065Cr. Turbo Edition India price, torque and transmission not announced in OEM release; CS launch price retained as historical after Apr 2026 range price increase. Partial.
+- M2 — standard M2 automatic/manual (480 hp; 600/550 Nm; 8-speed auto/optional 6-speed manual), M2 CS (530 hp/650 Nm, RWD, 8-speed auto, ₹1.66Cr March 2026 launch price) and M2 xDrive Turbo Edition (480 hp, 3.7 s, limited pre-orders opened Oct 2026) recorded separately. Current catalogue displays standard M2 from ₹1.065Cr. Turbo Edition India price, torque and transmission not announced in OEM release; CS launch price retained as historical after Apr 2026 range price increase. Partial.\n\n### BMW\n- M4 Competition — current India M4 Competition M xDrive Coupé normalized: 3.0L S58 petrol, 2,993 cc, 390 kW/530 hp, 650 Nm, 8-speed automatic, AWD, 3.5 s 0–100, 250 km/h. Current product page displays ₹1.629Cr; 2024 launch price ₹1.53Cr retained historically. M4 CS excluded as a separate model.
