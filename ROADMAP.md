@@ -76,7 +76,8 @@
 | Toyota | Innova Hycross | [x] | [x] model-level starting price | [x] | [x] | Complete — 12 grade/seating configurations |
 | Toyota | Urban Cruiser Hyryder | [x] | [x] 11 configurator observations | [x] | [x] | Complete — 13 configurator variants |
 | Toyota | Glanza | [ ] | [x] model starting price only | [x] | [x] | Partial — 2026 trim mapping not exposed |
-| Toyota | Remaining work-queue models | [ ] | [ ] | [ ] | [ ] | Pending — next: Urban Cruiser Taisor |
+| Toyota | Urban Cruiser Taisor | [ ] | [x] historical 2024 launch prices only | [x] | [x] | Blocked — current 2026 variant matrix/price not captured |
+| Toyota | Remaining work-queue models | [ ] | [ ] | [ ] | [ ] | Pending — next: Fortuner |
 
 ## Resume/checkpoint protocol
 
