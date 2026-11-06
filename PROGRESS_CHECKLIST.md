@@ -7,9 +7,9 @@ PR: https://github.com/itrunks/motivo/pull/1
 ## Overall status
 
 - Audited work queue: 251 models across 35 brands.
-- Models with normalization work committed and fetched back: 117.
-- Completed/staging-ready model evidence: 78.
-- Partial models needing exact trim/price mapping: 35.
+- Models with normalization work committed and fetched back: 118.
+- Completed/staging-ready model evidence: 79.
+- Partial models needing exact trim/price mapping: 34.
 - Explicitly blocked models: 2.
 - Not yet started: 136 models across 30 brands.
 
@@ -29,7 +29,7 @@ PR: https://github.com/itrunks/motivo/pull/1
 | Tesla | 1 | 1 | 0 | 0 | 0 | Complete — two current India derivatives and official base prices verified |
 | VinFast | 3 | 1 | 2 | 0 | 0 | Audited with partial grade-price evidence |
 | Maruti Suzuki | 17 | 0 | 0 | 0 | 17 | Pending |
-| Mahindra | 13 | 7 | 6 | 0 | 0 | Audited with partial evidence |
+| Mahindra | 13 | 8 | 5 | 0 | 0 | Audited with partial evidence |
 | Audi | 9 | 0 | 9 | 0 | 0 | Audited with official price gaps |
 | BMW | 22 | 11 | 10 | 0 | 1 | In progress |
 | BYD | 4 | 0 | 0 | 0 | 4 | Pending |
@@ -74,7 +74,7 @@ PR: https://github.com/itrunks/motivo/pull/1
 ### Mahindra
 - XUV 7XO — 12 current selector grade/fuel price observations captured; exact transmission and seating mapping remain unavailable in the captured OEM selector. Introductory launch prices are not reused as current prices.
 - Scorpio Classic — two grades and shared powertrain structure captured. Current selector and both model detail pages now agree on ₹13,43,200 (S) and ₹17,48,400 (S11) after 2026-11-07 recheck; effective date/city and rights remain pending.
-- Bolero Neo — five current selector grades and shared powertrain structure captured. Four current/prior selector price pairs differ; no amount selected for import.
+- Bolero Neo — five current selector grades and shared 7-seat diesel/manual/2WD powertrain captured. Live selector rechecked 2026-11-07; N8/N10 OPT/N11 detail pages agree, while N4/N10 (R) are selector-only. Prior values retained as superseded snapshots.
 - Bolero — four current selector grades and shared powertrain structure captured. Current/prior selector values differ for B4 and B6; both observations are retained.
 - XUV400 — current selector exposes one EL PRO ST 39.4 kWh / 7.2 kW card. The 2024 brochure supports the powertrain crosswalk, but the suffix, charger inclusion and current orderability require dealer confirmation.
 - XEV 9e — standard pack prices are February 2025 historical observations; Cineluxe Edition has a March 2026 price; BaaS starts at ₹13.90L with ₹3.75/km battery financing, but no grade-wise current matrix is published in the captured source.
@@ -94,7 +94,7 @@ PR: https://github.com/itrunks/motivo/pull/1
 - Toyota: Innova Crysta, Innova Hycross, Urban Cruiser Hyryder, Glanza, Urban Cruiser Taisor, Fortuner, Hilux, Camry, Rumion, Urban Cruiser Ebella, Vellfire, Land Cruiser 300, Legender.
 - MG: Comet EV, Windsor EV, ZS EV, Hector, Astor, Hector Tomahawk EV, Hector Tomahawk PHEV, Majestor, Cyberster, M9.
 - Tata: Sierra.ev, Harrier.ev, Nexon.ev, Punch.ev, Tiago.ev, Curvv.ev, Tigor.ev, Sierra, Harrier, Safari.
-- Mahindra: XUV 3XO, Thar OG, Thar ROXX, Scorpio-N, XUV 7XO, Scorpio Classic, BE 6 SPORTEQ (complete); Bolero Neo, Bolero, XUV400, XEV 9e, XUV 3XO EV and XEV 9S (partial evidence).
+- Mahindra: XUV 3XO, Thar OG, Thar ROXX, Scorpio-N, XUV 7XO, Scorpio Classic, Bolero Neo, BE 6 SPORTEQ (complete); Bolero, XUV400, XEV 9e, XUV 3XO EV and XEV 9S (partial evidence).
 
 ## Resume protocol
 
