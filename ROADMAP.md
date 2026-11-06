@@ -3,7 +3,7 @@
 **Project target:** 100% evidence-backed catalogue normalization and validation.  
 **Working branch:** `feature/catalogue-source-audit-ingestion`  
 **Current PR:** #1 — https://github.com/itrunks/motivo/pull/1  
-**Last checkpoint:** 2026-11-06 — Kia Carens Clavis EV committed and verified
+**Last checkpoint:** 2026-11-06 — Kia Syros committed and verified
 
 ## Progress rules
 
