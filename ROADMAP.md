@@ -72,6 +72,11 @@
 | Kia | Carnival | [x] | [x] 1 price | [x] | [x] | Complete — one India retail trim |
 | Kia | EV6 | [x] | [ ] | [x] | [x] | Complete — current GT-Line AWD only; price unavailable |
 | Kia | EV9 | [x] | [x] 1 price observation | [x] | [x] | Complete — one India retail trim |
+| Toyota | Innova Crysta | [x] | [x] dated prices | [x] | [x] | Complete — 9 grade/seating configurations |
+| Toyota | Innova Hycross | [x] | [x] model-level starting price | [x] | [x] | Complete — 12 grade/seating configurations |
+| Toyota | Urban Cruiser Hyryder | [x] | [x] 11 configurator observations | [x] | [x] | Complete — 13 configurator variants |
+| Toyota | Glanza | [ ] | [x] model starting price only | [x] | [x] | Partial — 2026 trim mapping not exposed |
+| Toyota | Remaining work-queue models | [ ] | [ ] | [ ] | [ ] | Pending — next: Urban Cruiser Taisor |
 
 ## Resume/checkpoint protocol
 
