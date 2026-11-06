@@ -4,7 +4,7 @@ Checked: 2026-11-06
 
 ## Deliverables
 
-- `data/kia-seltos-variant-structure.csv`: 40 trim/powertrain combinations from Kia India's current comparison matrix.
+- `data/kia-seltos-variant-structure.csv`: 44 trim/powertrain combinations from Kia India's current comparison matrix.
 - `data/kia-seltos-price-observations.csv`: 12 trim-level MSRP observations.
 
 ## Current comparison-matrix mapping
@@ -17,7 +17,11 @@ The comparison page lists HTE, HTE(O), HTK, HTK(O), HTX, HTX(A), GTX, X-Line, GT
 - 1.5 l CRDi VGT Diesel 6MT: HTE, HTE(O), HTK, HTK(O), HTX, HTX(A) — 6 rows.
 - 1.5 l CRDi VGT Diesel 6AT: HTE(O), HTK, HTK(O), HTX, HTX(A), GTX, X-Line, GTX(A), X-Line(A), GTX(O), X-Line(O) — 11 rows.
 
-Total: 40. **Unresolved:** Kia's showroom FAQ/specification page also mentions Smartstream G1.5 T-GDi 6iMT for selected trims, but the current comparison matrix does not show its trim applicability. No 6iMT rows are invented; this remains a reconciliation blocker pending exact Kia trim mapping.
+Total: 44 exact trim/powertrain combinations. The current official comparison matrix explicitly maps Smartstream G1.5 T-GDi 6iMT to HTE(O), HTK and HTK(O). These three rows are now included; no 6iMT rows are inferred for HTX, HTX(A), GTX, X-Line, GTX(A), X-Line(A), GTX(O) or X-Line(O). The prior ambiguity is resolved by the matrix itself.
+
+## 6iMT mapping closure
+
+The current official comparison matrix and 2026 brochure both show 6iMT availability for HTE(O), HTK and HTK(O), and not-included for the other nine trim columns. The three exact combinations have been added to the structure CSV. The 12 trim-level price observations remain separate; no price is copied onto a specific 6iMT configuration because Kia does not provide a powertrain-specific price in the captured matrix.
 
 ## Price observations
 
