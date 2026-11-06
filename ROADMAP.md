@@ -101,7 +101,8 @@
 | Tata | Altroz | [x] | [x] 27 Balod on-road prices (secondary source) | [x] | [x] | Complete — petrol, CNG and diesel combinations |
 | Tata | Tiago (ICE) | [x] | [x] 20 Delhi on-road prices (secondary source) | [x] | [x] | Complete — 12 petrol and 8 CNG variants |
 | Tata | Curvv (ICE) | [x] | [x] 26 Delhi on-road prices (secondary source) | [x] | [x] | Complete — current Series X; three engine families kept distinct |
-| Tata | Tigor (ICE) | [ ] | [ ] | [ ] | [ ] | Pending — next model |
+| Tata | Tigor (ICE) | [x] | [x] 14 historical last-recorded prices | [x] | [x] | Complete — discontinued September 2026; historical-only |
+| Tata | Tata ICE workqueue review | [ ] | [ ] | [ ] | [ ] | Reconcile remaining queue models and check catalogue completeness |
 | Tata | Nexon (ICE) | [ ] | [ ] | [ ] | [ ] | Pending |
 | Tata | Punch (ICE) | [ ] | [ ] | [ ] | [ ] | Pending |
 | Tata | Altroz | [ ] | [ ] | [ ] | [ ] | Pending |
