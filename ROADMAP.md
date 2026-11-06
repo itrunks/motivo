@@ -209,5 +209,5 @@
 | Model | Structure | Price evidence | Evidence notes | Status |
 |---|---|---|---|---|
 | VF 6 | [x] | [x] ₹18.19L official model-level starting price | [x] | Partial — three grades normalized; current official trim-wise prices are not published in the captured page |
-| VF 7 | [ ] | [ ] | [ ] | Pending |
+| VF 7 | [x] | [x] ₹22.99L official model-level starting price | [x] | Partial — five grades normalized; current official trim-wise prices unavailable |
 | VF MPV 7 | [ ] | [ ] | [ ] | Pending |
