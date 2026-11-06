@@ -124,7 +124,8 @@
 | Maruti Suzuki | e Vitara | [x] | [x] 3 battery-grade prices (secondary) + official BaaS offer | [x] | [x] | Complete — 49/61 kWh LFP, Delta/Zeta/Alpha; BaaS separated |
 | Mahindra | XUV 3XO | [x] | [x] 31 Fatehabad on-road + 18 OEM ex-showroom observations | [x] | [x] | Complete — 31 variants; official selector price coverage partial, price sets kept separate |
 | Mahindra | Thar OG | [x] | [x] 15 official introductory ex-showroom prices | [x] | [x] | Complete — 3 engines, RWD/4WD, MT/AT; launch price valid through 30 Nov 2026 |
-| Mahindra | Thar ROXX | [ ] | [ ] | [ ] | [ ] | Pending — next model |
+| Mahindra | Thar ROXX | [x] | [x] 21 Delhi on-road prices (secondary source) | [x] | [x] | Complete — petrol/diesel, RWD/4WD, manual/automatic; Mocha interior codes kept separate |
+| Mahindra | Scorpio N | [ ] | [ ] | [ ] | [ ] | Pending — next model |
 | Maruti Suzuki | Dzire | [x] | [x] 11 official ex-showroom prices | [x] | [x] | Complete — petrol/CNG manual and AGS including new CNG AGS |
 | Maruti Suzuki | Brezza | [x] | [x] 13 October 2026 ex-showroom prices (secondary source) | [x] | [x] | Complete — turbo Boosterjet, K15C petrol and S-CNG kept distinct |
 | Maruti Suzuki | Grand Vitara | [x] | [x] 20 Delhi on-road prices (secondary source) | [x] | [x] | Complete — petrol, CNG, strong hybrid and ALLGRIP AWD kept distinct |
