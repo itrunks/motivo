@@ -26,12 +26,28 @@ The variant-source audit has 251 rows matching the 251 model candidates. This is
 | official_single_configuration_price_observed | 3 |
 | partial_official_variant_prices | 31 |
 | official_variant_structure_price_missing | 57 |
+| official_model_listing_only | 34 |
+| dealer_confirmation_required | 30 |
 | incomplete_official_data | 8 |
 | variant_structure_observed_price_missing | 6 |
 | official_variant_structure_price_partial | 6 |
-| official_model_listing_only | 34 |
-| dealer_confirmation_required | 30 |
-| Other historical, conflict, pending, blocked or unconfirmed states | 35 |
+| official_single_configuration_price_basis_pending | 6 |
+| india_retail_status_unconfirmed | 3 |
+| official_current_range_observed_price_missing | 2 |
+| historical_official_variant_structure_only | 2 |
+| official_powertrain_structure_price_missing | 2 |
+| official_single_configuration_price_partial | 2 |
+| official_variant_prices_partial | 2 |
+| official_variant_prices_observed_scope_mismatch | 1 |
+| official_variant_names_powertrain_map_pending | 1 |
+| official_variant_structure_partial | 1 |
+| historical_official_variant_prices_only | 1 |
+| source_conflict | 1 |
+| current_orderability_unconfirmed | 1 |
+| official_product_page_access_blocked | 7 |
+| current_catalogue_presence_unconfirmed | 1 |
+| official_inventory_price_basis_pending | 1 |
+| price_source_conflict | 1 |
 | **Total** | **251** |
 
 The 41 rows with observed official price matrices and 3 single-configuration observations are promising extraction candidates, but they are not automatically importable. Each still needs exact row-level facts, date/basis/applicability and source reuse approval.
