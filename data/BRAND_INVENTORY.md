@@ -205,3 +205,15 @@ The companion variant-source worklog now contains reviews for all **five MINI mo
 - **John Cooper Works Countryman ALL4:** official page confirms 300 HP, 400 Nm and ALL4 AWD; official range page displays ₹66,15,000 as a model-level amount. No additional India grade/price matrix was exposed.
 
 The MINI India range page currently lists these five product families. Do not import international-market trim names or manufacture variant combinations by crossing engine/performance levels with style packages. Model-level starting prices and a single page price are not variant-level price rows. Exact configurator output, price effective date, city scope and source-reuse permission remain review gates. No MINI variant price is approved for production import.
+
+
+## Force Motors variant-source audit (2026-11-06)
+
+The companion variant-source worklog now includes the Force Motors **Gurkha** candidate, completing this brand's single-model review.
+
+- The current official Gurkha product page presents two body/seating configurations: **3 Door (4-seater)** at **₹16,68,400 ex-showroom** and **5 Door (7-seater)** at **₹18,01,200 ex-showroom**. These are live OEM page observations captured on 2026-11-06; the page does not state a price effective date.
+- The official e-brochure and Force Motors' 2024 launch release describe a 2.6L (2596cc) turbocharged intercooled diesel engine, 140PS and 320Nm, 5-speed manual transmission and shift-on-the-fly 4WD (2H/4H/4L). The 3-door and 5-door seating configurations remain derivatives of the same Gurkha model, not separate model identities.
+- Some third-party 2026 listings show different prices. Keep the current official OEM page amounts as source observations, but confirm the price effective date and dealer quotation before production import. The official page excludes insurance, registration, road tax and accessories.
+- No additional trim, fuel or transmission combinations have been inferred. No price is approved for production import; source-reuse review and dealer/orderability confirmation remain required.
+
+The variant-source worklog now contains **68 model rows**: Hyundai 14, Kia 9, Toyota 13, MG Motor 10, Tata Motors 16, MINI 5 and Force Motors 1. This remains a research worklog, not a production import manifest.
