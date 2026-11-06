@@ -3,7 +3,7 @@
 **Project target:** 100% evidence-backed catalogue normalization and validation.  
 **Working branch:** `feature/catalogue-source-audit-ingestion`  
 **Current PR:** #1 — https://github.com/itrunks/motivo/pull/1  
-**Last checkpoint:** 2026-11-06 — Hyundai i20 N Line committed and verified
+**Last checkpoint:** 2026-11-06 — Hyundai Alcazar committed and verified
 
 ## Progress rules
 
@@ -27,6 +27,8 @@
 - [x] Hyundai — Grand i10 NIOS structure normalization and evidence notes
 - [x] Hyundai — i20 structure normalization and evidence notes
 - [x] Hyundai — i20 N Line structure normalization and evidence notes
+- [x] Hyundai — i20 N Line structure normalization and evidence notes
+- [x] Hyundai — Alcazar structure normalization and evidence notes
 - [ ] Remaining Hyundai models in the work queue
 - [ ] Remaining brands/models in the work queue (process one evidence-backed model at a time)
 - [ ] Reconcile normalized model/variant rows against the 251-row work queue and 502-row crosswalk
