@@ -348,3 +348,17 @@ Added source-review rows for all **four BYD India model candidates**: ATTO 3, eM
 The current OEM price page is used for current displayed grade amounts; historical dated launch/price releases are retained only for specification mapping and price-history context. Confirm price effective date, dealer quotation, exact battery/drive mapping for the Dynamic SEALION 7, and OEM content-reuse permission before staging. No BYD price is approved for production import.
 
 The BYD batch adds four rows. The overall variant-source worklog now contains **137 model rows** across 14 brands; 114 of 251 model candidates remain without variant-source rows.
+
+## Citroën variant-source audit (2026-11-06)
+
+Added source-review rows for all **five Citroën model candidates**: AircrossX, ë-C3X, C5 Aircross, C3X and BasaltX.
+
+- **AircrossX:** official brochure identifies YOU/PLUS/MAX and 1.2L PureTech 82 naturally aspirated 5MT and PureTech 110 turbo 6MT/6AT powertrains, with 5/7-seat applicability. The 2026-09-07 OEM release adds YOU Turbo Comfort Edition (₹10.69 lakh introductory) and MAX NA (₹11.62 lakh introductory); all NA variants are available in petrol and CNG. Full current price/grade matrix is not captured.
+- **ë-C3X:** official page and launch releases confirm Live, Live(O), Shine, Extended range and single-speed electric configuration, with up to 330km MIDC-I/II. BaaS starting amount (₹6.99 lakh + ₹2.26/km in September release) is kept separate from full-battery price. No official grade-wise full-purchase price matrix captured.
+- **C5 Aircross:** current official page displays one Shine automatic, 2.0L diesel configuration (177PS/400Nm). No numeric current variant price rendered. Do not carry forward historic grades/prices without fresh OEM confirmation.
+- **C3X:** official product page exposes Live, Live(O), Feel, Feel(O) and Shine trim families, with selected manual/automatic, petrol turbo/NA and CNG applicability. The exact current trim-to-powertrain mapping and numeric price matrix need configurator confirmation.
+- **BasaltX:** official page confirms PureTech 82 NA 5MT and PureTech 110 turbo 6MT/6AT. The September OEM release adds YOU Turbo (₹9.99 lakh introductory) and MAX NA (₹11.34 lakh introductory); MAX NA is offered in petrol and CNG. The YOU Turbo Comfort Edition is an equipment package; it is not automatically treated as a separate mechanical variant.
+
+The September 2026 OEM release is the latest captured official update for AircrossX, BasaltX and ë-C3X. Introductory prices and BaaS are preserved with their specific basis; they are not generalized into a complete variant-price catalogue. Confirm current dealer/configurator matrix, price effective date, CNG availability by exact trim, seating/powertrain mapping and OEM content-reuse permission before staging. No Citroën price is approved for production import.
+
+The Citroën batch adds five rows. The overall variant-source worklog now contains **142 model rows** across 15 brands; 109 of 251 model candidates remain without variant-source rows.
