@@ -191,7 +191,7 @@
 | Model | Structure | Price evidence | Evidence notes | Status |
 |---|---|---|---|---|
 | MINI Cooper | [x] | [x] 3 Delhi on-road price observations (secondary); 2024 official ex-showroom sheet historical only | [x] | Complete — three India-listed 3-door retail labels normalized; current official price matrix not exposed |
-| MINI Cooper Convertible | [ ] | [ ] | [ ] | Pending |
+| MINI Cooper Convertible | [x] | [x] 1 official S ex-showroom + 3 Delhi on-road observations | [x] | Partial — S verified; base Cooper and edition-specific official prices remain unresolved |
 | MINI Countryman C | [ ] | [ ] | [ ] | Pending |
 | MINI Countryman Electric | [ ] | [ ] | [ ] | Pending |
 | MINI John Cooper Works Countryman ALL4 | [ ] | [ ] | [ ] | Pending |
