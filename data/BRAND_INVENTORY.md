@@ -362,3 +362,17 @@ Added source-review rows for all **five Citroën model candidates**: AircrossX, 
 The September 2026 OEM release is the latest captured official update for AircrossX, BasaltX and ë-C3X. Introductory prices and BaaS are preserved with their specific basis; they are not generalized into a complete variant-price catalogue. Confirm current dealer/configurator matrix, price effective date, CNG availability by exact trim, seating/powertrain mapping and OEM content-reuse permission before staging. No Citroën price is approved for production import.
 
 The Citroën batch adds five rows. The overall variant-source worklog now contains **142 model rows** across 15 brands; 109 of 251 model candidates remain without variant-source rows.
+
+## Honda variant-source audit (2026-11-06)
+
+Added source-review rows for all **five Honda model candidates**: New City, New Amaze, Amaze - 2nd Gen, All New ZR-V and New Elevate.
+
+- **New City:** official Honda pages confirm petrol SV/V/ZX/ZX+ MT and V/ZX/ZX+ CVT, plus e:HEV ZX+ e-CVT. The 2026 OEM launch price matrix provides Delhi ex-showroom grade prices; reconfirm city and invoice-date amounts before import.
+- **New Amaze:** official OEM release confirms V/VX/ZX with 5MT and CVT. The launch prices were explicitly introductory for 45 days in December 2024 and are not treated as current. Current homepage displays a model starting price but no full grade-wise price matrix.
+- **Amaze - 2nd Gen:** current Honda homepage still lists the second-generation model. The captured official city price page displays S MT/S CVT amounts inconsistent with the homepage starting amount, so the row is marked price-source conflict and current orderability requires dealer confirmation. It remains separate from the third-generation V/VX/ZX New Amaze.
+- **All New ZR-V:** official release confirms one India CBU configuration with a 2.0L e:HEV hybrid system and e-CVT. The current homepage amount is higher than the July 2026 introductory launch price; preserve those as separate dated observations and confirm current invoice price.
+- **New Elevate:** the October 6, 2026 OEM facelift release provides a full Delhi ex-showroom price matrix for SV/V/VX/ZX/ZX+ and ZX+ Black Edition across MT/CVT. This current facelift matrix supersedes older pre-facelift pricing observations.
+
+No Honda price is approved for production import. Confirm current dealer/city price, price effective date, model-year and orderability (especially 2nd Gen Amaze), and OEM content-reuse permission before staging.
+
+The Honda batch adds five rows. The overall variant-source worklog now contains **147 model rows** across 16 brands; 104 of 251 model candidates remain without variant-source rows.
