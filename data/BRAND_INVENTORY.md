@@ -473,3 +473,18 @@ Added source-review rows for all **five Bentley model candidates**: Bentayga, Be
 No current official India grade-wise price list was captured for these candidates. The India-UK FTA reporting indicates the Bentayga petrol model may qualify for reduced-duty order intake subject to quota, while hybrid Continental GT/Flying Spur do not receive the same immediate reduction. Confirm exact model/grade, import eligibility, current allocation, orderability and written dealer quote. No Bentley price is approved for production import.
 
 The Bentley batch adds five rows. The overall variant-source worklog now contains **182 model rows** across 23 brands; 69 of 251 model candidates remain without variant-source rows.
+
+## Ferrari variant-source audit (2026-11-06)
+
+Added source-review rows for all **seven Ferrari model candidates**: Amalfi, Amalfi Spider, 296 GTB, 849 Testarossa, 12Cilindri Coupe, 12Cilindri Spider and Purosangue.
+
+- **Amalfi:** current India coverage identifies the V8 coupe; reported list price is ₹5.59 crore before options. A ₹4.08 crore FTA-anticipatory booking amount is an estimate only, conditional on future agreement implementation and delivery timing.
+- **Amalfi Spider:** global OEM product identity is confirmed, but India retail launch/orderability and price were not independently established in the captured official India source. Dealer confirmation required.
+- **296 GTB:** reported India reference price is ₹5.40 crore, but Ferrari's FY2025 results presentation lists 296 GTB as phased out in 2026. Treat as existing stock/remaining allocation only until dealer confirms factory orderability.
+- **849 Testarossa:** current 2026 model, reported India amount ₹10.37 crore; hybrid FTA treatment and local allocation require dealer confirmation.
+- **12Cilindri Coupe / Spider:** V12 coupe and convertible are separate body identities. Reported pre-FTA amounts are ₹8.50/9.15 crore; estimated FTA-anticipatory booking amounts are ₹5.89/6.38 crore, not confirmed final prices.
+- **Purosangue:** four-seat V12 AWD SUV. Reported list amount ₹10.50 crore; estimated FTA-anticipatory booking amount ₹7.59 crore before options, conditional on FTA implementation, import quota and delivery timing.
+
+Ferrari's public India price information is reported through dealer/industry coverage; a current OEM India variant-price sheet was not captured. The 30% lower FTA-anticipatory prices are estimates, not final invoice prices, and apply only to certain pure-petrol models. Hybrid models (296 GTB and 849 Testarossa) have uncertain tariff treatment. Confirm direct Ferrari dealer allocation, order acceptance, final written price, tax/FTA eligibility and delivery-date applicability before staging. No Ferrari price is approved for production import.
+
+The Ferrari batch adds seven rows. The overall variant-source worklog now contains **194 model rows** across 24 brands; 57 of 251 model candidates remain without variant-source rows.
