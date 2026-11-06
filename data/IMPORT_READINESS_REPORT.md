@@ -13,7 +13,7 @@ The variant-source audit has 251 rows matching the 251 model candidates. This is
 ## Blocking conditions
 
 1. **No source reuse approvals.** The source register currently marks OEM sources `review_required`; commercial reuse and redistribution are unknown. The TCO India compilation is `hold` because its claimed CC-BY licence does not establish rights to redistribute upstream CarDekho/CarWale-derived content.
-2. **No exact source registry linkage.** The variant worklog is keyed by `brand_id + model_name`; it does not carry a per-record `source_id` or a normalized exact source URL for every observation.
+2. **Source linkage is now mapped, but permissions remain unapproved.** A 224-entry source registry and 502-row crosswalk link all 251 model and 251 variant audit rows to exact source URLs. All 224 source entries remain `review_required`; commercial reuse and redistribution are `unknown`, with no approved source.
 3. **Unstructured variant and price observations.** `variant_names_observed` and `price_observation` are free-text fields. A row may contain several trims, multiple powertrains, partial prices, model-level prices or a discrepancy. It cannot be safely converted to one record per exact variant without further extraction and verification.
 4. **Missing applicability metadata.** Model year/generation, exact fuel/transmission/drivetrain mapping, price basis, location scope and effective date are not consistently present.
 5. **Unresolved evidence states.** Partial matrices, missing prices, historical observations, source conflicts, dealer-confirmation cases and current-orderability uncertainty must remain quarantined.
@@ -51,6 +51,17 @@ The variant-source audit has 251 rows matching the 251 model candidates. This is
 | **Total** | **251** |
 
 The 41 rows with observed official price matrices and 3 single-configuration observations are promising extraction candidates, but they are not automatically importable. Each still needs exact row-level facts, date/basis/applicability and source reuse approval.
+
+## Source registry reconciliation
+
+- Unique source URLs registered: **224**.
+- Model audit mappings: **251/251**.
+- Variant audit mappings: **251/251**.
+- Total crosswalk mappings: **502/502**.
+- Missing or invalid mappings at the latest reconciliation: **0**.
+- Sources with explicit commercial reuse and redistribution approval: **0/224**.
+
+The source registry and crosswalk are checked by `scripts/validate_source_crosswalk.py` and in GitHub Actions. Registry linkage does not imply permission to reuse or republish source material.
 
 ## Gate policy
 
