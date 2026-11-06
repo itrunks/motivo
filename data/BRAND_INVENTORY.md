@@ -335,3 +335,16 @@ Added source-review rows for all **22 BMW model candidates**: 2 Series Gran Coup
 - BMW Group India's July 2026 announcement confirms a price increase of up to 2% effective 2026-07-01 across BMW/MINI range. Current page prices remain subject to invoice-date confirmation; the announcement does not supply variant-level price lists.
 
 No BMW price is approved for production import. Confirm current orderability, exact India trim identity, model-year, price basis/effective date, city/dealer scope and OEM content-reuse permission before staging. The BMW batch adds 22 rows; the overall variant-source worklog now contains **133 model rows** across 13 brands, with 118 of 251 model candidates still uncovered.
+
+## BYD variant-source audit (2026-11-06)
+
+Added source-review rows for all **four BYD India model candidates**: ATTO 3, eMAX 7, SEAL and SEALION 7.
+
+- **ATTO 3:** current BYD India price page exposes Dynamic (₹24.99 lakh), Premium (₹30.35 lakh) and Superior (₹34.49 lakh). OEM launch release maps Dynamic to 49.92 kWh and Premium/Superior to 60.48 kWh; range claims are retained with their ARAI/NEDC test basis.
+- **eMAX 7:** current OEM price page lists Comfort 6/7-seat and Superior 6/7-seat configurations at ₹27.90/28.30 lakh and ₹29.30/29.90 lakh respectively, all with 71.8 kWh. The 2024 launch release used Premium/Superior and a 55.4/71.8 kWh battery split; current price page and historical launch matrix are not merged. The Premium-to-Comfort rename is also reported in July 2026 secondary coverage; confirm 55.4 kWh availability directly with BYD before restoring it to the current range.
+- **SEAL:** current OEM page lists Dynamic, Premium and Performance at ₹41.50/46.20/53.65 lakh. The 2025 MY release maps Dynamic RWD to 61.44 kWh, Premium RWD to 82.56 kWh and Performance AWD to 82.56 kWh; its earlier price amounts are retained only as historical reference.
+- **SEALION 7:** current OEM page lists Dynamic ₹41.90 lakh, Premium ₹49.90 lakh and Performance ₹55.90 lakh. OEM releases confirm Premium/Performance 82.56 kWh and their NEDC range claims. The First Anniversary Edition was a limited booking/offer window, not a separate ongoing standard trim.
+
+The current OEM price page is used for current displayed grade amounts; historical dated launch/price releases are retained only for specification mapping and price-history context. Confirm price effective date, dealer quotation, exact battery/drive mapping for the Dynamic SEALION 7, and OEM content-reuse permission before staging. No BYD price is approved for production import.
+
+The BYD batch adds four rows. The overall variant-source worklog now contains **137 model rows** across 14 brands; 114 of 251 model candidates remain without variant-source rows.
