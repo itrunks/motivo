@@ -1,0 +1,57 @@
+# Catalogue staging import
+
+This workflow deliberately separates factual review, reuse permission, staging writes and publication.
+
+## Current gate status
+
+The current variant audit CSV is a research worklog, not an import manifest. It does not provide a normalized row per exact variant and does not prove commercial reuse or redistribution rights. Do not transform its semicolon-delimited observations into publishable records by guessing trim/powertrain mappings.
+
+## Pipeline
+
+1. Prepare exact variant and price rows in the format in `data/catalogue-import-template.csv`.
+2. Run the offline validator:
+
+   ```bash
+   python3 scripts/validate_catalogue.py path/to/import.csv --out-dir data/staging
+   ```
+
+3. Review the source-specific permission record in `data/source-audit-template.csv`. Each imported record must use an exact source URL with an explicit terms/licence URL, licence name, `review_status=approved`, `commercial_reuse_allowed=yes`, and `redistribution_allowed=yes`. Public visibility is not permission.
+4. Run the reuse gate. It checks every draft row against the source audit and requires an exact URL match:
+
+   ```bash
+   python3 scripts/approve_catalogue_sources.py data/staging/import.draft.jsonl \
+     --source-audit data/source-audit-template.csv \
+     --out data/staging/import.approved.jsonl
+   ```
+
+   It fails closed if any source is missing, unapproved, or has unknown/denied reuse rights.
+5. Dry-run the Firestore importer:
+
+   ```bash
+   cd functions && npm install && npm run build
+   node lib/admin/importCatalogue.js --input ../data/staging/import.approved.jsonl --batch-id pilot-2026-11-06
+   ```
+
+6. Start the Firestore emulator and explicitly write the draft batch:
+
+   ```bash
+   firebase emulators:start --only firestore
+   # in another terminal, from functions/
+   FIRESTORE_EMULATOR_HOST=127.0.0.1:8080 GCLOUD_PROJECT=motivo-staging \
+     node lib/admin/importCatalogue.js --input ../data/staging/import.approved.jsonl \
+     --batch-id pilot-2026-11-06 --write
+   ```
+
+## Safety properties
+
+- The importer is emulator-only. It refuses writes unless `FIRESTORE_EMULATOR_HOST` is set; it has no production override.
+- Writes go only to `catalogueStaging/{batchId}/records/{recordId}`, never the public catalogue collections.
+- Every record must remain `draft` and carry explicit source approval metadata.
+- IDs are deterministic from the offline validator; duplicate IDs in a batch are rejected.
+- Writes are chunked below Firestore's 500-operation batch limit.
+- No publication, public read permission, or production write is performed.
+- Production import requires a separately reviewed admin-only deployment path, a dedicated staging/production project decision, backup/rollback plan, and human approval of the exact manifest. Do not put service-account credentials in Git or the client.
+
+## Current blocker
+
+The repository currently has only the Firebase project `motivo-car-research` configured. No separate staging project or Firestore emulator execution environment is provisioned by this repository. Keep all writes in the local emulator until the staging project and credentials are configured securely.
