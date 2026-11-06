@@ -3,7 +3,7 @@
 **Project target:** 100% evidence-backed catalogue normalization and validation.  
 **Working branch:** `feature/catalogue-source-audit-ingestion`  
 **Current PR:** #1 — https://github.com/itrunks/motivo/pull/1  
-**Last checkpoint:** 2026-11-06
+**Last checkpoint:** 2026-11-06 — Hyundai Verna committed and verified
 
 ## Progress rules
 
@@ -22,7 +22,7 @@
 - [x] Hyundai — Creta normalization and evidence notes
 - [x] Hyundai — Venue structure normalization and evidence notes
 - [x] Hyundai — Exter structure + launch-price observations + evidence notes
-- [ ] Hyundai — Verna
+- [x] Hyundai — Verna normalization and evidence notes
 - [ ] Remaining Hyundai models in the work queue
 - [ ] Remaining brands/models in the work queue (process one evidence-backed model at a time)
 - [ ] Reconcile normalized model/variant rows against the 251-row work queue and 502-row crosswalk
@@ -40,7 +40,7 @@
 | Hyundai | Creta | [x] | [x] OEM observations; current city price still needs confirmation | [x] | [x] | Complete — staging only |
 | Hyundai | Venue | [x] | [ ] | [x] | [x] | Complete — structure only |
 | Hyundai | Exter | [x] | [x] launch-price observations; effective date/current city quote not confirmed | [x] | [x] | Complete — staging only |
-| Hyundai | Verna | [ ] | [ ] | [ ] | [ ] | Next |
+| Hyundai | Verna | [x] | [x] dated launch observations; current city quote needs confirmation | [x] | [x] | Complete — staging only |
 | Hyundai | Remaining work-queue models | [ ] | [ ] | [ ] | [ ] | Pending |
 | Other brands | Work-queue models | [ ] | [ ] | [ ] | [ ] | Pending |
 
