@@ -4,7 +4,7 @@ Checked: 2026-11-06
 
 ## Deliverables
 
-The 59-row variant catalogue is split into three CSV files to keep the evidence batches manageable:
+The consolidated file `data/tata-sierra-ice-variant-price-observations.csv` contains all 59 rows. The three source-batch files are retained for traceability:
 - `data/tata-sierra-variant-normalization-part1.csv` — 30 rows.
 - `data/tata-sierra-variant-normalization-part2.csv` — 15 rows.
 - `data/tata-sierra-variant-normalization-part3.csv` — 14 rows.
@@ -14,9 +14,9 @@ All three files were fetched back from the feature branch and row-count verified
 ## Powertrain families
 
 The current variant listing covers 59 combinations across:
-- 1.5 l Revotron naturally aspirated petrol, 1498 cc, 106 hp / 145 Nm, 6-speed manual or 7-speed DCA.
-- 1.5 l Hyperion turbo-petrol, 1498 cc, 160 hp / 255 Nm, 6-speed automatic.
-- 1.5 l Kryojet turbo-diesel, 1497 cc, 118 hp / 280 Nm, 6-speed manual or 6-speed torque-converter automatic.
+- 1.5 l Revotron naturally aspirated petrol, 1498 cc, 106 PS / 145 Nm, 6-speed manual or 7-speed DCA.
+- 1.5 l Hyperion turbo-petrol, 1498 cc, 160 PS / 255 Nm, 6-speed automatic.
+- 1.5 l Kryojet turbo-diesel, 1497 cc, 118 PS; 260 Nm with 6-speed manual and 280 Nm with 6-speed torque-converter automatic.
 
 All variants are 5-seat SUVs. Trim families include Smart+, Pure, Pure+, Adventure+, Accomplished and Accomplished+, plus Legend (L), L(O) and Dark editions. Dark and Legend packages are preserved as separate OEM labels rather than collapsed into base trims.
 
@@ -35,6 +35,6 @@ Source status remains `review_required`; commercial reuse and redistribution rem
 ## Sources
 
 - Autocar India 59-variant list and on-road Delhi prices (updated October 31, 2026): https://www.autocarindia.com/cars/tata/sierra/variants
-- Tata official Sierra model page: https://cars.tatamotors.com/suv/sierra.html
+- Tata official Sierra model page: https://www.tatamotors.com/vehicles/sierra/
 - V3Cars variant/engine price cross-check: https://www.v3cars.com/tata-cars/sierra
 - Tata official brochure: https://cars.tatamotors.com/content/dam/tml/pv/products/sierra/overview/brochure.pdf
