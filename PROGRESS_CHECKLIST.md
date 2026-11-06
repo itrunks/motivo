@@ -7,11 +7,11 @@ PR: https://github.com/itrunks/motivo/pull/1
 ## Overall status
 
 - Audited work queue: 251 models across 35 brands.
-- Models with normalization work committed and fetched back: 114.
-- Completed/staging-ready model evidence: 75.
+- Models with normalization work committed and fetched back: 115.
+- Completed/staging-ready model evidence: 76.
 - Partial models needing exact trim/price mapping: 37.
 - Explicitly blocked models: 2.
-- Not yet started: 137 models across 30 brands.
+- Not yet started: 136 models across 30 brands.
 
 **Important:** “Complete” means research/normalization files and evidence notes are committed and verified. It does not mean commercial reuse rights are approved or production import is authorized. Source rights remain `review_required` / `unknown` unless separately proven.
 
@@ -31,7 +31,7 @@ PR: https://github.com/itrunks/motivo/pull/1
 | Maruti Suzuki | 17 | 0 | 0 | 0 | 17 | Pending |
 | Mahindra | 13 | 5 | 8 | 0 | 0 | Audited with partial evidence |
 | Audi | 9 | 0 | 9 | 0 | 0 | Audited with official price gaps |
-| BMW | 22 | 10 | 10 | 0 | 2 | In progress |
+| BMW | 22 | 11 | 10 | 0 | 1 | In progress |
 | BYD | 4 | 0 | 0 | 0 | 4 | Pending |
 | Citroën | 5 | 0 | 0 | 0 | 5 | Pending |
 | Honda | 5 | 0 | 0 | 0 | 5 | Pending |
@@ -130,4 +130,4 @@ PR: https://github.com/itrunks/motivo/pull/1
 - M2 — standard M2 automatic/manual (480 hp; 600/550 Nm; 8-speed auto/optional 6-speed manual), M2 CS (530 hp/650 Nm, RWD, 8-speed auto, ₹1.66Cr March 2026 launch price) and M2 xDrive Turbo Edition (480 hp, 3.7 s, limited pre-orders opened Oct 2026) recorded separately. Current catalogue displays standard M2 from ₹1.065Cr. Turbo Edition India price, torque and transmission not announced in OEM release; CS launch price retained as historical after Apr 2026 range price increase. Partial.
 
 ### BMW
-- M4 Competition — current India M4 Competition M xDrive Coupé normalized: 3.0L S58 petrol, 2,993 cc, 390 kW/530 hp, 650 Nm, 8-speed automatic, AWD, 3.5 s 0–100, 250 km/h. Current product page displays ₹1.629Cr; 2024 launch price ₹1.53Cr retained historically. M4 CS excluded as a separate model.
+- M4 Competition — current India M4 Competition M xDrive Coupé normalized: 3.0L S58 petrol, 2,993 cc, 390 kW/530 hp, 650 Nm, 8-speed automatic, AWD, 3.5 s 0–100, 250 km/h. Current product page displays ₹1.629Cr; 2024 launch price ₹1.53Cr retained historically. M4 CS excluded as a separate model.\n\n### BMW\n- M5 — current India M5 Sedan M Hybrid normalized: 4.4L S68 V8 PHEV, system 535 kW/727 hp and 1,000 Nm, ICE 430 kW/585 hp and 750 Nm, electric drive 145 kW/197 hp and 280 Nm, 8-speed M Steptronic, M xDrive AWD, 3.5 s 0–100, 69 km WLTP electric range, 5 seats. Current catalogue price ₹2.115Cr; 2024 launch price ₹1.99Cr historical. 100 Jahre Nürburgring appearance edition included; battery capacity left blank due to source unit inconsistency.
