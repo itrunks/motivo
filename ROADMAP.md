@@ -77,7 +77,8 @@
 | Toyota | Urban Cruiser Hyryder | [x] | [x] 11 configurator observations | [x] | [x] | Complete — 13 configurator variants |
 | Toyota | Glanza | [ ] | [x] model starting price only | [x] | [x] | Partial — 2026 trim mapping not exposed |
 | Toyota | Urban Cruiser Taisor | [ ] | [x] historical 2024 launch prices only | [x] | [x] | Blocked — current 2026 variant matrix/price not captured |
-| Toyota | Remaining work-queue models | [ ] | [ ] | [ ] | [ ] | Pending — next: Fortuner |
+| Toyota | Fortuner | [ ] | [x] model start + Leader Edition prices | [x] | [x] | Partial — powertrain families only; grade mapping unavailable |
+| Toyota | Remaining work-queue models | [ ] | [ ] | [ ] | [ ] | Pending — next: Hilux |
 
 ## Resume/checkpoint protocol
 
