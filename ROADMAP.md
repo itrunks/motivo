@@ -3,7 +3,7 @@
 **Project target:** 100% evidence-backed catalogue normalization and validation.  
 **Working branch:** `feature/catalogue-source-audit-ingestion`  
 **Current PR:** #1 — https://github.com/itrunks/motivo/pull/1  
-**Last checkpoint:** 2026-11-06 — Kia Carens Clavis 28 named-trim configurations and 11 prices captured; unknown comparison column quarantined
+**Last checkpoint:** 2026-11-06 — Tata 16-model queue reconciled against dedicated EV/ICE workpapers; stale pending placeholders removed
 
 ## Progress rules
 
@@ -104,7 +104,6 @@
 | Tata | Tigor.ev | [x] | [x] model starting price only | [x] | [x] | Complete — 4 grades; trim prices not exposed |
 | Tata | Sierra (ICE) | [x] | [x] 59 Delhi on-road prices (secondary source) | [x] | [x] | Complete — 59 unique variants; official price matrix still required |
 | Tata | Harrier (ICE) | [x] | [x] 50 Delhi on-road prices (secondary source) | [x] | [x] | Complete — 50 variants; dealer quote and rights review required |
-| Tata | Safari | [ ] | [ ] | [ ] | [ ] | Pending — next model |
 | Tata | Safari | [x] | [x] 64 Delhi on-road prices (secondary source) | [x] | [x] | Complete — 64 variants; 6/7-seat combinations preserved |
 | Tata | Nexon (ICE) | [x] | [x] 63 Delhi on-road prices (secondary source) | [x] | [x] | Complete — 63 petrol/diesel/CNG combinations |
 | Tata | Punch (ICE) | [x] | [x] 26 Delhi on-road prices (secondary source) | [x] | [x] | Complete — petrol, CNG and turbo-petrol combinations |
@@ -112,13 +111,7 @@
 | Tata | Tiago (ICE) | [x] | [x] 20 Delhi on-road prices (secondary source) | [x] | [x] | Complete — 12 petrol and 8 CNG variants |
 | Tata | Curvv (ICE) | [x] | [x] 26 Delhi on-road prices (secondary source) | [x] | [x] | Complete — current Series X; three engine families kept distinct |
 | Tata | Tigor (ICE) | [x] | [x] 14 historical last-recorded prices | [x] | [x] | Complete — discontinued September 2026; historical-only |
-| Tata | Tata ICE workqueue review | [ ] | [ ] | [ ] | [ ] | Reconcile remaining queue models and check catalogue completeness |
-| Tata | Nexon (ICE) | [ ] | [ ] | [ ] | [ ] | Pending |
-| Tata | Punch (ICE) | [ ] | [ ] | [ ] | [ ] | Pending |
-| Tata | Altroz | [ ] | [ ] | [ ] | [ ] | Pending |
-| Tata | Tiago (ICE) | [ ] | [ ] | [ ] | [ ] | Pending |
-| Tata | Curvv (ICE) | [ ] | [ ] | [ ] | [ ] | Pending |
-| Tata | Tigor (ICE) | [ ] | [ ] | [ ] | [ ] | Pending |
+| Tata | Tata ICE workqueue review | [x] | [x] 9 ICE models reconciled with dedicated normalization workpapers | [x] | [x] | Complete — 16/16 Tata passenger model queue entries have normalization workpapers; XPRES remains fleet-scope excluded and Aeris remains a separate identity candidate |
 | Maruti Suzuki | Alto K10 | [x] | [x] 8 official ex-showroom prices | [x] | [x] | Complete — 6 petrol and 2 S-CNG variants |
 | Maruti Suzuki | Celerio | [x] | [x] 8 official ex-showroom prices | [x] | [x] | Complete — 7 petrol and 1 S-CNG configurations |
 | Maruti Suzuki | Eeco | [x] | [x] 4 official ex-showroom prices | [x] | [x] | Complete — passenger variants only; ambulance/cargo excluded |
