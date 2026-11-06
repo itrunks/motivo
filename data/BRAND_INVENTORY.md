@@ -500,3 +500,19 @@ Added source-review rows for all **three McLaren model candidates**: Artura, GTS
 All McLaren models are CBU imports and India retail is handled through Infinity Cars. Current order acceptance, local allocation, body-style availability, final FTA price basis and written dealer quote remain mandatory gates. No McLaren price is approved for production import.
 
 The McLaren batch adds three rows. The overall variant-source worklog now contains **192 model rows** across 25 brands; 59 of 251 model candidates remain without variant-source rows.
+
+## Mercedes-Benz variant-source audit (2026-11-06)
+
+Added source-review rows for all **24 Mercedes-Benz model candidates**. The official India configurator currently displays 26 model entries, including separate fuel/body-style/powertrain entries under the same family.
+
+- **ICE/hybrid limousines:** CLA (electric-only in captured India catalogue); C-Class petrol/diesel and separate PHEV entry; E-Class Sedan Long petrol/diesel; separate E-Class Sedan PHEV; S-Class PHEV; Mercedes-Maybach S-Class PHEV.
+- **Electric limousines:** EQS electric; the configurator lists model-level starting prices, but exact India battery/grade/drive mapping needs brochure validation.
+- **SUVs:** GLA petrol/diesel; GLC ICE petrol/diesel and separate GLC Electric; GLE petrol/diesel; GLS petrol/diesel; Mercedes-Maybach GLS petrol; G-Class electric, diesel and petrol entries; GLC Coupé petrol; GLE Coupé petrol.
+- **Other body styles:** CLE Cabriolet petrol; CLE Coupé petrol; Mercedes-Maybach SL Monogram Series petrol; A-Class Hatchback petrol; V-Class; Mercedes-AMG GT Coupé petrol; Mercedes-Maybach EQS SUV electric; standard EQS SUV electric.
+- The current official configurator displays model-level starting amounts, e.g. CLA ₹56.50L, C-Class ₹61.20L, E-Class Sedan Long ₹82L, S-Class ₹2.20Cr, GLA ₹51.80L, GLC ICE ₹77L / Electric ₹78.50L, GLE ₹1Cr, GLS ₹1.375Cr, G-Class electric/diesel/petrol ₹3.15/2.90/3.80Cr, CLE Cabriolet ₹1.16Cr, CLE Coupé ₹1.34Cr, Maybach SL Monogram ₹4.40Cr. These are model-entry starting amounts, not grade-level prices.
+- **Price discrepancy:** standard EQS SUV is shown at ₹1.35Cr in the configurator and ₹1.335Cr in the separate model overview. This remains a source display discrepancy until live dealer/configurator confirmation.
+- **Orderability and exact grade mapping:** several candidates (V-Class, A-Class Hatchback, CLA, Maybach variants and the new GLC Electric) have model-level listings but no complete grade matrix in the captured page. Use India brochures and current configurator selections; do not infer global AMG/4MATIC or engine combinations.
+
+No Mercedes-Benz grade-level prices are approved for production import from this batch. Confirm exact model-year, India-specific engine/trim/gearbox mapping, price effective date, current stock/orderability and OEM content-reuse permission before staging. The configurator observations are model-level starting prices only.
+
+The Mercedes-Benz batch adds 24 rows. The overall variant-source worklog now contains **216 model rows** across 26 brands; 35 of 251 model candidates remain without variant-source rows.
