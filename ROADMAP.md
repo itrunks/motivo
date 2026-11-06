@@ -3,7 +3,7 @@
 **Project target:** 100% evidence-backed catalogue normalization and validation.  
 **Working branch:** `feature/catalogue-source-audit-ingestion`  
 **Current PR:** #1 — https://github.com/itrunks/motivo/pull/1  
-**Last checkpoint:** 2026-11-07 — Mahindra XUV 7XO exact 27-combination OEM structure matrix normalized; 12 current selector grade/fuel price observations refreshed separately (complete — price-to-derivative mapping still pending).
+**Last checkpoint:** 2026-11-07 — Mahindra Scorpio Classic selector/detail-page price conflict resolved and XUV 7XO exact 27-combination OEM structure matrix normalized (both complete — source rights remain pending).
 
 ## Progress rules
 
@@ -39,7 +39,7 @@
 - [x] Hyundai — all 14 work-queue models normalized (staging only)
 - [x] Mahindra — Scorpio-N 31 populated OEM grade/powertrain/drive/seating combinations normalized with dated ex-showroom observations (staging only)
 - [x] Mahindra — XUV 7XO full current gearbox/seating normalization (27 exact OEM grade/fuel/transmission/seating/drive combinations; 12 current selector grade/fuel price observations kept separate)
-- [ ] Mahindra — Scorpio Classic current OEM price conflict resolved (two grades normalized; selector/detail-page amounts disagree)
+- [x] Mahindra — Scorpio Classic current OEM price conflict resolved (2026-11-07 live selector and both model detail pages agree for both grades)
 - [ ] Mahindra — Bolero Neo price-version discrepancies reconciled (five grades normalized; four current/prior selector amounts differ)
 - [ ] Mahindra — Bolero B4/B6 price-version discrepancies reconciled (four grades normalized; two current/prior selector amounts differ)
 - [ ] Mahindra — XUV400 full current range/orderability verified (only one selector card exposed; EL PRO ST crosswalk and charger inclusion need confirmation)
@@ -130,7 +130,7 @@
 | Mahindra | Thar ROXX | [x] | [x] 21 Delhi on-road prices (secondary source) | [x] | [x] | Complete — petrol/diesel, RWD/4WD, manual/automatic; Mocha interior codes kept separate |
 | Mahindra | Scorpio N | [x] | [x] 31 populated OEM ex-showroom observations (2026-08-05 matrix) | [x] | [x] | Complete — 31 populated grade/powertrain/drive/seating combinations; price freshness and source rights still require review |
 | Mahindra | XUV 7XO | [x] | [x] 12 current selector grade/fuel price observations; no per-derivative price mapping | [x] | [x] | Complete — 27 exact OEM configurations normalized; selector price observations kept at grade/fuel level; per-derivative pricing and source rights remain pending |
-| Mahindra | Scorpio Classic | [x] | [ ] 4 official observations quarantined due price conflict | [x] | [x] | Partial — two grades normalized; selector and detail pages disagree on both prices |
+| Mahindra | Scorpio Classic | [x] | [x] 4 current official observations aligned across selector and detail pages | [x] | [x] | Complete — both grade prices reconciled; effective date/city and source rights remain pending |
 | Mahindra | Bolero Neo | [x] | [ ] 5 current selector prices; 4 version conflicts | [x] | [x] | Partial — five grades normalized; prior/current selector captures disagree for four grades |
 | Mahindra | Bolero | [x] | [ ] 4 current selector prices; 2 version conflicts | [x] | [x] | Partial — four grades normalized; current/prior selector captures disagree for B4 and B6 |
 | Mahindra | XUV400 | [ ] | [x] 1 current selector price observation | [x] | [x] | Partial — only one card exposed; current orderability and charger inclusion require dealer confirmation |
