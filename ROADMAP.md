@@ -111,7 +111,8 @@
 | Tata | Tigor (ICE) | [ ] | [ ] | [ ] | [ ] | Pending |
 | Maruti Suzuki | Alto K10 | [x] | [x] 8 official ex-showroom prices | [x] | [x] | Complete — 6 petrol and 2 S-CNG variants |
 | Maruti Suzuki | Celerio | [x] | [x] 8 official ex-showroom prices | [x] | [x] | Complete — 7 petrol and 1 S-CNG configurations |
-| Maruti Suzuki | Eeco | [ ] | [ ] | [ ] | [ ] | Pending — next model |
+| Maruti Suzuki | Eeco | [x] | [x] 4 official ex-showroom prices | [x] | [x] | Complete — passenger variants only; ambulance/cargo excluded |
+| Maruti Suzuki | Ertiga | [ ] | [ ] | [ ] | [ ] | Pending — next model |
 | VinFast | VF 6 | [x] | [x] model-level starting price only | [x] | [x] | Complete — Earth/Wind/Wind Infinity; no trim prices inferred |
 | VinFast | VF 7 | [x] | [x] model-level starting price only | [x] | [x] | Complete — five variants; 70.8 gross/70 usable battery distinction retained |
 | VinFast | VF MPV 7 | [x] | [x] current + historical launch price | [x] | [x] | Complete — single 7-seat configuration; November 2026 price reduction recorded |
