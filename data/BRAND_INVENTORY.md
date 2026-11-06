@@ -445,3 +445,16 @@ Added source-review rows for all **seven Maserati model candidates**: Grecale, G
 The 2026-10-30 OEM India announcement confirms the refreshed Grecale, GranTurismo and GranCabrio range and India debut of GT2 Stradale. The current India configurator is used for exact product configurations and visible Grecale pricing; media-reported GranTurismo/GranCabrio amounts are not substituted for OEM price evidence. No Maserati price is approved for production import except as a recorded source observation pending effective-date/dealer verification.
 
 The Maserati batch adds seven rows. The overall variant-source worklog now contains **173 model rows** across 21 brands; 78 of 251 model candidates remain without variant-source rows.
+
+## Aston Martin variant-source audit (2026-11-06)
+
+Added source-review rows for all **four Aston Martin model candidates**: Vantage, DB12, DBX and Vanquish.
+
+- **Vantage:** India FTA price reporting identifies Vantage S Coupe (₹3.15 crore) and Vantage S Roadster (₹3.35 crore).
+- **DB12:** India FTA price reporting identifies DB12 S Coupe (₹4.10 crore) and DB12 S Volante (₹4.35 crore).
+- **DBX:** India FTA price reporting identifies DBX S at ₹4.15 crore.
+- **Vanquish:** India FTA price reporting identifies Vanquish Coupe (₹6.40 crore) and Vanquish Volante (₹6.90 crore).
+
+These August 2026 India-UK FTA prices were reported as manufacturer-announced revised prices, but a direct OEM India price list was not captured in this pass. Current global OEM pages confirm the model families; exact India allocation, suffix/grade, model-year, options, tax eligibility and orderability require authorized dealer confirmation. Do not infer global DBX707 or other international variants as India retail options. No Aston Martin price is approved for production import.
+
+The Aston Martin batch adds four rows. The overall variant-source worklog now contains **177 model rows** across 22 brands; 74 of 251 model candidates remain without variant-source rows.
