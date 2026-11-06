@@ -19,7 +19,7 @@ The January 2026 official India X3 brochure provides the corresponding powertrai
 
 ## Price observations and discrepancy
 
-- X3 xDrive20 M Sport: ₹69,90,000 from the current BMW all-models listing.
+- X3 xDrive20 M Sport: ₹76,90,000 from the current BMW all-models listing.
 - X3 xDrive20d M Sport Pro: ₹78,20,000 from the current BMW all-models listing.
 - Dedicated X3 product page still shows ₹75,70,000 as a model-level starting price, which conflicts with the current all-models grade prices.
 
