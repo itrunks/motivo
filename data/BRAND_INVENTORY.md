@@ -67,3 +67,24 @@ The companion `current-model-audit.csv` now contains **251 unique brand/model ca
 - Preserve OEM spelling and naming (including Citroën suffix-X names and official capitalization).
 - Do not convert model-level starting prices into variant prices. Do not create city on-road observations from ex-showroom amounts.
 - Every model candidate still requires exact current variant, price, model-year and source-reuse review before staging or publication.
+
+
+## Variant-source audit worklog (2026-11-06)
+
+The companion `variant-source-audit.csv` begins Step 5 with an official-source pilot for Hyundai. It is a **source-quality worklog**, not a verified variant or price import file.
+
+- Creta: the official price page exposes 38 named petrol/diesel price rows, but the highest displayed row (₹20,45,700) conflicts with the official model listing maximum (₹20.11 lakh). Keep all observed values quarantined pending confirmation.
+- Venue: official page describes HX trims and powertrain/gearbox combinations, but the captured variant-price table is empty.
+- Exter: official page describes HX and legacy trim labels plus petrol/CNG families, but the captured variant-price table is empty.
+- Verna: official page describes HX trim labels and MPi/Turbo GDi engines, but the captured variant-price table is empty.
+- The audit does not infer exact trim-to-engine mappings, model year, or current orderability where the OEM page does not expose them.
+- No variant prices have been approved for import. Dealer/configurator confirmation and source reuse review remain mandatory.
+
+### Variant evidence acceptance rules
+
+- Capture the exact OEM variant label, model year (when stated), fuel/powertrain, transmission, seating/body configuration, price amount, price basis, city/state scope, effective date, source URL and checked date.
+- Preserve the OEM's exact naming. Do not manufacture trim combinations by crossing engine and transmission lists.
+- Keep ex-showroom and on-road observations separate; never calculate one from the other.
+- A missing or dynamically empty OEM table is not evidence that the model has no variants.
+- Conflicting OEM values are quarantined and must not be resolved by selecting the more convenient value.
+- Third-party variant/price pages may be used as discrepancy leads only, not as final publication evidence when an OEM/dealer source is required.
