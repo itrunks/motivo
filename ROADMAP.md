@@ -241,7 +241,7 @@
 | X1 Long Wheelbase | [x] | [x] ₹49.90L official current starting price | [x] | Complete — one petrol model configuration, 156 hp and 7-speed DCT; unspecified fields left blank |
 | X3 | [x] | [x] ₹76.90L petrol; ₹78.20L diesel | [x] | Partial — two current grades mapped; dedicated product page still shows conflicting ₹75.70L starting price |
 | X5 | [x] | [x] ₹96.90L petrol / ₹98.90L diesel model-level prices | [x] | Partial — four technical trim configurations; prices not mapped to each trim |
-| X6 M60i | [ ] | [ ] | [ ] | Pending |
+| X6 M60i | [x] | [x] ₹1.779Cr official current price | [x] | Complete — single X6 M60i xDrive; 530 hp/750 Nm, AWD, 4.3 s verified |
 | X7 | [ ] | [ ] | [ ] | Pending |
 | i4 | [ ] | [ ] | [ ] | Pending |
 | i5 | [ ] | [ ] | [ ] | Pending |
