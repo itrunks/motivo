@@ -25,8 +25,10 @@ jobs:
           python-version: "3.x"
       - name: Compile catalogue scripts
         run: python -m py_compile scripts/validate_catalogue.py scripts/approve_catalogue_sources.py
-      - name: Test source approval gate
+      - name: Test source approval gate and crosswalk
         run: python -m unittest discover -s tests -v
+      - name: Validate exact source registry crosswalk
+        run: python scripts/validate_source_crosswalk.py
       - name: Validate import template
         run: python scripts/validate_catalogue.py data/catalogue-import-template.csv --out-dir /tmp/motivo-catalogue-staging
       - uses: actions/setup-node@v4
