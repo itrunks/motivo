@@ -4,7 +4,9 @@ Checked: 2026-11-06
 
 ## Deliverable
 
-- `data/mini-countryman-electric-variant-price-observations.csv`: four India-listed trims with motor layout, battery, output, range, drivetrain, seats and Delhi on-road price observations.
+- `data/mini-countryman-electric-variant-structure.csv`: four India-listed trims with motor layout, battery, output, range, drivetrain and seating.
+- `data/mini-countryman-electric-variant-price-observations.csv`: four secondary Delhi on-road price observations.
+- `data/mini-countryman-electric-official-price-observations.csv`: official model-level starting price and E package price.
 
 ## Current India variants
 
@@ -14,7 +16,13 @@ The first three use the single-motor Countryman E powertrain: 66.45 kWh gross ba
 
 ## Price basis
 
-Autocar India's on-road Delhi observations are ₹58.47 lakh (Essential EV), ₹61.08 lakh (Classic Pack EV), ₹63.85 lakh (Favoured Pack EV) and ₹71.25 lakh (SE ALL4). These are on-road Delhi prices, not ex-showroom or Tamil Nadu quotes. MINI's official India range pages and specification sheets support the powertrain details; the Autocar page provides the current four-trim price matrix.
+Autocar India's on-road Delhi observations are ₹58.47 lakh (Essential EV), ₹61.08 lakh (Classic Pack EV), ₹63.85 lakh (Favoured Pack EV) and ₹71.25 lakh (SE ALL4). These are on-road Delhi prices, not ex-showroom or Tamil Nadu quotes.
+
+MINI India's current range page lists the All-Electric Countryman from ₹55.65 lakh. The February 2026 E specification sheet separately lists ₹58.10 lakh including an AC wallbox with one-time installation, five-year roadside assistance and an eight-year/160,000 km HV battery warranty. These are distinct official price bases and are not merged. No official SE ALL4 grade-specific ex-showroom price is exposed in the captured sources.
+
+## Status
+
+Complete for the four current India retail labels and powertrain configurations. Current secondary Delhi on-road observations and official model-level/E package price bases are stored separately; the official SE ALL4 grade-specific price remains unavailable.
 
 ## Rights and import gate
 
