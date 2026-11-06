@@ -1,33 +1,66 @@
-# Kia Carens Clavis — source reconciliation checkpoint
+# Kia Carens Clavis normalization — partial, unknown column quarantined
 
 Checked: 2026-11-06
 
-## Status: blocked pending source reconciliation
+## Deliverables
 
-No normalized variant CSV is committed for this model yet. The current Kia comparison page exposes a 12-column trim matrix, but one column header is missing in the extracted page content and its price is rendered only as a currency symbol. The same page shows several trim labels and prices that differ from the existing 2026 brochure/workqueue snapshot.
+- `data/kia-carens-clavis-variant-structure.csv`: 28 exact powertrain/seating configurations for the 11 named grades whose columns are identifiable in the current Kia comparison matrix.
+- `data/kia-carens-clavis-price-observations.csv`: 11 named trim-level MSRP observations. The unnamed comparison column has no numeric price and is not assigned.
 
-## Evidence captured
+## Named showroom grades and configuration mapping
 
-- Current compare page lists HTE, HTE(O), HTE(EX), then one unnamed column, HTK+, HTK+(O), HTX, HTX(O), GTX, HTX+, GTX+, X-Line.
-- Powertrain matrix includes Smartstream G1.5 T-GDi 7DCT, Smartstream G1.5 T-GDi 6iMT, Smartstream G1.5 T-GDi 6MT, Smartstream G1.5 CNG 6MT, Smartstream G1.5 6MT, 1.5 l CRDi VGT 6AT and 6MT.
-- Seating matrix shows 7-seater for most trims and 6-seater only for a DCT configuration in the HTX+ column as extracted.
-- The current price page has missing/misaligned values, including an unnamed trim column with no numeric price.
-- The 2026 brochure snapshot contains a narrower trim list and does not fully reconcile to the current online comparison page.
+The current Kia showroom page lists these 11 named grade families: HTE, HTE(O), HTE(EX), HTK+, HTK+(O), HTX, HTX(O), HTX+, GTX, GTX+ and X-Line. It also presents HTE CNG and HTE(O) CNG as separate showroom cards; the comparison matrix maps CNG 6MT availability under HTE and HTE(O), so those are captured as powertrain configurations, not fabricated new trim names.
 
-## Required before normalization
+The current compare matrix's 11 named columns map to the following combinations. The structure CSV contains 28 rows, including the 6-seat DCT derivative under HTX+:
 
-1. Confirm the missing trim header and its actual retail label from Kia's live configurator or a current official brochure.
-2. Confirm the current powertrain/trim mapping for the 6iMT, CNG, and diesel AT rows against the same trim labels.
-3. Confirm current price basis and effective date; do not use a misaligned amount from the extracted comparison page.
-4. Then generate the structure and price observation CSVs separately.
+- HTE: Smartstream G1.5 petrol 6MT; Smartstream G1.5 CNG 6MT.
+- HTE(O): Smartstream G1.5 petrol 6MT; Smartstream G1.5 CNG 6MT; Smartstream G1.5 T-GDi petrol 7DCT and 6MT; 1.5L CRDi VGT diesel 6AT and 6MT.
+- HTE(EX): Smartstream G1.5 petrol 6MT; Smartstream G1.5 T-GDi petrol 7DCT and 6MT; 1.5L CRDi VGT diesel 6MT.
+- HTK+: Smartstream G1.5 T-GDi petrol 7DCT; 1.5L CRDi VGT diesel 6AT and 6MT.
+- HTK+(O): Smartstream G1.5 T-GDi petrol 7DCT and 6MT; 1.5L CRDi VGT diesel 6MT.
+- HTX: Smartstream G1.5 T-GDi petrol 7DCT; 1.5L CRDi VGT diesel 6MT.
+- HTX(O): Smartstream G1.5 T-GDi petrol 7DCT.
+- GTX: Smartstream G1.5 T-GDi petrol 7DCT.
+- HTX+: Smartstream G1.5 T-GDi petrol 7DCT (6- and 7-seat), 6iMT and 6MT.
+- GTX+: Smartstream G1.5 T-GDi petrol 7DCT.
+- X-Line: Smartstream G1.5 T-GDi petrol 7DCT.
 
-## Rights / publication
+Kia's current showroom identifies the 6-seat captain-seat option under HTX+; the comparison matrix marks 6-seater as included for DCT only in that column. The 7-seat configuration remains listed separately.
 
-Source status remains `review_required`; commercial reuse and redistribution remain `unknown`. No Firestore write or publication has been performed.
+## Unnamed comparison column — still unresolved
+
+The comparison page contains a twelfth column after HTE(EX) whose header is blank in the captured page text and whose price renders only as the currency symbol. The matrix indicates 7DCT for that column but no other listed powertrain. It is not mapped to any of the named showroom grades and is excluded from the normalized structure and price CSVs. The model remains partial until Kia exposes the missing grade label and numeric price.
+
+## Price observations
+
+The current comparison page shows these trim-level starting MSRP values:
+
+| Grade | Starting MSRP |
+|---|---:|
+| HTE | ₹11,38,900 |
+| HTE(O) | ₹12,34,900 |
+| HTE(EX) | ₹12,85,900 |
+| HTK+ | ₹16,43,900 |
+| HTK+(O) | ₹16,41,900 |
+| HTX | ₹19,00,900 |
+| HTX(O) | ₹19,61,900 |
+| GTX | ₹19,99,900 |
+| HTX+ | ₹19,03,900 |
+| GTX+ | ₹21,78,900 |
+| X-Line | ₹21,78,900 |
+
+The unnamed twelfth column has no numeric value. Prices are retained at trim level and are not copied onto each powertrain/seating row. The comparison page labels the values starting MSRP; no effective date is inferred.
+
+## Powertrain and seating notes
+
+The current Kia showroom identifies the Carens Clavis as a 7-seater family MPV, and explicitly notes a 6-seat captain-seat option for HTX+. The comparison page lists the engine/transmission families used above. The structure CSV preserves OEM naming and does not infer engine outputs where not transcribed in this pass.
+
+## Rights and import gate
+
+Source status remains `review_required`; commercial reuse and redistribution remain `unknown`. The unknown column remains quarantined. No Firestore write or public catalogue publication has been performed.
 
 ## Sources
 
-- https://www.kia.com/in/our-vehicles/carens-clavis/specs/compare-trims.html
-- https://www.kia.com/in/our-vehicles/carens-clavis/specs.html
-- https://www.kia.com/in/our-vehicles/carens-clavis/showroom.html
-- https://www.kia.com/content/dam/kia2/in/en/buy/Kia-Carens-Clavis-Brochure_2026_Desktop.pdf
+- Kia Carens Clavis current trim comparison and powertrain/seating matrix: https://www.kia.com/in/our-vehicles/carens-clavis/specs/compare-trims.html
+- Kia Carens Clavis current showroom with 13 displayed cards and HTX+ seating options: https://www.kia.com/in/our-vehicles/carens-clavis/showroom.html
+- Kia Carens Clavis 2026 official brochure: https://www.kia.com/content/dam/kia2/in/en/buy/Kia-Carens-Clavis-Brochure_2026_Desktop.pdf
