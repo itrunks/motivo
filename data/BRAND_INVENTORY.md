@@ -217,3 +217,16 @@ The companion variant-source worklog now includes the Force Motors **Gurkha** ca
 - No additional trim, fuel or transmission combinations have been inferred. No price is approved for production import; source-reuse review and dealer/orderability confirmation remain required.
 
 The variant-source worklog now contains **68 model rows**: Hyundai 14, Kia 9, Toyota 13, MG Motor 10, Tata Motors 16, MINI 5 and Force Motors 1. This remains a research worklog, not a production import manifest.
+
+
+## Tesla variant-source audit (2026-11-06)
+
+The companion variant-source worklog now includes the Tesla **Model Y** candidate.
+
+- Tesla India's official Model Y page presents **Model Y Premium** and **Model Y L** as the two current product families. The official India new-inventory page names **Premium Rear-Wheel Drive** (five seats) and **L All-Wheel Drive** (six seats).
+- Tesla's official India model page states up to **500 km WLTP** for the rear-wheel-drive Model Y and **681 km WLTP** for Model Y L. It confirms dual-motor AWD and up to six seats for Model Y L. These are OEM WLTP claims, not India-certified range values.
+- The official new-inventory page currently displays configuration-specific rupee totals: Premium Rear-Wheel Drive at ₹52,02,460 (Stealth Grey) and ₹53,94,360 (Pearl White Multi-Coat); L All-Wheel Drive listings range from ₹63,23,560 to ₹66,06,360 across the displayed paint/interior combinations. The page labels these as new-vehicle inventory amounts but does not identify them as ex-showroom base prices.
+- Tesla launch pricing reported from company announcements was ₹50,89,000 for Premium RWD and ₹61,99,000 starting for Model Y L. Those launch/base amounts differ from current live inventory configuration totals; preserve them as separate observations, not a single price field. Current price basis, option/paint uplifts, effective date, taxes and delivery charges require direct configurator/dealer confirmation.
+- Tesla's captured India product page does not expose battery capacity in kWh. Do not import third-party estimated battery capacities or motor outputs as OEM-confirmed facts. The discontinued earlier Model Y RWD/Long Range RWD entries are not carried forward as current variants.
+
+The Tesla row is a source observation only. No Tesla variant price is approved for production import; exact configurator price basis, current orderability, model-year applicability and OEM content-reuse permission remain review gates.
