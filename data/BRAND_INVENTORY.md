@@ -487,4 +487,4 @@ Added source-review rows for all **seven Ferrari model candidates**: Amalfi, Ama
 
 Ferrari's public India price information is reported through dealer/industry coverage; a current OEM India variant-price sheet was not captured. The 30% lower FTA-anticipatory prices are estimates, not final invoice prices, and apply only to certain pure-petrol models. Hybrid models (296 GTB and 849 Testarossa) have uncertain tariff treatment. Confirm direct Ferrari dealer allocation, order acceptance, final written price, tax/FTA eligibility and delivery-date applicability before staging. No Ferrari price is approved for production import.
 
-The Ferrari batch adds seven rows. The overall variant-source worklog now contains **194 model rows** across 24 brands; 57 of 251 model candidates remain without variant-source rows.
+The Ferrari batch adds seven rows. The overall variant-source worklog now contains **189 model rows** across 24 brands; 62 of 251 model candidates remain without variant-source rows.
