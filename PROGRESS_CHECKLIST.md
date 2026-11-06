@@ -1,6 +1,6 @@
 # Motivo Catalogue Progress Checklist
 
-Last verified: 2026-11-06  
+Last verified: 2026-11-07  
 Branch: `feature/catalogue-source-audit-ingestion`  
 PR: https://github.com/itrunks/motivo/pull/1
 
@@ -124,4 +124,7 @@ PR: https://github.com/itrunks/motivo/pull/1
 - iX — historical India iX xDrive40 (December 2021) and iX xDrive50 (March 2024) technical configurations and dated OEM launch prices captured. Current BMW India full-electric catalogue no longer lists iX; current orderability and price remain unverified.
 
 ### BMW
-- iX1 Long Wheelbase — current eDrive20L M Sport normalized from BMW India September 2026 brochure and product page: 150 kW/204 hp, 250 Nm, FWD, 66.4 kWh, 546 km MIDC, 8.6 s, 130 kW DC and 11 kW AC. Current BMW India product page displays ₹54.70L; page tax basis and city applicability require dealer confirmation. Transmission not stated and left blank.\n\n### BMW\n- M2 — standard M2 automatic/manual (480 hp; 600/550 Nm; 8-speed auto/optional 6-speed manual), M2 CS (530 hp/650 Nm, RWD, 8-speed auto, ₹1.66Cr March 2026 launch price) and M2 xDrive Turbo Edition (480 hp, 3.7 s, limited pre-orders opened Oct 2026) recorded separately. Current catalogue displays standard M2 from ₹1.065Cr. Turbo Edition India price, torque and transmission not announced in OEM release; CS launch price retained as historical after Apr 2026 range price increase. Partial.
+- iX1 Long Wheelbase — current eDrive20L M Sport normalized from BMW India September 2026 brochure and product page: 150 kW/204 hp, 250 Nm, FWD, 66.4 kWh, 546 km MIDC, 8.6 s, 130 kW DC and 11 kW AC. Current BMW India product page displays ₹54.70L; page tax basis and city applicability require dealer confirmation. Transmission not stated and left blank.
+
+### BMW
+- M2 — standard M2 automatic/manual (480 hp; 600/550 Nm; 8-speed auto/optional 6-speed manual), M2 CS (530 hp/650 Nm, RWD, 8-speed auto, ₹1.66Cr March 2026 launch price) and M2 xDrive Turbo Edition (480 hp, 3.7 s, limited pre-orders opened Oct 2026) recorded separately. Current catalogue displays standard M2 from ₹1.065Cr. Turbo Edition India price, torque and transmission not announced in OEM release; CS launch price retained as historical after Apr 2026 range price increase. Partial.
