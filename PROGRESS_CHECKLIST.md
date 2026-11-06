@@ -7,11 +7,11 @@ PR: https://github.com/itrunks/motivo/pull/1
 ## Overall status
 
 - Audited work queue: 251 models across 35 brands.
-- Models with normalization work committed and fetched back: 56.
-- Completed/staging-ready model evidence: 46.
+- Models with normalization work committed and fetched back: 60.
+- Completed/staging-ready model evidence: 50.
 - Partial models needing exact trim/price mapping: 8.
 - Explicitly blocked models: 2.
-- Not yet started: 195 models across 30 brands.
+- Not yet started: 191 models across 30 brands.
 
 **Important:** “Complete” means research/normalization files and evidence notes are committed and verified. It does not mean commercial reuse rights are approved or production import is authorized. Source rights remain `review_required` / `unknown` unless separately proven.
 
@@ -29,7 +29,7 @@ PR: https://github.com/itrunks/motivo/pull/1
 | Tesla | 1 | 0 | 0 | 0 | 1 | Pending |
 | VinFast | 3 | 0 | 0 | 0 | 3 | Pending |
 | Maruti Suzuki | 17 | 0 | 0 | 0 | 17 | Pending |
-| Mahindra | 13 | 0 | 0 | 0 | 13 | Pending |
+| Mahindra | 13 | 4 | 0 | 0 | 9 | In progress |
 | Audi | 9 | 0 | 0 | 0 | 9 | Pending |
 | BMW | 22 | 0 | 0 | 0 | 22 | Pending |
 | BYD | 4 | 0 | 0 | 0 | 4 | Pending |
@@ -84,6 +84,7 @@ PR: https://github.com/itrunks/motivo/pull/1
 - Toyota: Innova Crysta, Innova Hycross, Urban Cruiser Hyryder, Glanza, Urban Cruiser Taisor, Fortuner, Hilux, Camry, Rumion, Urban Cruiser Ebella, Vellfire, Land Cruiser 300, Legender.
 - MG: Comet EV, Windsor EV, ZS EV, Hector, Astor, Hector Tomahawk EV, Hector Tomahawk PHEV, Majestor, Cyberster, M9.
 - Tata: Sierra.ev, Harrier.ev, Nexon.ev, Punch.ev, Tiago.ev, Curvv.ev, Tigor.ev, Sierra, Harrier, Safari.
+- Mahindra: XUV 3XO, Thar OG, Thar ROXX, Scorpio-N.
 
 ## Resume protocol
 
