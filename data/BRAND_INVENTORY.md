@@ -92,7 +92,7 @@ The companion `variant-source-audit.csv` begins Step 5 with an official-source p
 
 ### Hyundai follow-on batch (2026-11-06)
 
-The variant-source worklog now covers **11 Hyundai models**: Creta, Venue, Exter, Verna, Aura, Grand i10 NIOS, i20, i20 N Line, Alcazar, Creta Electric and IONIQ 5 (11 rows because the original four are retained and seven more were added).
+The variant-source worklog now covers **14 Hyundai models**: Creta, Venue, Exter, Verna, Aura, Grand i10 NIOS, i20, i20 N Line, Alcazar, Creta Electric and IONIQ 5 (11 rows because the original four are retained and seven more were added).
 
 - Aura: official feature matrix identifies E/S/SX/SX(O) and references SX+ AMT; confirm current SX+ retail naming and prices.
 - Grand i10 NIOS: official price-page text names petrol MT, AMT and CNG trim families; dynamic city-price table was empty in the captured content.
@@ -102,4 +102,11 @@ The variant-source worklog now covers **11 Hyundai models**: Creta, Venue, Exter
 - Creta Electric: official highlights page identifies five 42 kWh and four 51.4 kWh configurations; BaaS pricing must remain separate from full-battery vehicle pricing.
 - IONIQ 5: the official catalogue exposes a single model-card ex-showroom amount and 72.6 kWh battery, not a verified variant price matrix.
 
-The Hyundai batch currently has 11 model records in the worklog. All remain evidence-review records; none is an approved variant-price import. The source worklog deliberately records empty/dynamic price tables as missing evidence rather than filling values from third-party aggregators.
+The Hyundai batch now has 14 model records in the worklog. All remain evidence-review records; none is an approved variant-price import. The source worklog deliberately records empty/dynamic price tables as missing evidence rather than filling values from third-party aggregators.
+
+
+- Venue N Line: N6 MT, N6 DCT and N10 DCT are explicitly described; the official city-price table is empty in captured content.
+- Creta N Line: official page confirms 1.5L Turbo GDi petrol and 6MT/7DCT, but does not expose exact trim labels in captured content.
+- BAYON: official page confirms 1.5L MPi petrol, 6MT across the range and IVT on selected trims, but does not name the individual trims or expose prices.
+
+Hyundai model coverage in the source worklog is now **14 of 14 non-taxi models** displayed in the official India catalogue. Prime-HB and Prime-SD are taxi products and remain outside the passenger retail scope. This does not mean all 14 models have complete variant data: exact variant prices remain unapproved and several pages expose only model-level or powertrain-level information.
