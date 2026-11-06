@@ -568,3 +568,18 @@ Added source-review rows for all **four Rolls-Royce model candidates**: Ghost, P
 Rolls-Royce India pricing is not published as a conventional OEM fixed trim-price matrix in the captured official pages. India price amounts above are secondary-source observations only and remain unapproved. Bespoke paint, interior, materials and commissioned features are customer-specific specification choices, not separate retail variants. Confirm current model-year, India allocation, exact body/wheelbase/Black Badge configuration and written authorized-retailer quote before staging.
 
 The Rolls-Royce batch adds four rows. The overall variant-source worklog now contains **232 model rows** across 30 brands; 19 of 251 model candidates remain without variant-source rows.
+
+## Škoda variant-source audit (2026-11-06)
+
+Added source-review rows for all **six Škoda model candidates**: Kylaq, Slavia, Kushaq, Kodiaq, Octavia RS and Superb.
+
+- **Kylaq:** current official page lists Classic, Classic+, Signature, Signature+, Sportline, Prestige and Prestige+, with 1.0 TSI 6MT and 6-speed torque-converter AT from Classic+ upward. The official August 2026 release prices Sportline at ₹11.32/12.32 lakh MT/AT. The captured OEM price-table page has inconsistent duplicate transmission rows and conflicting Classic+ price cells; other grade prices are withheld pending a corrected OEM list.
+- **Slavia:** October 2026 OEM price release lists six trims and all populated 1.0 TSI MT/8AT and 1.5 TSI 7DSG combinations. Exact current prices are recorded per grade/powertrain. The 1.5 TSI is limited to Prestige and Monte Carlo.
+- **Kushaq:** current range is Classic+, Signature, Sportline, Prestige and Monte Carlo. The 1.0 TSI uses 6MT/8AT; the 1.5 TSI 7DSG appears only on Sportline/Prestige/Monte Carlo. The official 2026 price matrix is captured. Legacy Classic/Onyx grade labels are not carried forward.
+- **Kodiaq:** current 2026 range is Lounge, Sportline and Selection L&K, all 2.0 TSI 7-speed DSG 4x4. Lounge is 5-seat; Sportline and Selection L&K are 7-seat. Official prices are ₹36.99/44.99/46.99 lakh respectively.
+- **Octavia RS:** one India 2.0 TSI 265PS 7-speed DSG FWD configuration; official product page displays ₹56.69 lakh. August 2026 OEM release limits allocation to 50 units; ₹2.5 lakh is a booking deposit, not vehicle price.
+- **Superb:** August 2026 OEM announcement confirms all-new Superb TDI for India, with expressions of interest open and deliveries planned for end of Q2 2027. No numeric price or complete grade/engine/transmission matrix was published in the captured release; keep dealer confirmation required.
+
+No Škoda price is approved for production import. Confirm price effective date, city scope, current stock/allocation, model-year and OEM content-reuse permission before staging. Kylaq price cells and future Superb orderability remain explicit review gates.
+
+The Škoda batch adds six rows. The overall variant-source worklog now contains **238 model rows** across 31 brands; 13 of 251 model candidates remain without variant-source rows.
