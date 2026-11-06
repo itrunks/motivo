@@ -542,3 +542,16 @@ Added source-review rows for all **five Porsche model candidates**: 911, Taycan,
 Porsche India configurator amounts are displayed inclusive of VAT. The prices in the worklog are manufacturer-configurator observations, not dealer on-road quotations. Keep model-level/body-style/powertrain identities separate, and verify model year, availability and current dealer quotation before import. No Porsche price is approved for production import.
 
 The Porsche batch adds five rows. The overall variant-source worklog now contains **224 model rows** across 28 brands; 27 of 251 model candidates remain without variant-source rows.
+
+## Renault variant-source audit (2026-11-06)
+
+Added source-review rows for all **four Renault model candidates**: Duster, Triber, Kiger and Kwid.
+
+- **Duster:** official Renault pre-configurator exposes three powertrain groups: Turbo TCe 100 (Authentic/Evolution/Adventure, 6MT); Turbo TCe 160 (Evolution/Adventure/Techno+/Iconic and Iconic Launch Edition, 6MT/6DCT); Strong Hybrid E-Tech 160 (Evolution/Techno/Emotion, dedicated 8-speed DHT). The hybrid's ₹16.99/18.99/19.49 lakh prices are introductory for deliveries through 2026-12-31. Dual-tone is a ₹20,000 appearance option, not a variant.
+- **Triber:** official page lists Authentic, Evolution, Techno and Emotion, with grade starting prices. It now describes both 72PS naturally aspirated petrol and TCe 100PS turbo families, plus flexible 5–7 seating. Exact engine/gearbox-to-grade mapping needs configurator confirmation.
+- **Kiger:** official page lists Authentic, Evolution, Evolution+, Techno and Emotion. Configurator exposes 1.0L NA manual/AMT and 1.0L turbo manual/CVT powertrains. Grade starting prices are visible, but full trim-to-powertrain matrix is not.
+- **Kwid:** official page currently lists Evolution and Climber with grade starting prices. Exact current transmission applicability requires configurator confirmation; historic RXT/AMT names are not carried forward without current evidence.
+
+Renault's official price pages state ex-showroom prices are subject to city/local tax and purchase-date changes. Grade starting amounts are not treated as full price matrices. Confirm exact powertrain/gearbox/grade combinations, hybrid introductory-price expiry, city scope and dealer orderability before staging. No Renault price is approved for production import.
+
+The Renault batch adds four rows. The overall variant-source worklog now contains **228 model rows** across 29 brands; 23 of 251 model candidates remain without variant-source rows.
