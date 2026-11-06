@@ -238,7 +238,7 @@
 | 7 Series | [x] | [x] ₹1.95Cr official current starting price | [x] | Partial — 740 M Sport current listing confirmed; current India technical sheet unavailable |
 | M340i | [x] | [x] ₹77.80L current listing; ₹75.40L legacy page | [x] | Partial — current technical tune unclear; 2021/2023 official spec sheets differ |
 | X1 | [x] | [x] ₹52.90L sDrive18d; ₹50.90L model-level start | [x] | Partial — two powertrains mapped; petrol starting price not grade-assigned |
-| X1 Long Wheelbase | [ ] | [ ] | [ ] | Pending |
+| X1 Long Wheelbase | [x] | [x] ₹49.90L official current starting price | [x] | Complete — one petrol model configuration, 156 hp and 7-speed DCT; unspecified fields left blank |
 | X3 | [ ] | [ ] | [ ] | Pending |
 | X5 | [ ] | [ ] | [ ] | Pending |
 | X6 M60i | [ ] | [ ] | [ ] | Pending |
