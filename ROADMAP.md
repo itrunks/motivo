@@ -3,7 +3,7 @@
 **Project target:** 100% evidence-backed catalogue normalization and validation.  
 **Working branch:** `feature/catalogue-source-audit-ingestion`  
 **Current PR:** #1 — https://github.com/itrunks/motivo/pull/1  
-**Last checkpoint:** 2026-11-06 — Kia Carnival committed and verified; Carens Clavis remains blocked
+**Last checkpoint:** 2026-11-06 — Kia EV6 committed and verified; Carens Clavis remains blocked
 
 ## Progress rules
 
@@ -52,11 +52,26 @@
 |---|---|---|---|---|---|---|
 | Hyundai | Creta | [x] | [x] OEM observations; current city price still needs confirmation | [x] | [x] | Complete — staging only |
 | Hyundai | Venue | [x] | [ ] | [x] | [x] | Complete — structure only |
-| Hyundai | Exter | [x] | [x] launch-price observations; effective date/current city quote not confirmed | [x] | [x] | Complete — staging only |
+| Hyundai | Exter | [x] | [x] launch observations; effective date/current city quote not confirmed | [x] | [x] | Complete — staging only |
 | Hyundai | Verna | [x] | [x] dated launch observations; current city quote needs confirmation | [x] | [x] | Complete — staging only |
-| Hyundai | i20 N Line | [x] | [ ] | [x] | [x] | Complete — structure only; price matrix not captured |
-| Hyundai | Remaining work-queue models | [ ] | [ ] | [ ] | [ ] | Pending — next: Alcazar |
-| Other brands | Work-queue models | [ ] | [ ] | [ ] | [ ] | Pending |
+| Hyundai | Aura | [x] | [ ] | [x] | [x] | Complete — structure only |
+| Hyundai | Grand i10 NIOS | [x] | [ ] | [x] | [x] | Complete — structure only |
+| Hyundai | i20 | [x] | [ ] | [x] | [x] | Complete — structure only |
+| Hyundai | i20 N Line | [x] | [ ] | [x] | [x] | Complete — structure only |
+| Hyundai | Alcazar | [x] | [ ] | [x] | [x] | Complete — structure only |
+| Hyundai | Creta Electric | [x] | [ ] | [x] | [x] | Complete — structure only |
+| Hyundai | IONIQ 5 | [x] | [ ] | [x] | [x] | Complete — powertrain only |
+| Hyundai | Venue N Line | [x] | [ ] | [x] | [x] | Complete — structure only |
+| Hyundai | Creta N Line | [x] | [ ] | [x] | [x] | Complete — structure only |
+| Hyundai | BAYON | [x] | [ ] | [x] | [x] | Complete — structure only |
+| Kia | Sonet | [x] | [x] 8 trim prices; HTK missing | [x] | [x] | Complete — 24 combinations |
+| Kia | Seltos | [x] | [x] 12 trim prices | [x] | [x] | Staged — T-GDi 6iMT trim mapping unresolved |
+| Kia | Carens Clavis EV | [x] | [x] 9 trim prices | [x] | [x] | Complete — 17 battery/seating combinations |
+| Kia | Syros | [x] | [x] 7 trim prices | [x] | [x] | Complete — 17 combinations |
+| Kia | Carens Clavis | [ ] | [ ] | [x] | [x] | Blocked — unnamed trim column and price/powertrain reconciliation |
+| Kia | Carnival | [x] | [x] 1 price | [x] | [x] | Complete — one India retail trim |
+| Kia | EV6 | [x] | [ ] | [x] | [x] | Complete — current GT-Line AWD only; price unavailable |
+| Kia | EV9 | [ ] | [ ] | [ ] | [ ] | Pending — next |
 
 ## Resume/checkpoint protocol
 
