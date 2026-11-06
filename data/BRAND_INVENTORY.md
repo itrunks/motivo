@@ -401,3 +401,18 @@ Added source-review rows for all **three Lamborghini model candidates**: Urus SE
 Lamborghini's public global pages provide product identity/specifications, but no official India grade-wise price matrix was captured. Third-party price estimates are not used as OEM price evidence. All three candidates retain dealer-confirmation-required status; obtain authorized India dealer quotations, allocation/orderability and price/tax basis before staging. No Lamborghini price is approved for production import.
 
 The Lamborghini batch adds three rows. The overall variant-source worklog now contains **154 model rows** across 18 brands; 97 of 251 model candidates remain without variant-source rows.
+
+## Land Rover variant-source audit (2026-11-06)
+
+Added source-review rows for all **seven Land Rover model candidates**: Range Rover, Range Rover Sport, Range Rover Velar, Range Rover Evoque, Defender, Discovery and Discovery Sport.
+
+- **Range Rover / Range Rover Sport:** current official India Range Rover site confirms both model families and displays model-level starting prices (₹2.40 crore and ₹1.43 crore respectively). Exact current India retail grades, engine codes and body-style combinations were not exposed in the captured India pages. Do not import global grade/powertrain matrices without local confirmation.
+- **Range Rover Velar:** official India page displays ₹88.50 lakh starting. A historical official MY24 price list names 2.0L petrol/diesel Dynamic HSE at ₹87.90 lakh; this is retained only as historical evidence, not a current 2026 trim-price row.
+- **Range Rover Evoque:** official India page displays ₹64.86 lakh starting. Historical official MY24 material names Dynamic SE on petrol/diesel; current 2026 grade mapping remains unverified.
+- **Defender:** official India models page identifies body styles 90/110/130 and product grades/editions including OCTA, OCTA Black, X-Dynamic HSE, X, V8 and Trophy Edition. The 130 page exposes D350 diesel mild hybrid and P425 petrol selectors for selected grades. Do not cross-join all body styles, trims and engines.
+- **Discovery:** current official India page confirms the seven-seat Discovery family. S, Dynamic HSE and Metropolitan Edition labels appear in a 2024 official MY24 price list only; they are not assumed to be current 2026 grades.
+- **Discovery Sport:** official India family page displays model-level starting price ₹63.37 lakh. The 2024 MY24 Dynamic SE petrol/diesel price entry is historical, not current variant pricing.
+
+Land Rover's current India pages explicitly caution that global-market specifications/options may differ locally and direct customers to authorized retailers for current availability and pricing. The 2024 price PDF and retail-offer pages are historical; they are not used as current prices. Confirm exact India grade/engine/body-style combinations, current stock/orderability, price effective date and dealer quotation before staging. No Land Rover price is approved for production import.
+
+The Land Rover batch adds seven rows. The overall variant-source worklog now contains **161 model rows** across 19 brands; 90 of 251 model candidates remain without variant-source rows.
