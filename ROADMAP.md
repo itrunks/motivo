@@ -226,3 +226,31 @@
 | Q3 Sportback | [x] | [ ] | [x] | Partial — 40 TFSI quattro configuration captured; current India price unavailable |
 | SQ8 | [x] | [ ] | [x] | Partial — new 4.0L V8 373 kW/770 Nm model is pre-booking only; price/grade matrix unavailable |
 | RS Q8 Performance | [x] | [ ] | [x] | Partial — 4.0L V8 471 kW/850 Nm model verified; current India price unavailable |
+
+
+## BMW India queue
+
+| Model | Structure | Price evidence | Evidence notes | Status |
+|---|---|---|---|---|
+| 2 Series Gran Coupe | [x] | [x] ₹45.80L official list + ₹45.30L limited GST offer | [x] | Complete — one 218 M Sport India configuration; offer price kept separate |
+| 3 Series Long Wheelbase | [ ] | [ ] | [ ] | Pending |
+| 5 Series Long Wheelbase | [ ] | [ ] | [ ] | Pending |
+| 7 Series | [ ] | [ ] | [ ] | Pending |
+| M340i | [ ] | [ ] | [ ] | Pending |
+| X1 | [ ] | [ ] | [ ] | Pending |
+| X1 Long Wheelbase | [ ] | [ ] | [ ] | Pending |
+| X3 | [ ] | [ ] | [ ] | Pending |
+| X5 | [ ] | [ ] | [ ] | Pending |
+| X6 M60i | [ ] | [ ] | [ ] | Pending |
+| X7 | [ ] | [ ] | [ ] | Pending |
+| i4 | [ ] | [ ] | [ ] | Pending |
+| i5 | [ ] | [ ] | [ ] | Pending |
+| i5 Long Wheelbase | [ ] | [ ] | [ ] | Pending |
+| i7 | [ ] | [ ] | [ ] | Pending |
+| iX | [ ] | [ ] | [ ] | Pending |
+| iX1 Long Wheelbase | [ ] | [ ] | [ ] | Pending |
+| M2 | [ ] | [ ] | [ ] | Pending |
+| M4 Competition | [ ] | [ ] | [ ] | Pending |
+| M5 | [ ] | [ ] | [ ] | Pending |
+| M440i Convertible | [ ] | [ ] | [ ] | Pending |
+| XM | [ ] | [ ] | [ ] | Pending |
