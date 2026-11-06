@@ -202,3 +202,12 @@
 | Model | Structure | Price evidence | Evidence notes | Status |
 |---|---|---|---|---|
 | Gurkha | [x] | [x] 6 official price observations (product page, central price list, 2024 launch) | [x] | Partial — product page and central price list disagree for both 3-door and 5-door prices |
+
+
+## VinFast India queue
+
+| Model | Structure | Price evidence | Evidence notes | Status |
+|---|---|---|---|---|
+| VF 6 | [x] | [x] ₹18.19L official model-level starting price | [x] | Partial — three grades normalized; current official trim-wise prices are not published in the captured page |
+| VF 7 | [ ] | [ ] | [ ] | Pending |
+| VF MPV 7 | [ ] | [ ] | [ ] | Pending |
