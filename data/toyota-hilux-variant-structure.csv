@@ -1,0 +1,4 @@
+brand_id,model_name,oem_variant_label,engine,fuel,transmission,drive_type,seating_capacity,body_style,source_url,source_checked_at,source_review_status,commercial_reuse_allowed,redistribution_allowed
+toyota,Hilux,GX 4X2 AT,2.8 l diesel,Diesel,6-speed automatic,4x2,5,Pickup truck,https://www.toyotabharat.com/showroom/hilux/,2026-11-06,review_required,unknown,unknown
+toyota,Hilux,GX 4X4 AT,2.8 l diesel,Diesel,6-speed automatic,4x4,5,Pickup truck,https://www.toyotabharat.com/showroom/hilux/,2026-11-06,review_required,unknown,unknown
+toyota,Hilux,VX 4X4 AT,2.8 l diesel,Diesel,6-speed automatic,4x4,5,Pickup truck,https://www.toyotabharat.com/showroom/hilux/,2026-11-06,review_required,unknown,unknown
