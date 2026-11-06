@@ -3,7 +3,7 @@
 **Project target:** 100% evidence-backed catalogue normalization and validation.  
 **Working branch:** `feature/catalogue-source-audit-ingestion`  
 **Current PR:** #1 — https://github.com/itrunks/motivo/pull/1  
-**Last checkpoint:** 2026-11-06 — Mahindra Scorpio-N completed; XUV 7XO has 12 current OEM selector price observations committed, with gearbox/seating mapping still partial
+**Last checkpoint:** 2026-11-06 — Scorpio Classic two-grade structure committed; conflicting current OEM price cards preserved and quarantined
 
 ## Progress rules
 
@@ -39,6 +39,7 @@
 - [x] Hyundai — all 14 work-queue models normalized (staging only)
 - [x] Mahindra — Scorpio-N 31 populated OEM grade/powertrain/drive/seating combinations normalized with dated ex-showroom observations (staging only)
 - [ ] Mahindra — XUV 7XO full current gearbox/seating normalization (12 selector grade/fuel price observations captured; exact applicability still incomplete)
+- [ ] Mahindra — Scorpio Classic current OEM price conflict resolved (two grades normalized; selector/detail-page amounts disagree)
 - [ ] Remaining brands/models in the work queue (process one evidence-backed model at a time)
 - [ ] Reconcile normalized model/variant rows against the 251-row work queue and 502-row crosswalk
 - [ ] Resolve source permission / commercial reuse / redistribution status for every source intended for production
@@ -129,6 +130,7 @@
 | Mahindra | Thar ROXX | [x] | [x] 21 Delhi on-road prices (secondary source) | [x] | [x] | Complete — petrol/diesel, RWD/4WD, manual/automatic; Mocha interior codes kept separate |
 | Mahindra | Scorpio N | [x] | [x] 31 populated OEM ex-showroom observations (2026-08-05 matrix) | [x] | [x] | Complete — 31 populated grade/powertrain/drive/seating combinations; price freshness and source rights still require review |
 | Mahindra | XUV 7XO | [ ] | [x] 12 current selector grade/fuel price observations | [x] | [x] | Partial — current selector does not expose exact gearbox/seating applicability; launch prices were introductory and kept separate |
+| Mahindra | Scorpio Classic | [x] | [ ] 4 official observations quarantined due price conflict | [x] | [x] | Partial — two grades normalized; selector and detail pages disagree on both prices |
 | Maruti Suzuki | Dzire | [x] | [x] 11 official ex-showroom prices | [x] | [x] | Complete — petrol/CNG manual and AGS including new CNG AGS |
 | Maruti Suzuki | Brezza | [x] | [x] 13 October 2026 ex-showroom prices (secondary source) | [x] | [x] | Complete — turbo Boosterjet, K15C petrol and S-CNG kept distinct |
 | Maruti Suzuki | Grand Vitara | [x] | [x] 20 Delhi on-road prices (secondary source) | [x] | [x] | Complete — petrol, CNG, strong hybrid and ALLGRIP AWD kept distinct |
