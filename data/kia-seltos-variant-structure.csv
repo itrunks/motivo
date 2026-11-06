@@ -1,0 +1,42 @@
+brand_id,model_name,oem_variant_label,engine,fuel,transmission,body_style,source_url,source_checked_at,source_review_status,commercial_reuse_allowed,redistribution_allowed
+kia,Seltos,HTE,Smartstream G1.5,Petrol,6MT,Compact SUV,https://www.kia.com/in/our-vehicles/seltos/specs/compare-trims.html,2026-11-06,review_required,unknown,unknown
+kia,Seltos,HTE(O),Smartstream G1.5,Petrol,6MT,Compact SUV,https://www.kia.com/in/our-vehicles/seltos/specs/compare-trims.html,2026-11-06,review_required,unknown,unknown
+kia,Seltos,HTK,Smartstream G1.5,Petrol,6MT,Compact SUV,https://www.kia.com/in/our-vehicles/seltos/specs/compare-trims.html,2026-11-06,review_required,unknown,unknown
+kia,Seltos,HTK(O),Smartstream G1.5,Petrol,6MT,Compact SUV,https://www.kia.com/in/our-vehicles/seltos/specs/compare-trims.html,2026-11-06,review_required,unknown,unknown
+kia,Seltos,HTX,Smartstream G1.5,Petrol,6MT,Compact SUV,https://www.kia.com/in/our-vehicles/seltos/specs/compare-trims.html,2026-11-06,review_required,unknown,unknown
+kia,Seltos,HTX(A),Smartstream G1.5,Petrol,6MT,Compact SUV,https://www.kia.com/in/our-vehicles/seltos/specs/compare-trims.html,2026-11-06,review_required,unknown,unknown
+kia,Seltos,HTE(O),Smartstream G1.5,Petrol,IVT,Compact SUV,https://www.kia.com/in/our-vehicles/seltos/specs/compare-trims.html,2026-11-06,review_required,unknown,unknown
+kia,Seltos,HTK,Smartstream G1.5,Petrol,IVT,Compact SUV,https://www.kia.com/in/our-vehicles/seltos/specs/compare-trims.html,2026-11-06,review_required,unknown,unknown
+kia,Seltos,HTK(O),Smartstream G1.5,Petrol,IVT,Compact SUV,https://www.kia.com/in/our-vehicles/seltos/specs/compare-trims.html,2026-11-06,review_required,unknown,unknown
+kia,Seltos,HTX,Smartstream G1.5,Petrol,IVT,Compact SUV,https://www.kia.com/in/our-vehicles/seltos/specs/compare-trims.html,2026-11-06,review_required,unknown,unknown
+kia,Seltos,HTX(A),Smartstream G1.5,Petrol,IVT,Compact SUV,https://www.kia.com/in/our-vehicles/seltos/specs/compare-trims.html,2026-11-06,review_required,unknown,unknown
+kia,Seltos,GTX,Smartstream G1.5,Petrol,IVT,Compact SUV,https://www.kia.com/in/our-vehicles/seltos/specs/compare-trims.html,2026-11-06,review_required,unknown,unknown
+kia,Seltos,X-Line,Smartstream G1.5,Petrol,IVT,Compact SUV,https://www.kia.com/in/our-vehicles/seltos/specs/compare-trims.html,2026-11-06,review_required,unknown,unknown
+kia,Seltos,GTX(A),Smartstream G1.5,Petrol,IVT,Compact SUV,https://www.kia.com/in/our-vehicles/seltos/specs/compare-trims.html,2026-11-06,review_required,unknown,unknown
+kia,Seltos,GTX(O),Smartstream G1.5,Petrol,IVT,Compact SUV,https://www.kia.com/in/our-vehicles/seltos/specs/compare-trims.html,2026-11-06,review_required,unknown,unknown
+kia,Seltos,HTK(O),Smartstream G1.5 T-GDi,Petrol,7DCT,Compact SUV,https://www.kia.com/in/our-vehicles/seltos/specs/compare-trims.html,2026-11-06,review_required,unknown,unknown
+kia,Seltos,HTX,Smartstream G1.5 T-GDi,Petrol,7DCT,Compact SUV,https://www.kia.com/in/our-vehicles/seltos/specs/compare-trims.html,2026-11-06,review_required,unknown,unknown
+kia,Seltos,HTX(A),Smartstream G1.5 T-GDi,Petrol,7DCT,Compact SUV,https://www.kia.com/in/our-vehicles/seltos/specs/compare-trims.html,2026-11-06,review_required,unknown,unknown
+kia,Seltos,GTX,Smartstream G1.5 T-GDi,Petrol,7DCT,Compact SUV,https://www.kia.com/in/our-vehicles/seltos/specs/compare-trims.html,2026-11-06,review_required,unknown,unknown
+kia,Seltos,X-Line,Smartstream G1.5 T-GDi,Petrol,7DCT,Compact SUV,https://www.kia.com/in/our-vehicles/seltos/specs/compare-trims.html,2026-11-06,review_required,unknown,unknown
+kia,Seltos,GTX(A),Smartstream G1.5 T-GDi,Petrol,7DCT,Compact SUV,https://www.kia.com/in/our-vehicles/seltos/specs/compare-trims.html,2026-11-06,review_required,unknown,unknown
+kia,Seltos,X-Line(A),Smartstream G1.5 T-GDi,Petrol,7DCT,Compact SUV,https://www.kia.com/in/our-vehicles/seltos/specs/compare-trims.html,2026-11-06,review_required,unknown,unknown
+kia,Seltos,GTX(O),Smartstream G1.5 T-GDi,Petrol,7DCT,Compact SUV,https://www.kia.com/in/our-vehicles/seltos/specs/compare-trims.html,2026-11-06,review_required,unknown,unknown
+kia,Seltos,X-Line(O),Smartstream G1.5 T-GDi,Petrol,7DCT,Compact SUV,https://www.kia.com/in/our-vehicles/seltos/specs/compare-trims.html,2026-11-06,review_required,unknown,unknown
+kia,Seltos,HTE,1.5 l CRDi VGT,Diesel,6MT,Compact SUV,https://www.kia.com/in/our-vehicles/seltos/specs/compare-trims.html,2026-11-06,review_required,unknown,unknown
+kia,Seltos,HTE(O),1.5 l CRDi VGT,Diesel,6MT,Compact SUV,https://www.kia.com/in/our-vehicles/seltos/specs/compare-trims.html,2026-11-06,review_required,unknown,unknown
+kia,Seltos,HTK,1.5 l CRDi VGT,Diesel,6MT,Compact SUV,https://www.kia.com/in/our-vehicles/seltos/specs/compare-trims.html,2026-11-06,review_required,unknown,unknown
+kia,Seltos,HTK(O),1.5 l CRDi VGT,Diesel,6MT,Compact SUV,https://www.kia.com/in/our-vehicles/seltos/specs/compare-trims.html,2026-11-06,review_required,unknown,unknown
+kia,Seltos,HTX,1.5 l CRDi VGT,Diesel,6MT,Compact SUV,https://www.kia.com/in/our-vehicles/seltos/specs/compare-trims.html,2026-11-06,review_required,unknown,unknown
+kia,Seltos,HTX(A),1.5 l CRDi VGT,Diesel,6MT,Compact SUV,https://www.kia.com/in/our-vehicles/seltos/specs/compare-trims.html,2026-11-06,review_required,unknown,unknown
+kia,Seltos,HTE(O),1.5 l CRDi VGT,Diesel,6AT,Compact SUV,https://www.kia.com/in/our-vehicles/seltos/specs/compare-trims.html,2026-11-06,review_required,unknown,unknown
+kia,Seltos,HTK,1.5 l CRDi VGT,Diesel,6AT,Compact SUV,https://www.kia.com/in/our-vehicles/seltos/specs/compare-trims.html,2026-11-06,review_required,unknown,unknown
+kia,Seltos,HTK(O),1.5 l CRDi VGT,Diesel,6AT,Compact SUV,https://www.kia.com/in/our-vehicles/seltos/specs/compare-trims.html,2026-11-06,review_required,unknown,unknown
+kia,Seltos,HTX,1.5 l CRDi VGT,Diesel,6AT,Compact SUV,https://www.kia.com/in/our-vehicles/seltos/specs/compare-trims.html,2026-11-06,review_required,unknown,unknown
+kia,Seltos,HTX(A),1.5 l CRDi VGT,Diesel,6AT,Compact SUV,https://www.kia.com/in/our-vehicles/seltos/specs/compare-trims.html,2026-11-06,review_required,unknown,unknown
+kia,Seltos,GTX,1.5 l CRDi VGT,Diesel,6AT,Compact SUV,https://www.kia.com/in/our-vehicles/seltos/specs/compare-trims.html,2026-11-06,review_required,unknown,unknown
+kia,Seltos,X-Line,1.5 l CRDi VGT,Diesel,6AT,Compact SUV,https://www.kia.com/in/our-vehicles/seltos/specs/compare-trims.html,2026-11-06,review_required,unknown,unknown
+kia,Seltos,GTX(A),1.5 l CRDi VGT,Diesel,6AT,Compact SUV,https://www.kia.com/in/our-vehicles/seltos/specs/compare-trims.html,2026-11-06,review_required,unknown,unknown
+kia,Seltos,X-Line(A),1.5 l CRDi VGT,Diesel,6AT,Compact SUV,https://www.kia.com/in/our-vehicles/seltos/specs/compare-trims.html,2026-11-06,review_required,unknown,unknown
+kia,Seltos,GTX(O),1.5 l CRDi VGT,Diesel,6AT,Compact SUV,https://www.kia.com/in/our-vehicles/seltos/specs/compare-trims.html,2026-11-06,review_required,unknown,unknown
+kia,Seltos,X-Line(O),1.5 l CRDi VGT,Diesel,6AT,Compact SUV,https://www.kia.com/in/our-vehicles/seltos/specs/compare-trims.html,2026-11-06,review_required,unknown,unknown
