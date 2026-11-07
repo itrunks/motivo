@@ -1,6 +1,6 @@
 # MINI Cooper Convertible normalization
 
-Checked: 2026-11-06
+Checked: 2026-11-07
 
 ## Deliverable
 
