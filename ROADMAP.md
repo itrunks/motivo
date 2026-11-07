@@ -3,7 +3,7 @@
 **Project target:** 100% evidence-backed catalogue normalization and validation.  
 **Working branch:** `feature/catalogue-source-audit-ingestion`  
 **Current PR:** #1 — https://github.com/itrunks/motivo/pull/1  
-**Last checkpoint:** 2026-11-07 — Kia Carens Clavis live comparison/showroom rechecked; 11 named grades and 28 configurations unchanged, unnamed 7DCT-only column still quarantined. Mahindra XUV400 booking selector, XEV 9e/9S prices, Bolero family and XUV 7XO updated.
+**Last checkpoint:** 2026-11-07 — Toyota Glanza current 2026 showroom matrix now confirms 11 grade/fuel/transmission combinations; V(O) MT/AMT remains a feature-table candidate and price list is dealer-specific. Kia Carens Clavis unknown 7DCT column remains quarantined; Mahindra XUV400, XEV 9e/9S and Bolero family updated.
 
 ## Progress rules
 
