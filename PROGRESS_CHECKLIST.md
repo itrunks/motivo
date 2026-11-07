@@ -95,6 +95,7 @@ PR: https://github.com/itrunks/motivo/pull/1
 - MG: Comet EV, Windsor EV, ZS EV, Hector, Astor, Hector Tomahawk EV, Hector Tomahawk PHEV, Majestor, Cyberster, M9.
 - Tata: Sierra.ev, Harrier.ev, Nexon.ev, Punch.ev, Tiago.ev, Curvv.ev, Tigor.ev, Sierra, Harrier, Safari.
 - MINI: Cooper Convertible — current MINI India page shows ₹58.50L for Favoured Trim (204PS); JCW Pack page starts at ₹58.50L; Stardust page confirms 204hp/300Nm but no price. Base Cooper performance-level price and Stardust official price remain unresolved; Autocar Delhi on-road observations remain secondary.
+- MINI John Cooper Works Countryman ALL4 — current MINI product page confirms 300HP/400Nm, 250km/h, 5.4s and ALL4 AWD. Homepage lists ₹66.15L model-level starting amount; February 2026 spec sheet lists ₹65.15L ex-showroom. Price basis/effective date remains unresolved; keep both observations separate.
 - Mahindra: XUV 3XO, Thar OG, Thar ROXX, Scorpio-N, XUV 7XO, Scorpio Classic, Bolero Neo, Bolero, XUV400, XEV 9e, XEV 9S, BE 6 SPORTEQ (complete); XUV 3XO EV (partial evidence).
 
 ## Resume protocol
