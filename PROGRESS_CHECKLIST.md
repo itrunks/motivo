@@ -7,9 +7,9 @@ PR: https://github.com/itrunks/motivo/pull/1
 ## Overall status
 
 - Audited work queue: 251 models across 35 brands.
-- Models with normalization work committed and fetched back: 121.
-- Completed/staging-ready model evidence: 82.
-- Partial models needing exact trim/price mapping: 31.
+- Models with normalization work committed and fetched back: 122.
+- Completed/staging-ready model evidence: 83.
+- Partial models needing exact trim/price mapping: 30.
 - Explicitly blocked models: 2.
 - Not yet started: 136 models across 30 brands.
 
@@ -29,7 +29,7 @@ PR: https://github.com/itrunks/motivo/pull/1
 | Tesla | 1 | 1 | 0 | 0 | 0 | Complete — two current India derivatives and official base prices verified |
 | VinFast | 3 | 1 | 2 | 0 | 0 | Audited with partial grade-price evidence |
 | Maruti Suzuki | 17 | 0 | 0 | 0 | 17 | Pending |
-| Mahindra | 13 | 11 | 2 | 0 | 0 | Audited with partial evidence |
+| Mahindra | 13 | 12 | 1 | 0 | 0 | Audited with partial evidence |
 | Audi | 9 | 0 | 9 | 0 | 0 | Audited with official price gaps |
 | BMW | 22 | 11 | 10 | 0 | 1 | In progress |
 | BYD | 4 | 0 | 0 | 0 | 4 | Pending |
@@ -94,7 +94,7 @@ PR: https://github.com/itrunks/motivo/pull/1
 - Toyota: Innova Crysta, Innova Hycross, Urban Cruiser Hyryder, Glanza, Urban Cruiser Taisor, Fortuner, Hilux, Camry, Rumion, Urban Cruiser Ebella, Vellfire, Land Cruiser 300, Legender.
 - MG: Comet EV, Windsor EV, ZS EV, Hector, Astor, Hector Tomahawk EV, Hector Tomahawk PHEV, Majestor, Cyberster, M9.
 - Tata: Sierra.ev, Harrier.ev, Nexon.ev, Punch.ev, Tiago.ev, Curvv.ev, Tigor.ev, Sierra, Harrier, Safari.
-- Mahindra: XUV 3XO, Thar OG, Thar ROXX, Scorpio-N, XUV 7XO, Scorpio Classic, Bolero Neo, Bolero, XEV 9e, XEV 9S, BE 6 SPORTEQ (complete); XUV400 and XUV 3XO EV (partial evidence).
+- Mahindra: XUV 3XO, Thar OG, Thar ROXX, Scorpio-N, XUV 7XO, Scorpio Classic, Bolero Neo, Bolero, XUV400, XEV 9e, XEV 9S, BE 6 SPORTEQ (complete); XUV 3XO EV (partial evidence).
 
 ## Resume protocol
 
