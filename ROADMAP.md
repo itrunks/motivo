@@ -3,7 +3,7 @@
 **Project target:** 100% evidence-backed catalogue normalization and validation.  
 **Working branch:** `feature/catalogue-source-audit-ingestion`  
 **Current PR:** #1 — https://github.com/itrunks/motivo/pull/1  
-**Last checkpoint:** 2026-11-07 — Mahindra XUV400 current booking selector and charger inclusion verified; XEV 9e full-battery grade prices, Cineluxe and four BaaS prices captured; XEV 9S 6/7-seat full-price and BaaS matrix completed; XUV 3XO EV current range/specs rechecked; Bolero family and XUV 7XO updated.
+**Last checkpoint:** 2026-11-07 — Kia Carens Clavis live comparison/showroom rechecked; 11 named grades and 28 configurations unchanged, unnamed 7DCT-only column still quarantined. Mahindra XUV400 booking selector, XEV 9e/9S prices, Bolero family and XUV 7XO updated.
 
 ## Progress rules
 
