@@ -1,0 +1,9 @@
+brand_id,model_name,variant,battery_kwh,chemistry,power_ps,torque_nm,drive,seats,body_style,source_url,checked,source_status,commercial_reuse,redistribution
+tata,Sierra.ev,Pure 63,63,LFP,238,315,RWD,5,SUV,https://ev.tata.cars/sierra/ev.html,2026-11-06,review_required,unknown,unknown
+tata,Sierra.ev,Pure S 63,63,LFP,238,315,RWD,5,SUV,https://ev.tata.cars/sierra/ev.html,2026-11-06,review_required,unknown,unknown
+tata,Sierra.ev,Adventure 63,63,LFP,238,315,RWD,5,SUV,https://ev.tata.cars/sierra/ev.html,2026-11-06,review_required,unknown,unknown
+tata,Sierra.ev,Adventure 75,75,LFP,238,315,RWD,5,SUV,https://ev.tata.cars/sierra/ev.html,2026-11-06,review_required,unknown,unknown
+tata,Sierra.ev,Empowered 63,63,LFP,238,315,RWD,5,SUV,https://ev.tata.cars/sierra/ev.html,2026-11-06,review_required,unknown,unknown
+tata,Sierra.ev,Empowered 75,75,LFP,238,315,RWD,5,SUV,https://ev.tata.cars/sierra/ev.html,2026-11-06,review_required,unknown,unknown
+tata,Sierra.ev,Empowered A 75,75,LFP,238,315,RWD,5,SUV,https://ev.tata.cars/sierra/ev.html,2026-11-06,review_required,unknown,unknown
+tata,Sierra.ev,Empowered A 75 AWD,75,LFP,306,504,AWD,5,SUV,https://ev.tata.cars/sierra/ev.html,2026-11-06,review_required,unknown,unknown

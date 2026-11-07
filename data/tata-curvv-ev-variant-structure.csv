@@ -1,0 +1,4 @@
+brand_id,model_name,variant,battery_kwh,motor_type,motor_power_kw,motor_torque_nm,range_midc_km,drive,seats,body_style,source_url,checked,source_status,commercial_reuse,redistribution,reviewer_notes
+tata,Curvv.ev,Accomplished X 55,55,PMSM,123,215,502,FWD,5,SUV Coupe,https://ev.tata.cars/curvv/ev/price.html,2026-11-06,review_required,unknown,unknown,Current Series X variant listed on official price page.
+tata,Curvv.ev,Empowered X 55,55,PMSM,123,215,502,FWD,5,SUV Coupe,https://ev.tata.cars/curvv/ev/price.html,2026-11-06,review_required,unknown,unknown,Current Series X variant listed on official price page.
+tata,Curvv.ev,Empowered X 55 #DARK,55,PMSM,123,215,502,FWD,5,SUV Coupe,https://ev.tata.cars/curvv/ev/price.html,2026-11-06,review_required,unknown,unknown,Current Series X dark edition listed on official price page.

@@ -1,0 +1,5 @@
+brand_id,model_name,family,engine,fuel,transmission,cc,hp,torque_nm,seats,body,source,checked,status,reuse,redistribution
+tata,Harrier,Petrol MT,1.5L Turbo-GDI,Petrol,6MT,1498,170,280,5,SUV,https://cars.tatamotors.com/suv/harrier.html,2026-11-06,review_required,unknown,unknown
+tata,Harrier,Petrol AT,1.5L Turbo-GDI,Petrol,6AT,1498,170,280,5,SUV,https://cars.tatamotors.com/suv/harrier.html,2026-11-06,review_required,unknown,unknown
+tata,Harrier,Diesel MT,2.0L Kryotec,Diesel,6MT,1956,170,350,5,SUV,https://cars.tatamotors.com/suv/harrier.html,2026-11-06,review_required,unknown,unknown
+tata,Harrier,Diesel AT,2.0L Kryotec,Diesel,6AT,1956,170,350,5,SUV,https://cars.tatamotors.com/suv/harrier.html,2026-11-06,review_required,unknown,unknown

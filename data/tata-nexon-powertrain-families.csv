@@ -1,0 +1,8 @@
+brand_id,model_name,powertrain_family,engine,fuel,transmission,displacement_cc,power_ps,torque_nm,seats,body,source,checked,status,reuse,redistribution
+tata,Nexon,Turbo Petrol 5MT,1.2L turbo petrol,Petrol,5MT,1199,120,170,5,Compact SUV,https://tatamotors-prod.adobecqms.net/nexon/ice.html,2026-11-06,review_required,unknown,unknown
+tata,Nexon,Turbo Petrol 6MT,1.2L turbo petrol,Petrol,6MT,1199,120,170,5,Compact SUV,https://tatamotors-prod.adobecqms.net/nexon/ice.html,2026-11-06,review_required,unknown,unknown
+tata,Nexon,Turbo Petrol 6AMT,1.2L turbo petrol,Petrol,6AMT,1199,120,170,5,Compact SUV,https://tatamotors-prod.adobecqms.net/nexon/ice.html,2026-11-06,review_required,unknown,unknown
+tata,Nexon,Turbo Petrol 7DCT,1.2L turbo petrol,Petrol,7DCT,1199,120,170,5,Compact SUV,https://tatamotors-prod.adobecqms.net/nexon/ice.html,2026-11-06,review_required,unknown,unknown
+tata,Nexon,CNG 6MT,1.2L turbo petrol,Petrol+CNG,6MT,1199,100,170,5,Compact SUV,https://tatamotors-prod.adobecqms.net/nexon/ice.html,2026-11-06,review_required,unknown,unknown
+tata,Nexon,Diesel 6MT,1.5L diesel,Diesel,6MT,1497,115,260,5,Compact SUV,https://tatamotors-prod.adobecqms.net/nexon/ice.html,2026-11-06,review_required,unknown,unknown
+tata,Nexon,Diesel 6AMT,1.5L diesel,Diesel,6AMT,1497,115,260,5,Compact SUV,https://tatamotors-prod.adobecqms.net/nexon/ice.html,2026-11-06,review_required,unknown,unknown

@@ -1,0 +1,4 @@
+brand_id,model_name,variant,price_inr,price_basis,source_url,checked,effective_date,city_scope,source_status,commercial_reuse,redistribution,reviewer_notes
+tata,Curvv.ev,Accomplished X 55,1699000,Ex-showroom INR,https://ev.tata.cars/curvv/ev/price.html,2026-11-06,,India,review_required,unknown,unknown,Official Series X price stated in FAQ.
+tata,Curvv.ev,Empowered X 55,1919000,Ex-showroom INR,https://ev.tata.cars/curvv/ev/price.html,2026-11-06,,India,review_required,unknown,unknown,Official Series X price stated in FAQ.
+tata,Curvv.ev,Empowered X 55 #DARK,1949000,Ex-showroom INR,https://ev.tata.cars/curvv/ev/price.html,2026-11-06,,India,review_required,unknown,unknown,Official Series X dark edition price stated in FAQ.
