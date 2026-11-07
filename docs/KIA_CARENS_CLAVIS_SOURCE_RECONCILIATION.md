@@ -64,3 +64,16 @@ Source status remains `review_required`; commercial reuse and redistribution rem
 - Kia Carens Clavis current trim comparison and powertrain/seating matrix: https://www.kia.com/in/our-vehicles/carens-clavis/specs/compare-trims.html
 - Kia Carens Clavis current showroom with 13 displayed cards and HTX+ seating options: https://www.kia.com/in/our-vehicles/carens-clavis/showroom.html
 - Kia Carens Clavis 2026 official brochure: https://www.kia.com/content/dam/kia2/in/en/buy/Kia-Carens-Clavis-Brochure_2026_Desktop.pdf
+
+
+## Current live-source recheck — 2026-11-07
+
+The live comparison page was reopened today and still exposes 11 named grade columns with the same starting MSRP values recorded above. Immediately after HTE(EX), it still renders a twelfth comparison column whose header is blank and whose price field contains only the ₹ symbol. The feature matrix marks Smartstream G1.5 T-GDi 7DCT as included in that column, but no numeric price or grade label is rendered. The column remains excluded from the 28 normalized rows and 11 named price observations.
+
+The current showroom page also exposes a GT-Line / X-Line styling selector. It does not explicitly map the unnamed comparison column to GT-Line, X-Line or any named grade. This is a possible lead only; no label is inferred. The showroom continues to show the 6-seat captain-seat option as trim-specific, and the compare matrix marks 6-seat as included(DCT) only under HTX+.
+
+The current live page therefore confirms that the unknown-column issue persists; no new price or grade identity is available. Source checked dates in the 28-row structure and 11-row price observation files are refreshed to 2026-11-07. No price effective date is inferred.
+
+Rechecked current pages:
+- Compare matrix: https://www.kia.com/in/our-vehicles/carens-clavis/specs/compare-trims.html
+- Showroom and GT-Line/X-Line selector: https://www.kia.com/in/our-vehicles/carens-clavis/showroom.html
