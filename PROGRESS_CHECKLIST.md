@@ -59,7 +59,7 @@ PR: https://github.com/itrunks/motivo/pull/1
 
 ### Kia
 - Seltos — T-GDi 6iMT grade mapping still unresolved.
-- Carens Clavis — unnamed trim column and powertrain/price reconciliation blocker.
+- Carens Clavis — live comparison page rechecked 2026-11-07; 11 named grade prices and 28 configurations unchanged. Twelfth column still blank header, ₹ only and 7DCT included; showroom GT-Line/X-Line selector does not identify it. Keep quarantined.
 
 ### Toyota
 - Glanza — 2026 trim-to-powertrain mapping not published in captured official source.
