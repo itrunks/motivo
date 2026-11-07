@@ -62,7 +62,7 @@ PR: https://github.com/itrunks/motivo/pull/1
 - Carens Clavis — live comparison page rechecked 2026-11-07; 11 named grade prices and 28 configurations unchanged. Twelfth column still blank header, ₹ only and 7DCT included; showroom GT-Line/X-Line selector does not identify it. Keep quarantined.
 
 ### Toyota
-- Glanza — 2026 trim-to-powertrain mapping not published in captured official source.
+- Glanza — current 2026 showroom maps E/S/G/V petrol and S/G CNG across MT/AMT (11 explicit combinations). Feature matrix also shows V(O) MT/AMT, but technical Variant Type summary omits V(O); hold as two candidates. ₹6.99L is model-level starting price only; Toyota price-list portal requires dealer selection.
 - Urban Cruiser Taisor — only historical 2024 launch matrix captured; current 2026 grade/price matrix needed.
 - Fortuner — powertrain families and special edition prices captured; complete grade mapping needed.
 - Legender — powertrain families and historical prices captured; current grade/drive mapping needed.
