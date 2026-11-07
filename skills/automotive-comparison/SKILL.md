@@ -140,6 +140,47 @@ Within Category 12, audit front and rear air-conditioning separately for BOTH ex
 - Do not call a PM2.5 cabin filter an air purifier. Explain the distinction.
 - If manufacturer brochures omit a detail, mark it “Not published” or “Not verified”; do not fill gaps from a higher trim, another market, or a different model year.
 
+### Mandatory driver-door controls, power windows and exterior-mirror electrical audit
+
+Within Categories 9, 10 and 12, perform a dedicated driver-side door and electrical convenience audit for BOTH exact variants. Inspect every switch/control visible in official exact-trim material where possible; do not assume equipment from another trim.
+
+**Power windows and window controls:**
+1. Power windows: identify which doors have power windows (driver, front passenger, rear left, rear right).
+2. One-touch/express operation: check separately for driver window and each passenger window; identify one-touch down, one-touch up, or both.
+3. Anti-pinch / obstruction detection: present/absent/not verified, and which windows it covers.
+4. Window lock/inhibit switch: presence, location and whether it disables rear passenger switches only or other controls too.
+5. Remote window operation: key-fob/global open-close, connected-app operation and conditions, only if officially documented.
+6. Retained accessory power / window operation after ignition-off: report only verified behaviour.
+7. Driver master switch: number and function of window switches, illumination and auto/manual operation.
+8. Do not equate power windows with one-touch operation; verify express up/down independently for each window.
+
+**ORVM / exterior mirror controls:**
+1. Adjustment: manual or electrically adjustable; identify driver and passenger mirror coverage.
+2. Folding: manual fold or electrically powered fold; distinguish powered folding from electric glass adjustment.
+3. Auto-fold: automatic folding on lock/unlock, ignition or another trigger; document exact behaviour only when confirmed.
+4. Unfolding: automatic on unlock/ignition or manual switch; document conditions where published.
+5. Mirror selector and fold switch: joystick/toggle/rotary/individual switches and exact location.
+6. Heating/defogging: present/absent/not verified; state whether integrated with rear defogger or separately controlled only when documented.
+7. Auto-dimming: driver-side, passenger-side or interior mirror; distinguish exterior auto-dimming from IRVM auto-dimming.
+8. Reverse-tilt / kerb-view function, memory-linked mirror positions, puddle lamps/turn indicators and blind-spot warning indicators where equipped.
+9. Clearly separate electrically adjustable, electrically foldable, automatically folding and heated mirrors; these are different features.
+
+**Other driver-door and driver-side electrical controls:**
+1. Central locking controls, child-safety lock controls (if driver-accessible), door unlock selector and window lock.
+2. Door mirror controls, boot/tailgate or fuel-lid release switches, bonnet release lever and parking-sensor/ADAS disable switches where fitted.
+3. Driver-seat memory buttons and linked mirror memory, if present; do not assume mirror memory from seat memory.
+4. Door-mounted speaker/tweeter, illuminated switch pack, door courtesy/warning lamps and puddle/approach lighting.
+5. Driver door handle request sensor/keyless entry controls and power door-lock behaviour, where verified.
+6. Report switch count, labels, control type, illumination and physical location where exact-trim evidence supports it.
+
+**Required presentation:**
+- Include a dedicated power-window / one-touch / anti-pinch comparison table by door and direction (up/down).
+- Include a separate ORVM adjustment, folding, auto-fold, heating and memory table.
+- Include a driver-door switch and electrical convenience inventory.
+- State the exact trigger/behaviour for auto-fold and remote window operation; do not use vague labels such as “automatic ORVM” without explanation.
+- Mark every item standard, optional/accessory, absent or not verified for the exact variant.
+- Give separate verdicts for window convenience and ORVM functionality. Do not award a winner solely for having electrically adjustable mirrors if the other car has more verified functionality.
+
 ### Mandatory steering-wheel design, adjustment and control audit
 
 Within Category 10, compare the steering wheel and steering-column features for BOTH exact variants. Do not infer a feature from a photograph or from a higher trim.
