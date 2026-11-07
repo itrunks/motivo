@@ -3,7 +3,7 @@
 **Project target:** 100% evidence-backed catalogue normalization and validation.  
 **Working branch:** `feature/catalogue-source-audit-ingestion`  
 **Current PR:** #1 — https://github.com/itrunks/motivo/pull/1  
-**Last checkpoint:** 2026-11-07 — Toyota Legender current showroom confirms 4x4 MT with iMT, 4x2 AT and 4x4 AT; NeoDrive 48V is historical and current price calculator unavailable. Fortuner confirms six powertrain families but no grade matrix; Glanza 11 combinations with V(O) discrepancy; Carens Clavis unknown 7DCT column remains quarantined.
+**Last checkpoint:** 2026-11-07 — MINI Cooper Convertible current official pages confirm ₹58.50L model price, JCW Pack from ₹58.50L and Stardust 204hp/300Nm; Stardust price and base Cooper mapping remain unresolved. Toyota Legender current showroom confirms 4x4 MT with iMT, 4x2 AT and 4x4 AT; Fortuner grade matrix remains unavailable; Glanza V(O) discrepancy and Carens Clavis unnamed 7DCT column remain quarantined.
 
 ## Progress rules
 
