@@ -140,6 +140,40 @@ Within Category 12, audit front and rear air-conditioning separately for BOTH ex
 - Do not call a PM2.5 cabin filter an air purifier. Explain the distinction.
 - If manufacturer brochures omit a detail, mark it “Not published” or “Not verified”; do not fill gaps from a higher trim, another market, or a different model year.
 
+### Mandatory steering-wheel design, adjustment and control audit
+
+Within Category 10, compare the steering wheel and steering-column features for BOTH exact variants. Do not infer a feature from a photograph or from a higher trim.
+
+**Steering-wheel design and construction:**
+1. Spoke layout: two-spoke, three-spoke, four-spoke or other; describe the visible design only when confirmed for the exact trim.
+2. Shape and rim: round, flat-bottom/D-cut or other; rim material and wrapping (urethane, leather, leatherette or other) only where published or reliably verified.
+3. Finish and trim: multifunction switch surrounds, stitching, contrast inserts, metallic-look trim and paddle/other decorative elements. Do not describe a finish as real metal or leather without evidence.
+4. Steering-wheel diameter/thickness only if manufacturer-published or measured by a credible source; otherwise mark not published.
+
+**Steering-column adjustment:**
+1. Tilt adjustment: present/absent/not verified; manual or powered if applicable.
+2. Telescopic/reach adjustment: present/absent/not verified; manual or powered if applicable.
+3. If both are present, explicitly state “tilt and telescopic”; do not use “adjustable steering” as a substitute for identifying each axis.
+4. Adjustment range or memory-linked movement only when documented.
+5. State exact-trim availability as standard, optional/accessory, absent or not verified.
+
+**Steering-mounted controls and driving functions:**
+1. Audio, phone, voice-command, instrument-cluster/menu and MID controls.
+2. Cruise-control and speed-limiter controls; distinguish conventional cruise control from adaptive cruise control (ACC).
+3. ADAS controls (e.g. lane keeping, distance setting) only where the exact vehicle has the relevant ADAS hardware/software.
+4. Paddle shifters: present/absent, exact location and transmission/variant applicability. Do not infer paddle shifters from an automatic transmission.
+5. Drive-mode, regen/one-pedal or other vehicle-function controls, if fitted.
+6. Steering heating, vibration/haptic feedback, capacitive/touch controls and illuminated switches, if verified.
+7. Horn pad, airbag cover and steering-wheel-mounted driver-assistance controls; do not recommend modifications that compromise the airbag or homologated controls.
+
+**Required presentation and verdict:**
+- Include a dedicated steering-wheel design and material table.
+- Include a separate tilt/telescopic adjustment table.
+- Include a steering-mounted controls and paddle-shifter table.
+- Give separate verdicts for steering ergonomics/adjustability and steering-mounted functionality.
+- Identify two-spoke/three-spoke design as a descriptive design difference, not automatically a quality or safety advantage.
+- If a brochure/photo does not establish a control or adjustment feature for the exact trim, mark it “Not published” or “Not verified”.
+
 ### Mandatory seat adjustment, headrest, armrest and rear-seat audit
 
 Within Category 11, compare the exact selected variants in a dedicated seat-adjustment and passenger-comfort table. Do not describe a seat as “power adjustable” without identifying the adjustment axes and exact trim.
@@ -250,6 +284,11 @@ Before sending the final answer, verify:
 - [ ] Category 7 explicitly compares manual handbrake vs EPB, EPB operation/release where documented, Auto Hold and hill-hold as separate functions.
 - [ ] Category 10 explicitly compares accelerator/brake/clutch pedal pads, material/finish, factory metal/aluminium sport covers, dead pedal/footrest and OEM accessory availability.
 - [ ] Factory-fitted equipment is clearly separated from optional OEM accessories and aftermarket pedal covers.
+- [ ] Category 10 compares steering-wheel spoke design (two/three/other), shape and verified rim material/finish.
+- [ ] Tilt and telescopic steering-column adjustment are checked independently, including operation type and exact-trim availability.
+- [ ] Steering-mounted audio, phone, voice, MID/cluster, cruise-control and ADAS controls are checked for the exact trim.
+- [ ] Paddle shifters are explicitly checked as present/absent/not verified; automatic transmission alone is not treated as proof.
+- [ ] Steering heating, haptic feedback, illuminated/touch controls and drive-mode controls are checked where applicable.
 - [ ] Category 11 compares driver-seat manual/electric adjustment and exact adjustment-way count/axes where published.
 - [ ] Category 11 separately compares co-driver seat adjustment method, ways and adjustment axes; driver-seat features are not assumed for the passenger seat.
 - [ ] Front and rear headrests are identified as adjustable, fixed/integrated, absent or not verified, with seating-position coverage.
