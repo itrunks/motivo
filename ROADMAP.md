@@ -3,7 +3,7 @@
 **Project target:** 100% evidence-backed catalogue normalization and validation.  
 **Working branch:** `feature/catalogue-source-audit-ingestion`  
 **Current PR:** #1 — https://github.com/itrunks/motivo/pull/1  
-**Last checkpoint:** 2026-11-07 — Mahindra XEV 9S current 6/7-seat full-price matrix and six BaaS prices captured; XEV 9e current five-pack structure and four BaaS prices captured; XUV400 rechecked; Bolero family and XUV 7XO workpapers updated.
+**Last checkpoint:** 2026-11-07 — Mahindra XUV 3XO EV current model range and AX5/AX7L specs rechecked; XEV 9S current 6/7-seat full-price matrix and six BaaS prices captured; XEV 9e five-pack structure/four BaaS prices captured; XUV400 rechecked; Bolero family and XUV 7XO updated.
 
 ## Progress rules
 
