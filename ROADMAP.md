@@ -3,7 +3,7 @@
 **Project target:** 100% evidence-backed catalogue normalization and validation.  
 **Working branch:** `feature/catalogue-source-audit-ingestion`  
 **Current PR:** #1 — https://github.com/itrunks/motivo/pull/1  
-**Last checkpoint:** 2026-11-07 — Toyota Fortuner current showroom rechecked: six powertrain families confirmed, but no grade mapping or price matrix; Leader Edition 4x2 MT/AT prices confirmed. Toyota Glanza current 2026 matrix maps 11 combinations with V(O) discrepancy; Kia Carens Clavis unknown 7DCT column remains quarantined.
+**Last checkpoint:** 2026-11-07 — Toyota Legender current showroom confirms 4x4 MT with iMT, 4x2 AT and 4x4 AT; NeoDrive 48V is historical and current price calculator unavailable. Fortuner confirms six powertrain families but no grade matrix; Glanza 11 combinations with V(O) discrepancy; Carens Clavis unknown 7DCT column remains quarantined.
 
 ## Progress rules
 
