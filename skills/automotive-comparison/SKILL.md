@@ -284,6 +284,11 @@ Before sending the final answer, verify:
 - [ ] Category 7 explicitly compares manual handbrake vs EPB, EPB operation/release where documented, Auto Hold and hill-hold as separate functions.
 - [ ] Category 10 explicitly compares accelerator/brake/clutch pedal pads, material/finish, factory metal/aluminium sport covers, dead pedal/footrest and OEM accessory availability.
 - [ ] Factory-fitted equipment is clearly separated from optional OEM accessories and aftermarket pedal covers.
+- [ ] Category 10 compares steering-wheel spoke design (two/three/other), shape and verified rim material/finish.
+- [ ] Tilt and telescopic steering-column adjustment are checked independently, including operation type and exact-trim availability.
+- [ ] Steering-mounted audio, phone, voice, MID/cluster, cruise-control and ADAS controls are checked for the exact trim.
+- [ ] Paddle shifters are explicitly checked as present/absent/not verified; automatic transmission alone is not treated as proof.
+- [ ] Steering heating, haptic feedback, illuminated/touch controls and drive-mode controls are checked where applicable.
 - [ ] Category 11 compares driver-seat manual/electric adjustment and exact adjustment-way count/axes where published.
 - [ ] Category 11 separately compares co-driver seat adjustment method, ways and adjustment axes; driver-seat features are not assumed for the passenger seat.
 - [ ] Front and rear headrests are identified as adjustable, fixed/integrated, absent or not verified, with seating-position coverage.
