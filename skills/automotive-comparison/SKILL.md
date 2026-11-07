@@ -49,11 +49,44 @@ Cover all applicable details, not merely the headline items:
 - Exterior: lamps, DRLs, fog lamps, grille, bumpers, sensors/cameras, wipers, washers, rain sensing, glass and mirrors.
 - Cabin: materials, trim, steering, cluster, HUD, screen, audio hardware, phone connectivity, USB/12V, wireless charging, sunroof, storage and ambient lighting.
 - Seats: driver/front/rear upholstery, manual/electric adjustment, ventilation/heating, lumbar/thigh/side support, headrests, armrest, rear split, legroom/headroom/shoulder room and floor hump. Do not invent foam density or ergonomic measurements.
-- Climate/convenience: AC type, rear vents, cabin filter, PM2.5 filtration versus air purifier, auto-dimming IRVM, cruise control, keyless entry, push start, connected features and OTA.
+- Climate/convenience: use the mandatory front-AC and rear-AC audit below; also cover auto-dimming IRVM, cruise control, keyless entry, push start, connected features and OTA.
 - Practicality: all dimensions, wheelbase, boot, fuel tank, tyre sizes, spare wheel, loading access, rear wiper/defogger and storage.
 - Ownership: warranty terms, service intervals/costs, service reach, parts, reliability evidence, resale and depreciation.
 
 If a category has many sub-features, use subheadings or a compact table so the user can see the full audit. Do not collapse the category into one sentence.
+
+### Mandatory front AC and rear AC comparison
+Within Category 12, audit front and rear air-conditioning separately for BOTH exact variants. Never treat the mere presence of rear AC vents as proof of a separate rear AC system.
+
+**Front AC audit — report each applicable item:**
+1. AC control type: manual, automatic climate control, or FATC.
+2. Single-zone or dual-zone climate control; state whether driver and front passenger can set separate temperatures.
+3. Front cooling hardware and outlets; report compressor type/capacity only when officially published.
+4. Front airflow direction and fan-speed controls.
+5. Front cooling performance: use credible instrumented tests or clearly attributed owner/test evidence where available. Do not invent cabin pull-down time or vent temperature.
+6. Front cabin filter: standard dust/pollen filter, PM2.5 filter, or other filtration; distinguish a filter from an air purifier.
+7. Front passenger convenience: automatic climate mode, defog/defrost, memory/last-setting behaviour and controls, only where verified.
+
+**Rear AC audit — report each applicable item:**
+1. Rear AC vents: present or absent, exact location (rear console, B-pillar, roof, etc.).
+2. Whether rear vents receive air from the shared front HVAC unit or use a separate rear HVAC unit.
+3. Rear blower: separate blower present/absent/not verified. Do not assume rear vents have a dedicated blower.
+4. Rear fan-speed control: separate control present/absent; identify its location and control levels if published.
+5. Rear temperature control: independent temperature setting present/absent. Distinguish this from a simple vent-open/close dial.
+6. Rear airflow direction and shut-off controls, if provided.
+7. Rear cooling effectiveness: cite instrumented tests or attributed evidence; do not infer performance merely from vent presence.
+8. Rear passenger reach, vent placement and likely airflow coverage; distinguish measured facts from reasoned observations.
+9. Rear cabin filtration or air-purifier coverage, if explicitly specified; do not assume the front filter proves rear-specific filtration.
+10. Clearly label each feature as standard, optional/accessory, absent, or not verified for the exact trim.
+
+**Required comparison summary:**
+- Include a front-AC comparison table and a separate rear-AC comparison table.
+- State explicitly whether each vehicle has rear vents, a separate rear blower, independent rear fan-speed control and independent rear temperature control.
+- Explain the practical difference for front passengers and rear passengers separately.
+- Name a winner for front AC and rear AC independently, or state “No verified winner” if comparable evidence is insufficient.
+- Do not call rear console vents “rear AC with independent control” unless the separate blower and control hardware are verified.
+- Do not call a PM2.5 cabin filter an air purifier. Explain the distinction.
+- If manufacturer brochures omit a detail, mark it “Not published” or “Not verified”; do not fill gaps from a higher trim, another market, or a different model year.
 
 ## Category chart placement and scoring
 The order is mandatory:
@@ -107,6 +140,10 @@ Before sending the final answer, verify:
 - [ ] Every category includes feature/specification differences, winner or tie, reason, and two ratings (or a clear “not rated” explanation).
 - [ ] Every rated category pie chart is directly after its own category and before the next category.
 - [ ] No category is represented by a pie chart alone.
+- [ ] Category 12 contains separate front-AC and rear-AC comparison tables for both exact trims.
+- [ ] Rear vents, separate rear blower, rear fan-speed control and independent rear temperature control are each explicitly addressed for both vehicles.
+- [ ] Front AC control type, zone configuration, filtration and verified cooling evidence are addressed.
+- [ ] PM2.5 filtration is not mislabelled as a standalone air purifier.
 - [ ] Final 14-category score table is present.
 - [ ] Final overall line chart is present.
 - [ ] Final overall pie chart is present.
