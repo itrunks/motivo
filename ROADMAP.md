@@ -3,7 +3,7 @@
 **Project target:** 100% evidence-backed catalogue normalization and validation.  
 **Working branch:** `feature/catalogue-source-audit-ingestion`  
 **Current PR:** #1 — https://github.com/itrunks/motivo/pull/1  
-**Last checkpoint:** 2026-11-07 — Mahindra XEV 9e current full-battery grade prices, Cineluxe and four BaaS prices captured; XEV 9S 6/7-seat full-price and BaaS matrix completed; XUV 3XO EV current range/specs rechecked; XUV400 rechecked; Bolero family and XUV 7XO updated.
+**Last checkpoint:** 2026-11-07 — Mahindra XUV400 current booking selector and charger inclusion verified; XEV 9e full-battery grade prices, Cineluxe and four BaaS prices captured; XEV 9S 6/7-seat full-price and BaaS matrix completed; XUV 3XO EV current range/specs rechecked; Bolero family and XUV 7XO updated.
 
 ## Progress rules
 
@@ -42,7 +42,7 @@
 - [x] Mahindra — Scorpio Classic current OEM price conflict resolved (2026-11-07 live selector and both model detail pages agree for both grades)
 - [x] Mahindra — Bolero Neo price-version discrepancies reconciled (2026-11-07 live selector refresh; N8/N10 OPT/N11 detail pages aligned; N4/N10 (R) selector-only)
 - [x] Mahindra — Bolero B4/B6 price-version discrepancies reconciled (2026-11-07 current selector/detail pages aligned for B6/B6 OPT/B8; B4 ₹1 delta explicitly preserved)
-- [ ] Mahindra — XUV400 full current range/orderability verified (only one selector card exposed; EL PRO ST crosswalk and charger inclusion need confirmation)
+- [x] Mahindra — XUV400 current booking selector and sole EL PRO ST configuration verified; 7.2 kW wallbox inclusion confirmed; dealer acceptance disclaimer preserved
 - [x] Mahindra — BE 6 SPORTEQ eight-grade full-battery price matrix captured; BaaS upfront observations and charger exclusion kept separate
 - [x] Mahindra — XEV 9e current full-battery grade matrix verified (current FAQ confirms five main grades plus Cineluxe and four BaaS prices; Pack Two battery-to-price mapping remains unspecified)
 - [ ] Mahindra — XUV 3XO EV current price/orderability verified (two January 2026 launch grades captured; no current selector price found)
