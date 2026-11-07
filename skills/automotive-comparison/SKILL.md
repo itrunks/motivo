@@ -42,10 +42,10 @@ The 14 required categories:
 Cover all applicable details, not merely the headline items:
 - Powertrain: displacement, cylinders, aspiration, injection, power/torque and RPM, fuel compatibility, cooling, start-stop, drivetrain.
 - Transmission: gear count/type, ratios if published, clutch, shift character, hill starts and overtaking suitability.
-- Efficiency: claimed and real-world mileage separately, tank capacity, range estimate only when supported, service/running costs.
+- Efficiency: official claimed fuel economy and real-world mileage separately; identify the test cycle/standard (e.g. ARAI/ICAT, WLTP, EPA, NEDC) and source for every claimed figure; distinguish manual/automatic, engine and exact variant figures; report city/highway/mixed real-world results with source, route, traffic, driving style, AC use and sample size where available; tank capacity, calculated range only with a stated mileage basis, fuel type/grade compatibility, start-stop/hybrid assistance and running cost using a dated local fuel price. Never compare figures from different test cycles as directly equivalent without explaining the limitation.
 - Chassis: platform, steering type, turning radius, handling, stability, aerodynamic data (Cd etc. only if published).
 - Suspension: front/rear architecture, tuning, dampers/springs if known, ride, body roll, load behaviour and ground clearance.
-- Brakes/safety: front/rear disc or drum, ABS/EBD, ESC, hill assist, TPMS, airbags, ISOFIX, belts, ADAS functions, crash-test results and test protocol/year. Also audit parking-brake type (mechanical handbrake vs electronic parking brake/EPB), EPB switch/lever location, auto-hold, hill-hold distinction, automatic engagement/release, emergency-braking behaviour and manual/emergency release procedure where documented. Never assume EPB includes Auto Hold.
+- Brakes/safety: front/rear disc or drum, ABS/EBD, ESC, hill assist, TPMS, airbags, ISOFIX, belts, ADAS functions, full crash-test ratings and test protocol/year. For crash tests, identify the testing authority (e.g. Bharat NCAP, Global NCAP, Euro NCAP, ASEAN NCAP, IIHS, NHTSA), exact tested model/variant and body configuration, model year/test date, star rating or numeric score, adult/child occupant protection, pedestrian/vulnerable-road-user protection, safety-assist score and tested equipment where published. Confirm whether the rating applies to the exact vehicle generation and whether it can reasonably be carried across the compared variant; clearly distinguish an official rating from a manufacturer claim or an untested model. Also audit parking-brake type (mechanical handbrake vs electronic parking brake/EPB), EPB switch/lever location, auto-hold, hill-hold distinction, automatic engagement/release, emergency-braking behaviour and manual/emergency release procedure where documented. Never assume EPB includes Auto Hold.
 - Pedals and driver footwell: accelerator, brake and clutch pedal presence/type, exposed material/finish (rubber, plastic, metal/aluminium or stainless-steel-look), OEM sport pedal covers, dead pedal/footrest material and coverage. Distinguish factory-fitted metal pedals from aftermarket clip-on covers; do not infer the underlying pedal material from a decorative cover.
 - Exterior: lamps, DRLs, fog lamps, grille, bumpers, sensors/cameras, wipers, washers, rain sensing, glass and mirrors.
 - Cabin: materials, trim, steering, cluster, HUD, screen, audio hardware, phone connectivity, USB/12V, wireless charging, sunroof, storage and ambient lighting. Also compare steering-wheel material/wrapping, gear knob and shift boot material, handbrake lever/grip material, door-handle and interior-trim finishes, footwell illumination and ambient-lighting coverage.
@@ -55,6 +55,31 @@ Cover all applicable details, not merely the headline items:
 - Ownership: warranty terms, service intervals/costs, service reach, parts, reliability evidence, resale and depreciation.
 
 If a category has many sub-features, use subheadings or a compact table so the user can see the full audit. Do not collapse the category into one sentence.
+
+### Mandatory crash-test rating and safety-assessment comparison
+Within Category 8, provide a dedicated crash-test table for BOTH vehicles:
+1. Testing authority and programme (Bharat NCAP, Global NCAP, Euro NCAP, ASEAN NCAP, IIHS, NHTSA or another recognised programme).
+2. Overall star rating and/or numeric score, with the maximum possible score where published.
+3. Separate adult occupant and child occupant protection results; include pedestrian/vulnerable-road-user protection and safety-assist results when the programme reports them.
+4. Test date/year, protocol version, tested model/variant, body style, market specification and standard safety equipment fitted to the tested vehicle.
+5. State whether the result applies to the exact generation and market being compared. A rating for a different generation, market, body style or materially different safety specification must not be presented as the exact car's rating.
+6. Explain whether the rating covers the whole model range or only specified variants/equipment. Do not assume every trim has the same airbags or ADAS hardware.
+7. If no recognised independent crash-test result exists, state “No verified independent crash-test rating found”; do not substitute a manufacturer safety claim, regulatory compliance statement or platform design claim for a star rating.
+8. If two vehicles were tested under different protocols or years, show both results but explicitly warn that the ratings are not directly comparable. Do not declare a winner solely by comparing unlike star ratings.
+9. Link/cite the original testing authority report or official result page wherever possible; secondary summaries are supporting evidence only.
+
+### Mandatory fuel-economy and real-world mileage comparison
+Within Category 4, provide a dedicated mileage table for BOTH exact variants:
+1. Official claimed figure, exact unit (km/l, l/100 km, mpg or kWh/100 km), test cycle/standard and source.
+2. Exact engine, fuel, transmission and trim to which the figure applies. Never transfer an automatic figure to a manual variant or vice versa.
+3. Real-world city, highway and mixed-use mileage separately where credible data exists. Attribute each result and include test route/conditions, traffic, AC use, driving style and sample size when known.
+4. Clearly separate official certification figures, independent instrumented tests, media road tests and owner-reported figures. Do not blend them into one average without explaining methodology.
+5. Compare like-for-like test cycles. If one market uses WLTP and another ARAI or EPA, explain the methodological difference and avoid a direct apples-to-apples conclusion.
+6. State fuel tank capacity for each exact variant and calculate theoretical range only by showing the mileage figure used and formula. Do not imply the full tank is practically usable.
+7. If calculating running cost, state the dated local fuel price, consumption basis and formula; otherwise mark cost “Not calculated — local fuel price or reliable mileage unavailable”.
+8. Include fuel type/grade, start-stop or hybrid assistance where relevant, and note factors that materially affect real-world consumption.
+9. If reliable real-world data is unavailable, write “Not verified” rather than inventing or presenting a single unsupported figure.
+10. Give separate verdicts for official claimed efficiency and real-world efficiency where evidence permits; otherwise state “No verified winner”.
 
 ### Mandatory parking brake, pedals and driver-footwell comparison
 Within Category 7, compare the parking-brake system separately for BOTH exact variants:
@@ -167,6 +192,9 @@ Before sending the final answer, verify:
 - [ ] Every category includes feature/specification differences, winner or tie, reason, and two ratings (or a clear “not rated” explanation).
 - [ ] Every rated category pie chart is directly after its own category and before the next category.
 - [ ] No category is represented by a pie chart alone.
+- [ ] Category 8 contains an independent crash-test comparison identifying authority, protocol/year, tested model/variant, star/numeric scores and occupant-protection sub-scores where available; unlike protocols are not treated as directly comparable.
+- [ ] Category 4 separates official claimed mileage from real-world city/highway/mixed mileage, identifies test cycles and exact transmission/variant, and shows source/conditions.
+- [ ] Any range or running-cost calculation states its mileage basis, formula and dated local fuel price; unsupported figures are marked not verified.
 - [ ] Category 12 contains separate front-AC and rear-AC comparison tables for both exact trims.
 - [ ] Rear vents, separate rear blower, rear fan-speed control and independent rear temperature control are each explicitly addressed for both vehicles.
 - [ ] Front AC control type, zone configuration, filtration and verified cooling evidence are addressed.
