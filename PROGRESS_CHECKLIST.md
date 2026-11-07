@@ -77,7 +77,7 @@ PR: https://github.com/itrunks/motivo/pull/1
 - Bolero Neo — five current selector grades and shared 7-seat diesel/manual/2WD powertrain captured. Live selector rechecked 2026-11-07; N8/N10 OPT/N11 detail pages agree, while N4/N10 (R) are selector-only. Prior values retained as superseded snapshots.
 - Bolero — four current grades and shared powertrain structure captured. Current selector/detail pages agree for B6, B6 OPT and B8; B4 retains a ₹1 selector/detail delta. Prior values are superseded captures.
 - XUV400 — current selector exposes one EL PRO ST 39.4 kWh / 7.2 kW card. The 2024 brochure supports the powertrain crosswalk, but the suffix, charger inclusion and current orderability require dealer confirmation.
-- XEV 9e — standard pack prices are February 2025 historical observations; Cineluxe Edition has a March 2026 price; BaaS starts at ₹13.90L with ₹3.75/km battery financing, but no grade-wise current matrix is published in the captured source.
+- XEV 9e — current 2026 brochure confirms five pack/battery configurations (including Pack Two 59/79 kWh); current BaaS FAQ gives four variant-wise vehicle-upfront prices. Standard full-battery pack prices remain historical; BaaS is dual-loan financing, not per-km rental; dealer confirmation still required for current full-battery prices/orderability.
 - XUV 3XO EV — AX5 and AX7L launch prices from January 6, 2026 are captured; no current selector price/orderability confirmation found.
 - XEV 9S — six grade/battery configurations captured; launch source provides only starting and top prices, while BaaS release provides only a model-level start. Intermediate grade-wise prices remain missing.
 
