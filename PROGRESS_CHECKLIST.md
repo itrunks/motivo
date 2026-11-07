@@ -94,6 +94,7 @@ PR: https://github.com/itrunks/motivo/pull/1
 - Toyota: Innova Crysta, Innova Hycross, Urban Cruiser Hyryder, Glanza, Urban Cruiser Taisor, Fortuner, Hilux, Camry, Rumion, Urban Cruiser Ebella, Vellfire, Land Cruiser 300, Legender.
 - MG: Comet EV, Windsor EV, ZS EV, Hector, Astor, Hector Tomahawk EV, Hector Tomahawk PHEV, Majestor, Cyberster, M9.
 - Tata: Sierra.ev, Harrier.ev, Nexon.ev, Punch.ev, Tiago.ev, Curvv.ev, Tigor.ev, Sierra, Harrier, Safari.
+- MINI: Cooper Convertible — current MINI India page shows ₹58.50L for Favoured Trim (204PS); JCW Pack page starts at ₹58.50L; Stardust page confirms 204hp/300Nm but no price. Base Cooper performance-level price and Stardust official price remain unresolved; Autocar Delhi on-road observations remain secondary.
 - Mahindra: XUV 3XO, Thar OG, Thar ROXX, Scorpio-N, XUV 7XO, Scorpio Classic, Bolero Neo, Bolero, XUV400, XEV 9e, XEV 9S, BE 6 SPORTEQ (complete); XUV 3XO EV (partial evidence).
 
 ## Resume protocol
