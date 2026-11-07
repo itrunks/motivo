@@ -7,9 +7,9 @@ PR: https://github.com/itrunks/motivo/pull/1
 ## Overall status
 
 - Audited work queue: 251 models across 35 brands.
-- Models with normalization work committed and fetched back: 119.
-- Completed/staging-ready model evidence: 80.
-- Partial models needing exact trim/price mapping: 33.
+- Models with normalization work committed and fetched back: 120.
+- Completed/staging-ready model evidence: 81.
+- Partial models needing exact trim/price mapping: 32.
 - Explicitly blocked models: 2.
 - Not yet started: 136 models across 30 brands.
 
@@ -29,7 +29,7 @@ PR: https://github.com/itrunks/motivo/pull/1
 | Tesla | 1 | 1 | 0 | 0 | 0 | Complete — two current India derivatives and official base prices verified |
 | VinFast | 3 | 1 | 2 | 0 | 0 | Audited with partial grade-price evidence |
 | Maruti Suzuki | 17 | 0 | 0 | 0 | 17 | Pending |
-| Mahindra | 13 | 9 | 4 | 0 | 0 | Audited with partial evidence |
+| Mahindra | 13 | 10 | 3 | 0 | 0 | Audited with partial evidence |
 | Audi | 9 | 0 | 9 | 0 | 0 | Audited with official price gaps |
 | BMW | 22 | 11 | 10 | 0 | 1 | In progress |
 | BYD | 4 | 0 | 0 | 0 | 4 | Pending |
@@ -79,7 +79,7 @@ PR: https://github.com/itrunks/motivo/pull/1
 - XUV400 — current selector exposes one EL PRO ST 39.4 kWh / 7.2 kW card. The 2024 brochure supports the powertrain crosswalk, but the suffix, charger inclusion and current orderability require dealer confirmation.
 - XEV 9e — current 2026 brochure confirms five pack/battery configurations (including Pack Two 59/79 kWh); current BaaS FAQ gives four variant-wise vehicle-upfront prices. Standard full-battery pack prices remain historical; BaaS is dual-loan financing, not per-km rental; dealer confirmation still required for current full-battery prices/orderability.
 - XUV 3XO EV — AX5 and AX7L launch prices from January 6, 2026 are captured; no current selector price/orderability confirmation found.
-- XEV 9S — six grade/battery configurations captured; launch source provides only starting and top prices, while BaaS release provides only a model-level start. Intermediate grade-wise prices remain missing.
+- XEV 9S — current FAQ provides 10 full-battery prices across 6/7-seat configurations and six grade/battery BaaS upfront prices. Current brochure confirms battery, power, torque, RWD and range. Price effective date is not shown; source rights remain pending.
 
 ### Tata
 - Harrier — four engine/transmission families captured; full 49-variant grade matrix still needed.
@@ -94,7 +94,7 @@ PR: https://github.com/itrunks/motivo/pull/1
 - Toyota: Innova Crysta, Innova Hycross, Urban Cruiser Hyryder, Glanza, Urban Cruiser Taisor, Fortuner, Hilux, Camry, Rumion, Urban Cruiser Ebella, Vellfire, Land Cruiser 300, Legender.
 - MG: Comet EV, Windsor EV, ZS EV, Hector, Astor, Hector Tomahawk EV, Hector Tomahawk PHEV, Majestor, Cyberster, M9.
 - Tata: Sierra.ev, Harrier.ev, Nexon.ev, Punch.ev, Tiago.ev, Curvv.ev, Tigor.ev, Sierra, Harrier, Safari.
-- Mahindra: XUV 3XO, Thar OG, Thar ROXX, Scorpio-N, XUV 7XO, Scorpio Classic, Bolero Neo, Bolero, BE 6 SPORTEQ (complete); XUV400, XEV 9e, XUV 3XO EV and XEV 9S (partial evidence).
+- Mahindra: XUV 3XO, Thar OG, Thar ROXX, Scorpio-N, XUV 7XO, Scorpio Classic, Bolero Neo, Bolero, XEV 9S, BE 6 SPORTEQ (complete); XUV400, XEV 9e and XUV 3XO EV (partial evidence).
 
 ## Resume protocol
 
