@@ -33,3 +33,23 @@ Source status remains `review_required`; commercial reuse and redistribution rem
 - 4x4 MT launch: https://www.toyotabharat.com/news/2025/tkm-introduces-legender-4x4-in-all-new-manual-transmission-mt-grade.html
 - NeoDrive 48V launch: https://www.toyotabharat.com/news/2025/tkm-launches-fortuner-and-legender-neo-drive-48v-variants.html
 - Toyota official model range price: https://www.toyotabharat.com/showroom/prius/
+
+
+## Current Legender showroom recheck — 2026-11-07
+
+The current Toyota Legender showroom page now provides a clear configuration table with three current diesel configurations:
+
+| Current configuration | Engine | Transmission | Drive | Seats |
+|---|---|---|---|---:|
+| Legender 4x4 MT | 2.8 L 1GD-FTV diesel, 150 kW/204 PS, 420 Nm | 6MT with iMT | 4WD | 7 |
+| Legender 4x2 AT | 2.8 L 1GD-FTV diesel, 150 kW/204 PS, 500 Nm | 6AT | 2WD | 7 |
+| Legender 4x4 AT | 2.8 L 1GD-FTV diesel, 150 kW/204 PS, 500 Nm | 6AT | 4WD | 7 |
+
+This supersedes the previous generic brochure interpretation that allowed 2WD/4WD for all three powertrain families. The current showroom explicitly maps 4x4 MT, 4x2 AT and 4x4 AT. It does not expose retail grade names beyond those configuration labels.
+
+The current showroom page's EMI calculator states that price is unavailable and asks customers to check with the nearest dealer. The old ₹42,92,000 model-starting-price record was linked to a Prius showroom URL, not a Legender-specific source; it is now quarantined as a source-scope mismatch. The March 2025 4x4 MT and June 2025 NeoDrive 48V prices remain historical launch observations, not current prices.
+
+The current Legender showroom page no longer lists the NeoDrive 48V powertrain. Keep the 2025 NeoDrive 48V launch as a separate historical family; do not merge it into current orderable configurations. Current price and grade mapping remain incomplete pending a dealer-specific Toyota price list.
+
+Current source:
+- https://www.toyotabharat.com/showroom/fortuner/index-legender.html
