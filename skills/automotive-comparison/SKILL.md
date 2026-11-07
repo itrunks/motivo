@@ -140,6 +140,54 @@ Within Category 12, audit front and rear air-conditioning separately for BOTH ex
 - Do not call a PM2.5 cabin filter an air purifier. Explain the distinction.
 - If manufacturer brochures omit a detail, mark it “Not published” or “Not verified”; do not fill gaps from a higher trim, another market, or a different model year.
 
+### Mandatory seat adjustment, headrest, armrest and rear-seat audit
+
+Within Category 11, compare the exact selected variants in a dedicated seat-adjustment and passenger-comfort table. Do not describe a seat as “power adjustable” without identifying the adjustment axes and exact trim.
+
+**Driver seat — report each item separately:**
+1. Adjustment method: manual, electrically powered, or not verified.
+2. Number of adjustment ways (e.g. 4-way, 6-way, 8-way, 10-way); define the actual axes where the manufacturer specifies them. Do not infer the count from marketing photos.
+3. Fore/aft slide, seat-height, recline, cushion tilt and lumbar adjustment: present/absent/not verified, and manual or powered operation.
+4. Driver-seat memory: number of profiles and linked mirror/seat functions only when documented.
+5. Ventilation/heating, extendable thigh support and other comfort functions, with exact trim applicability.
+
+**Front passenger / co-driver seat:**
+1. Manual or powered adjustment and exact number of ways, if published.
+2. Fore/aft slide, recline, height adjustment, lumbar support and other adjustment axes individually.
+3. Seat ventilation/heating and other comfort features, if equipped.
+4. Do not assume the co-driver seat has the same adjustment range as the driver seat.
+
+**Headrests and rear seats:**
+1. Front driver and passenger headrests: adjustable or fixed/integrated; height/tilt adjustment only if verified.
+2. Rear headrests: count, seating positions covered, adjustable or fixed/integrated, and whether height adjustment is available.
+3. Rear seat split-fold configuration (e.g. 60:40,  split-fold, one-piece bench); state whether the seatback folds and whether the seat base also moves.
+4. Rear centre armrest: present/absent, fold-down type, and integrated cup holders if present.
+5. Rear seat recline, slide, three-point belts, ISOFIX and centre-seat headrest/belt details where applicable.
+6. Distinguish a fixed headrest from an adjustable headrest; never call a full-width bench “split” unless the seatback sections fold independently.
+
+**Armrests, cup holders and vanity mirrors:**
+1. Front centre armrest: present/absent, sliding or fixed, storage compartment and adjustability if verified.
+2. Cup holders: count and exact locations (front console, door pockets, rear armrest, rear console, third row); distinguish bottle holders in doors from cup holders.
+3. Vanity mirrors: driver and front passenger sides separately; cover/sliding cover, illumination and dimming only when confirmed.
+4. Other storage and convenience details relevant to occupants: seat-back pockets, door-bottle holders, rear parcel shelf and cabin hooks where verified.
+5. State standard/optional/absent/not verified for the exact variant. Do not infer equipment from a higher trim or another market.
+
+**Required presentation and verdict:**
+- Include a driver-seat adjustment table and a separate co-driver-seat adjustment table.
+- Include a headrest/rear-seat split/armrest table.
+- Include a cup-holder and vanity-mirror table with count/location and driver/passenger distinction.
+- Give separate findings for driver-seat adjustability, co-driver comfort and rear-passenger comfort; name a winner only where verified evidence supports it.
+- If the manufacturer does not publish the adjustment-way count or an axis, mark it “Not published” or “Not verified”; do not guess.
+
+### Mandatory cabin convenience and storage audit
+
+Within Categories 10, 11 and 13, capture small cabin-use features that are easily missed:
+1. Front and rear cup holders, bottle holders and their exact locations/counts.
+2. Front and rear armrests, sliding/fixed design, storage and cup-holder integration.
+3. Driver and co-driver vanity mirrors, cover type and illumination.
+4. Seat-back pockets, console storage, glovebox cooling/illumination, door bins and rear passenger storage, where verified.
+5. Clearly separate a true cup holder from a door bottle pocket or open storage recess. Do not count the same holder in multiple locations.
+
 ## Category chart placement and scoring
 The order is mandatory:
 1. Category heading.
@@ -202,6 +250,14 @@ Before sending the final answer, verify:
 - [ ] Category 7 explicitly compares manual handbrake vs EPB, EPB operation/release where documented, Auto Hold and hill-hold as separate functions.
 - [ ] Category 10 explicitly compares accelerator/brake/clutch pedal pads, material/finish, factory metal/aluminium sport covers, dead pedal/footrest and OEM accessory availability.
 - [ ] Factory-fitted equipment is clearly separated from optional OEM accessories and aftermarket pedal covers.
+- [ ] Category 11 compares driver-seat manual/electric adjustment and exact adjustment-way count/axes where published.
+- [ ] Category 11 separately compares co-driver seat adjustment method, ways and adjustment axes; driver-seat features are not assumed for the passenger seat.
+- [ ] Front and rear headrests are identified as adjustable, fixed/integrated, absent or not verified, with seating-position coverage.
+- [ ] Rear seatback split-fold ratio/configuration is explicitly checked and not inferred.
+- [ ] Front/rear armrests and integrated cup holders are checked, including location and storage.
+- [ ] Cup holders are counted by exact location and distinguished from door bottle holders/open storage pockets.
+- [ ] Driver and co-driver vanity mirrors are checked separately for presence, cover and illumination.
+- [ ] Seat memory, lumbar, height, recline, slide, cushion tilt and ventilation/heating are addressed where applicable and verified for the exact trim.
 - [ ] Final 14-category score table is present.
 - [ ] Final overall line chart is present.
 - [ ] Final overall pie chart is present.
