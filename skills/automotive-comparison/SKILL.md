@@ -325,6 +325,13 @@ Before sending the final answer, verify:
 - [ ] Category 7 explicitly compares manual handbrake vs EPB, EPB operation/release where documented, Auto Hold and hill-hold as separate functions.
 - [ ] Category 10 explicitly compares accelerator/brake/clutch pedal pads, material/finish, factory metal/aluminium sport covers, dead pedal/footrest and OEM accessory availability.
 - [ ] Factory-fitted equipment is clearly separated from optional OEM accessories and aftermarket pedal covers.
+- [ ] Power windows are checked door-by-door, including one-touch up/down separately for each window.
+- [ ] Anti-pinch/obstruction detection and window-lock behaviour are checked separately from power-window availability.
+- [ ] Remote/global window operation and retained accessory power are checked only where verified.
+- [ ] ORVM manual/electric glass adjustment, manual/powered folding and automatic fold/unfold triggers are distinguished.
+- [ ] ORVM heating/defogging, auto-dimming, reverse tilt, memory and blind-spot indicators are checked independently.
+- [ ] Driver-door master switches, central locking, child lock, boot/fuel flap release, bonnet release and other driver-side controls are inventoried where fitted.
+- [ ] Driver-seat memory is not assumed to include ORVM memory; linked mirror memory is independently verified.
 - [ ] Category 10 compares steering-wheel spoke design (two/three/other), shape and verified rim material/finish.
 - [ ] Tilt and telescopic steering-column adjustment are checked independently, including operation type and exact-trim availability.
 - [ ] Steering-mounted audio, phone, voice, MID/cluster, cruise-control and ADAS controls are checked for the exact trim.
