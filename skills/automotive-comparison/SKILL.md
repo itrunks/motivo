@@ -250,6 +250,14 @@ Before sending the final answer, verify:
 - [ ] Category 7 explicitly compares manual handbrake vs EPB, EPB operation/release where documented, Auto Hold and hill-hold as separate functions.
 - [ ] Category 10 explicitly compares accelerator/brake/clutch pedal pads, material/finish, factory metal/aluminium sport covers, dead pedal/footrest and OEM accessory availability.
 - [ ] Factory-fitted equipment is clearly separated from optional OEM accessories and aftermarket pedal covers.
+- [ ] Category 11 compares driver-seat manual/electric adjustment and exact adjustment-way count/axes where published.
+- [ ] Category 11 separately compares co-driver seat adjustment method, ways and adjustment axes; driver-seat features are not assumed for the passenger seat.
+- [ ] Front and rear headrests are identified as adjustable, fixed/integrated, absent or not verified, with seating-position coverage.
+- [ ] Rear seatback split-fold ratio/configuration is explicitly checked and not inferred.
+- [ ] Front/rear armrests and integrated cup holders are checked, including location and storage.
+- [ ] Cup holders are counted by exact location and distinguished from door bottle holders/open storage pockets.
+- [ ] Driver and co-driver vanity mirrors are checked separately for presence, cover and illumination.
+- [ ] Seat memory, lumbar, height, recline, slide, cushion tilt and ventilation/heating are addressed where applicable and verified for the exact trim.
 - [ ] Final 14-category score table is present.
 - [ ] Final overall line chart is present.
 - [ ] Final overall pie chart is present.
