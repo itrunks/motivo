@@ -34,3 +34,37 @@ Current full-battery grade-wise price coverage remains incomplete; standard-pack
 - Official XEV 9e leaflet (February 2025 price basis): https://booking.mahindra.com/on/demandware.static/-/Library-Sites-eSUVSharedLibrary/default/dwbe1e0571/Xev-9e/XEV-9E-Leaflet.pdf
 - Official Cineluxe Edition announcement (March 1, 2026): https://www.mahindra.com/news-room/press-release/en/mahindra-elevates-luxury-with-the-exclusive-xev-9e-cineluxe-edition-at-Rs-29.35-lakh
 - Official BaaS expansion announcement (August 28, 2026): https://www.mahindra.com/news-room/press-release/en/mahindra-expands-battery-as-a-service-across-its-entire-electric-origin-suv-portfolio
+
+
+## Current 2026 pack structure and BaaS price matrix — 2026-11-07
+
+A current Mahindra Electric SUV specification brochure now confirms five standard pack/battery combinations:
+
+| Pack | Battery | Motor | Torque | MIDC P1+P2 range |
+|---|---:|---:|---:|---:|
+| Pack One | 59 kWh | 170 kW | 380 Nm | 522 km |
+| Pack Two | 59 kWh | 170 kW | 380 Nm | 522 km |
+| Pack Two | 79 kWh | 210 kW | 380 Nm | 656 km |
+| Pack Three Select | 59 kWh | 170 kW | 380 Nm | 522 km |
+| Pack Three | 79 kWh | 210 kW | 380 Nm | 656 km |
+
+All five are rear-wheel drive with automatic transmission. The brochure lists 7.2 kW and 11.2 kW AC wall-charger options. The current specification brochure supersedes the earlier 2024/2025 range figures for current specification work: 59 kWh is now listed at 522 km, not the earlier 542 km figure.
+
+The current official BaaS FAQ now provides a variant-wise upfront price matrix:
+
+| Pack / edition | Battery | BaaS vehicle upfront price |
+|---|---:|---:|
+| Pack One | 59 kWh | ₹13,90,000 |
+| Pack Two | 79 kWh | ₹16,50,000 |
+| Three Cineluxe | 79 kWh | ₹19,35,000 |
+| Pack Three | 79 kWh | ₹20,50,000 |
+
+These are BaaS vehicle-upfront amounts, not full-battery ex-showroom prices. Mahindra describes BaaS as a dual-loan structure: the customer owns both vehicle and battery, with battery financing handled separately. It is not a battery subscription or pay-per-kilometre rental. Prices exclude wall charger/installation, road tax, insurance, TCS and other statutory levies; financing terms and approval depend on the financier, down payment and tenure. The ₹3.75/km figure is an example financing calculation based on assumed usage, not a per-km usage charge.
+
+The BaaS FAQ states the programme is available across all XEV 9e variants, while the variant-wise BaaS table lists the four combinations above. It does not provide current full-battery ex-showroom prices for all five standard pack/battery combinations. The four 2025 standard-pack prices remain historical observations and are not promoted as current 2026 full-battery prices. The Cineluxe March 2026 ₹29.35 lakh full-price observation remains a separate special-edition observation.
+
+The current selector/order flow does not expose a full XEV 9e grade-wise full-battery price matrix in the captured text. Dealer confirmation is still required for current full-battery prices and order acceptance. Source reuse/redistribution remain review_required/unknown. No Firestore import or publication is approved.
+
+New current sources:
+- Current XEV 9e specification brochure: https://www.mahindraelectricsuv.com/on/demandware.static/-/Library-Sites-eSUVSharedLibrary/default/MXV9/XEV-9e-Brochure-Specification.pdf
+- Current variant-wise BaaS FAQ: https://www.mahindraelectricsuv.com/be-6-sporteq/baas-faq.html
