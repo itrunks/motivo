@@ -3,7 +3,7 @@
 **Project target:** 100% evidence-backed catalogue normalization and validation.  
 **Working branch:** `feature/catalogue-source-audit-ingestion`  
 **Current PR:** #1 — https://github.com/itrunks/motivo/pull/1  
-**Last checkpoint:** 2026-11-07 — Mahindra XUV400 selector rechecked: one EL PRO ST 39.4 kWh card remains; 7.2 kW wallbox inclusion confirmed by brochure, while suffix ST and current dealer order acceptance remain pending. Bolero, Bolero Neo, Scorpio Classic and XUV 7XO workpapers updated.
+**Last checkpoint:** 2026-11-07 — Mahindra XEV 9e current five-pack structure and four variant-wise BaaS prices captured; full-battery standard prices remain historical. XUV400 selector rechecked; Bolero, Bolero Neo, Scorpio Classic and XUV 7XO workpapers updated.
 
 ## Progress rules
 
@@ -44,7 +44,7 @@
 - [x] Mahindra — Bolero B4/B6 price-version discrepancies reconciled (2026-11-07 current selector/detail pages aligned for B6/B6 OPT/B8; B4 ₹1 delta explicitly preserved)
 - [ ] Mahindra — XUV400 full current range/orderability verified (only one selector card exposed; EL PRO ST crosswalk and charger inclusion need confirmation)
 - [x] Mahindra — BE 6 SPORTEQ eight-grade full-battery price matrix captured; BaaS upfront observations and charger exclusion kept separate
-- [ ] Mahindra — XEV 9e current full-battery grade matrix verified (2025 standard prices are historical; Cineluxe and BaaS observations captured)
+- [ ] Mahindra — XEV 9e current full-battery grade matrix verified (5 current pack/battery structures and 4 variant-wise BaaS upfront prices captured; standard full-battery prices remain historical)
 - [ ] Mahindra — XUV 3XO EV current price/orderability verified (two January 2026 launch grades captured; no current selector price found)
 - [ ] Mahindra — XEV 9S intermediate full-battery and grade-wise BaaS prices verified (six configurations captured; only start/top prices and model-level BaaS start published)
 - [ ] Remaining brands/models in the work queue (process one evidence-backed model at a time)
@@ -135,7 +135,7 @@
 | Mahindra | Bolero | [x] | [x] 4 current selector prices; 4 current detail pages checked | [x] | [x] | Complete — B6/B6 OPT/B8 aligned; B4 retains a ₹1 selector/detail delta; prior captures superseded and preserved |
 | Mahindra | XUV400 | [ ] | [x] 1 current selector price observation | [x] | [x] | Partial — only one card exposed; current orderability and charger inclusion require dealer confirmation |
 | Mahindra | BE 6 SPORTEQ | [x] | [x] 10 full-battery + 2 BaaS price observations | [x] | [x] | Complete — eight OEM grades and all published battery-price combinations; BaaS and charger caveats preserved |
-| Mahindra | XEV 9e | [ ] | [ ] 4 historical pack prices + 1 Cineluxe price + model-level BaaS start | [x] | [x] | Partial — standard-pack prices are historical; current grade-wise full-battery/BaaS prices unavailable |
+| Mahindra | XEV 9e | [x] | [x] 5 current pack/battery structures + 4 variant-wise BaaS prices; standard full-battery prices historical | [x] | [x] | Partial — current specs/BaaS matrix captured; full-battery standard price matrix and dealer orderability still pending |
 | Mahindra | XUV 3XO EV | [x] | [ ] 2 OEM launch prices (2026-01-06) | [x] | [x] | Partial — current selector price/orderability not captured; charger is optional extra |
 | Mahindra | XEV 9S | [x] | [ ] 1 launch start + 1 top price + 1 BaaS start; 4 intermediate prices missing | [x] | [x] | Partial — six grade/battery configurations captured; no complete grade-wise full-price/BaaS matrix |
 | Maruti Suzuki | Dzire | [x] | [x] 11 official ex-showroom prices | [x] | [x] | Complete — petrol/CNG manual and AGS including new CNG AGS |
