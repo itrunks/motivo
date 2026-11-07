@@ -45,15 +45,42 @@ Cover all applicable details, not merely the headline items:
 - Efficiency: claimed and real-world mileage separately, tank capacity, range estimate only when supported, service/running costs.
 - Chassis: platform, steering type, turning radius, handling, stability, aerodynamic data (Cd etc. only if published).
 - Suspension: front/rear architecture, tuning, dampers/springs if known, ride, body roll, load behaviour and ground clearance.
-- Brakes/safety: front/rear disc or drum, ABS/EBD, ESC, hill assist, TPMS, airbags, ISOFIX, belts, ADAS functions, crash-test results and test protocol/year.
+- Brakes/safety: front/rear disc or drum, ABS/EBD, ESC, hill assist, TPMS, airbags, ISOFIX, belts, ADAS functions, crash-test results and test protocol/year. Also audit parking-brake type (mechanical handbrake vs electronic parking brake/EPB), EPB switch/lever location, auto-hold, hill-hold distinction, automatic engagement/release, emergency-braking behaviour and manual/emergency release procedure where documented. Never assume EPB includes Auto Hold.
+- Pedals and driver footwell: accelerator, brake and clutch pedal presence/type, exposed material/finish (rubber, plastic, metal/aluminium or stainless-steel-look), OEM sport pedal covers, dead pedal/footrest material and coverage. Distinguish factory-fitted metal pedals from aftermarket clip-on covers; do not infer the underlying pedal material from a decorative cover.
 - Exterior: lamps, DRLs, fog lamps, grille, bumpers, sensors/cameras, wipers, washers, rain sensing, glass and mirrors.
-- Cabin: materials, trim, steering, cluster, HUD, screen, audio hardware, phone connectivity, USB/12V, wireless charging, sunroof, storage and ambient lighting.
+- Cabin: materials, trim, steering, cluster, HUD, screen, audio hardware, phone connectivity, USB/12V, wireless charging, sunroof, storage and ambient lighting. Also compare steering-wheel material/wrapping, gear knob and shift boot material, handbrake lever/grip material, door-handle and interior-trim finishes, footwell illumination and ambient-lighting coverage.
 - Seats: driver/front/rear upholstery, manual/electric adjustment, ventilation/heating, lumbar/thigh/side support, headrests, armrest, rear split, legroom/headroom/shoulder room and floor hump. Do not invent foam density or ergonomic measurements.
 - Climate/convenience: use the mandatory front-AC and rear-AC audit below; also cover auto-dimming IRVM, cruise control, keyless entry, push start, connected features and OTA.
 - Practicality: all dimensions, wheelbase, boot, fuel tank, tyre sizes, spare wheel, loading access, rear wiper/defogger and storage.
 - Ownership: warranty terms, service intervals/costs, service reach, parts, reliability evidence, resale and depreciation.
 
 If a category has many sub-features, use subheadings or a compact table so the user can see the full audit. Do not collapse the category into one sentence.
+
+### Mandatory parking brake, pedals and driver-footwell comparison
+Within Category 7, compare the parking-brake system separately for BOTH exact variants:
+1. Type: conventional mechanical handbrake lever, foot-operated parking brake, or electronic parking brake (EPB).
+2. Operating control: lever/pedal/switch type and exact location; describe the operation only when verified.
+3. EPB hardware and integration: electric actuator/caliper integration or cable-based arrangement, only when documented.
+4. Auto Hold: present/absent/not verified; explain that Auto Hold is a separate hold-at-stop function and is not synonymous with EPB or hill-hold assist.
+5. Hill-hold assist: present/absent and how it differs from Auto Hold.
+6. Automatic EPB application/release: conditions and transmission/seatbelt/door dependencies, only when manufacturer documentation confirms them.
+7. Emergency braking and manual/emergency release: describe documented behaviour and release procedure; do not speculate about failure handling.
+8. Clearly label each feature as standard, optional/accessory, absent, or not verified on the exact trim.
+
+Within Category 10, compare pedals and driver footwell separately for BOTH exact variants:
+1. Accelerator, brake and clutch pedal layout/presence (clutch only where applicable).
+2. Visible pedal pad material and finish: rubber, plastic, metal/aluminium, stainless-steel finish or other confirmed construction.
+3. Factory-fitted sport pedal covers versus standard pedal pads; identify whether a metal appearance is an OEM trim feature or an accessory.
+4. Dead pedal/left footrest presence, material, size/coverage where published or visibly verified.
+5. OEM accessory availability for sport pedals, exact variant compatibility, part number and fitting requirements where available.
+6. Do not call a decorative metal-look cover a solid stainless-steel pedal unless its material is confirmed. Do not infer the base pedal material from an aftermarket cover or an image alone.
+7. Compare steering-wheel wrapping/material, gear knob and shift boot, handbrake grip, interior door-handle/trim finishes and footwell/ambient lighting as applicable.
+
+Required presentation:
+- Include a dedicated parking-brake table in Category 7.
+- State explicitly whether each car has a manual handbrake or EPB, and whether Auto Hold and hill-hold are present independently.
+- Include a dedicated pedals/footwell table in Category 10, with factory equipment separated from optional OEM accessories and aftermarket additions.
+- If exact construction or operation is not documented, write “Not published” or “Not verified”.
 
 ### Mandatory front AC and rear AC comparison
 Within Category 12, audit front and rear air-conditioning separately for BOTH exact variants. Never treat the mere presence of rear AC vents as proof of a separate rear AC system.
@@ -144,6 +171,9 @@ Before sending the final answer, verify:
 - [ ] Rear vents, separate rear blower, rear fan-speed control and independent rear temperature control are each explicitly addressed for both vehicles.
 - [ ] Front AC control type, zone configuration, filtration and verified cooling evidence are addressed.
 - [ ] PM2.5 filtration is not mislabelled as a standalone air purifier.
+- [ ] Category 7 explicitly compares manual handbrake vs EPB, EPB operation/release where documented, Auto Hold and hill-hold as separate functions.
+- [ ] Category 10 explicitly compares accelerator/brake/clutch pedal pads, material/finish, factory metal/aluminium sport covers, dead pedal/footrest and OEM accessory availability.
+- [ ] Factory-fitted equipment is clearly separated from optional OEM accessories and aftermarket pedal covers.
 - [ ] Final 14-category score table is present.
 - [ ] Final overall line chart is present.
 - [ ] Final overall pie chart is present.
