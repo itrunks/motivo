@@ -68,3 +68,27 @@ The current selector/order flow does not expose a full XEV 9e grade-wise full-ba
 New current sources:
 - Current XEV 9e specification brochure: https://www.mahindraelectricsuv.com/on/demandware.static/-/Library-Sites-eSUVSharedLibrary/default/MXV9/XEV-9e-Brochure-Specification.pdf
 - Current variant-wise BaaS FAQ: https://www.mahindraelectricsuv.com/be-6-sporteq/baas-faq.html
+
+
+## Current full-battery price confirmation — 2026-11-07
+
+The current Mahindra Electric SUVs FAQ now publishes the full-battery price for every main XEV 9e grade and the Cineluxe special edition:
+
+| Grade | Battery | Current ex-showroom |
+|---|---:|---:|
+| Pack One | 59 kWh | ₹21,90,000 |
+| Pack Two | 59/79 kWh available; price FAQ does not specify which battery the ₹24.90L amount maps to | ₹24,90,000 |
+| Pack Three Select | 59 kWh | ₹27,90,000 |
+| Pack Three | 79 kWh | ₹30,50,000 |
+| Cineluxe Edition | 79 kWh | ₹29,35,000 |
+
+The Pack Two battery-to-price mapping remains intentionally unresolved: the FAQ lists Pack Two with both 59 kWh and 79 kWh batteries but supplies only one grade-level price. Do not duplicate ₹24.90L across both battery variants without explicit OEM confirmation.
+
+The FAQ confirms the full-battery prices exclude wall charger and installation. The standard 3.3 kW portable charger is included. Cineluxe may be equipped with an optional 11.2 kW wall charger for ₹75,000 or a 7.2 kW wall charger for ₹60,000. The current full-battery price list is now a current FAQ observation, not merely a historical launch price. The price effective date is not published.
+
+The existing four standard pack launch prices from February 2025 remain in the data as historical observations, separate from the current FAQ observations. Cineluxe's March 2026 press-release price is now independently confirmed by the current FAQ.
+
+The current FAQ also confirms the five main trims and Pack Two's 59/79 kWh options, plus Cineluxe as a 79 kWh special edition. The structure file now contains six pack/edition rows. The four BaaS amounts remain separate vehicle-upfront prices with the battery financed separately.
+
+Current full-price source:
+- https://www.mahindraelectricsuv.com/faq.html
