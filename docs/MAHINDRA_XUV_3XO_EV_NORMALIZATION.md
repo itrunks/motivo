@@ -51,3 +51,16 @@ New evidence:
 - Current model range: https://auto.mahindra.com/suv
 - AX5 brochure page: https://auto.mahindra.com/xuv3xo-ev-ax5-electr/X3XEM096218043888.html
 - AX7L brochure page: https://auto.mahindra.com/xuv3xo-ev-ax7l-electr/X3XEM096118043892.html
+
+## Current OEM availability and price recheck — 2026-11-08
+
+The current Mahindra SUV catalogue still lists XUV3XO EV at ₹13.89L–₹14.96L. The official dealer locator also exposes XUV3XO EV as a selectable model for dealer search. The January 6, 2026 OEM launch matrix assigns ₹13.89L to AX5 and ₹14.96L to AX7L; the current model-range endpoints match those dated variant prices exactly.
+
+This confirms current model-catalogue presence and corroborates the price range. It does not independently establish a new effective date for each grade or prove that a booking slot is currently open. The official SUV card has an Explore link but no Book Now action for XUV3XO EV in the captured page. Keep the two grade prices classified as dated launch observations; retain dealer orderability and current grade-wise price confirmation as pending.
+
+Transmission remains blank because the inspected OEM materials do not explicitly identify a transmission type. Source reuse and redistribution remain review_required / unknown.
+
+Additional current evidence:
+- Mahindra current SUV catalogue: https://auto.mahindra.com/suv
+- Mahindra dealer locator: https://auto.mahindra.com/dealer-locator
+- January 6, 2026 OEM launch price matrix: https://www.mahindra.com/sites/default/files/2026-01/SEIntimationLaunchofXUV3XOEV06012026.pdf
