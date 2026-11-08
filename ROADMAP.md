@@ -3,7 +3,7 @@
 **Project target:** 100% evidence-backed catalogue normalization and validation.  
 **Working branch:** `feature/catalogue-source-audit-ingestion`  
 **Current PR:** #1 — https://github.com/itrunks/motivo/pull/1  
-**Last checkpoint:** 2026-11-07 — MINI Cooper Convertible current official pages confirm ₹58.50L model price, JCW Pack from ₹58.50L and Stardust 204hp/300Nm; Stardust price and base Cooper mapping remain unresolved. Toyota Legender current showroom confirms 4x4 MT with iMT, 4x2 AT and 4x4 AT; Fortuner grade matrix remains unavailable; Glanza V(O) discrepancy and Carens Clavis unnamed 7DCT column remain quarantined.
+**Last checkpoint:** 2026-11-08 — XUV 3XO EV current Mahindra catalogue range rechecked at ₹13.89L–₹14.96L; endpoints match January 2026 AX5/AX7L launch prices, but no fresh grade-wise effective price or open booking slot was confirmed. Dealer locator includes the model. Retain as partial; dealer orderability remains pending.
 
 ## Progress rules
 
@@ -16,7 +16,7 @@
 
 ## Master completion checklist
 
-- [x] Initial source and catalogue audit baseline (224 URLs, 251 model records, 251 variant records, 502 crosswalk mappings, 35 brands)
+- [x] Initial source and catalogue audit baseline (260 source-registry entries, 251 model records, 251 variant records, 502 crosswalk mappings, 35 brands; source registry count rechecked 2026-11-08)
 - [x] Variant normalization work queue generated (251 model rows)
 - [x] Staging/import safety documentation and validation tooling added
 - [x] Hyundai — Creta normalization and evidence notes
@@ -45,7 +45,7 @@
 - [x] Mahindra — XUV400 current booking selector and sole EL PRO ST configuration verified; 7.2 kW wallbox inclusion confirmed; dealer acceptance disclaimer preserved
 - [x] Mahindra — BE 6 SPORTEQ eight-grade full-battery price matrix captured; BaaS upfront observations and charger exclusion kept separate
 - [x] Mahindra — XEV 9e current full-battery grade matrix verified (current FAQ confirms five main grades plus Cineluxe and four BaaS prices; Pack Two battery-to-price mapping remains unspecified)
-- [ ] Mahindra — XUV 3XO EV current price/orderability verified (two January 2026 launch grades captured; no current selector price found)
+- [ ] Mahindra — XUV 3XO EV current price/orderability verified (current model-range endpoints rechecked 2026-11-08 and match launch grades; no new grade-wise effective price or open booking slot confirmed; dealer orderability remains pending)
 - [x] Mahindra — XEV 9S current full-battery and grade-wise BaaS prices verified (10 full-price 6/7-seat combinations; 6 grade/battery BaaS prices)
 - [ ] Remaining brands/models in the work queue (process one evidence-backed model at a time)
 - [ ] Reconcile normalized model/variant rows against the 251-row work queue and 502-row crosswalk
