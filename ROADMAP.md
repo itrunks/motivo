@@ -3,7 +3,7 @@
 **Project target:** 100% evidence-backed catalogue normalization and validation.  
 **Working branch:** `feature/catalogue-source-audit-ingestion`  
 **Current PR:** #1 — https://github.com/itrunks/motivo/pull/1  
-**Last checkpoint:** 2026-11-08 — XUV 3XO EV current Mahindra catalogue range rechecked at ₹13.89L–₹14.96L; endpoints match January 2026 AX5/AX7L launch prices, but no fresh grade-wise effective price or open booking slot was confirmed. Dealer locator includes the model. Retain as partial; dealer orderability remains pending.
+**Last checkpoint:** 2026-11-08 — XUV 3XO EV current Mahindra catalogue range rechecked at ₹13.89L–₹14.96L; endpoints match January 2026 AX5/AX7L launch prices, but no fresh grade-wise effective price or open booking slot was confirmed. Alto K10 now has eight normalized petrol/CNG configurations; four official variant-card prices conflict with the same page FAQ by ₹2,500. Both models remain partial pending dealer/invoice clarification.
 
 ## Progress rules
 
@@ -60,6 +60,7 @@
 
 | Brand | Model | Structure | Price evidence | Evidence notes | Commit verification | Status |
 |---|---|---|---|---|---|---|
+| Maruti Suzuki | Alto K10 | [x] | [x] eight official card observations; four conflict with embedded FAQ | [x] | [x] | Partial — retain both official price observations; effective date/city basis unresolved |
 | Hyundai | Creta | [x] | [x] OEM observations; current city price needs confirmation | [x] | [x] | Complete — staging only |
 | Hyundai | Venue | [x] | [ ] | [x] | [x] | Complete — structure only |
 | Hyundai | Exter | [x] | [x] launch observations; effective date/current city quote not confirmed | [x] | [x] | Complete — staging only |
