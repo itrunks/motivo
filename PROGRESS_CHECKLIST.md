@@ -1,6 +1,6 @@
 # Motivo Catalogue Progress Checklist
 
-Last verified: 2026-11-07  
+Last verified: 2026-11-08  
 Branch: `feature/catalogue-source-audit-ingestion`  
 PR: https://github.com/itrunks/motivo/pull/1
 
@@ -78,7 +78,7 @@ PR: https://github.com/itrunks/motivo/pull/1
 - Bolero — four current grades and shared powertrain structure captured. Current selector/detail pages agree for B6, B6 OPT and B8; B4 retains a ₹1 selector/detail delta. Prior values are superseded captures.
 - XUV400 — current selector exposes one EL PRO ST 39.4 kWh / 7.2 kW card. The 2024 brochure supports the powertrain crosswalk, but the suffix, charger inclusion and current orderability require dealer confirmation.
 - XEV 9e — current FAQ confirms five main grade prices plus Cineluxe and four variant-wise BaaS upfront prices. Current brochure confirms six pack/battery configurations. Pack Two ₹24.90L is not mapped to 59 vs 79 kWh; no price effective date is published. BaaS is dual-loan financing, not per-km rental.
-- XUV 3XO EV — AX5 and AX7L launch prices from January 6, 2026 are captured; no current selector price/orderability confirmation found.
+- XUV 3XO EV — current Mahindra catalogue rechecked 2026-11-08 at ₹13.89L–₹14.96L; these endpoints match the January 6, 2026 AX5/AX7L launch prices. Dealer locator includes the model, but no fresh grade-wise effective price or open booking slot was confirmed. Keep partial; dealer orderability remains pending.
 - XEV 9S — current FAQ provides 10 full-battery prices across 6/7-seat configurations and six grade/battery BaaS upfront prices. Current brochure confirms battery, power, torque, RWD and range. Price effective date is not shown; source rights remain pending.
 
 ### Tata
