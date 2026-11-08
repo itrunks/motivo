@@ -7,11 +7,11 @@ PR: https://github.com/itrunks/motivo/pull/1
 ## Overall status
 
 - Audited work queue: 251 models across 35 brands.
-- Models with normalization work committed and fetched back: 122.
+- Models with normalization work committed and fetched back: 122 (historical counter; reconcile against the refreshed per-model ledger before the next full roll-up).
 - Completed/staging-ready model evidence: 83.
-- Partial models needing exact trim/price mapping: 30.
+- Partial models needing exact trim/price mapping: 32.
 - Explicitly blocked models: 2.
-- Not yet started: 136 models across 30 brands.
+- Not yet started: 134 models across 30 brands.
 
 **Important:** “Complete” means research/normalization files and evidence notes are committed and verified. It does not mean commercial reuse rights are approved or production import is authorized. Source rights remain `review_required` / `unknown` unless separately proven.
 
