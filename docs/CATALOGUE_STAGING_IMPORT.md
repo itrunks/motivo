@@ -26,7 +26,7 @@ The generated `data/variant-normalization-workqueue.csv` contains one work item 
    python3 scripts/validate_catalogue.py path/to/import.csv --out-dir data/staging
    ```
 
-4. Review the source-specific permission record in `data/source-registry.csv`. The current 261 source URLs (rechecked 2026-11-08) are linked through `data/audit-source-crosswalk.csv`; all remain `review_required` until terms and commercial redistribution rights are documented. Each imported record must use an exact source URL with an explicit terms/licence URL, licence name, `review_status=approved`, `commercial_reuse_allowed=yes`, and `redistribution_allowed=yes`. Public visibility is not permission.
+4. Review the source-specific permission record in `data/source-registry.csv`. The current 262 source URLs (rechecked 2026-11-08) are linked through `data/audit-source-crosswalk.csv`; all remain `review_required` until terms and commercial redistribution rights are documented. Each imported record must use an exact source URL with an explicit terms/licence URL, licence name, `review_status=approved`, `commercial_reuse_allowed=yes`, and `redistribution_allowed=yes`. Public visibility is not permission.
 5. Validate source mapping with `python scripts/validate_source_crosswalk.py`.
 6. Run the reuse gate against the same canonical registry. It checks every draft row against the exact audited source URL and fails closed on duplicate registry IDs or URLs:
 
