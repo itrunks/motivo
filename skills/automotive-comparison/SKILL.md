@@ -8,8 +8,38 @@ Produce exhaustive, variant-specific vehicle comparisons that are accurate, easy
 2. Select a competitor variant based on comparable on-road price, not automatically top-trim versus top-trim. A base, mid, or top variant may be selected if it is the fairest price match.
 3. State model year, fuel, transmission, variant, ex-showroom price, estimated on-road price, source date, and price difference. Clearly label estimates and dealer-quote caveats.
 4. Verify exact variant and model year from current official brochures, manufacturer pages, price lists, and credible sources. Do not transfer features from a higher trim to a lower trim.
-5. If a fact is unavailable, write “Not published” or “Not verified”. Never invent specifications, prices, fitment, test results, or feature availability.
-6. Cite sourced facts close to the relevant claims.
+5. Research every material feature using the source hierarchy below before assigning an evidence status. An omission from the manufacturer website or brochure alone is not sufficient to conclude “Not published” or “Not verified”.
+6. Never invent specifications, prices, fitment, test results, or feature availability. Clearly distinguish confirmed absence from missing documentation.
+7. Cite sourced facts close to the relevant claims, identifying the source type and exact variant/year applicability.
+
+## Source hierarchy and evidence-status rules — mandatory
+Use this research hierarchy for every comparison and for every material specification or feature, including small cabin conveniences and trim-specific equipment:
+1. **Official manufacturer sources:** exact-market and exact-model-year brochure, official feature/variant matrix, price list, product page, owner manual, technical specification sheet, accessory catalogue and official press material. Prefer the source that explicitly identifies the exact variant.
+2. **Established automotive publications and databases:** search relevant sources such as Autocar India, CarDekho, CarWale, CarTrade, V3Cars, ZigWheels, Evo India and other credible market-specific automotive outlets. Use their variant-specific feature lists, reviews, comparison pages, brochures/specification archives and road tests as secondary evidence.
+3. **Additional corroboration:** reputable dealer listings or documented vehicle inspections may help resolve a gap, but label the evidence accordingly and do not treat an unsourced dealer claim as definitive.
+
+### Research and cross-check procedure
+- Search beyond the manufacturer website whenever a feature is missing from official material. Do not stop at the first source or treat an official-page omission as proof that a feature is absent.
+- Search the exact make, model, generation, market, model year, fuel, transmission and variant name. Confirm that the source refers to the selected trim, not a higher/lower trim, facelift, different model year or another country.
+- For important variant-specific equipment claims, seek corroboration from at least two credible sources where available. At least one should ideally be an official source; if no official source covers the detail, use two independent credible secondary sources where possible.
+- Use the most direct and current evidence available. Prefer original manufacturer documents and original test reports over summaries. Check publication/update dates and whether the page is for the current generation.
+- Do not count copied specification tables on multiple sites as independent corroboration when they appear to reproduce the same underlying source. Note when sources may share data.
+- For visual features, use exact-variant official images or credible exact-trim vehicle inspections. A generic image, stock photograph or image of another trim is not sufficient proof of equipment or material.
+- When sources conflict, do not silently choose one. Record the competing claims, source names, dates and exact variant applicability; seek a newer or more direct source. If unresolved, use **“Conflicting information”** and explain what is disputed. Do not award a feature-based winner on that disputed point.
+- If only secondary automotive sources support a claim, state **“Secondary source reported”** and cite them. Do not present it as manufacturer-confirmed.
+- Distinguish “not equipped” from “not documented”. A feature may be labelled **“Absent”** only when a reliable source explicitly says it is unavailable/not offered for that exact trim, or a sufficiently complete exact-variant equipment list establishes its absence. Do not infer absence from silence.
+
+### Required evidence labels
+Use these labels consistently in comparison tables and prose:
+- **Officially listed** — explicitly confirmed by an applicable official manufacturer source for the exact market/model year/variant.
+- **Secondary source reported** — reported by one or more credible automotive sources, but not confirmed in the applicable official material. Identify the source(s); state whether independently corroborated.
+- **Conflicting information** — credible sources disagree or their exact-trim applicability cannot be reconciled. Describe the disagreement; do not guess.
+- **Absent** — reliable exact-variant evidence explicitly establishes that the feature is not fitted/offered.
+- **Not published** — after checking relevant official and credible secondary sources, no source publishes the detail. Use only when the research was actually performed; specify the sources checked when useful.
+- **Not verified** — evidence is insufficient to establish presence or absence, including ambiguous trim applicability, incomplete documentation or unresolved claims. Explain the gap briefly.
+- **Optional / accessory** — identify whether it is a factory option, genuine OEM accessory or aftermarket product; never merge these categories with standard equipment.
+
+A manufacturer brochure omission must not automatically become “Not published”. First check the credible secondary sources listed above. Likewise, a secondary-source claim must not be upgraded to “Officially listed” without applicable manufacturer evidence. Keep evidence labels separate from equipment status: for example, a feature can be “Secondary source reported — standard fitment claimed” or “Officially listed — optional on this trim”.
 
 ## Mandatory 14-category coverage
 Every comparison MUST cover all 14 categories below. Do not stop after a few categories. Do not generate 14 charts while only writing 4 or 7 category comparisons.
