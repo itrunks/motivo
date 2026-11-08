@@ -1,0 +1,46 @@
+name: Catalogue validation
+
+on:
+  pull_request:
+    paths:
+      - "data/**"
+      - "scripts/**"
+      - "functions/**"
+      - ".github/workflows/catalogue-validation.yml"
+  push:
+    branches: [main]
+    paths:
+      - "data/**"
+      - "scripts/**"
+      - "functions/**"
+      - ".github/workflows/catalogue-validation.yml"
+
+jobs:
+  validate-catalogue-template:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+      - name: Compile catalogue scripts
+        run: python -m py_compile scripts/validate_catalogue.py scripts/approve_catalogue_sources.py scripts/build_variant_normalization_queue.py
+      - name: Test source approval gate, crosswalk and normalization queue
+        run: python -m unittest discover -s tests -v
+      - name: Validate exact source registry crosswalk
+        run: python scripts/validate_source_crosswalk.py
+      - name: Build source-linked variant normalization work queue
+        run: python scripts/build_variant_normalization_queue.py --out /tmp/variant-normalization-workqueue.csv --report /tmp/variant-normalization-workqueue.report.json
+      - name: Validate import template
+        run: python scripts/validate_catalogue.py data/catalogue-import-template.csv --out-dir /tmp/motivo-catalogue-staging
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+      - name: Build Firebase Functions and staging importer
+        working-directory: functions
+        run: npm install --no-audit --no-fund && npm run build
+      - name: Dry-run approved staging fixture
+        working-directory: functions
+        run: node lib/admin/importCatalogue.js --input ../tests/fixtures/approved-staging-record.jsonl --batch-id ci-pilot
+      - name: Verify draft write against Firestore Emulator
+        run: npx --yes firebase-tools emulators:exec --only firestore --project demo-motivo "cd functions && FIRESTORE_EMULATOR_HOST=127.0.0.1:8080 GCLOUD_PROJECT=demo-motivo node lib/admin/importCatalogue.js --input ../tests/fixtures/approved-staging-record.jsonl --batch-id ci-pilot --write"

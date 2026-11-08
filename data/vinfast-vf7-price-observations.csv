@@ -1,0 +1,2 @@
+brand_id,model_name,price_scope,price_inr,price_basis,source_url,source_checked_at,source_effective_date,source_review_status,commercial_reuse_allowed,redistribution_allowed,reviewer_notes
+vinfast,VF 7,model_starting_price,2299000,Official model-level starting price; ex-showroom INR,https://vinfastauto.in/en/vf7,2026-11-06,,review_required,unknown,unknown,Official model page displays ₹22,99,000 starting amount; not mapped to Earth/Wind/Wind Infinity/Sky trims individually.

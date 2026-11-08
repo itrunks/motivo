@@ -1,0 +1,8 @@
+brand_id,model_name,variant,battery_kwh,range_midc_km,motor_power_kw,motor_torque_nm,drive,seats,body_style,source_url,checked,source_status,commercial_reuse,redistribution
+tata,Nexon.ev,Creative Plus MR,30,325,,,FWD,5,Compact SUV,https://ev.tata.cars/nexon/ev/price.html,2026-11-06,review_required,unknown,unknown
+tata,Nexon.ev,Fearless MR,30,325,,,FWD,5,Compact SUV,https://ev.tata.cars/nexon/ev/price.html,2026-11-06,review_required,unknown,unknown
+tata,Nexon.ev,Creative 45,45,489,106,215,FWD,5,Compact SUV,https://ev.tata.cars/nexon/ev/price.html,2026-11-06,review_required,unknown,unknown
+tata,Nexon.ev,Fearless 45,45,489,106,215,FWD,5,Compact SUV,https://ev.tata.cars/nexon/ev/price.html,2026-11-06,review_required,unknown,unknown
+tata,Nexon.ev,Empowered 45,45,489,106,215,FWD,5,Compact SUV,https://ev.tata.cars/nexon/ev/price.html,2026-11-06,review_required,unknown,unknown
+tata,Nexon.ev,Empowered Plus A 45,45,489,106,215,FWD,5,Compact SUV,https://ev.tata.cars/nexon/ev/price.html,2026-11-06,review_required,unknown,unknown
+tata,Nexon.ev,Empowered Plus A 45 Red Dark,45,489,106,215,FWD,5,Compact SUV,https://ev.tata.cars/nexon/ev/price.html,2026-11-06,review_required,unknown,unknown

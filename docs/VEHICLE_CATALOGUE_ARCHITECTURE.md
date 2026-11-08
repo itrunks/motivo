@@ -2,7 +2,7 @@
 
 ## Decision
 
-Motivo will use an owned, source-attributed vehicle catalogue in Firestore as its source of truth. The initial scope is every India-market brand, model, and exact variant that can be supported by verifiable sources. Motivo will use a hybrid experience: Firestore remains the source of truth for all vehicle facts, while an Ollama-hosted open-weight model provides natural-language search, query interpretation, comparison summaries, and explanations grounded only in retrieved catalogue records. AI is an interface and reasoning layer, never the source of vehicle facts.
+Motivo will use an owned, source-attributed vehicle catalogue in Firestore as its source of truth. The initial scope is India-market passenger cars, current models, and currently offered exact variants. Pricing coverage includes every supported ex-showroom and city-wise on-road observation with its effective date and source. Motivo will use a hybrid experience: Firestore remains the source of truth for all vehicle facts, while an Ollama-hosted open-weight model provides natural-language search, query interpretation, comparison summaries, and explanations grounded only in retrieved catalogue records. AI is an interface and reasoning layer, never the source of vehicle facts.
 
 ## Important scope boundary
 
@@ -110,3 +110,14 @@ Run Ollama on a private server or managed compute host; do not expose a develope
 3. Create the source audit spreadsheet and identify a pilot brand/model set.
 4. Implement a private import pipeline and Firestore indexes/rules.
 5. Publish a small verified pilot before expanding coverage.
+
+
+## Implemented source audit and staging pipeline
+
+- `data/README.md` records the current scope, source triage, licensing gate, price semantics and review workflow.
+- `data/source-audit-template.csv` is the source-level audit register. Each publisher/dataset needs its own terms and permission decision.
+- `data/catalogue-import-template.csv` is the row-level input template for variant and price observations.
+- `scripts/validate_catalogue.py` validates CSV rows, enforces India/current-model intake conventions, checks city/state on-road price requirements, detects duplicate keys, generates deterministic IDs, and writes draft JSONL plus a validation report under `data/staging/`.
+- The script is offline and dependency-free. It does not access the network, write to Firestore, or publish records. All accepted records remain `draft`; a human must approve source rights and factual accuracy before any admin import.
+- Run: `python3 scripts/validate_catalogue.py data/catalogue-import-template.csv --out-dir data/staging`.
+- Model-year plausibility defaults to current year ±1; current-sale status remains a reviewer decision backed by current OEM evidence.

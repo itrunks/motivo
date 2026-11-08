@@ -1,0 +1,4 @@
+brand_id,model_name,oem_variant_label,price_inr,price_basis,source_url,source_checked_at,source_effective_date,city_scope,source_review_status,commercial_reuse_allowed,redistribution_allowed
+toyota,Land Cruiser 300,ZX,23100000,Ex-showroom INR,https://www.toyotabharat.com/news/2025/tkm-opens-bookings-for-the-land-cruiser-300-a-pinnacle-of-power-luxury-and-off-road-dominance.html,2026-11-06,2025-02-19,India,review_required,unknown,unknown
+toyota,Land Cruiser 300,GR-S,24100000,Ex-showroom INR,https://www.toyotabharat.com/news/2025/tkm-opens-bookings-for-the-land-cruiser-300-a-pinnacle-of-power-luxury-and-off-road-dominance.html,2026-11-06,2025-02-19,India,review_required,unknown,unknown
+toyota,Land Cruiser 300,model_starting_price,21775000,Ex-showroom INR; Toyota India model listing,https://www.toyotabharat.com/showroom/prius/,2026-11-06,,India,review_required,unknown,unknown

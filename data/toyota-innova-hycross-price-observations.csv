@@ -1,0 +1,2 @@
+brand_id,model_name,price_scope,price_inr,price_basis,source_url,source_checked_at,source_effective_date,city_scope,source_review_status,commercial_reuse_allowed,redistribution_allowed,reviewer_notes
+toyota,Innova Hycross,model_starting_price,1870000,Ex-showroom INR; Toyota India,https://tweb.toyotabharat.com/innova-hycross.html,2026-11-06,,India all-India,review_required,unknown,unknown,Model-level starting price only; not assigned to G-SLF or any individual trim/seating configuration.

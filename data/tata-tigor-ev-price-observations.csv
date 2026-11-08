@@ -1,0 +1,2 @@
+brand_id,model_name,price_scope,price_inr,price_basis,source_url,checked,effective_date,city_scope,source_status,commercial_reuse,redistribution,reviewer_notes
+tata,Tigor.ev,model_starting_price,1249000,Ex-showroom INR; Tata.ev official model page,https://ev.tata.cars/tigor/ev/price.html,2026-11-06,,India,review_required,unknown,unknown,Model-level starting price only; not assigned to XE, XT, XZ+ or XZ+ LUX.

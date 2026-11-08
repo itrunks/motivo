@@ -1,0 +1,3 @@
+brand_id,model_name,price_scope,price_inr,price_basis,source,checked,effective_date,city_scope,status,reuse,redistribution
+tata,Harrier,model_starting_price,1299990,Ex-showroom INR,https://www.v3cars.com/tata-cars/harrier,2026-11-06,2026-07-02,India,review_required,unknown,unknown
+tata,Harrier,model_top_price,2610990,Ex-showroom INR,https://www.v3cars.com/tata-cars/harrier,2026-11-06,2026-07-02,India,review_required,unknown,unknown
