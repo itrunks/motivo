@@ -37,7 +37,7 @@ Scope: the seven models previously marked pending in the BMW batch. This is a re
 - India catalogue includes **M4 Competition Coupé M xDrive** and the special **M4 CS**. Keep them as distinct model/variant records; do not collapse CS into a trim option without checking the product model taxonomy.
 - M4 Competition M xDrive: 2,993cc S58 inline-six turbo-petrol, 530hp, 650Nm, 8-speed automatic, AWD, 0–100km/h 3.5s, 250km/h standard top speed.
 - M4 CS: limited-production CBU special model, 550hp, 650Nm, M xDrive; BMW India current page lists starting price **₹1.89 crore**. Launch press release confirms India launch and limited production.
-- Competition launch price in May 2024 was ₹1.53 crore; current BMW all-model listing indicates approximately **₹1.629 crore**. Treat current catalogue price as the latest reference and obtain dealer confirmation before publishing a live offer.
+- Competition launch price in May 2024 was ₹1.53 crore; BMW India's live all-model listing currently shows **₹1.605 crore**; use this official listing figure rather than the stale ₹1.629 crore secondary listing. Treat current catalogue price as the latest reference and obtain dealer confirmation before publishing a live offer.
 - Dimensions of Competition Coupé: 4,801 x 1,887 x 1,398mm; 2,857mm wheelbase; 440L boot. Do not reuse CS-specific dimensions or equipment.
 - Sources:
   - BMW India M4 page: https://www.bmw.in/en/all-models/m-series/bmw-4-series-m-models/bmw-m4-coupe.html
@@ -49,7 +49,7 @@ Scope: the seven models previously marked pending in the BMW batch. This is a re
 ## 4. BMW 3 Series standard wheelbase — M340i xDrive
 
 - Current India standard-wheelbase 3 Series is **M340i xDrive only**; keep separate from 3 Series LWB.
-- Current BMW India catalogue starting price: **₹77.80 lakh**. November 2024 launch price was ₹74.90 lakh.
+- Current BMW India all-model catalogue shows **₹77.10 lakh**. November 2024 launch price was ₹74.90 lakh.
 - Powertrain: 2,998cc B58 inline-six turbo-petrol, 374hp, 500Nm, 8-speed Steptronic Sport automatic, xDrive AWD, 0–100km/h 4.4s.
 - Local assembly at Chennai. M Adaptive Suspension standard per 2024 launch material.
 - Features include BMW curved display (12.3 + 14.9-inch), OS 8.5, Vernasca leather, Harman Kardon audio and M-specific chassis/brakes; verify current equipment and options against the live brochure.
@@ -64,7 +64,7 @@ Scope: the seven models previously marked pending in the BMW batch. This is a re
 ## 5. BMW 3 Series Long Wheelbase (G28)
 
 - Two India variants: **330Li M Sport** petrol and **320Ld M Sport** diesel. They are separate powertrain variants under the LWB model.
-- BMW India current catalogue prices: **₹62.70 lakh** petrol starting price and **₹64.20 lakh** diesel listing.
+- BMW India current all-model catalogue prices: **₹62.70 lakh** petrol and **₹64.20 lakh** diesel.
 - 330Li: 1,998cc turbo-petrol, 258hp, 400Nm, 8-speed automatic, RWD, 0–100km/h 6.2s.
 - 320Ld: 1,995cc turbo-diesel, 190hp, 400Nm, 8-speed automatic, RWD, 0–100km/h 7.6s.
 - Dimensions from current secondary specs: 4,823 x 2,068 x 1,441mm; 2,961mm wheelbase; 480L boot; 59L tank. Width may include mirrors—retain source definition.
@@ -96,7 +96,7 @@ Scope: the seven models previously marked pending in the BMW batch. This is a re
 ## 7. BMW 2 Series Gran Coupé (F74)
 
 - Current generation launched in India July 2025, locally assembled at Chennai, petrol only.
-- Two variants: **218 M Sport** and **218 M Sport Pro**. BMW India catalogue starting price now shows **₹45.80 lakh**; launch prices were ₹46.90 lakh and ₹48.90 lakh respectively. Do not assume launch prices remain current.
+- Two variants: **218 M Sport** and **218 M Sport Pro**. BMW India live catalogue starting price now shows **₹45.80 lakh**; launch prices were ₹46.90 lakh and ₹48.90 lakh respectively. Do not assume launch prices remain current.
 - Powertrain: 1,499cc turbo-petrol three-cylinder, 156hp, 230Nm, 7-speed dual-clutch automatic, FWD; claimed 0–100km/h 8.6s, top speed 230km/h.
 - M Sport Pro equipment uplift includes panoramic sunroof, Harman Kardon audio and head-up display with augmented view; verify exact trim mapping with current brochure.
 - Safety/ADAS: Driving Assistant, blind-spot/lane departure functions and Parking Assistant Plus with 3D view reported. Autocar variant list reports 6 airbags on base listing; validate airbag count and feature standardisation from current brochure.
