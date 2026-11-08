@@ -16,7 +16,7 @@
 
 ## Master completion checklist
 
-- [x] Initial source and catalogue audit baseline (261 source-registry entries, 251 model records, 251 variant records, 502 crosswalk mappings, 35 brands; source registry count rechecked 2026-11-08)
+- [x] Initial source and catalogue audit baseline (262 source-registry entries, 251 model records, 251 variant records, 502 crosswalk mappings, 35 brands; source registry count rechecked 2026-11-08)
 - [x] Variant normalization work queue generated (251 model rows)
 - [x] Staging/import safety documentation and validation tooling added
 - [x] Hyundai — Creta normalization and evidence notes
