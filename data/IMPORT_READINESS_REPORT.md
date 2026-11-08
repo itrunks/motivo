@@ -13,7 +13,7 @@ The variant-source audit has 251 rows matching the 251 model candidates. This is
 ## Blocking conditions
 
 1. **No source reuse approvals.** The source register currently marks OEM sources `review_required`; commercial reuse and redistribution are unknown. The TCO India compilation is `hold` because its claimed CC-BY licence does not establish rights to redistribute upstream CarDekho/CarWale-derived content.
-2. **Source linkage is now mapped, but permissions remain unapproved.** A 262-entry source registry and 502-row crosswalk link all 251 model and 251 variant audit rows to exact source URLs. All 262 source entries remain `review_required`; commercial reuse and redistribution are `unknown`, with no approved source.
+2. **Source linkage is now mapped, but permissions remain unapproved.** A 263-entry source registry and 502-row crosswalk link all 251 model and 251 variant audit rows to exact source URLs. All 263 source entries remain `review_required`; commercial reuse and redistribution are `unknown`, with no approved source.
 3. **Unstructured variant and price observations.** `variant_names_observed` and `price_observation` are free-text fields. A row may contain several trims, multiple powertrains, partial prices, model-level prices or a discrepancy. It cannot be safely converted to one record per exact variant without further extraction and verification.
 4. **Missing applicability metadata.** Model year/generation, exact fuel/transmission/drivetrain mapping, price basis, location scope and effective date are not consistently present.
 5. **Unresolved evidence states.** Partial matrices, missing prices, historical observations, source conflicts, dealer-confirmation cases and current-orderability uncertainty must remain quarantined.
@@ -23,7 +23,7 @@ The variant-source audit has 251 rows matching the 251 model candidates. This is
 | Audit status | Rows |
 |---|---:|
 | official_variant_structure_price_missing | 54 |
-| official_variant_prices_observed | 41 |
+| official_variant_prices_observed | 40 |
 | official_model_listing_only | 31 |
 | dealer_confirmation_required | 29 |
 | partial_official_variant_prices | 28 |
@@ -32,10 +32,10 @@ The variant-source audit has 251 rows matching the 251 model candidates. This is
 | variant_structure_observed_price_missing | 6 |
 | official_single_configuration_price_basis_pending | 5 |
 | official_variant_structure_price_partial | 5 |
+| official_variant_prices_observed_scope_mismatch | 4 |
 | complete | 3 |
 | india_retail_status_unconfirmed | 3 |
 | official_single_configuration_price_observed | 3 |
-| official_variant_prices_observed_scope_mismatch | 3 |
 | official_current_range_observed_price_missing | 2 |
 | official_single_configuration_price_partial | 2 |
 | official_variant_prices_partial | 2 |
@@ -61,12 +61,12 @@ The variant-source audit has 251 rows matching the 251 model candidates. This is
 
 ## Source registry reconciliation
 
-- Unique source URLs registered: **262** (rechecked 2026-11-08).
+- Unique source URLs registered: **263** (rechecked 2026-11-08).
 - Model audit mappings: **251/251**.
 - Variant audit mappings: **251/251**.
 - Total crosswalk mappings: **502/502**.
 - Missing or invalid mappings at the latest reconciliation: **0**.
-- Sources with explicit commercial reuse and redistribution approval: **0/262**.
+- Sources with explicit commercial reuse and redistribution approval: **0/263**.
 
 The source registry and crosswalk are checked by `scripts/validate_source_crosswalk.py` and in GitHub Actions. Registry linkage does not imply permission to reuse or republish source material.
 
