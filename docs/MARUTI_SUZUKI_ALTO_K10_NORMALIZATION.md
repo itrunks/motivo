@@ -38,3 +38,19 @@ Every row remains `review_required`; commercial reuse and redistribution remain 
 - Maruti Suzuki official variant price page and FAQ: https://www.marutisuzuki.com/arena/alto-k10/price
 - Maruti Suzuki Alto K10 official brochure: https://www.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/alto-k10/documents/AltoK10-KV-Brochure.pdf
 - Autocar India current variant listing, last updated 14 October 2026: https://www.autocarindia.com/cars/maruti-suzuki/alto-k10/variants
+
+## Current variant-card price recheck — 2026-11-08
+
+The official price page exposes eight variant cards and a Book Now path. The displayed card amounts are recorded in data/maruti-suzuki-alto-k10-variant-normalization.csv and data/maruti-suzuki-alto-k10-price-observations.csv. The same page's embedded FAQ table still contains older prices for four grades:
+
+| Variant | Current card | Embedded FAQ | Difference |
+|---|---:|---:|---:|
+| VXi (O) MT | ₹4,52,400 | ₹4,49,900 | +₹2,500 |
+| LXi (O) CNG | ₹4,84,400 | ₹4,81,900 | +₹2,500 |
+| VXi (O) AGS | ₹4,97,400 | ₹4,94,900 | +₹2,500 |
+| VXi (O) CNG | ₹5,34,400 | ₹5,31,900 | +₹2,500 |
+
+The other four grades match between the card and FAQ. Because both values are published on the same official page, retain both observations and classify the price audit as a source-internal conflict. The page says invoice-date prices and schemes apply; no price effective date or unambiguous city basis was captured. Do not publish a definitive price until Maruti's current invoice/configurator quote resolves the conflict.
+
+The official brochure confirms 998 cc K10C petrol / S-CNG, petrol 5MT or AGS, CNG 5MT, 5-seat petrol and 4-seat CNG. Source reuse and redistribution remain review_required / unknown.
+
