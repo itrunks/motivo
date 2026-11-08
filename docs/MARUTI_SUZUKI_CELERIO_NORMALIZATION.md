@@ -1,10 +1,11 @@
 # Maruti Suzuki Celerio normalization
 
-Checked: 2026-11-06
+Checked: 2026-11-08
 
 ## Deliverable
 
-- `data/maruti-suzuki-celerio-variant-normalization.csv`: 8 current petrol/S-CNG variants with official ex-showroom prices.
+- `data/maruti-suzuki-celerio-variant-normalization.csv`: 8 current petrol/S-CNG variant structures.
+- `data/maruti-suzuki-celerio-price-observations.csv`: 24 city-scoped and legacy price observations (8 Delhi, 8 Perambra, 8 legacy unscoped).
 
 ## Current variant matrix
 
@@ -17,17 +18,20 @@ All use the 998 cc K10C three-cylinder engine family. Petrol output is 50.4 kW /
 
 ## Price basis
 
-Official Maruti Suzuki price page values, ex-showroom:
-- LXi MT ₹4,69,900
-- VXi MT ₹5,18,400
-- VXi AGS ₹5,63,400
-- ZXi MT ₹5,73,400
-- VXi CNG ₹5,97,900
-- ZXi AGS ₹6,18,400
-- ZXi+ MT ₹6,30,400
-- ZXi+ AGS ₹6,75,400
+The official price page displays eight variants with Book Now actions and a stated waiting period of 2+ months. However, the displayed prices differ by city:
 
-Maruti states invoice-date prices and schemes prevail. These are ex-showroom observations, not on-road prices.
+| Variant | Delhi page | Perambra city page |
+|---|---:|---:|
+| LXi MT | ₹4,69,900 | ₹4,69,900 |
+| VXi MT | ₹5,15,900 | ₹5,18,400 |
+| VXi AGS | ₹5,60,900 | ₹5,63,400 |
+| ZXi MT | ₹5,70,900 | ₹5,73,400 |
+| VXi CNG | ₹5,97,900 | ₹5,97,900 |
+| ZXi AGS | ₹6,15,900 | ₹6,18,400 |
+| ZXi+ MT | ₹6,27,900 | ₹6,30,400 |
+| ZXi+ AGS | ₹6,72,900 | ₹6,75,400 |
+
+These are official displayed ex-showroom starting amounts, not on-road prices. The page states that invoice-date prices and schemes prevail and does not expose an effective date. The previous normalized amounts match the Perambra snapshot for affected petrol grades, but their city scope was not retained. They are preserved as legacy observations and removed from the city-agnostic normalized rows. Do not publish one national amount from these values.
 
 ## Rights and import gate
 
@@ -36,6 +40,7 @@ Every row remains `review_required`; commercial reuse and redistribution remain 
 ## Sources
 
 - Maruti Suzuki official Celerio model page: https://www.marutisuzuki.com/arena/celerio
-- Maruti Suzuki official variant price page: https://www.marutisuzuki.com/arena/celerio/price
+- Maruti Suzuki official Delhi-default variant price page: https://www.marutisuzuki.com/arena/celerio/price
+- Maruti Suzuki official Perambra city price page: https://www.marutisuzuki.com/arena/celerio/price?city=perembra
 - Maruti Suzuki Celerio official brochure: https://www.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/celerio/documents/Arena-Celerio-Brochure.pdf
 - Autocar India Celerio specifications, last updated 15 October 2026: https://www.autocarindia.com/cars/maruti-suzuki/celerio/specifications
