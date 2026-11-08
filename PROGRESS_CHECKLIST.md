@@ -28,7 +28,7 @@ PR: https://github.com/itrunks/motivo/pull/1
 | Force Motors | 1 | 0 | 1 | 0 | 0 | Audited with official price conflict |
 | Tesla | 1 | 1 | 0 | 0 | 0 | Complete — two current India derivatives and official base prices verified |
 | VinFast | 3 | 1 | 2 | 0 | 0 | Audited with partial grade-price evidence |
-| Maruti Suzuki | 17 | 0 | 1 | 0 | 16 | In progress — Alto K10 partial |
+| Maruti Suzuki | 17 | 0 | 2 | 0 | 15 | In progress — Alto K10 and Celerio partial |
 | Mahindra | 13 | 12 | 1 | 0 | 0 | Audited with partial evidence |
 | Audi | 9 | 0 | 9 | 0 | 0 | Audited with official price gaps |
 | BMW | 22 | 11 | 10 | 0 | 1 | In progress |
@@ -59,6 +59,7 @@ PR: https://github.com/itrunks/motivo/pull/1
 
 ### Maruti Suzuki
 - Alto K10 — eight petrol/CNG configurations normalized. Current official variant cards and the embedded FAQ table conflict by ₹2,500 on four grades; current card amounts are retained as observations, with effective date and city basis pending. The official page exposes a Book Now path. Source rights remain review_required / unknown.
+- Celerio — eight petrol/S-CNG configurations captured. Delhi-default and Perambra official price pages differ for several petrol grades; city-scoped amounts are preserved separately and no national price is assigned. Official cards show Book Now and 2+ months waiting. Source rights remain review_required / unknown.
 
 ### Kia
 - Seltos — T-GDi 6iMT grade mapping still unresolved.
