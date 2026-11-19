@@ -1,6 +1,6 @@
 # India closed-beta pilot scope
 
-Last reviewed: 2026-11-19
+Last reviewed: 2026-11-20
 Status: **scope selected; vehicle/source audits not yet started or approved**
 
 ## Objective
@@ -11,7 +11,7 @@ Build a deliberately small but useful India passenger-car catalogue for a 10–2
 
 | Brand | Model candidate | Segment coverage | Why included | Audit status |
 |---|---|---|---|---|
-| Maruti Suzuki | Baleno | Premium hatchback | High-volume hatchback; useful benchmark for feature/value comparisons | Pending |
+| Maruti Suzuki | Baleno | Premium hatchback | High-volume hatchback; useful benchmark for feature/value comparisons | 2026 Stunning New Baleno desk audit started; exact model-year/trim mapping/rights pending |
 | Maruti Suzuki | Fronx | Crossover / compact SUV | Popular crossover with multiple powertrain/trim combinations | Pending |
 | Hyundai | Venue | Compact SUV | Mainstream compact-SUV comparison coverage | Official lineup snapshot captured; model-year/rights pending |
 | Hyundai | Creta | Mid-size SUV | Adds a larger family-SUV segment and a distinct price band | Official feature/trim snapshot captured; model-year/rights pending |
@@ -43,8 +43,8 @@ Do not infer that a trim name, engine, transmission or feature carries over from
 ## Work sequence
 
 - [x] Define pilot brand/model scope.
-- [ ] Verify current model/generation and model-year lineup for all six candidates.
-- [ ] Audit source terms and record eligible sources in data/source-registry.csv.
+- [ ] Verify current model/generation and model-year lineup for all six candidates (Baleno, FRONX, Venue and Creta desk research started; exact MY/rights remain open).
+- [ ] Audit source terms and record eligible sources in data/source-registry.csv (Baleno, FRONX, Venue and Creta source candidates registered; all rights pending).
 - [ ] Capture complete official variant lists and exact powertrain/trim identities.
 - [ ] Normalize only evidence-backed records into the canonical schema.
 - [ ] Independent review of source links, model year, variant mapping and rights.
