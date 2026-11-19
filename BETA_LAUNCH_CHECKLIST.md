@@ -59,7 +59,7 @@ Out of first beta unless separately approved: public user accounts, paid feature
 - [x] Add standard-library catalogue validation for record shape, references, dates, source provenance and publish rights.
 - [x] Add a separate source registry CSV and automated rights/provenance validator (crosswalk validation remains pending).
 - [ ] Verify current model/generation and complete variant lists for the six pilot candidates (FRONX desk audit started; model-year confirmation remains pending).
-- [ ] Audit source terms and record redistribution-eligible sources.
+- [ ] Audit source terms and record redistribution-eligible sources (FRONX OEM product, brochure and Trichy price URLs registered; all reuse/redistribution rights remain pending, so none is eligible).
 - [ ] Normalize reviewed pilot research into brands/models/variants/specs/prices/safety collections.
 - [ ] Add review and publish workflow; only approved records become public.
 - [ ] Add stale-price and stale-verification handling.
@@ -119,6 +119,7 @@ A phase cannot be marked complete based on code existing alone. Require test evi
 
 - [x] Initial six-model pilot scope documented in research/india/PILOT_SCOPE_CLOSED_BETA.md.
 - [ ] No model/variant in this pilot scope is yet marked source-audited or publishable.
+- [x] FRONX desk audit note created; official variant groups captured, but current model-year and exact specification checks remain open.
 
 ## Current blockers (confirmed from repository inspection)
 
