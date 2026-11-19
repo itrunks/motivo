@@ -4,7 +4,7 @@ Last reviewed: 2026-11-19
 Repository: https://github.com/itrunks/motivo
 Production preview: https://itrunks.github.io/motivo
 Baseline branch: main
-Baseline commit: af63deedc70be8706777bca5438b565d261992bc
+Latest baseline before catalogue validation work: 739555fa84c12c0bce479f6eed578a43de287e50
 
 ## Beta decision
 
@@ -49,15 +49,15 @@ Out of first beta unless separately approved: public user accounts, paid feature
 - [x] Inspect Firebase config, Firestore rules and Functions endpoints.
 - [x] Inspect GitHub Actions workflows and latest baseline runs.
 - [x] Record baseline and launch gates in this checklist.
-- [ ] Resolve README documentation contradictions.
+- [x] Resolve README documentation contradictions.
 - [ ] Run local web export and typecheck from a clean install; record logs.
 - [ ] Inspect Firebase live project plan/billing, deployed functions, rules and secret state.
 
 ### Phase 1 — catalogue and data quality
 - [ ] Choose pilot brands/models/variants based on completed source audits.
-- [ ] Define source rights policy: commercial reuse, redistribution and attribution must be explicit.
+- [x] Define source rights policy: commercial reuse and redistribution must be explicitly allowed; unknown/pending rights are not publishable.
 - [ ] Add schema validation for catalogue records and field-level provenance.
-- [ ] Build source registry + crosswalk validator; fail closed on missing/duplicate mappings.
+- [x] Add a separate source registry CSV and automated rights/provenance validator (crosswalk validation remains pending).
 - [ ] Normalize pilot research into brands/models/variants/specs/prices/safety collections.
 - [ ] Add review and publish workflow; only approved records become public.
 - [ ] Add stale-price and stale-verification handling.
@@ -117,9 +117,9 @@ A phase cannot be marked complete based on code existing alone. Require test evi
 
 1. No production vehicle records are connected to the UI (the app correctly shows an empty catalogue).
 2. No catalogue read API exists in Cloud Functions.
-3. The source audit CSV is a template only; no validator/import/publish pipeline is present in the inspected repository tree.
+3. A separate source registry and validator now exist; the registry is intentionally empty, so there are currently zero approved redistribution sources. Variant crosswalk/import/publish pipeline is still missing.
 4. Firestore rules are intentionally deny-all; a safe server-mediated read path must be implemented before publishing data.
-5. README has contradictory demo-data statements and needs correction.
+5. README data-policy wording has been corrected; it still needs a fresh build verification.
 6. Live Firebase deployment, billing plan, secret configuration and runtime state have not been verified.
 
 ## Working rules
