@@ -42,7 +42,7 @@ Important: do not merge a trim name across engine groups. For example, Delta+ 1.
 | msil_nexa_fronx_brochure | Maruti Suzuki / NEXA | https://www.nexaexperience.com/content/dam/msil/nexa/in/en/assets/cars/fronx/documents/NEXA-Fronx-Brochure.pdf | Variant/feature cross-check; brochure date/version must be confirmed | Pending; do not republish brochure content |
 | msil_nexa_fronx_trichy_price | Maruti Suzuki / NEXA | https://www.nexaexperience.com/fronx/price-in-trichy | City-specific price research and date capture | Pending; verify current values at ingestion time |
 
-No source above is marked redistribution-approved. Do not add published sourceRefs for these sources until legal/terms review is completed and the source registry is updated with a substantiated licence/permission decision.
+No source above is marked redistribution-approved. The sources are recorded in data/source-registry.csv with commercial reuse and redistribution set to pending. NEXA's Terms of Use state that copyright belongs to MSIL and that extraction/re-utilisation of website content requires express written consent. No such permission has been obtained. Treat these sources as reference-only for internal research until legal review determines whether the proposed limited use of factual fields is permitted or written permission is secured. Do not add published sourceRefs or distribute extracted source content.
 
 ## Open checks before normalization
 
@@ -60,3 +60,9 @@ No source above is marked redistribution-approved. Do not add published sourceRe
 - Official NEXA FRONX product and variant page: https://www.nexaexperience.com/fronx
 - Official NEXA FRONX brochure: https://www.nexaexperience.com/content/dam/msil/nexa/in/en/assets/cars/fronx/documents/NEXA-Fronx-Brochure.pdf
 - Official FRONX price page for Trichy: https://www.nexaexperience.com/fronx/price-in-trichy
+
+## Rights review finding (2026-11-19)
+
+NEXA Terms of Use: https://www.nexaexperience.com/terms-of-use
+
+The terms state that copyright in site pages, information and material is owned by MSIL unless otherwise indicated, and prohibit extracting or re-utilising whole or part of website content without express written consent. Therefore the current conservative rights gate remains in force: commercial reuse and redistribution are pending, not approved. This is not a legal opinion on the status of individual factual data points; it is a fail-closed operational decision until that question is reviewed or permission is obtained.
