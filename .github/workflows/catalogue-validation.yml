@@ -1,16 +1,20 @@
-name: Catalogue source validation
+name: Catalogue validation
 
 on:
   push:
     branches: [main]
     paths:
+      - "data/catalogue.json"
       - "data/source-registry.csv"
+      - "scripts/validate_catalogue.py"
       - "scripts/validate_source_registry.py"
       - ".github/workflows/catalogue-validation.yml"
   pull_request:
     branches: [main]
     paths:
+      - "data/catalogue.json"
       - "data/source-registry.csv"
+      - "scripts/validate_catalogue.py"
       - "scripts/validate_source_registry.py"
       - ".github/workflows/catalogue-validation.yml"
   workflow_dispatch:
@@ -19,7 +23,7 @@ permissions:
   contents: read
 
 jobs:
-  validate-source-registry:
+  validate:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -28,3 +32,5 @@ jobs:
           python-version: "3.12"
       - name: Validate source registry
         run: python scripts/validate_source_registry.py
+      - name: Validate normalized catalogue and provenance
+        run: python scripts/validate_catalogue.py
