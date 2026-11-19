@@ -64,8 +64,8 @@ Out of first beta unless separately approved: public user accounts, paid feature
 - [ ] Produce a reproducible catalogue validation report and backup/export.
 
 ### Phase 2 — backend and security
-- [ ] Implement read-only, paginated, bounded catalogue endpoints in Cloud Functions.
-- [ ] Validate all query parameters and response schema versions.
+- [x] Implement first read-only, paginated, bounded published-variants endpoint in Cloud Functions (source code only; not yet built/deployed).
+- [x] Validate supported query parameters and add response schema versioning to the first endpoint (automated build/runtime verification pending).
 - [ ] Keep all Firestore client writes denied; server/Admin SDK only for ingestion.
 - [ ] Add abuse controls (App Check and/or rate limits) before broad public access.
 - [ ] Configure secrets only in Firebase Secret Manager; never in client bundle or Git.
@@ -116,7 +116,7 @@ A phase cannot be marked complete based on code existing alone. Require test evi
 ## Current blockers (confirmed from repository inspection)
 
 1. No production vehicle records are connected to the UI (the app correctly shows an empty catalogue).
-2. No catalogue read API exists in Cloud Functions.
+2. A published-only variants read endpoint now exists in source code; build verification, live deployment, Firestore data setup and external smoke tests remain pending.
 3. A separate source registry and validator now exist; the registry is intentionally empty, so there are currently zero approved redistribution sources. Variant crosswalk/import/publish pipeline is still missing.
 4. Firestore rules are intentionally deny-all; a safe server-mediated read path must be implemented before publishing data.
 5. README data-policy wording has been corrected; it still needs a fresh build verification.
