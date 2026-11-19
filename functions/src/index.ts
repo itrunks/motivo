@@ -1,5 +1,5 @@
 import {initializeApp} from "firebase-admin/app";
-import {getFirestore} from "firebase-admin/firestore";
+import {FieldPath, getFirestore} from "firebase-admin/firestore";
 import {onRequest} from "firebase-functions/v2/https";
 import {setGlobalOptions} from "firebase-functions/v2";
 import {defineSecret} from "firebase-functions/params";
@@ -149,7 +149,7 @@ export const catalogueVariants = onRequest(
     try {
       const db = getFirestore();
       const variants = db.collection("variants");
-      let query = variants.where("status", "==", "published").orderBy("__name__").limit(200);
+      let query = variants.where("status", "==", "published").orderBy(FieldPath.documentId()).limit(200);
 
       if (pageToken) {
         const cursor = await variants.doc(pageToken).get();
