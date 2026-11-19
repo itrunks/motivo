@@ -58,7 +58,7 @@ Out of first beta unless separately approved: public user accounts, paid feature
 - [x] Define source rights policy: commercial reuse and redistribution must be explicitly allowed; unknown/pending rights are not publishable.
 - [x] Add standard-library catalogue validation for record shape, references, dates, source provenance and publish rights.
 - [x] Add a separate source registry CSV and automated rights/provenance validator (crosswalk validation remains pending).
-- [ ] Verify current model/generation and complete variant lists for the six pilot candidates.
+- [ ] Verify current model/generation and complete variant lists for the six pilot candidates (FRONX desk audit started; model-year confirmation remains pending).
 - [ ] Audit source terms and record redistribution-eligible sources.
 - [ ] Normalize reviewed pilot research into brands/models/variants/specs/prices/safety collections.
 - [ ] Add review and publish workflow; only approved records become public.
