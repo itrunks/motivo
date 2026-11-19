@@ -15,8 +15,8 @@ Build a deliberately small but useful India passenger-car catalogue for a 10–2
 | Maruti Suzuki | Fronx | Crossover / compact SUV | Popular crossover with multiple powertrain/trim combinations | Pending |
 | Hyundai | Venue | Compact SUV | Mainstream compact-SUV comparison coverage | Official lineup snapshot captured; model-year/rights pending |
 | Hyundai | Creta | Mid-size SUV | Adds a larger family-SUV segment and a distinct price band | Official feature/trim snapshot captured; model-year/rights pending |
-| Tata Motors | Punch | Micro-SUV | Entry SUV/crossover coverage and a different size/price point | Pending |
-| Tata Motors | Nexon | Compact SUV | Mainstream compact-SUV and powertrain comparison coverage | Pending |
+| Tata Motors | Punch | Micro-SUV | Entry SUV/crossover coverage and a different size/price point | 2026 product page + Jan 2026 brochure reviewed; current variant/year and rights pending |
+| Tata Motors | Nexon | Compact SUV | Mainstream compact-SUV and powertrain comparison coverage | 2026 ICE product page reviewed; brochure retrieval, exact variant/year and rights pending |
 
 This six-model scope is intentionally limited to three high-reach manufacturers and multiple high-demand body/price segments. The model list is a prioritisation decision only; verify each model is on sale in India at the time of audit before creating catalogue records. If a model has been replaced, discontinued or renamed, record the effective dates and do not silently merge generations.
 
@@ -43,8 +43,8 @@ Do not infer that a trim name, engine, transmission or feature carries over from
 ## Work sequence
 
 - [x] Define pilot brand/model scope.
-- [ ] Verify current model/generation and model-year lineup for all six candidates (Baleno, FRONX, Venue and Creta desk research started; exact MY/rights remain open).
-- [ ] Audit source terms and record eligible sources in data/source-registry.csv (Baleno, FRONX, Venue and Creta source candidates registered; all rights pending).
+- [ ] Verify current model/generation and model-year lineup for all six candidates (Baleno, FRONX, Venue, Creta, Punch and Nexon desk research started; exact MY/rights remain open).
+- [ ] Audit source terms and record eligible sources in data/source-registry.csv (Baleno, FRONX, Venue, Creta, Punch and Nexon source candidates registered; all rights pending).
 - [ ] Capture complete official variant lists and exact powertrain/trim identities.
 - [ ] Normalize only evidence-backed records into the canonical schema.
 - [ ] Independent review of source links, model year, variant mapping and rights.
