@@ -56,7 +56,7 @@ Out of first beta unless separately approved: public user accounts, paid feature
 ### Phase 1 — catalogue and data quality
 - [ ] Choose pilot brands/models/variants based on completed source audits.
 - [x] Define source rights policy: commercial reuse and redistribution must be explicitly allowed; unknown/pending rights are not publishable.
-- [ ] Add schema validation for catalogue records and field-level provenance.
+- [x] Add standard-library catalogue validation for record shape, references, dates, source provenance and publish rights.
 - [x] Add a separate source registry CSV and automated rights/provenance validator (crosswalk validation remains pending).
 - [ ] Normalize pilot research into brands/models/variants/specs/prices/safety collections.
 - [ ] Add review and publish workflow; only approved records become public.
@@ -115,9 +115,9 @@ A phase cannot be marked complete based on code existing alone. Require test evi
 
 ## Current blockers (confirmed from repository inspection)
 
-1. No production vehicle records are connected to the UI (the app correctly shows an empty catalogue).
+1. No production vehicle records are connected to the UI (the app correctly shows an empty catalogue); the new normalized catalogue is intentionally empty.
 2. A published-only variants read endpoint now exists in source code; build verification, live deployment, Firestore data setup and external smoke tests remain pending.
-3. A separate source registry and validator now exist; the registry is intentionally empty, so there are currently zero approved redistribution sources. Variant crosswalk/import/publish pipeline is still missing.
+3. A separate source registry and validator now exist; the registry is intentionally empty, so there are currently zero approved redistribution sources. Normalized catalogue bootstrap and CI validation now exist; rights-approved sources and actual import/review/publish workflow are still missing.
 4. Firestore rules are intentionally deny-all; a safe server-mediated read path must be implemented before publishing data.
 5. README data-policy wording has been corrected; it still needs a fresh build verification.
 6. Live Firebase deployment, billing plan, secret configuration and runtime state have not been verified.
