@@ -161,20 +161,23 @@ export const catalogueVariants = onRequest(
       }
 
       const snapshot = await query.get();
-      const items = snapshot.docs
-        .map((doc) => ({id: doc.id, ...doc.data()}))
-        .filter((item) =>
-          (!modelId || item.modelId === modelId) &&
-          (!fuel || item.fuel === fuel) &&
-          (!transmission || item.transmission === transmission)
-        )
-        .slice(0, limit);
+      const matchingDocs = snapshot.docs.filter((doc) => {
+        const data = doc.data();
+        return (!modelId || data.modelId === modelId) &&
+          (!fuel || data.fuel === fuel) &&
+          (!transmission || data.transmission === transmission);
+      });
+      const pageDocs = matchingDocs.slice(0, limit);
+      const hasUnreturnedMatches = matchingDocs.length > limit;
+      const scannedFullBatch = snapshot.size === 200;
+      const nextCursor = hasUnreturnedMatches ?
+        pageDocs[pageDocs.length - 1]?.id :
+        (scannedFullBatch ? snapshot.docs[snapshot.docs.length - 1]?.id : null);
 
-      const hasMore = snapshot.size === 200;
       response.status(200).json({
         schemaVersion: 1,
-        items,
-        pageToken: hasMore ? snapshot.docs[snapshot.docs.length - 1].id : null
+        items: pageDocs.map((doc) => ({id: doc.id, ...doc.data()})),
+        pageToken: nextCursor ?? null
       });
     } catch {
       response.status(500).json({error: "catalogue_unavailable"});
