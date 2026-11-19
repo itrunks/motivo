@@ -54,11 +54,13 @@ Out of first beta unless separately approved: public user accounts, paid feature
 - [ ] Inspect Firebase live project plan/billing, deployed functions, rules and secret state.
 
 ### Phase 1 — catalogue and data quality
-- [ ] Choose pilot brands/models/variants based on completed source audits.
+- [x] Define a six-model closed-beta pilot scope across Maruti Suzuki, Hyundai and Tata; vehicle/source audits remain pending.
 - [x] Define source rights policy: commercial reuse and redistribution must be explicitly allowed; unknown/pending rights are not publishable.
 - [x] Add standard-library catalogue validation for record shape, references, dates, source provenance and publish rights.
 - [x] Add a separate source registry CSV and automated rights/provenance validator (crosswalk validation remains pending).
-- [ ] Normalize pilot research into brands/models/variants/specs/prices/safety collections.
+- [ ] Verify current model/generation and complete variant lists for the six pilot candidates.
+- [ ] Audit source terms and record redistribution-eligible sources.
+- [ ] Normalize reviewed pilot research into brands/models/variants/specs/prices/safety collections.
 - [ ] Add review and publish workflow; only approved records become public.
 - [ ] Add stale-price and stale-verification handling.
 - [ ] Produce a reproducible catalogue validation report and backup/export.
@@ -112,6 +114,11 @@ A phase cannot be marked complete based on code existing alone. Require test evi
 **Public beta gate:** closed-beta blockers fixed; privacy/data methodology published; monitoring, backups and rollback tested; validation and smoke tests pass.
 
 **Production gate:** explicit owner go/no-go; support/incident process; cost limits; security and licensing review; release rollback verified.
+
+## Pilot scope reference
+
+- [x] Initial six-model pilot scope documented in research/india/PILOT_SCOPE_CLOSED_BETA.md.
+- [ ] No model/variant in this pilot scope is yet marked source-audited or publishable.
 
 ## Current blockers (confirmed from repository inspection)
 
