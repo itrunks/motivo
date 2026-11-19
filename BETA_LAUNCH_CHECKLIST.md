@@ -1,6 +1,6 @@
 # Motivo Beta Launch Checklist
 
-Last reviewed: 2026-11-19
+Last reviewed: 2026-11-20
 Repository: https://github.com/itrunks/motivo
 Production preview: https://itrunks.github.io/motivo
 Baseline branch: main
@@ -58,8 +58,8 @@ Out of first beta unless separately approved: public user accounts, paid feature
 - [x] Define source rights policy: commercial reuse and redistribution must be explicitly allowed; unknown/pending rights are not publishable.
 - [x] Add standard-library catalogue validation for record shape, references, dates, source provenance and publish rights.
 - [x] Add a separate source registry CSV and automated rights/provenance validator (crosswalk validation remains pending).
-- [ ] Verify current model/generation and complete variant lists for the six pilot candidates (FRONX, Venue and Creta desk audits started; model-year confirmation and source-rights approval remain pending).
-- [ ] Audit source terms and record redistribution-eligible sources (FRONX, Venue and Creta official product/feature/price/manual URLs registered; all reuse/redistribution rights remain pending, so none is eligible).
+- [ ] Verify current model/generation and complete variant lists for the six pilot candidates (Baleno, FRONX, Venue and Creta desk audits started; model-year confirmation and source-rights approval remain pending).
+- [ ] Audit source terms and record redistribution-eligible sources (Baleno, FRONX, Venue and Creta official product/feature/price/manual URLs registered; all reuse/redistribution rights remain pending, so none is eligible).
 - [ ] Normalize reviewed pilot research into brands/models/variants/specs/prices/safety collections.
 - [ ] Add review and publish workflow; only approved records become public.
 - [ ] Add stale-price and stale-verification handling.
@@ -118,16 +118,18 @@ A phase cannot be marked complete based on code existing alone. Require test evi
 ## Pilot scope reference
 
 - [x] Initial six-model pilot scope documented in research/india/PILOT_SCOPE_CLOSED_BETA.md.
-- [ ] No model/variant in this pilot scope is yet marked source-audited or publishable.
+- [ ] No model/variant in this pilot scope is yet marked publishable.
+- [x] Baleno 2026 desk audit note created; September 2026 update, official powertrain/feature claims and variant families captured; exact model-year, trim applicability, CNG AGS discrepancy and rights remain open.
 - [x] FRONX desk audit note created; official variant groups captured, but current model-year and exact specification checks remain open.
 - [x] Hyundai Venue desk audit note created; current trim labels and engine/transmission families captured; model-year, dealer lineup and rights checks remain open.
 - [x] Hyundai Creta desk audit note created; trim families and engine/transmission options captured; exact current model-year combinations and rights checks remain open.
+- [x] Maruti Suzuki Baleno desk audit note created; 2026 update and current official variant families captured; exact MY, feature mapping and rights checks remain open.
 
 ## Current blockers (confirmed from repository inspection)
 
 1. No production vehicle records are connected to the UI (the app correctly shows an empty catalogue); the new normalized catalogue is intentionally empty.
 2. A published-only variants read endpoint now exists in source code; build verification, live deployment, Firestore data setup and external smoke tests remain pending.
-3. A separate source registry and validator now exist; the registry now contains three FRONX, three Hyundai Venue and three Hyundai Creta official source candidates, all with reuse/redistribution rights pending; there are currently zero approved redistribution sources. Normalized catalogue bootstrap and CI validation now exist; rights-approved sources and actual import/review/publish workflow are still missing.
+3. A separate source registry and validator now exist; the registry now contains four Baleno, three FRONX, three Hyundai Venue and three Hyundai Creta official source candidates, all with reuse/redistribution rights pending; there are currently zero approved redistribution sources. Normalized catalogue bootstrap and CI validation now exist; rights-approved sources and actual import/review/publish workflow are still missing.
 4. Firestore rules are intentionally deny-all; a safe server-mediated read path must be implemented before publishing data.
 5. README data-policy wording has been corrected; it still needs a fresh build verification.
 6. Live Firebase deployment, billing plan, secret configuration and runtime state have not been verified.
