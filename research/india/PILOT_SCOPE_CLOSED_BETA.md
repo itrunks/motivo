@@ -13,7 +13,7 @@ Build a deliberately small but useful India passenger-car catalogue for a 10–2
 |---|---|---|---|---|
 | Maruti Suzuki | Baleno | Premium hatchback | High-volume hatchback; useful benchmark for feature/value comparisons | Pending |
 | Maruti Suzuki | Fronx | Crossover / compact SUV | Popular crossover with multiple powertrain/trim combinations | Pending |
-| Hyundai | Venue | Compact SUV | Mainstream compact-SUV comparison coverage | Pending |
+| Hyundai | Venue | Compact SUV | Mainstream compact-SUV comparison coverage | Official lineup snapshot captured; model-year/rights pending |
 | Hyundai | Creta | Mid-size SUV | Adds a larger family-SUV segment and a distinct price band | Pending |
 | Tata Motors | Punch | Micro-SUV | Entry SUV/crossover coverage and a different size/price point | Pending |
 | Tata Motors | Nexon | Compact SUV | Mainstream compact-SUV and powertrain comparison coverage | Pending |
