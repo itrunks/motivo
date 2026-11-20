@@ -36,7 +36,7 @@ Beta must include:
 - User preference capture: budget, city/state, family/usage profile, body style, fuel, transmission, priorities (no arbitrary 3-priority cap).
 - Search/filter and exact-variant comparison.
 - Clear distinction between official, estimated, owner-reported and unavailable values.
-- Source links, model year/generation, last-verified date and price location/date.
+- Source links, model year/generation, last-verified date and ex-showroom price effective/observed date.
 - No invented values. Unknown stays unknown.
 - Feedback/issue reporting and a visible beta disclaimer.
 
@@ -60,9 +60,9 @@ Out of first beta unless separately approved: public user accounts, paid feature
 - [x] Add a separate source registry CSV and automated rights/provenance validator (crosswalk validation remains pending).
 - [ ] Verify current model/generation and complete variant lists for the six pilot candidates (all six pilot desk audits started; model-year confirmation and source-rights approval remain pending).
 - [ ] Audit source terms and record redistribution-eligible sources (Baleno, FRONX, Venue and Creta official product/feature/price/manual URLs registered; all reuse/redistribution rights remain pending, so none is eligible).
-- [ ] Normalize reviewed pilot research into brands/models/variants/specs/prices/safety collections.
+- [ ] Normalize reviewed pilot research into brands/models/variants/specs/official ex-showroom prices/safety collections.
 - [ ] Add review and publish workflow; only approved records become public.
-- [ ] Add stale-price and stale-verification handling.
+- [ ] Add stale-price and stale-verification handling for official ex-showroom prices only.
 - [ ] Produce a reproducible catalogue validation report and backup/export.
 
 ### Phase 2 — backend and security
@@ -79,7 +79,7 @@ Out of first beta unless separately approved: public user accounts, paid feature
 - [ ] Connect UI to published catalogue API; retain a clear empty/error/loading state.
 - [ ] Confirm all user preference fields and multi-select priorities work on mobile and desktop.
 - [ ] Add exact variant detail and comparison with source evidence.
-- [ ] Verify on-road price is city/date-specific; never present ex-showroom as on-road.
+- [x] Pricing scope fixed to official variant-wise ex-showroom only; dealer on-road quotations, insurance, RTO, extended warranty, accessories and offers are excluded (see docs/PRICING_POLICY.md).
 - [ ] Add feedback capture without collecting unnecessary personal data.
 - [ ] Test empty results, partial data, stale data, network failure and API failure.
 - [ ] Accessibility, responsive layout and browser smoke tests.
