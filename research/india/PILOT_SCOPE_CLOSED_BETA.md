@@ -31,6 +31,10 @@ For each model, audit the current India-market model year and enumerate the comp
 
 Do not infer that a trim name, engine, transmission or feature carries over from the previous model year. Treat facelift/generation changes as separate model records when the underlying generation changes; preserve model-year and effective dates.
 
+## Pricing scope
+
+For this pilot, collect official variant-wise ex-showroom prices only. Do not collect dealer on-road quotations or add estimates for RTO, insurance, extended warranty, accessories, handling charges or discounts. If the user needs an exact on-road amount, a short optional note can direct them to a nearby authorised dealer. See `docs/PRICING_POLICY.md`.
+
 ## Evidence and rights gates
 
 - Prefer OEM India product pages, brochures, price lists, owner manuals, official press releases and official safety-test publications for factual vehicle fields.
