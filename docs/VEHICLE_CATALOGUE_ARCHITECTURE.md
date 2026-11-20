@@ -27,7 +27,7 @@ The existing Let's Pick My Car integration is not the catalogue source of truth.
 - models/{modelId}: brandId, canonical name, generation, model year range, body style, launch/discontinued dates, status.
 - variants/{variantId}: modelId, exact variant name, model year, fuel, transmission, drivetrain, engine/EV configuration, status, published flag.
 - variantSpecs/{variantId}: structured dimensions, engine, performance, capacity, features, warranty and equipment. Store field-level source references and effective dates where values vary.
-- prices/{priceId}: variantId, state/city/RTO context, ex-showroom, registration/road tax, insurance, other charges, on-road total, currency, effective date, observed date, source, and whether the value is official, estimated, or user-supplied. Never label an estimate as a dealer quote.
+- prices/{priceId}: for the initial India catalogue and closed beta, store official variant-wise ex-showroom prices only, with exact variant, INR amount, OEM source, effective date and observed date. Dealer on-road quotes, RTO/registration, insurance, extended warranty, accessories, handling charges and dealer offers are explicitly out of scope. The schema may retain future-compatible on-road fields, but do not ingest or display on-road records until a separate product decision and defensible source methodology are approved. See docs/PRICING_POLICY.md.
 - ratings/{ratingId}: variant/model applicability, agency, protocol/version, score, test date, tested configuration, source and applicability notes.
 - sources/{sourceId}: publisher, URL, licence/terms URL, retrieval date, attribution text, permitted uses, dataset revision and notes.
 - imports/{importId}: source, file checksum, import time, row counts, validation errors, reviewer, status and published revision.
@@ -39,7 +39,7 @@ Use stable IDs generated from normalized identifiers, not display names alone. K
 - Preserve exact variant names and distinguish model year / generation / facelift.
 - Never merge variants just because names are similar.
 - Separate ARAI/claimed mileage from owner-reported or independently tested real-world mileage. Record test methodology and source.
-- Separate ex-showroom price from on-road price. On-road pricing is location- and date-specific and must identify its tax/insurance assumptions.
+- Initial catalogue pricing is official ex-showroom only. Do not collect dealer on-road quotations or estimate on-road totals by adding assumed taxes/insurance. If useful, show the short local-dealer quotation note defined in docs/PRICING_POLICY.md.
 - Safety ratings must retain agency, protocol, test date, tested variant/configuration, and applicability. Do not transfer a rating to other variants without evidence.
 - Unknown values are null, not zero or guessed.
 - Every published fact must have provenance and last-verified date. Expired prices should be marked stale and excluded from "current price" answers.
