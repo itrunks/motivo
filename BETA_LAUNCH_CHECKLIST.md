@@ -123,6 +123,7 @@ A phase cannot be marked complete based on code existing alone. Require test evi
 - [x] FRONX desk audit note created; official variant groups captured, but current model-year and exact specification checks remain open.
 - [x] FRONX official Trichy ex-showroom price check started; official page confirms petrol/CNG price ranges and base/top figures, but full variant-wise prices are not exposed in retrieved page content; exact variant prices and source rights remain pending.
 - [x] Hyundai Venue desk audit note created; current trim labels and engine/transmission families captured; model-year, dealer lineup and rights checks remain open.
+- [x] Venue official ex-showroom price page checked; starting price ₹7,99,900 captured, but variant selector returned no price rows; exact variant-wise prices and source rights remain pending.
 - [x] Hyundai Creta desk audit note created; trim families and engine/transmission options captured; exact current model-year combinations and rights checks remain open.
 - [x] Maruti Suzuki Baleno desk audit note created; 2026 update and current official variant families captured; exact MY, feature mapping and rights checks remain open.
 - [x] Tata Punch desk audit note created; 2026 brochure and product page reviewed; current lineup and rights checks remain open.
