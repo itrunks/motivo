@@ -176,3 +176,12 @@ A phase cannot be marked complete based on code existing alone. Require test evi
 - No source with unknown reuse rights is eligible for redistribution.
 - Do not use paid/metered provider credits without explicit approval.
 - Update this file after each meaningful implementation or verification step.
+
+
+## Latest verification — 2026-11-22 (commit fb35024b46f09b4d06995368bd70644dd0286acd)
+
+- [x] TypeScript workflow run 45016076245 completed successfully.
+- [x] GitHub Pages deployment run 45016076410 completed successfully.
+- Both runs correspond to the same commit above; this confirms the repository build/typecheck and Pages deployment for that commit only. It does not verify Firebase deployment, Firestore rules/data, or production catalogue readiness.
+- [x] Re-opened current Tata Punch ICE product page; its performance section still contains both 193 mm and 187 mm ground-clearance claims. Keep the value unresolved.
+- [x] Re-opened current Tata Nexon ICE product page; it links to 2026 ICE and 2026 iCNG brochures, but both PDFs exceed the available retrieval limit in this research pass. Exact trim matrix remains blocked.
