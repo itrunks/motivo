@@ -53,6 +53,19 @@ Out of first beta unless separately approved: public user accounts, paid feature
 - [ ] Run local web export and typecheck from a clean install; record logs.
 - [ ] Inspect Firebase live project plan/billing, deployed functions, rules and secret state.
 
+### Official ex-showroom price verification — pilot status (checked 2026-11-22)
+
+| Pilot model | Official source result | Status |
+|---|---|---|
+| Maruti FRONX | Trichy petrol/CNG ranges and base/top figures captured; full variant price table not exposed; separate API result has unverified market code | Partial |
+| Maruti Baleno | Current NEXA Trichy route returned stale placeholder page; 2026 launch starting price is not a complete variant list | Blocked |
+| Hyundai VENUE | Official starting price ₹7,99,900; selector returned no variant price rows | Partial |
+| Hyundai CRETA | 22 petrol + 16 diesel ex-showroom price rows captured; Turbo GDi coverage and Trichy-specific applicability remain open | Partial |
+| Tata PUNCH ICE | Official starting figure ₹5,74,990; full variant-wise price list not retrieved | Partial |
+| Tata NEXON ICE | Official starting price ₹7.39 lakh, range ₹7.39–15.50 lakh and FAQ Fearless+ PS ₹12.41 lakh; complete numeric variant table not exposed | Partial |
+
+No dealer on-road quotations or derived on-road estimates are being collected. Do not import any of these price findings into production until exact variant mapping, freshness and source-rights gates pass.
+
 ### Phase 1 — catalogue and data quality
 - [x] Define a six-model closed-beta pilot scope across Maruti Suzuki, Hyundai and Tata; vehicle/source audits remain pending.
 - [x] Define source rights policy: commercial reuse and redistribution must be explicitly allowed; unknown/pending rights are not publishable.
@@ -136,7 +149,7 @@ A phase cannot be marked complete based on code existing alone. Require test evi
 
 1. No production vehicle records are connected to the UI (the app correctly shows an empty catalogue); the new normalized catalogue is intentionally empty.
 2. A published-only variants read endpoint now exists in source code; build verification, live deployment, Firestore data setup and external smoke tests remain pending.
-3. A separate source registry and validator now exist; the registry now contains four Baleno, three FRONX, three Hyundai Venue, three Hyundai Creta, two Punch and three Nexon official source candidates, all with reuse/redistribution rights pending; there are currently zero approved redistribution sources. Normalized catalogue bootstrap and CI validation now exist; rights-approved sources and actual import/review/publish workflow are still missing.
+3. A separate source registry and validator now exist; the registry now contains four Baleno, three FRONX, four Hyundai Venue, three Hyundai Creta, three Punch and three Nexon official source candidates, all with reuse/redistribution rights pending; there are currently zero approved redistribution sources. Normalized catalogue bootstrap and CI validation now exist; rights-approved sources and actual import/review/publish workflow are still missing.
 4. Firestore rules are intentionally deny-all; a safe server-mediated read path must be implemented before publishing data.
 5. README data-policy wording has been corrected; it still needs a fresh build verification.
 6. Live Firebase deployment, billing plan, secret configuration and runtime state have not been verified.
