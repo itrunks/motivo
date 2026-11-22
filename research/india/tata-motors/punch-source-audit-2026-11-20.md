@@ -53,3 +53,26 @@ Decision:
 - No RTO, insurance, accessories, warranty, handling or offers are to be collected.
 - Source rights remain pending; no production import or redistribution approval is implied.
 - Last checked: 2026-11-22.
+
+
+## Current 2026 product-page recheck — variant/feature evidence (2026-11-22)
+
+Re-opened Tata Motors' current New Punch ICE product page:
+https://tatamotors-prod.adobecqms.net/punch/ice.html
+
+Current page-level facts/claims:
+- 1.2L turbocharged engine: 120 PS, 170 Nm; page describes a 6-speed gearbox.
+- Page separately promotes 5-speed AMT, 1.2L Revotron engine, 6 airbags standard, auto-dimming IRVM, iTPMS, 360-degree surround-view system, Blind View Monitor, wireless Android Auto/Apple CarPlay, 4 speakers + 4 tweeters, iRA, voice-assisted sunroof, automatic climate control, push start/stop and rear AC vents.
+- Page describes iTPMS as a low-pressure alert system; no evidence of individual live tyre pressure readouts.
+- The current product page has no linked brochure and does not expose a complete trim × engine × transmission feature matrix in the retrieved page content. It also does not expose exact current variant names in the captured content.
+
+Data-quality warning:
+- The current page highlights 193 mm ground clearance in one section but a later summary bullet says 187 mm. This internal page inconsistency means ground clearance must remain unresolved until a current official technical specification sheet clarifies the measurement/model revision. Do not choose one number based on preference.
+- The current page's feature highlights are model-level and cannot be assigned to every variant. Do not convert “6 airbags standard” or the technology highlights into a full feature matrix without a dated official matrix / exact configurator output.
+- The current product page mentions 5-speed AMT and a 6-speed turbo gearbox, but does not identify which exact current trim combinations receive each transmission. No complete variant combination count is created from this page.
+
+Decision:
+- Punch 2026 variant crosswalk remains **blocked**.
+- Do not substitute the Jan 2025 brochure matrix for the current 2026 product page.
+- Obtain a dated official variant list/order matrix or official configurator export, then map each engine/fuel/transmission combination separately.
+- Exact variant-level feature applicability, current Trichy ex-showroom prices, and source rights remain pending.
