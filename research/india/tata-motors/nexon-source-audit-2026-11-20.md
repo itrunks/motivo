@@ -114,3 +114,30 @@ Decision:
 - Exact normalized variant count and fuel × engine × transmission crosswalk remain **in progress**, not marked complete.
 - Current brochure content must still be manually reviewed; earlier PDF retrieval failure is not considered resolved merely because brochure links are visible.
 - Exact feature applicability, price rows, model-year/effective date, source-specific factual-use review and independent review remain pending.
+
+
+## Re-opened current official specifications page — live FAQ and brochure-link validation (2026-11-22)
+
+Page: https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html
+
+The rendered official page confirms the following text:
+- The brochure area labels links as “Nexon Brochure 2026” and “Nexon iCNG Brochure 2026”.
+- The main 2026 ICE PDF link resolves, but the web retrieval service rejects it because the PDF exceeds its 10 MiB content limit. This is a retrieval limitation, not evidence that the file is missing.
+- The link labelled “Nexon iCNG Brochure 2026” resolves to a URL path containing `year-2025/cng/.../october/Nexon iCNG Brochure.pdf`. This is a **label/path year mismatch**. Do not assume it is a 2026-edition document until Tata provides a revision date or current order-sheet confirmation.
+- FAQ engine values: petrol 120 PS / 170 Nm; diesel 113 PS / 260 Nm; iCNG 98 PS / 170 Nm.
+- FAQ transmission values: petrol 5MT, 6MT, 6AMT and 7-speed DCT; diesel 6MT and 6AMT; iCNG exclusively 6MT.
+- FAQ dimensions: 3,995 × 1,804 × 1,620 mm; wheelbase 2,498 mm; boot 321L CNG / 382L petrol and diesel.
+- FAQ markets a 5-star BNCAP rating and lists 6 airbags, ADAS, ABS/EBD, ESP, hill assist, TPMS, 360 camera/BVM, ISOFIX, rain-sensing wipers and auto headlamps. The same page explicitly warns that not all features/specifications are available in all variants/personas. Rating protocol, tested variant, model-year and feature applicability must be verified before any variant-level publication.
+- FAQ lists 10.25-inch touchscreen, wireless AA/CarPlay, iRA 70+ features, JBL 9-speaker audio, OTA and navigation with live traffic. The exact-trim footnote on the same page remains controlling: JBL 9-speaker, subwoofer and ADAS only Fearless+ PS DCA; ADAS not available on CNG or diesel. Rear sunshade only Fearless+ PS DCA and all Red #Dark editions; Red #Dark only Fearless+ PS. Do not treat the general FAQ feature list as standard fitment.
+- Footnote repeats that multi-drive modes, cruise control, iRA connected-car features, E-call/B-call and subwoofer are not available on CNG; these features are available only on petrol/diesel as specified by the page.
+
+Reconciliation:
+- Earlier audit's diesel 115 PS figure came from the current product page summary; the specifications-page FAQ states 113 PS. Record this as an official-page discrepancy (115 vs 113 PS), not as a resolved value. The FAQ's 113 PS / 260 Nm is the current specifications-page value, while the product-page summary needs rechecking against the technical sheet.
+- The iCNG 6MT-only transmission is directly stated in the current FAQ. Do not infer any iCNG AMT/DCT combination from the selector's CNG labels.
+- The page's visible selector controls are rendered dynamically and the text extraction does not expose a stable full variant list in this capture. Existing “70+ indexed labels” is a search/index observation only, not a verified unique orderable-variant count. Do not count it as a crosswalk.
+- The 2026-labelled iCNG brochure URL path points to a 2025 folder; exact brochure revision remains unresolved.
+
+Next verification:
+- Obtain a current dealer order sheet or accessible OEM configurator export to enumerate unique current orderable combinations.
+- Obtain a dated technical specification to resolve diesel power output and iCNG brochure revision.
+- Review each exact selector item for fuel/engine/transmission and edition suffix; no guessed combinations.
