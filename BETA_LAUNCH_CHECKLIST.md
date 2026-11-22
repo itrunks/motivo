@@ -71,12 +71,12 @@ No dealer on-road quotations or derived on-road estimates are being collected. D
 
 | Pilot model | Official matrix / variant page | First-pass combinations | Status |
 |---|---|---:|---|
-| Maruti FRONX | NEXA live variant groups + current brochure technical table | 13 | <badge>Crosswalk captured</badge> |
-| Maruti Baleno | NEXA live variant groups | 13 | <badge>Crosswalk captured</badge>; CNG AGS local orderability pending |
-| Hyundai VENUE | HMIL live trim × engine × transmission matrix | 23 | <badge>Crosswalk captured</badge> |
-| Hyundai CRETA | HMIL live trim × engine × transmission matrix | 26 | <badge>Crosswalk captured</badge>; price-row reconciliation pending |
-| Tata PUNCH ICE | Current 2026 page/brochure does not expose complete machine-readable trim × engine × transmission matrix in retrieved content | — | <badge color="warning">Blocked</badge> |
-| Tata NEXON ICE | Current 2026 brochure link confirmed, but PDF fetch exceeds retrieval limit; live selector does not expose complete matrix in captured page text | — | <badge color="warning">Blocked</badge> |
+| Maruti FRONX | NEXA live variant groups + current brochure technical table | 13 | Crosswalk captured |
+| Maruti Baleno | NEXA live variant groups | 13 | Crosswalk captured; CNG AGS local orderability pending |
+| Hyundai VENUE | HMIL live trim × engine × transmission matrix | 23 | Crosswalk captured |
+| Hyundai CRETA | HMIL live trim × engine × transmission matrix | 26 | Crosswalk captured; price-row reconciliation pending |
+| Tata PUNCH ICE | Current 2026 page/brochure does not expose complete machine-readable trim × engine × transmission matrix in retrieved content | — | Blocked |
+| Tata NEXON ICE | Current 2026 brochure link confirmed, but PDF fetch exceeds retrieval limit; live selector does not expose complete matrix in captured page text | — | Blocked |
 
 First-pass mapping total for the four mapped models: **75 trim/powertrain/transmission combinations**. These are not 75 fully reviewed production variants. Tata 2025 matrices must not be silently substituted for the current 2026 lineup. All six models still require independent review, feature-by-feature applicability, model-year/effective-date confirmation and source-rights clearance.
 
