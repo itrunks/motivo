@@ -15,8 +15,8 @@ Build a deliberately small but useful India passenger-car catalogue for a 10–2
 | Maruti Suzuki | Fronx | Crossover / compact SUV | Popular crossover with multiple powertrain/trim combinations | Pending |
 | Hyundai | Venue | Compact SUV | Mainstream compact-SUV comparison coverage | Official lineup snapshot captured; model-year/rights pending |
 | Hyundai | Creta | Mid-size SUV | Adds a larger family-SUV segment and a distinct price band | Official feature/trim snapshot captured; model-year/rights pending |
-| Tata Motors | Punch | Micro-SUV | Entry SUV/crossover coverage and a different size/price point | 2026 product page + Jan 2026 brochure reviewed; current variant/year and rights pending |
-| Tata Motors | Nexon | Compact SUV | Mainstream compact-SUV and powertrain comparison coverage | 2026 ICE product page reviewed; brochure retrieval, exact variant/year and rights pending |
+| Tata Motors | Punch | Micro-SUV | Entry SUV/crossover coverage and a different size/price point | Current official 2026 specifications selector exposes 24 combinations; feature/MY review pending |
+| Tata Motors | Nexon | Compact SUV | Mainstream compact-SUV and powertrain comparison coverage | Current 2026 specifications selector exposes 70+ labels; exact normalized count and feature/MY review pending |
 
 This six-model scope is intentionally limited to three high-reach manufacturers and multiple high-demand body/price segments. The model list is a prioritisation decision only; verify each model is on sale in India at the time of audit before creating catalogue records. If a model has been replaced, discontinued or renamed, record the effective dates and do not silently merge generations.
 
