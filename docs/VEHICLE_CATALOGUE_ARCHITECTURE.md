@@ -43,7 +43,7 @@ Use stable IDs generated from normalized identifiers, not display names alone. K
 - Safety ratings must retain agency, protocol, test date, tested variant/configuration, and applicability. Do not transfer a rating to other variants without evidence.
 - Unknown values are null, not zero or guessed.
 - Every published fact must have provenance and last-verified date. Expired prices should be marked stale and excluded from "current price" answers.
-- Respect each source's licence, attribution and commercial-use terms before importing or republishing data. Publicly accessible does not automatically mean reusable.
+- Apply the source-use policy in docs/SOURCE_USE_AND_PUBLICATION_POLICY.md. Track factual-reference approval separately from permissions to reproduce expressive content. Public access, free distribution and an open-source code licence do not automatically permit scraping or copying. A published factual record requires explicit source-specific factual-use review; copied images, prose, brochure tables, PDFs or datasets require their own suitable licence/permission.
 
 ## Public API (planned)
 
@@ -70,7 +70,7 @@ Only published records are returned. Add pagination, bounded query limits, cache
 Create the canonical TypeScript schema, Firestore collection conventions, validation rules, and source registry. Keep the existing UI empty until verified records exist.
 
 ### Phase 2 — Source audit
-Build a source matrix for Indian brands and their official specifications, variant brochures, government/open datasets, and independently published safety data. Record licence, attribution, coverage, update frequency, and field coverage. Reject sources without acceptable reuse terms.
+Build a source matrix for Indian brands and their official specifications, variant brochures, government/open datasets, and independently published safety data. Record licence, attribution, coverage, update frequency, and field coverage. Classify sources by factual-reference use, expressive-content reuse, automated-access restrictions, attribution and freshness. Do not treat lack of a redistribution licence as a blanket reason to stop private research; do require source-specific factual-use approval before publishing independently authored records, and separate permission for copied assets/content.
 
 ### Phase 3 — Import and review
 Build a CSV/JSON import tool with schema validation, duplicate detection, stable ID generation, provenance capture, and a review report. Import a small pilot set first; do not bulk-publish unreviewed rows.
