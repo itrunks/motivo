@@ -66,12 +66,26 @@ Out of first beta unless separately approved: public user accounts, paid feature
 
 No dealer on-road quotations or derived on-road estimates are being collected. Do not import any of these price findings into production until exact variant mapping, freshness and source-rights gates pass.
 
+
+### Variant identity & powertrain crosswalk — first pass (2026-11-22)
+
+| Pilot model | Official matrix / variant page | First-pass combinations | Status |
+|---|---|---:|---|
+| Maruti FRONX | NEXA live variant groups + current brochure technical table | 13 | <badge>Crosswalk captured</badge> |
+| Maruti Baleno | NEXA live variant groups | 13 | <badge>Crosswalk captured</badge>; CNG AGS local orderability pending |
+| Hyundai VENUE | HMIL live trim × engine × transmission matrix | 23 | <badge>Crosswalk captured</badge> |
+| Hyundai CRETA | HMIL live trim × engine × transmission matrix | 26 | <badge>Crosswalk captured</badge>; price-row reconciliation pending |
+| Tata PUNCH ICE | Current 2026 page/brochure does not expose complete machine-readable trim × engine × transmission matrix in retrieved content | — | <badge color="warning">Blocked</badge> |
+| Tata NEXON ICE | Current 2026 brochure link confirmed, but PDF fetch exceeds retrieval limit; live selector does not expose complete matrix in captured page text | — | <badge color="warning">Blocked</badge> |
+
+First-pass mapping total for the four mapped models: **75 trim/powertrain/transmission combinations**. These are not 75 fully reviewed production variants. Tata 2025 matrices must not be silently substituted for the current 2026 lineup. All six models still require independent review, feature-by-feature applicability, model-year/effective-date confirmation and source-rights clearance.
+
 ### Phase 1 — catalogue and data quality
 - [x] Define a six-model closed-beta pilot scope across Maruti Suzuki, Hyundai and Tata; vehicle/source audits remain pending.
 - [x] Define source rights policy: commercial reuse and redistribution must be explicitly allowed; unknown/pending rights are not publishable.
 - [x] Add standard-library catalogue validation for record shape, references, dates, source provenance and publish rights.
 - [x] Add a separate source registry CSV and automated rights/provenance validator (crosswalk validation remains pending).
-- [ ] Verify current model/generation and complete variant lists for the six pilot candidates (all six pilot desk audits started; model-year confirmation and source-rights approval remain pending).
+- [ ] Verify current model/generation and complete variant lists for the six pilot candidates (first-pass official variant crosswalks captured for FRONX, Baleno, Venue and Creta; Punch and Nexon 2026 crosswalks blocked pending complete current official matrix; model-year confirmation and rights approval remain pending).
 - [ ] Audit source terms and record redistribution-eligible sources (Baleno, FRONX, Venue and Creta official product/feature/price/manual URLs registered; all reuse/redistribution rights remain pending, so none is eligible).
 - [ ] Normalize reviewed pilot research into brands/models/variants/specs/official ex-showroom prices/safety collections.
 - [ ] Add review and publish workflow; only approved records become public.
