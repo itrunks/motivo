@@ -125,6 +125,7 @@ A phase cannot be marked complete based on code existing alone. Require test evi
 - [x] Hyundai Venue desk audit note created; current trim labels and engine/transmission families captured; model-year, dealer lineup and rights checks remain open.
 - [x] Venue official ex-showroom price page checked; starting price ₹7,99,900 captured, but variant selector returned no price rows; exact variant-wise prices and source rights remain pending.
 - [x] Hyundai Creta desk audit note created; trim families and engine/transmission options captured; exact current model-year combinations and rights checks remain open.
+- [x] Creta official price page variant-wise ex-showroom petrol/diesel prices captured (2026-11-22); Turbo GDi DCT coverage incomplete, city applicability and source rights pending.
 - [x] Maruti Suzuki Baleno desk audit note created; 2026 update and current official variant families captured; exact MY, feature mapping and rights checks remain open.
 - [x] Tata Punch desk audit note created; 2026 brochure and product page reviewed; current lineup and rights checks remain open.
 - [x] Tata Nexon ICE desk audit note created; current product page and feature restrictions captured; brochure retrieval, exact lineup and rights checks remain open.
