@@ -78,15 +78,15 @@ No dealer on-road quotations or derived on-road estimates are being collected. D
 | Tata PUNCH ICE | Current official specifications selector | 24 | First-pass selector crosswalk captured; feature matrix and MY review pending |
 | Tata NEXON ICE | Current official specifications selector | 70+ labels | Selector surfaced; exact normalized count/deduplication pending |
 
-First-pass mapping total: **102 confirmed combinations** across FRONX (13), Baleno (13), Venue (23), Creta (29) and Punch (24). Nexon's selector exposes 70+ labels but is not yet normalized and is excluded from the confirmed total. These are not 78 fully reviewed production variants. Tata 2025 matrices must not be silently substituted for the current 2026 lineup. Priority feature-by-trim extraction has started for FRONX, Baleno, Venue, Creta and Nexon; Punch's current product page remains model-level only. Full feature matrices and independent review are still pending. All six models still require independent review, feature-by-feature applicability, model-year/effective-date confirmation and source-specific factual-use review.
+First-pass mapping total: **102 confirmed combinations** across FRONX (13), Baleno (13), Venue (23), Creta (29) and Punch (24). Nexon's selector exposes 70+ labels but is not yet normalized and is excluded from the confirmed total. These are first-pass selector/crosswalk combinations, not fully reviewed production variants. Tata 2025 matrices must not be silently substituted for the current 2026 lineup. Nexon's 70+ indexed labels require exact deduplication and fuel/transmission normalization. Punch's 24-combination selector is captured, but its trim-level feature matrix remains incomplete. Full feature matrices and independent review are still pending. All six models still require independent review, feature-by-feature applicability, model-year/effective-date confirmation and source-specific factual-use review.
 
 ### Phase 1 — catalogue and data quality
 - [x] Define a six-model closed-beta pilot scope across Maruti Suzuki, Hyundai and Tata; vehicle/source audits remain pending.
 - [x] Define source-use policy separating independently authored factual records, expressive-content reuse and automated-access restrictions (see docs/SOURCE_USE_AND_PUBLICATION_POLICY.md).
 - [x] Add standard-library catalogue validation for record shape, references, dates, source provenance and source-specific factual-publication approval.
 - [x] Add a separate source registry CSV and automated provenance/factual-use validator (crosswalk validation remains pending).
-- [ ] Verify current model/generation and complete variant lists for the six pilot candidates (first-pass official variant crosswalks captured for FRONX, Baleno, Venue and Creta; Punch 2026 first-pass selector crosswalk captured (24 combinations); Nexon selector surfaced but requires deduplication and exact transmission mapping; model-year confirmation and rights approval remain pending).
-- [ ] Review each source for factual-reference publication eligibility (all 22 currently registered sources have factual_use_review=pending; none is approved).
+- [ ] Verify current model/generation and complete variant lists for the six pilot candidates (first-pass official variant crosswalks captured for FRONX, Baleno, Venue and Creta; Punch 2026 first-pass selector crosswalk captured (24 combinations); Nexon selector surfaced but requires deduplication and exact transmission mapping; model-year confirmation and source-specific factual-use review remain pending).
+- [ ] Review each source for factual-reference publication eligibility (all 23 currently registered sources have factual_use_review=pending; none is approved).
 - [ ] Normalize reviewed pilot research into brands/models/variants/specs/official ex-showroom prices/safety collections.
 - [ ] Add review and publish workflow; only approved records become public.
 - [ ] Add stale-price and stale-verification handling for official ex-showroom prices only.
@@ -163,7 +163,7 @@ A phase cannot be marked complete based on code existing alone. Require test evi
 
 1. No production vehicle records are connected to the UI (the app correctly shows an empty catalogue); the new normalized catalogue is intentionally empty.
 2. A published-only variants read endpoint now exists in source code; build verification, live deployment, Firestore data setup and external smoke tests remain pending.
-3. A separate source registry and validator now exist; the registry now contains 22 official source candidates (all factual-use reviews pending); no source is yet approved for factual publication. Expressive-content reuse permissions remain separately pending. Normalized catalogue bootstrap and CI validation now exist; rights-approved sources and actual import/review/publish workflow are still missing.
+3. A separate source registry and validator now exist; the registry now contains 23 official source candidates (all factual-use reviews pending); no source is yet approved for factual publication. Expressive-content reuse permissions remain separately pending. Normalized catalogue bootstrap and CI validation now exist; factual-use-approved sources and actual import/review/publish workflow are still missing.
 4. Firestore rules are intentionally deny-all; a safe server-mediated read path must be implemented before publishing data.
 5. README data-policy wording has been corrected; it still needs a fresh build verification.
 6. Live Firebase deployment, billing plan, secret configuration and runtime state have not been verified.
@@ -178,10 +178,13 @@ A phase cannot be marked complete based on code existing alone. Require test evi
 - Update this file after each meaningful implementation or verification step.
 
 
-## Latest verification — 2026-11-22 (commit fb35024b46f09b4d06995368bd70644dd0286acd)
+## Latest verification — 2026-11-22 (current policy and Tata selector updates)
 
 - [x] TypeScript workflow run 45016076245 completed successfully.
 - [x] GitHub Pages deployment run 45016076410 completed successfully.
 - Both runs correspond to the same commit above; this confirms the repository build/typecheck and Pages deployment for that commit only. It does not verify Firebase deployment, Firestore rules/data, or production catalogue readiness.
 - [x] Re-opened current Tata Punch ICE product page; its performance section still contains both 193 mm and 187 mm ground-clearance claims. Keep the value unresolved.
-- [x] Re-opened current Tata Nexon ICE product page; it links to 2026 ICE and 2026 iCNG brochures, but both PDFs exceed the available retrieval limit in this research pass. Exact trim matrix remains blocked.
+- [x] Rechecked current Tata Punch official specifications page; 24 trim/powertrain/transmission combinations captured in a first-pass crosswalk.
+- [x] Rechecked current Tata Nexon official specifications page; 70+ indexed selector labels surfaced; exact deduplication and transmission normalization remain pending.
+- [x] Added source-use policy and separate factual-reference approval fields; all 23 registered sources remain pending review.
+- [ ] Re-run TypeScript, catalogue validation and Pages workflows on the latest commit; CI status not yet confirmed.
