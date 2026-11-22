@@ -76,9 +76,9 @@ No dealer on-road quotations or derived on-road estimates are being collected. D
 | Hyundai VENUE | HMIL live trim × engine × transmission matrix | 23 | Crosswalk captured |
 | Hyundai CRETA | HMIL live trim × engine × transmission matrix (now includes Lounge Edition) | 29 | Crosswalk captured; price-row reconciliation pending |
 | Tata PUNCH ICE | Current official specifications selector | 24 | 24-combination selector captured; persona matrix + official FAQ reconciled; airbag conflict and per-variant fitment pending |
-| Tata NEXON ICE | Current official specifications page + FAQ | Not counted | Dynamic selector text is not exposed in the current capture; no verified crosswalk count |
+| Tata NEXON ICE | Current official indexed selector labels + FAQ; Autocar cross-check (16 Nov 2026) | 80 reported by secondary source; OEM unique count pending | OEM selector labels now surfaced; normalize editions/SKUs and confirm orderability with dated OEM/dealer export |
 
-First-pass mapping total: **102 confirmed combinations** across FRONX (13), Baleno (13), Venue (23), Creta (29) and Punch (24). Nexon is excluded from the confirmed total because the dynamic selector does not expose a stable variant list in the current capture. These are first-pass selector/crosswalk combinations, not fully reviewed production variants. Tata 2025 matrices must not be silently substituted for the current 2026 lineup. Nexon's current orderable variants require an accessible configurator export or dated dealer order sheet before a count can be published. Punch's 24-combination selector is captured, but its trim-level feature matrix remains incomplete. Full feature matrices and independent review are still pending. All six models still require independent review, feature-by-feature applicability, model-year/effective-date confirmation and source-specific factual-use review.
+First-pass mapping total: **102 confirmed combinations** across FRONX (13), Baleno (13), Venue (23), Creta (29) and Punch (24). Nexon remains excluded from this confirmed total: Autocar reports 80 variants (16 Nov 2026) and Tata's indexed selector labels are now visible, but the OEM unique orderable-SKU count still needs normalization and dated orderability confirmation. Do not add the secondary 80 count to the confirmed total. These are first-pass selector/crosswalk combinations, not fully reviewed production variants. Tata 2025 matrices must not be silently substituted for the current 2026 lineup. Punch's 24-combination selector is captured, but its trim-level feature matrix remains incomplete. Full feature matrices and independent review are still pending. All six models still require independent review, feature-by-feature applicability, model-year/effective-date confirmation and source-specific factual-use review.
 
 ### Phase 1 — catalogue and data quality
 - [x] Define a six-model closed-beta pilot scope across Maruti Suzuki, Hyundai and Tata; vehicle/source audits remain pending.
@@ -189,3 +189,13 @@ A phase cannot be marked complete based on code existing alone. Require test evi
 - [x] Rechecked current Tata Nexon official specifications page; confirmed petrol/diesel/iCNG powertrain and transmission FAQ, 2026-labelled iCNG brochure link points to a 2025 URL path, and diesel output differs between official page summaries (113 vs 115 PS). Dynamic selector does not expose a stable list in the text capture.
 - [x] Added source-use policy and separate factual-reference approval fields; all 23 registered sources remain pending review.
 - [ ] Re-run TypeScript, catalogue validation and Pages workflows on the latest commit; CI status not yet confirmed.
+
+
+### Nexon selector follow-up — 2026-11-22
+
+- [x] Tata official indexed specifications selector now exposes named trim/powertrain/edition labels, including Camo, Dark and Red #Dark variants.
+- [x] Autocar India independently reports 80 Nexon variants (page updated 16 Nov 2026); recorded as a secondary count cross-check only.
+- [ ] Normalize OEM labels and deduplicate exact orderable SKUs; preserve edition suffixes and distinguish petrol 5MT/6MT/6AMT/7DCT, diesel 6MT/6AMT and iCNG 6MT.
+- [ ] Confirm the unique orderable count against a dated Tata order sheet or structured OEM configurator export.
+- [ ] Map exact feature applicability and official variant-wise ex-showroom prices.
+- [ ] No change to confirmed first-pass total (102); Nexon remains excluded pending OEM crosswalk validation.
