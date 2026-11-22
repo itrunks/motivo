@@ -174,7 +174,7 @@ This completes the first-pass official trim/powertrain crosswalk. Reconcile the 
 |---|---|---|
 | TPMS Highline | All listed trims, including Lounge Edition | The current matrix lists Highline TPMS throughout |
 | Bose premium 8-speaker system with front centre speaker + subwoofer | SX Premium, King, King Knight, Lounge Edition | Do not attribute Bose to SX or lower trims |
-| Wireless Android Auto / Apple CarPlay | EX(O), S(O), S(O) Knight, SX, SX Premium, King, King Knight and Lounge Edition | EX and E do not list smartphone connectivity; preserve the distinction |
+| Wireless Android Auto / Apple CarPlay | EX, EX(O), S(O), S(O) Knight, SX, SX Premium, King, King Knight and Lounge Edition | SX Premium and above are marked as working through a wired-to-wireless adapter; E does not list smartphone connectivity |
 | 10.25-inch HD audio-video navigation system | SX, SX Premium, King, King Knight, Lounge Edition | E/EX/EX(O)/S(O) rows differ; avoid model-wide claims |
 | Front ventilated seats | SX Premium, King, King Knight, Lounge Edition | Not standard on lower trims |
 | 360-degree Surround View Monitor + Blind Spot View Monitor | SX Premium, King, King Knight, Lounge Edition | These are separate rows; both listed on the same upper trim set |
@@ -183,7 +183,7 @@ This completes the first-pass official trim/powertrain crosswalk. Reconcile the 
 | Remote engine start with smart key | SX, SX Premium, King, King Knight, Lounge Edition | Explicitly not listed for lower trims |
 | Rear window sunshade | EX(O), S(O), S(O) Knight, SX, SX Premium, King, King Knight, Lounge Edition | Preserve exact fitment; not listed for E/EX |
 
-Priority finding: Bose is listed from SX Premium upward (including Lounge Edition); wireless smartphone connectivity starts at EX(O), not at EX. Highline TPMS is listed across the full trim range. Remote engine start begins at SX in the current matrix.
+Priority finding: Bose is listed from SX Premium upward (including Lounge Edition); wireless smartphone connectivity starts at EX; SX Premium and higher use the listed wired-to-wireless adapter footnote. Highline TPMS is listed across the full trim range. Remote engine start begins at SX in the current matrix.
 
 Source: https://www.hyundai.com/in/en/find-a-car/creta/features
 
