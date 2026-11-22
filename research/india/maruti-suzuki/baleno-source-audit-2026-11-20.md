@@ -11,7 +11,7 @@
 - The same release lists standard safety equipment: six airbags, ESP, ABS/EBD, emergency stop signal, hill-hold control, reverse parking sensors, three-point seatbelts, seatbelt reminders and TPMS. It describes Level 2 ADAS with radar + camera and eight functions: advanced emergency braking, lane keep assist, lane departure prevention/warning, adaptive cruise control, high-beam assist, vehicle sway warning and forward collision warning. Confirm exact trim applicability from the official variant matrix before recording variant-level facts.
 - The launch release lists ventilated front seats, leatherette upholstery, Clarion premium sound system, Qi wireless charging with active cooling, 360-view camera, HUD, 9-inch SmartPlay Pro+ with wireless Apple CarPlay/Android Auto, and Suzuki Connect with 40+ features. These are model-level launch claims, not proof of fitment on every trim.
 - NEXA's current Baleno page lists petrol variants: Sigma MT; Delta MT/AMT; Zeta MT/AMT; Alpha MT/AMT; Alpha(O) MT/AMT.
-- NEXA's current page lists CNG variants as Delta CNG MT, Zeta CNG MT, Delta CNG AGS and Zeta CNG AGS. This conflicts with the launch release, which only explicitly describes S-CNG MT. Keep CNG AGS applicability unresolved until the current brochure/configurator/dealer order sheet confirms it.
+- NEXA's current page lists CNG variants as Delta CNG MT, Zeta CNG MT, Delta CNG AGS and Zeta CNG AGS. The current brochure now confirms both MT and AMT for Delta and Zeta S-CNG. The earlier launch release's MT-only wording was incomplete; retain local orderability as a separate confirmation.
 - Official NEXA page links the current brochure: https://www.nexaexperience.com/content/dam/msil/nexa/in/en/assets/cars/newbaleno/download-brochure/The-Stunning-New-Baleno-Brochure.pdf
 - NEXA page also describes Suzuki Connect remote operations including remote door lock/cancel lock, remote immobilizer request, remote alarm, remote hazard lights, and remote headlights off. Remote engine start and cabin pre-cooling are not established by the captured source; do not claim them.
 
@@ -31,7 +31,7 @@ NEXA terms state that copyright in site pages, screens, information and material
 
 - [ ] Confirm the precise model-year / effective date and whether all dealer inventory is the September 2026 update.
 - [ ] Review the complete current brochure and live variant/specification matrix; capture all trim-level feature applicability.
-- [ ] Resolve CNG AGS discrepancy between the product page and launch release.
+- [x] Resolve CNG AGS discrepancy: current official brochure confirms Delta and Zeta S-CNG MT/AMT; the earlier launch release was incomplete. Local city orderability remains to be confirmed.
 - [ ] Confirm current complete variant list, colours and city-specific price validity with an authorised NEXA dealer.
 - [ ] Capture engine, dimensions, weights, tyres, suspension, braking and emissions specifications from current official technical documents.
 - [ ] Verify whether TPMS is only warning-level or provides individual tyre pressures; do not infer highline display.
