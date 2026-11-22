@@ -130,6 +130,7 @@ A phase cannot be marked complete based on code existing alone. Require test evi
 - [x] Tata Punch desk audit note created; 2026 brochure and product page reviewed; current lineup and rights checks remain open.
 - [x] Punch official ex-showroom price source checked; starting figure ₹5,74,990 captured, but complete current variant-wise price table unavailable; exact prices and source rights pending.
 - [x] Tata Nexon ICE desk audit note created; current product page and feature restrictions captured; brochure retrieval, exact lineup and rights checks remain open.
+- [x] Nexon ICE official price page checked; starting price ₹7.39 lakh, overall range ₹7.39–15.50 lakh and FAQ Fearless+ PS ₹12.41 lakh captured; complete variant-wise numeric prices unavailable; rights pending.
 
 ## Current blockers (confirmed from repository inspection)
 
