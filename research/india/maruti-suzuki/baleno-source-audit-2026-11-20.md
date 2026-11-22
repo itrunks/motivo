@@ -43,3 +43,23 @@ NEXA terms state that copyright in site pages, screens, information and material
 ## Decision
 
 Baleno desk research is **in progress**. No variant is eligible for Motivo production import. Keep `data/catalogue.json` unchanged until rights, exact model-year, variant mapping and field-level review pass.
+
+
+## Official ex-showroom price check (2026-11-22)
+
+Status: **blocked — current variant-wise official price data not retrievable from the captured NEXA page**.
+
+Checked the official NEXA Trichy route:
+https://www.nexaexperience.com/baleno/price-in-trichy
+
+The retrieved page is an old/stale page snapshot (crawler metadata indicates approximately 1.5 years old) and exposes placeholders such as `₹ {price}`, rather than the current September 2026 Baleno price list. It links to the variant/pricing component, but the retrieved content does not include actual variant-wise prices.
+
+The September 2026 Maruti launch release gives an introductory starting price of ₹6,09,900 ex-showroom. This is a launch starting-price claim, not a complete current Trichy variant-wise price list; do not treat it as a current live price or infer other variant prices from it.
+
+Decision:
+- No Baleno variant price is entered into the catalogue.
+- Do not substitute third-party price tables for the official-only pricing requirement.
+- Revisit the official NEXA live price selector/API or obtain a dated official price list that clearly identifies variant and effective date.
+- Price status remains **unavailable / pending verification**, not zero and not estimated.
+- Source rights remain pending; no publication approval is implied.
+- Last checked: 2026-11-22.
