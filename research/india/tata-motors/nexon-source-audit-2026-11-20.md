@@ -175,3 +175,49 @@ Status after this pass:
 - [ ] Complete factual-use rights review and independent review.
 
 No Nexon production records are approved by this update.
+
+
+## Re-opened official price/variant page — card-level evidence (2026-11-22)
+
+Source: https://tatamotors-prod.adobecqms.net/content/tml/pv/in/en/nexon/ice/price.html
+
+The current official price page was opened and its rendered text inspected through the full variant-card section (approximately lines 1,680–3,857 in the captured page). This provides materially stronger evidence than the earlier indexed-selector-only pass:
+
+- The official page visibly exposes named variant cards across petrol, diesel and iCNG, including Smart 1.2, Smart+ 1.2, Smart+ AMT 1.2, Pure+ 1.2, Pure+ AMT 1.2, Pure+ S/PS, Creative, Creative DCA/AMT, Creative+ S, Creative+ PS, Fearless+ PS, Fearless+ A PS DCA, and CNG-specific Smart/Pure+/Creative/Fearless+ PS cards.
+- Edition/persona labels also appear in the cards, including DK (Dark) and CAMO-based personas. Preserve exact suffixes; do not collapse CAMO, DK, Red #Dark or ADAS variants into their base trim.
+- The card content explicitly names powertrain/transmission variants in multiple places (for example, Smart 1.2 is 5MT; Smart+ AMT 1.2; Pure+ 1.2 is 6MT; Creative DCA 1.2; Smart CNG and Pure+ CNG are 6MT). This supports exact individual card mapping where the suffix is present, but it is not yet a complete stable SKU export.
+- The page's variant cards show a Price label, but the retrieved text does not expose numeric values per card. The numeric price field is therefore still unavailable in this capture. No secondary prices are substituted.
+
+### Important official-page contradictions / corrections
+
+The same current official price page contains conflicting price summaries:
+- Page title/banner: “From ₹7.39 L*”.
+- FAQ starting-price answer: ₹7.36 lakh for Smart 1.2 petrol.
+- FAQ range answer: ₹7.36–₹15.50 lakh and “60+ variants”.
+- FAQ Fearless+ PS answer: ₹12.26 lakh, while an earlier captured official page snapshot had ₹12.41 lakh.
+
+These values are internally inconsistent and time/version applicability is not exposed in the text capture. Therefore supersede the earlier audit's statement that ₹7.39 lakh / ₹7.39–₹15.50 lakh / ₹12.41 lakh is a settled current official price range. Record all four official-page price statements as conflicting source observations only; do not create production price records until a current dated official selector result or official price circular resolves them.
+
+The FAQ says Fearless+ PS includes ADAS, but the explicit footnote at the bottom of the same page is more specific: ADAS is available only on Fearless+ PS DCA and is not available on CNG or diesel. Apply the explicit footnote, not the broad FAQ sentence. The same footnote restricts JBL-branded speakers and subwoofer to Fearless+ PS DCA; rear sunshade is available only on Fearless+ PS DCA and all Red #Dark, with Red #Dark edition availability limited to Fearless+ PS.
+
+Additional exact feature evidence from the official cards:
+- Creative+ PS cards list “TPMS full”, front parking sensors, PEPS, panoramic sunroof, wireless charger, rear defogger and 60:40 rear seats. “TPMS full” is stronger wording than the generic TPMS label, but the page does not define whether it is individual live pressure readout; keep readout type unverified.
+- Fearless+ PS cards list ventilated driver and co-driver seats, air purifier, auto-dimming IRVM, digital cluster with navigation display and the premium audio/connected feature set. Exact engine/edition suffix still controls eligibility.
+- Official page lists remote vehicle controls including remote engine start/stop for the relevant Fearless+ PS DCA persona; do not infer remote cabin pre-cooling unless the OEM feature description explicitly says so.
+- CNG card feature lists include a Fearless+ PS CNG persona, but the footnote excludes iRA, E-call/B-call, multi-drive modes, cruise control and subwoofer on CNG. Do not propagate the petrol/diesel connected-feature list to CNG.
+
+### Variant-count decision
+
+The official FAQ says 60+ variants, while Autocar's 16 Nov 2026 page reports 80. These are different levels of granularity and may reflect different update snapshots or edition/SKU inclusion. Neither number is a verified OEM unique orderable-SKU count. Keep Nexon excluded from the confirmed 102 first-pass pilot combinations until a dated OEM order sheet/configurator export provides the exact current SKU list.
+
+### Next exact work
+
+- [x] Inspect current official price page's full variant-card text and record exact card naming patterns.
+- [x] Record official FAQ count (60+) and price-summary conflicts against page banner and previous snapshot.
+- [x] Resolve feature-rule precedence: explicit OEM footnote over broad FAQ summary for ADAS/JBL/rear-sunshade fitment.
+- [ ] Capture a dated orderable SKU export / authorised Tata order sheet.
+- [ ] Normalize all exact card labels into fuel × engine × transmission × trim × edition rows, retaining original labels and source evidence.
+- [ ] Obtain a stable official per-variant ex-showroom price output and effective date.
+- [ ] Complete rights review and independent reviewer sign-off.
+
+No production Nexon records are approved by this update. Last checked: 2026-11-22.
