@@ -78,7 +78,7 @@ No dealer on-road quotations or derived on-road estimates are being collected. D
 | Tata PUNCH ICE | Current 2026 page/brochure does not expose complete machine-readable trim × engine × transmission matrix in retrieved content | — | Blocked |
 | Tata NEXON ICE | Current 2026 brochure link confirmed, but PDF fetch exceeds retrieval limit; live selector does not expose complete matrix in captured page text | — | Blocked |
 
-First-pass mapping total for the four mapped models: **78 trim/powertrain/transmission combinations**. These are not 75 fully reviewed production variants. Tata 2025 matrices must not be silently substituted for the current 2026 lineup. Priority feature-by-trim extraction has started for Venue and Creta; full feature matrices are still pending. All six models still require independent review, feature-by-feature applicability, model-year/effective-date confirmation and source-rights clearance.
+First-pass mapping total for the four mapped models: **78 trim/powertrain/transmission combinations**. These are not 78 fully reviewed production variants. Tata 2025 matrices must not be silently substituted for the current 2026 lineup. Priority feature-by-trim extraction has started for Venue and Creta; full feature matrices are still pending. All six models still require independent review, feature-by-feature applicability, model-year/effective-date confirmation and source-rights clearance.
 
 ### Phase 1 — catalogue and data quality
 - [x] Define a six-model closed-beta pilot scope across Maruti Suzuki, Hyundai and Tata; vehicle/source audits remain pending.
