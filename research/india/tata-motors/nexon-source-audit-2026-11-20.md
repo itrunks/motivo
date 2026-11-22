@@ -221,3 +221,29 @@ The official FAQ says 60+ variants, while Autocar's 16 Nov 2026 page reports 80.
 - [ ] Complete rights review and independent reviewer sign-off.
 
 No production Nexon records are approved by this update. Last checked: 2026-11-22.
+
+
+## Automation checkpoint — 2026-11-22 17:39 IST
+
+### CI verification
+- [x] TypeScript workflow run 45019909883 completed successfully.
+- [x] GitHub Pages deployment run 45019909890 completed successfully.
+- Both runs completed on commit 72b2b80d3006b8c3109088fd4a181ab5476932e1.
+- Links: https://github.com/itrunks/motivo/actions/runs/45019909883 and https://github.com/itrunks/motivo/actions/runs/45019909890
+- Catalogue validation was not assumed to have run because the latest markdown/checklist changes do not trigger that workflow path filter.
+
+### Nexon ICE progress
+- [x] Re-validated the current official price-page card naming patterns and exact-suffix preservation rule.
+- [x] Created a provisional normalization grammar without inventing SKUs: fuel = petrol/diesel/iCNG; engine family = 1.2 turbo petrol or 1.5 turbo diesel as stated by the OEM FAQ; transmission = only when explicitly present in the card/FAQ (petrol 5MT/6MT/6AMT/7DCT; diesel 6MT/6AMT; iCNG 6MT); trim/persona = Smart, Smart+, Pure+, Creative, Creative+, Fearless+; edition = CAMO, DK/Dark, Red #Dark, ADAS/DCA and all other exact suffixes retained verbatim.
+- [x] Preserved official card examples: Smart 1.2 = petrol 5MT; Smart+ AMT 1.2 = petrol AMT; Pure+ 1.2 = petrol 6MT; Creative DCA 1.2 = petrol DCA; Smart CNG/Pure+ CNG = iCNG 6MT where explicitly shown.
+- [ ] Exact unique OEM SKU count remains unresolved. Official FAQ says 60+; Autocar reports 80 on 2026-11-16; neither is treated as confirmed OEM orderability.
+- [ ] Dated OEM/dealer order sheet or structured configurator export is still missing; no guessed combination or price was added.
+- [ ] Variant-wise official ex-showroom price output and effective dates remain unavailable in the retrieved page text.
+
+### Durable next action
+1. Obtain a dated Tata order sheet/configurator export or an accessible structured selector output.
+2. Parse each exact label into fuel × engine × transmission × trim × edition rows, preserving original labels and provenance.
+3. Resolve diesel 113 vs 115 PS official-page discrepancy and the 2026-labelled iCNG brochure URL pointing to a 2025 path.
+4. Only after Nexon orderability is evidenced, continue Punch exact trim-level applicability and keep airbag/ground-clearance conflicts unresolved.
+
+Checkpoint commit target: this audit update plus checklist update. No production records approved; source factual-use review remains pending.
