@@ -75,17 +75,17 @@ No dealer on-road quotations or derived on-road estimates are being collected. D
 | Maruti Baleno | NEXA live variant groups | 13 | Crosswalk captured; CNG AGS local orderability pending |
 | Hyundai VENUE | HMIL live trim × engine × transmission matrix | 23 | Crosswalk captured |
 | Hyundai CRETA | HMIL live trim × engine × transmission matrix (now includes Lounge Edition) | 29 | Crosswalk captured; price-row reconciliation pending |
-| Tata PUNCH ICE | Current 2026 page/brochure does not expose complete machine-readable trim × engine × transmission matrix in retrieved content | — | Blocked |
-| Tata NEXON ICE | Current 2026 brochure link confirmed, but PDF fetch exceeds retrieval limit; live selector does not expose complete matrix in captured page text | — | Blocked |
+| Tata PUNCH ICE | Current official specifications selector | 24 | First-pass selector crosswalk captured; feature matrix and MY review pending |
+| Tata NEXON ICE | Current official specifications selector | 70+ labels | Selector surfaced; exact normalized count/deduplication pending |
 
-First-pass mapping total for the four mapped models: **78 trim/powertrain/transmission combinations**. These are not 78 fully reviewed production variants. Tata 2025 matrices must not be silently substituted for the current 2026 lineup. Priority feature-by-trim extraction has started for FRONX, Baleno, Venue, Creta and Nexon; Punch's current product page remains model-level only. Full feature matrices and independent review are still pending. All six models still require independent review, feature-by-feature applicability, model-year/effective-date confirmation and source-specific factual-use review.
+First-pass mapping total: **102 confirmed combinations** across FRONX (13), Baleno (13), Venue (23), Creta (29) and Punch (24). Nexon's selector exposes 70+ labels but is not yet normalized and is excluded from the confirmed total. These are not 78 fully reviewed production variants. Tata 2025 matrices must not be silently substituted for the current 2026 lineup. Priority feature-by-trim extraction has started for FRONX, Baleno, Venue, Creta and Nexon; Punch's current product page remains model-level only. Full feature matrices and independent review are still pending. All six models still require independent review, feature-by-feature applicability, model-year/effective-date confirmation and source-specific factual-use review.
 
 ### Phase 1 — catalogue and data quality
 - [x] Define a six-model closed-beta pilot scope across Maruti Suzuki, Hyundai and Tata; vehicle/source audits remain pending.
 - [x] Define source-use policy separating independently authored factual records, expressive-content reuse and automated-access restrictions (see docs/SOURCE_USE_AND_PUBLICATION_POLICY.md).
 - [x] Add standard-library catalogue validation for record shape, references, dates, source provenance and source-specific factual-publication approval.
 - [x] Add a separate source registry CSV and automated provenance/factual-use validator (crosswalk validation remains pending).
-- [ ] Verify current model/generation and complete variant lists for the six pilot candidates (first-pass official variant crosswalks captured for FRONX, Baleno, Venue and Creta; Punch and Nexon 2026 crosswalks blocked pending complete current official matrix; model-year confirmation and rights approval remain pending).
+- [ ] Verify current model/generation and complete variant lists for the six pilot candidates (first-pass official variant crosswalks captured for FRONX, Baleno, Venue and Creta; Punch 2026 first-pass selector crosswalk captured (24 combinations); Nexon selector surfaced but requires deduplication and exact transmission mapping; model-year confirmation and rights approval remain pending).
 - [ ] Review each source for factual-reference publication eligibility (all 20 currently registered sources have factual_use_review=pending; none is approved).
 - [ ] Normalize reviewed pilot research into brands/models/variants/specs/official ex-showroom prices/safety collections.
 - [ ] Add review and publish workflow; only approved records become public.
@@ -154,9 +154,9 @@ A phase cannot be marked complete based on code existing alone. Require test evi
 - [x] Hyundai Creta desk audit note created; trim families and engine/transmission options captured; exact current model-year combinations and rights checks remain open.
 - [x] Creta official price page variant-wise ex-showroom petrol/diesel prices captured (2026-11-22); Turbo GDi DCT coverage incomplete, city applicability and source rights pending.
 - [x] Maruti Suzuki Baleno desk audit note created; 2026 update and current official variant families captured; exact MY, feature mapping and rights checks remain open.
-- [x] Tata Punch desk audit note created; 2026 brochure and product page reviewed; current lineup and rights checks remain open.
+- [x] Tata Punch desk audit note created; current 2026 official specifications selector exposes 24 combinations; exact model-year, feature matrix, prices and factual-use review remain open.
 - [x] Punch official ex-showroom price source checked; starting figure ₹5,74,990 captured, but complete current variant-wise price table unavailable; exact prices and source rights pending.
-- [x] Tata Nexon ICE desk audit note created; current product page and feature restrictions captured; brochure retrieval, exact lineup and rights checks remain open.
+- [x] Tata Nexon ICE desk audit note created; current 2026 specifications selector exposes 70+ indexed labels; exact normalized count, feature matrix, prices and factual-use review remain open.
 - [x] Nexon ICE official price page checked; starting price ₹7.39 lakh, overall range ₹7.39–15.50 lakh and FAQ Fearless+ PS ₹12.41 lakh captured; complete variant-wise numeric prices unavailable; rights pending.
 
 ## Current blockers (confirmed from repository inspection)
