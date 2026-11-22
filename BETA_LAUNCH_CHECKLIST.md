@@ -86,7 +86,7 @@ First-pass mapping total: **102 confirmed combinations** across FRONX (13), Bale
 - [x] Add standard-library catalogue validation for record shape, references, dates, source provenance and source-specific factual-publication approval.
 - [x] Add a separate source registry CSV and automated provenance/factual-use validator (crosswalk validation remains pending).
 - [ ] Verify current model/generation and complete variant lists for the six pilot candidates (first-pass official variant crosswalks captured for FRONX, Baleno, Venue and Creta; Punch 2026 first-pass selector crosswalk captured (24 combinations); Nexon selector surfaced but requires deduplication and exact transmission mapping; model-year confirmation and rights approval remain pending).
-- [ ] Review each source for factual-reference publication eligibility (all 20 currently registered sources have factual_use_review=pending; none is approved).
+- [ ] Review each source for factual-reference publication eligibility (all 22 currently registered sources have factual_use_review=pending; none is approved).
 - [ ] Normalize reviewed pilot research into brands/models/variants/specs/official ex-showroom prices/safety collections.
 - [ ] Add review and publish workflow; only approved records become public.
 - [ ] Add stale-price and stale-verification handling for official ex-showroom prices only.
@@ -163,7 +163,7 @@ A phase cannot be marked complete based on code existing alone. Require test evi
 
 1. No production vehicle records are connected to the UI (the app correctly shows an empty catalogue); the new normalized catalogue is intentionally empty.
 2. A published-only variants read endpoint now exists in source code; build verification, live deployment, Firestore data setup and external smoke tests remain pending.
-3. A separate source registry and validator now exist; the registry now contains 20 official source candidates (all factual-use reviews pending); no source is yet approved for factual publication. Expressive-content reuse permissions remain separately pending. Normalized catalogue bootstrap and CI validation now exist; rights-approved sources and actual import/review/publish workflow are still missing.
+3. A separate source registry and validator now exist; the registry now contains 22 official source candidates (all factual-use reviews pending); no source is yet approved for factual publication. Expressive-content reuse permissions remain separately pending. Normalized catalogue bootstrap and CI validation now exist; rights-approved sources and actual import/review/publish workflow are still missing.
 4. Firestore rules are intentionally deny-all; a safe server-mediated read path must be implemented before publishing data.
 5. README data-policy wording has been corrected; it still needs a fresh build verification.
 6. Live Firebase deployment, billing plan, secret configuration and runtime state have not been verified.
