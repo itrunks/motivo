@@ -156,3 +156,69 @@ Reconciliation and restrictions:
 - The 5-star Bharat NCAP claim is a model-level FAQ statement; tested variant, protocol/version, test date and applicability to the 2026 facelift/powertrain lineup remain to be independently verified before storing a safety rating.
 - The official page's FAQ now confirms 5MT/5AMT on petrol and iCNG and 6MT on turbo petrol, but it does not by itself confirm every trim combination. Retain the 24 selector combinations as a first-pass selector capture only.
 
+
+
+## 2026 official brochure drivetrain-to-persona feature mapping (2026-11-22)
+
+Primary source: Tata Motors official New Punch brochure (January 2026), PDF:
+https://tatamotors-prod.adobecqms.net/content/dam/tml/pv/products/punch/year-2026/ice/promoting-vc/brochures/new-punch-brochure-jan%20.pdf
+
+The brochure contains both a 24-combination drivetrain matrix (PDF text around lines 500–574) and a persona walk / feature progression (around lines 655–793). This is stronger than treating the eight personas as an unqualified marketing ladder. The mapping below preserves the OEM trim names and separates persona equipment from powertrain-limited items.
+
+### Current 24 selector combinations reconciled to the brochure drivetrain matrix
+
+| Persona | Petrol MT | Petrol AMT | iCNG MT | iCNG AMT | Turbo petrol 6MT |
+|---|---:|---:|---:|---:|---:|
+| Smart | Yes | — | Yes | — | — |
+| Pure | Yes | — | Yes | — | — |
+| Pure+ | Yes | Yes | Yes | Yes | — |
+| Pure+ S | Yes | Yes | Yes | — | — |
+| Adventure | Yes | Yes | Yes | Yes | Yes |
+| Adventure S | Yes | — | Yes | Yes | — |
+| Accomplished | Yes | Yes | Yes | — | — |
+| Accomplished+ S | Yes | Yes | — | Yes | Yes |
+| **Total** | **8** | **5** | **6** | **3** | **2** |
+
+This reproduces the official selector's 24 current combinations and matches the brochure's drivetrain matrix. It does not establish that all 24 are simultaneously orderable at every dealer/location; retain orderability/effective-date verification as pending.
+
+### Persona equipment mapping (OEM additions)
+
+| Persona | Equipment progression captured in the official brochure |
+|---|---|
+| Smart | Six airbags (conflicts with current specs FAQ dual-airbag answer); Powersight LED headlamps; 10.16 cm digital cluster; City/Eco modes; ESP; hill-hold assist; iTPMS; smart steering wheel; follow-me-home lamps; front power windows; idle start-stop; keyless entry; central locking; puncture kit; ISOFIX; 3-point ELR with SBR all seats; front adjustable headrests |
+| Pure | Adds rear AC vents, CentralLuxe console/armrest, steering controls, 4 speakers, rear defogger, anti-glare IRVM, 15W front Type-C charger, all power windows, electrically adjustable ORVM, fixed rear grab handles |
+| Pure+ | Adds 20.32 cm Harman touchscreen, wireless Android Auto/Apple CarPlay, reverse camera, cruise control*, height-adjustable driver seat, 65W front + 15W rear Type-C charging, shark-fin antenna, wheel covers and listed cabin/utility items |
+| Pure+ S | Adds voice-assisted electric sunroof, roof rails, auto headlamps, rain-sensing wipers and grab-handle changes |
+| Adventure | Adds 360° surround-view camera, Blind View Monitor, R15 hyperstyled wheels, fully automatic climate control, push-button start, auto-fold ORVM, rear wiper/washer, air purifier, auto headlamps and rain-sensing wipers |
+| Adventure S | Adds voice-assisted sunroof and roof rails over Adventure |
+| Accomplished | Adds 26.03 cm touchscreen, R16 alloys, LED DRLs/connected tail-lamp, extended-thigh-support seats, automatic climate control, PEPS, hill-descent control, ambient lighting, 10.16 cm TFT cluster, cooled glovebox and listed rear/cabin equipment |
+| Accomplished+ S | Adds 17.78 cm digital cluster, sunroof, iRA, cornering LED fog lamps, wireless charger, R16 diamond-cut alloys, auto-dimming IRVM, 4 tweeters, roof rails, rear armrest, puddle lamp, Express Cool, leather steering/gear knob, one-touch driver window and powertrain-dependent paddle shifter** |
+
+### Powertrain-specific feature footnotes
+
+The brochure's footnotes are material and must be carried into normalization:
+- `Cruise Control*`: footnote says NA petrol MT/AMT and iCNG MT. Do not assign it to iCNG AMT or turbo MT based on the persona row alone.
+- `Paddle Shifter**`: footnote says NA petrol AMT and iCNG AMT. Do not assign it to manual variants.
+- The drivetrain matrix itself confirms Accomplished+ S iCNG AMT and turbo MT combinations, while excluding iCNG MT for Accomplished+ S.
+- The brochure states all features/specifications may vary by persona/powertrain and are subject to change; dealer confirmation remains required for actual current orderability.
+
+### Corrections and unresolved conflicts
+
+1. **Airbags:** brochure persona walk says six airbags at Smart level; the current Tata specifications FAQ says dual airbags. This is a direct OEM-source conflict. Do not store either as definitive variant-level fitment until Tata provides a dated homologation/order specification or written clarification.
+2. **iTPMS:** brochure says “real-time tyre pressure monitoring”; this still does not define whether the cluster gives numeric individual pressure per wheel. Keep the highline/individual-readout field unknown.
+3. **Audio:** Pure has 4 speakers; Accomplished+ S adds 4 tweeters. Harman is the infotainment touchscreen brand; the brochure does not establish Harman-branded speakers or a premium audio package. Do not label it Harman premium audio.
+4. **Bharat NCAP:** brochure and FAQ make a 5-star/model-level claim, but tested variant, protocol/version, test date and 2026 model-year applicability remain to be checked before creating a safety-rating record.
+5. **Pricing:** no complete official variant-wise ex-showroom table has been captured; starting price is not a variant price matrix.
+
+### Status
+
+- [x] Official 2026 brochure drivetrain matrix transcribed and reconciled with all 24 selector combinations.
+- [x] Persona feature progression transcribed with explicit cruise-control and paddle-shifter footnotes.
+- [x] Feature claims separated from unresolved airbag, TPMS-readout, audio-brand and BNCAP applicability questions.
+- [ ] Dated dealer orderability confirmation for all 24 combinations.
+- [ ] Official variant-wise ex-showroom prices with effective date.
+- [ ] Written OEM resolution of dual-vs-six-airbag conflict and exact iTPMS display behaviour.
+- [ ] Exact feature applicability/order-sheet confirmation for each current powertrain combination.
+- [ ] Source-specific factual-use review and independent reviewer sign-off.
+
+No Punch production records are approved by this update. Last checked: 2026-11-22.
