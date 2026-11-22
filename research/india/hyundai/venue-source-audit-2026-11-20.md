@@ -93,3 +93,33 @@ Decision:
 - Price effective date and Trichy applicability must be confirmed before ingestion.
 - Source rights remain pending; no publication approval is implied.
 - Last checked: 2026-11-22.
+
+
+## Variant identity & powertrain crosswalk — official matrix pass (2026-11-22)
+
+**Status: official trim × engine × transmission matrix transcribed; dealer orderability, independent review and rights approval remain open.**
+
+The live HMIL features matrix lists 13 trim labels and the following explicit combinations. A combination is recorded only where the official engine-and-trim table displays MT/AT/DCT.
+
+| Motivo powertrain identity | Engine / fuel | Explicit trim + transmission combinations | Count |
+|---|---|---|---:|
+| VENUE_12_MPI_PETROL | Kappa 1.2L MPi petrol | HX2 MT; HX4 MT; HX5 MT; HX5+ MT; HX5 Knight MT; HX6T MT; HX6T Knight MT | 7 |
+| VENUE_10_TGDI_PETROL | Kappa 1.0L Turbo GDi petrol | HX2 MT; HX5 MT; HX5 DCT; HX6 DCT; HX8 MT; HX8 DCT; HX10 DCT; HX10 Knight DCT | 8 |
+| VENUE_15_CRDI_DIESEL | U2 1.5L CRDi diesel | HX2 MT; HX5 MT; HX5 AT; HX5 Knight MT; HX7 MT; HX8 AT; HX8 Knight AT; HX10 AT | 8 |
+| **Total listed combinations** |  |  | **23** |
+
+Important distinction: HX5 and HX8 appear with more than one engine/transmission. These are separate variant identities. Knight editions are preserved as their own trim labels, not merged with standard trims.
+
+Transmission normalization:
+- MT = manual.
+- DCT and AT = automatic.
+- Do not classify DCT as manual merely because it has a dual-clutch mechanism.
+- HX6T / HX6T Knight are distinct trim names; do not merge them with HX6.
+
+The live matrix also contains separate feature rows for infotainment, safety, convenience, TPMS and connected-car equipment. Those rows must be audited independently by trim; this engine-plan crosswalk does not establish feature fitment.
+
+Evidence:
+- HMIL official Venue features matrix: https://www.hyundai.com/in/en/find-a-car/venue/features
+- Official Venue brochure: https://org3.hyundai.com/content/dam/hyundai/in/en/data/brochure/venue-digital-brochure.pdf
+
+This completes the first-pass official trim/powertrain crosswalk (23 listed combinations). Confirm effective model year, local dealer orderability, exact technical values and feature-by-feature fitment before normalization. HMIL source terms remain restrictive and no commercial redistribution approval has been obtained; no production import is permitted.
