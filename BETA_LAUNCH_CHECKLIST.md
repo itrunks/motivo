@@ -1,6 +1,6 @@
 # Motivo Beta Launch Checklist
 
-Last reviewed: 2026-11-20
+Last reviewed: 2026-11-22
 Repository: https://github.com/itrunks/motivo
 Production preview: https://itrunks.github.io/motivo
 Baseline branch: main
@@ -64,7 +64,7 @@ Out of first beta unless separately approved: public user accounts, paid feature
 | Tata PUNCH ICE | Official starting figure ₹5,74,990; full variant-wise price list not retrieved | Partial |
 | Tata NEXON ICE | Official starting price ₹7.39 lakh, range ₹7.39–15.50 lakh and FAQ Fearless+ PS ₹12.41 lakh; complete numeric variant table not exposed | Partial |
 
-No dealer on-road quotations or derived on-road estimates are being collected. Do not import any of these price findings into production until exact variant mapping, freshness and source-rights gates pass.
+No dealer on-road quotations or derived on-road estimates are being collected. Do not import any of these price findings into production until exact variant mapping, freshness and source-specific factual-use review pass.
 
 
 ### Variant identity & powertrain crosswalk — first pass (2026-11-22)
@@ -78,15 +78,15 @@ No dealer on-road quotations or derived on-road estimates are being collected. D
 | Tata PUNCH ICE | Current 2026 page/brochure does not expose complete machine-readable trim × engine × transmission matrix in retrieved content | — | Blocked |
 | Tata NEXON ICE | Current 2026 brochure link confirmed, but PDF fetch exceeds retrieval limit; live selector does not expose complete matrix in captured page text | — | Blocked |
 
-First-pass mapping total for the four mapped models: **78 trim/powertrain/transmission combinations**. These are not 78 fully reviewed production variants. Tata 2025 matrices must not be silently substituted for the current 2026 lineup. Priority feature-by-trim extraction has started for FRONX, Baleno, Venue, Creta and Nexon; Punch's current product page remains model-level only. Full feature matrices and independent review are still pending. All six models still require independent review, feature-by-feature applicability, model-year/effective-date confirmation and source-rights clearance.
+First-pass mapping total for the four mapped models: **78 trim/powertrain/transmission combinations**. These are not 78 fully reviewed production variants. Tata 2025 matrices must not be silently substituted for the current 2026 lineup. Priority feature-by-trim extraction has started for FRONX, Baleno, Venue, Creta and Nexon; Punch's current product page remains model-level only. Full feature matrices and independent review are still pending. All six models still require independent review, feature-by-feature applicability, model-year/effective-date confirmation and source-specific factual-use review.
 
 ### Phase 1 — catalogue and data quality
 - [x] Define a six-model closed-beta pilot scope across Maruti Suzuki, Hyundai and Tata; vehicle/source audits remain pending.
-- [x] Define source rights policy: commercial reuse and redistribution must be explicitly allowed; unknown/pending rights are not publishable.
-- [x] Add standard-library catalogue validation for record shape, references, dates, source provenance and publish rights.
-- [x] Add a separate source registry CSV and automated rights/provenance validator (crosswalk validation remains pending).
+- [x] Define source-use policy separating independently authored factual records, expressive-content reuse and automated-access restrictions (see docs/SOURCE_USE_AND_PUBLICATION_POLICY.md).
+- [x] Add standard-library catalogue validation for record shape, references, dates, source provenance and source-specific factual-publication approval.
+- [x] Add a separate source registry CSV and automated provenance/factual-use validator (crosswalk validation remains pending).
 - [ ] Verify current model/generation and complete variant lists for the six pilot candidates (first-pass official variant crosswalks captured for FRONX, Baleno, Venue and Creta; Punch and Nexon 2026 crosswalks blocked pending complete current official matrix; model-year confirmation and rights approval remain pending).
-- [ ] Audit source terms and record redistribution-eligible sources (Baleno, FRONX, Venue and Creta official product/feature/price/manual URLs registered; all reuse/redistribution rights remain pending, so none is eligible).
+- [ ] Review each source for factual-reference publication eligibility (all 20 currently registered sources have factual_use_review=pending; none is approved).
 - [ ] Normalize reviewed pilot research into brands/models/variants/specs/official ex-showroom prices/safety collections.
 - [ ] Add review and publish workflow; only approved records become public.
 - [ ] Add stale-price and stale-verification handling for official ex-showroom prices only.
@@ -163,7 +163,7 @@ A phase cannot be marked complete based on code existing alone. Require test evi
 
 1. No production vehicle records are connected to the UI (the app correctly shows an empty catalogue); the new normalized catalogue is intentionally empty.
 2. A published-only variants read endpoint now exists in source code; build verification, live deployment, Firestore data setup and external smoke tests remain pending.
-3. A separate source registry and validator now exist; the registry now contains four Baleno, three FRONX, four Hyundai Venue, three Hyundai Creta, three Punch and four Nexon official source candidates, all with reuse/redistribution rights pending; there are currently zero approved redistribution sources. Normalized catalogue bootstrap and CI validation now exist; rights-approved sources and actual import/review/publish workflow are still missing.
+3. A separate source registry and validator now exist; the registry now contains 20 official source candidates (all factual-use reviews pending); no source is yet approved for factual publication. Expressive-content reuse permissions remain separately pending. Normalized catalogue bootstrap and CI validation now exist; rights-approved sources and actual import/review/publish workflow are still missing.
 4. Firestore rules are intentionally deny-all; a safe server-mediated read path must be implemented before publishing data.
 5. README data-policy wording has been corrected; it still needs a fresh build verification.
 6. Live Firebase deployment, billing plan, secret configuration and runtime state have not been verified.
@@ -173,7 +173,7 @@ A phase cannot be marked complete based on code existing alone. Require test evi
 - Never claim a workflow, deployment, rule, secret, backup or endpoint is live unless a live check confirms it.
 - Do not import research notes into production automatically.
 - Preserve exact variant/year/generation and field-level source provenance.
-- No source with unknown reuse rights is eligible for redistribution.
+- No source with pending factual-use review is eligible to support published facts. Factual-use approval does not permit copying images, prose, brochure tables, PDFs or datasets; those require separate permission.
 - Do not use paid/metered provider credits without explicit approval.
 - Update this file after each meaningful implementation or verification step.
 
