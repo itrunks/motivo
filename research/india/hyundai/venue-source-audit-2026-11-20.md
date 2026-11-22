@@ -75,3 +75,21 @@ Operational decision:
 - Official VENUE feature matrix: https://www.hyundai.com/in/en/find-a-car/venue/features
 - Official Venue / Venue N Line owner's manual (Nov 2025 to present): https://www.hyundai.com/content/dam/hyundai/in/en/data/connect-to-service/owners-manual/2025/venue-venue-n-line-nov-2025-to-present.pdf
 - Official HMIL website Terms & Conditions: https://www.hyundai.com/in/en/utility/legal-disclaimer/terms-and-conditions-of-the-website
+
+
+## Official ex-showroom price check (2026-11-22)
+
+Status: **partially verified; variant-wise price list not captured; not publishable**.
+
+Checked Hyundai Motor India's official price page:
+https://www.hyundai.com/in/en/find-a-car/venue/price
+
+The current official page identifies the all-new VENUE as starting at ₹7,99,900 ex-showroom. It also exposes a state/city/fuel/transmission/variant selector, but the retrieved page content contains an empty “Variant | Prices” table; therefore it does not provide a verifiable complete variant-wise price list in this capture.
+
+Decision:
+- Record ₹7,99,900 only as the official page's current advertised starting ex-showroom price, not as a specific variant price.
+- Do not infer other HX trim prices from the starting figure or from dealer on-road quotations.
+- Exact variant-wise prices remain **unavailable / pending verification** until an official dated price list or fully rendered official selector output is captured.
+- Price effective date and Trichy applicability must be confirmed before ingestion.
+- Source rights remain pending; no publication approval is implied.
+- Last checked: 2026-11-22.
