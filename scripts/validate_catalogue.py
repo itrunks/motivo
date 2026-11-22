@@ -63,11 +63,16 @@ def main() -> int:
                     errors.append(f"source registry line {line}: duplicate source_id {sid}")
                 sources[sid] = {k: (v or "").strip() for k, v in row.items()}
 
-    approved = {
+    # Publishing independently authored factual records is reviewed separately
+    # from reusing the source's expressive content (images, prose, tables, PDFs).
+    # A reviewer must explicitly approve this source for factual-reference use.
+    # Commercial/redistribution permissions remain recorded for copied assets,
+    # source extracts, and other licensed-content workflows; they are not silently
+    # inferred from factual-use approval.
+    factual_sources = {
         sid for sid, row in sources.items()
-        if row.get("commercial_reuse_allowed", "").lower() in {"yes", "true"}
-        and row.get("redistribution_allowed", "").lower() in {"yes", "true"}
-        and row.get("review_status", "").lower() == "approved"
+        if row.get("factual_use_review", "").lower() == "approved"
+        and row.get("factual_use_basis", "").lower() == "independently_authored_facts"
         and row.get("terms_or_license_url", "").startswith("https://")
     }
 
@@ -113,8 +118,8 @@ def main() -> int:
                 continue
             if ref.get("url") != sources[sid].get("source_url"):
                 errors.append(f"{label}: source URL mismatch for {sid}")
-            if required and sid not in approved:
-                errors.append(f"{label}: source {sid} is not approved for redistribution")
+            if required and sid not in factual_sources:
+                errors.append(f"{label}: source {sid} is not approved for independently authored factual publication")
             if not valid_date(ref.get("retrievedAt")):
                 errors.append(f"{label}: sourceRefs[{n}].retrievedAt must be YYYY-MM-DD")
 
@@ -217,7 +222,7 @@ def main() -> int:
 
     if args.require_published and published_count == 0:
         errors.append("no published brands/models/variants found")
-    print(f"Catalogue: {total} records checked; {published_count} published brand/model/variant records; {len(approved)} approved sources")
+    print(f"Catalogue: {total} records checked; {published_count} published brand/model/variant records; {len(factual_sources)} factual-publication-approved sources")
     if errors:
         for error in errors:
             print("ERROR: " + error)
