@@ -66,3 +66,28 @@ No source above is marked redistribution-approved. The sources are recorded in d
 NEXA Terms of Use: https://www.nexaexperience.com/terms-of-use
 
 The terms state that copyright in site pages, information and material is owned by MSIL unless otherwise indicated, and prohibit extracting or re-utilising whole or part of website content without express written consent. Therefore the current conservative rights gate remains in force: commercial reuse and redistribution are pending, not approved. This is not a legal opinion on the status of individual factual data points; it is a fail-closed operational decision until that question is reviewed or permission is obtained.
+
+
+## Official ex-showroom price check (2026-11-22)
+
+Status: **partially verified; exact variant-wise price table not captured; not publishable**.
+
+Official NEXA Trichy price page:
+https://www.nexaexperience.com/fronx/price-in-trichy
+
+The page identifies the figures as ex-showroom pricing and its FAQ currently states:
+- Petrol variants (Sigma MT through Delta+ (O) MT): ₹6,89,853–₹8,64,453.
+- S-CNG variants (Sigma MT CNG and Delta MT CNG): ₹7,93,852–₹8,73,852.
+- Base Sigma MT: ₹6,89,853.
+- Top Alpha AT: ₹11,88,852.
+
+The page's live variant-price table did not render in the retrieved page content, so individual prices for every variant could not be independently captured. Do not infer intermediate variant prices from the ranges.
+
+A separate Maruti Suzuki pricing API result was found for FRONX with `forCode=08`; it reports a different base price (₹6,81,200) and a full response containing variant codes. The returned `forCode=08` is not established as Tamil Nadu/Trichy, so these figures must not be mixed into the Trichy price record. The state/market mapping for that code must be verified before using that endpoint.
+
+Price-policy handling:
+- Record only official ex-showroom values; no on-road, RTO, insurance, accessories, warranty, handling or offers.
+- For this audit, retain only the source-stated Trichy ranges and the explicitly named base/top figures as internal research evidence.
+- Exact variant-wise prices remain **unavailable** until the official page exposes the full table or an authorised official price list is captured.
+- Last checked: 2026-11-22. Recheck immediately before any future ingestion because prices are time-sensitive.
+- Source rights remain pending; this is not approval to redistribute the extracted values.
