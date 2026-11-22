@@ -40,8 +40,8 @@ For this pilot, collect official variant-wise ex-showroom prices only. Do not co
 - Prefer OEM India product pages, brochures, price lists, owner manuals, official press releases and official safety-test publications for factual vehicle fields.
 - Use independent publications and owner/community reports as corroboration or clearly labelled real-world observations, not as substitutes for missing OEM facts.
 - Record the exact source URL, retrieval date, publication/effective date when available, and field-level source references.
-- The current source registry requires explicit commercial reuse and redistribution approval before a source can support a published record. A publicly accessible OEM brochure is **not automatically** a redistribution licence.
-- If a source's terms are unclear, mark rights as pending and keep any extracted data in private review notes. Do not copy brochure prose, tables, images or other expressive content into the product.
+- Source review separates factual-reference use from expressive-content reuse and automated extraction. A published, independently authored factual record requires explicit source-specific factual-use approval in the registry. This is not the same as permission to copy a brochure table, image, prose, PDF or dataset; those require their own suitable licence/permission. See docs/SOURCE_USE_AND_PUBLICATION_POLICY.md.
+- If a source's terms or intended access method are unclear, mark factual-use review pending and keep findings in private audit notes. Do not use paraphrasing to work around terms that expressly prohibit the intended manual or automated use. Do not copy brochure prose, tables, images or other expressive content into the product.
 - Do not populate data/catalogue.json with draft guesses just to make the app look populated. Keep unknown values null/absent and retain the evidence trail.
 
 ## Work sequence
