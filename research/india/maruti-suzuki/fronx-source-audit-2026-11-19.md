@@ -91,3 +91,36 @@ Price-policy handling:
 - Exact variant-wise prices remain **unavailable** until the official page exposes the full table or an authorised official price list is captured.
 - Last checked: 2026-11-22. Recheck immediately before any future ingestion because prices are time-sensitive.
 - Source rights remain pending; this is not approval to redistribute the extracted values.
+
+
+## Variant identity & powertrain crosswalk — official-source pass (2026-11-22)
+
+**Status: variant-family mapping captured; independent second review and rights approval remain open.**
+
+Cross-checked the live NEXA FRONX product/variant page against the currently linked official brochure. The official page separates the lineup into Petrol, Turbo and S-CNG groups; the brochure technical table independently confirms the transmission families and core engine outputs.
+
+| Motivo powertrain identity | Fuel / engine | Official trim + transmission combinations | Count |
+|---|---|---|---:|
+| FRONX_12_NA_PETROL | Petrol, 1.2L K-Series Dual Jet Dual VVT | Sigma MT; Delta MT; Delta AMT; Delta+ MT; Delta+ AMT; Delta+ (O) MT | 6 |
+| FRONX_10_TURBO_PETROL | Petrol, 1.0L Turbo Boosterjet | Delta+ MT; Zeta MT; Zeta AT; Alpha MT; Alpha AT | 5 |
+| FRONX_12_SCNG | Petrol + factory S-CNG, 1.2L | Sigma MT CNG; Delta MT CNG | 2 |
+| **Total listed combinations** |  |  | **13** |
+
+Technical cross-check from the official brochure:
+- 1.2L petrol: 66 kW / 89.73 PS, 113 Nm; 5MT or 5AMT.
+- 1.2L S-CNG: petrol mode 66 kW / 89.73 PS and 113 Nm; CNG mode 57 kW / 77.5 PS and 98.5 Nm; 5MT.
+- 1.0L turbo petrol: 73.6 kW / 100.06 PS, 147.6 Nm; 5MT or 6AT.
+- The official brochure identifies the 1.0L turbo system as a mild-hybrid/ISG-assisted powertrain; preserve exact official terminology in normalized technical records.
+
+Mapping rules:
+1. Treat Delta+ MT in the 1.2L naturally aspirated group and Delta+ MT in the 1.0L turbo group as different variant records.
+2. Treat AMT and AT as automatic transmissions, never manual.
+3. Do not create a 1.2L AMT CNG variant; the current official variant group lists only CNG MT.
+4. Keep model year / effective date and city-specific pricing as separate dimensions from this variant identity map.
+5. Do not inherit model-level marketing features across every trim.
+
+Evidence:
+- Current official NEXA FRONX variant page: https://www.nexaexperience.com/fronx
+- Official FRONX brochure: https://www.nexaexperience.com/content/dam/msil/nexa/in/en/assets/cars/fronx/documents/NEXA-Fronx-Brochure.pdf
+
+This completes the first-pass official variant-family crosswalk only. It does not clear the model for production import: source redistribution rights remain pending, feature-by-variant review and independent verification remain open, and exact current Trichy variant prices are not fully captured.
