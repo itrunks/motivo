@@ -123,3 +123,27 @@ Evidence:
 - Official Venue brochure: https://org3.hyundai.com/content/dam/hyundai/in/en/data/brochure/venue-digital-brochure.pdf
 
 This completes the first-pass official trim/powertrain crosswalk (23 listed combinations). Confirm effective model year, local dealer orderability, exact technical values and feature-by-feature fitment before normalization. HMIL source terms remain restrictive and no commercial redistribution approval has been obtained; no production import is permitted.
+
+
+## Priority feature-by-trim extraction — official matrix (2026-11-22)
+
+The current HMIL feature matrix was re-opened and the following high-value rows were transcribed. These are trim-level statements from the matrix; where the matrix has powertrain-specific footnotes, those conditions must be preserved.
+
+| Feature | Officially listed applicability | Normalization note |
+|---|---|---|
+| TPMS Highline | HX4, HX5, HX5+, HX5 Knight, HX6, HX6T, HX6T Knight, HX7, HX8, HX8 Knight, HX10, HX10 Knight | Not listed for HX2; keep distinct from lowline/indirect TPMS |
+| Bose premium 8-speaker system | HX10, HX10 Knight | Other trims list front/rear speakers; do not call them Bose |
+| 12.3-inch ccNC navigation system | HX10, HX10 Knight | Other trims use 10.25-inch ccNC infotainment |
+| Wireless Android Auto / Apple CarPlay | All 13 trim labels | The matrix explicitly says Wireless; retain wireless as a separate capability |
+| 12.3-inch full digital cluster | HX10, HX10 Knight | Other trims list 10.66 cm colour TFT digital cluster |
+| Front ventilated seats | HX8, HX8 Knight, HX10, HX10 Knight | Not a model-wide feature |
+| 360-degree Surround View Monitor + Blind Spot View Monitor | HX10, HX10 Knight | Not listed for lower trims |
+| Dashcam | HX6T, HX6T Knight, HX10, HX10 Knight | Do not confuse with dealer accessory fitment |
+| Smart key with push-button start | Listed across HX5 / HX5+ / HX5 Knight and higher trims, with footnote-specific powertrain restrictions | Preserve the footnotes; confirm each exact engine combination before variant-level publication |
+| Rear window sunshade | HX5+, HX6, HX6T, HX6T Knight, HX7, HX8, HX8 Knight, HX10, HX10 Knight | Not listed for HX2, HX4, HX5, HX5 Knight |
+
+Important user-priority finding: Bose audio is limited to HX10 / HX10 Knight in the current matrix, while wireless AA/CarPlay is listed across all trim labels. Highline TPMS begins at HX4, not HX2. The exact smart-key/push-start fitment has powertrain-specific footnotes and must not be simplified to “all HX5+ and above” without resolving those footnotes.
+
+Source: https://www.hyundai.com/in/en/find-a-car/venue/features
+
+This is a focused extraction, not the complete feature matrix. Remaining feature categories (exterior, seats, climate, connected services, ADAS and powertrain-specific exceptions) still require a full row-by-row audit and independent reviewer sign-off.
