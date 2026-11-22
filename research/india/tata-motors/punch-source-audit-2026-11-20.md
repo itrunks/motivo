@@ -105,3 +105,32 @@ Decision:
 - Punch first-pass current selector crosswalk: **24 combinations captured**.
 - This is not yet a complete feature matrix or publishable variant dataset.
 - Exact variant-wise ex-showroom prices, current model-year/effective date, feature applicability, conflicting safety claims, source-specific factual-use review and independent review remain pending.
+
+
+## 2026 brochure persona feature matrix recheck (2026-11-22)
+
+Source: https://tatamotors-prod.adobecqms.net/content/dam/tml/pv/products/punch/year-2026/ice/promoting-vc/brochures/new-punch-brochure-jan%20.pdf
+
+The current official 2026 brochure provides a persona-based feature progression. The following is recorded as a **persona-level** matrix, not yet as a fully verified 24-row variant matrix. Exact engine/edition footnotes must be preserved when expanding it to each selector combination.
+
+| Persona | Brochure-listed equipment / additions |
+|---|---|
+| Smart | Six airbags, Powersight LED headlamps, 10.16 cm digital cluster, City/Eco modes, ESP, hill-hold assist, iTPMS, follow-me-home headlamps, front power windows, idle start-stop, keyless entry, central locking, ISOFIX and 3-point ELR with SBR for all seats |
+| Pure (over Smart) | Rear AC vents, centre console/armrest, steering-mounted controls, 4 speakers, rear defogger, anti-glare IRVM, all power windows and electrically adjustable ORVM |
+| Pure+ (over Pure) | Harman touchscreen, wireless Android Auto/Apple CarPlay, reverse camera, cruise control, height-adjustable driver seat and fast charging |
+| Pure+ S (over Pure+) | Voice-assisted electric sunroof, roof rails, auto headlamps and rain-sensing wipers |
+| Adventure (over Pure+) | 360° surround-view camera, Blind View Monitor, automatic climate control, push-button start, auto-fold ORVM, rear wiper/washer, air purifier, auto headlamps and rain-sensing wipers |
+| Adventure S (over Adventure) | Voice-assisted sunroof and roof rails |
+| Accomplished (over Adventure) | 26.03 cm touchscreen, alloy wheels, LED DRLs/connected tail-lamp, extended-thigh-support seats, automatic climate control, PEPS, hill-descent control, ambient lighting, cooled glovebox and parcel tray |
+| Accomplished+ S (over Accomplished) | 17.78 cm digital cluster, sunroof, iRA connectivity, LED fog lamps with cornering, wireless charger, auto-dimming IRVM, 4 tweeters, roof rails, rear armrest, puddle lamp and express cooling |
+
+Important normalization controls:
+- The brochure's speaker count is 4 speakers on Pure and adds 4 tweeters on Accomplished+ S. It does not establish a branded premium audio system such as JBL/Bose/Harman Kardon; Harman is explicitly attached to the infotainment touchscreen.
+- Do not equate iTPMS with individual live pressure readouts. The brochure/product wording describes tyre-pressure monitoring/alerts but does not confirm per-wheel numeric values.
+- The brochure's feature hierarchy is persona-level. Do not assume every feature carries unchanged across petrol MT/AMT, CNG MT/AMT and turbo MT without checking its footnotes and the exact current selector item.
+- Safety conflict remains: the 2026 brochure lists six airbags in the Smart persona, while the current specifications-page FAQ says dual airbags. Keep airbag fitment unresolved at record level until Tata confirms which source is current/correct; do not erase the conflict.
+- The current specifications page confirms 193 mm ground clearance, while the product-page lower summary still contains 187 mm. Use 193 mm only with the specifications-page source and retain the conflicting marketing-page statement in the audit log.
+
+Decision:
+- Persona-level feature extraction has started for all eight trim families.
+- Exact feature applicability across all 24 combinations and the airbag conflict remain open.
