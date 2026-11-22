@@ -142,14 +142,14 @@ Decision:
 
 **Status: official trim × engine × transmission matrix transcribed; current dealer orderability, independent review and rights approval remain open.**
 
-The live HMIL CRETA features matrix lists the following exact combinations:
+The live HMIL CRETA features matrix now lists a tenth trim, Lounge Edition, in addition to E, EX, EX(O), S(O), S(O) Knight, SX, SX Premium, King and King Knight. The crosswalk below includes the newly visible Lounge Edition combinations:
 
 | Motivo powertrain identity | Engine / fuel | Explicit trim + transmission combinations | Count |
 |---|---|---|---:|
-| CRETA_15_MPI_PETROL | 1.5L MPi petrol | E MT; EX MT; EX(O) MT; S(O) MT; S(O) Knight MT; SX MT; SX Premium MT; King MT; EX(O) IVT; S(O) IVT; SX Premium IVT; King IVT; King Knight IVT | 13 |
-| CRETA_15_CRDI_DIESEL | 1.5L U2 CRDi diesel | E MT; EX MT; EX(O) MT; S(O) MT; S(O) Knight MT; SX MT; King MT; King Knight MT; EX(O) AT; S(O) AT; King AT; King Knight AT | 12 |
+| CRETA_15_MPI_PETROL | 1.5L MPi petrol | E MT; EX MT; EX(O) MT; S(O) MT; S(O) Knight MT; SX MT; SX Premium MT; King MT; King Knight MT; EX(O) IVT; S(O) IVT; SX Premium IVT; King IVT; King Knight IVT; Lounge Edition IVT | 15 |
+| CRETA_15_CRDI_DIESEL | 1.5L U2 CRDi diesel | E MT; EX MT; EX(O) MT; S(O) MT; S(O) Knight MT; SX MT; King MT; King Knight MT; EX(O) AT; S(O) AT; King AT; King Knight AT; Lounge Edition AT | 13 |
 | CRETA_15_TGDI_PETROL | 1.5L Turbo GDi petrol | King DCT | 1 |
-| **Total listed combinations** |  |  | **26** |
+| **Total listed combinations** |  |  | **29** |
 
 Correction to avoid ambiguity: the matrix has 9 trim columns (E, EX, EX(O), S(O), S(O) Knight, SX, SX Premium, King, King Knight). The E trim is explicitly shown with MT for both 1.5L MPi petrol and 1.5L CRDi diesel. Preserve these base manual variants.
 
@@ -159,10 +159,32 @@ Transmission normalization:
 - Preserve trim suffixes such as Knight Edition; do not merge those with standard trim records.
 - Preserve petrol MPi, diesel CRDi and turbo GDi as separate powertrain identities even when the trim label is the same.
 
-The official price page captured 22 petrol and 16 diesel price rows in the earlier price pass, while this engine matrix crosswalk yields 13 MPi petrol + 12 diesel + 1 Turbo GDi = 26 trim/powertrain/transmission combinations. This discrepancy means the price rows and matrix rows must not be joined by trim label alone; exact engine/transmission identity and price-page suffixes need a reconciliation pass before any price record is normalized. The price audit's count and this matrix count describe different captured page content and are not interchangeable.
+The official price page captured 22 petrol and 16 diesel price rows in the earlier price pass, while this engine matrix crosswalk yields 15 MPi petrol + 13 diesel + 1 Turbo GDi = 29 trim/powertrain/transmission combinations. This discrepancy means the price rows and matrix rows must not be joined by trim label alone; exact engine/transmission identity and price-page suffixes need a reconciliation pass before any price record is normalized. The price audit's count and this matrix count describe different captured page content and are not interchangeable.
 
 Evidence:
 - HMIL official CRETA features matrix: https://www.hyundai.com/in/en/find-a-car/creta/features
 - HMIL official CRETA price page: https://www.hyundai.com/in/en/find-a-car/creta/price
 
 This completes the first-pass official trim/powertrain crosswalk. Reconcile the official price-page rows, confirm current model-year and local orderability, audit all feature rows by exact variant, and obtain rights clearance before normalization. No production import is approved.
+
+
+## Priority feature-by-trim extraction — official matrix (2026-11-22)
+
+| Feature | Officially listed applicability | Normalization note |
+|---|---|---|
+| TPMS Highline | All listed trims, including Lounge Edition | The current matrix lists Highline TPMS throughout |
+| Bose premium 8-speaker system with front centre speaker + subwoofer | SX Premium, King, King Knight, Lounge Edition | Do not attribute Bose to SX or lower trims |
+| Wireless Android Auto / Apple CarPlay | EX(O), S(O), S(O) Knight, SX, SX Premium, King, King Knight and Lounge Edition | EX and E do not list smartphone connectivity; preserve the distinction |
+| 10.25-inch HD audio-video navigation system | SX, SX Premium, King, King Knight, Lounge Edition | E/EX/EX(O)/S(O) rows differ; avoid model-wide claims |
+| Front ventilated seats | SX Premium, King, King Knight, Lounge Edition | Not standard on lower trims |
+| 360-degree Surround View Monitor + Blind Spot View Monitor | SX Premium, King, King Knight, Lounge Edition | These are separate rows; both listed on the same upper trim set |
+| Dashcam | S(O), S(O) Knight, SX, SX Premium, King, King Knight, Lounge Edition | Matrix lists it from S(O) upward |
+| Smart key with push-button start and motion sensor | EX and above, including Lounge Edition | Distinct from foldable-key keyless entry row |
+| Remote engine start with smart key | SX, SX Premium, King, King Knight, Lounge Edition | Explicitly not listed for lower trims |
+| Rear window sunshade | EX(O), S(O), S(O) Knight, SX, SX Premium, King, King Knight, Lounge Edition | Preserve exact fitment; not listed for E/EX |
+
+Priority finding: Bose is listed from SX Premium upward (including Lounge Edition); wireless smartphone connectivity starts at EX(O), not at EX. Highline TPMS is listed across the full trim range. Remote engine start begins at SX in the current matrix.
+
+Source: https://www.hyundai.com/in/en/find-a-car/creta/features
+
+This is a focused feature extraction, not the complete feature matrix. The newly visible Lounge Edition must be included in model-year, price, engine/transmission and local orderability reconciliation before publication.
