@@ -146,12 +146,12 @@ The live HMIL CRETA features matrix lists the following exact combinations:
 
 | Motivo powertrain identity | Engine / fuel | Explicit trim + transmission combinations | Count |
 |---|---|---|---:|
-| CRETA_15_MPI_PETROL | 1.5L MPi petrol | EX MT; EX(O) MT; S(O) MT; S(O) Knight MT; SX MT; SX Premium MT; King MT; King IVT; King Knight IVT; SX Premium IVT; EX(O) IVT; S(O) IVT | 12 |
-| CRETA_15_CRDI_DIESEL | 1.5L U2 CRDi diesel | EX MT; EX(O) MT; S(O) MT; S(O) Knight MT; SX MT; King MT; King Knight MT; EX(O) AT; S(O) AT; King AT; King Knight AT | 11 |
+| CRETA_15_MPI_PETROL | 1.5L MPi petrol | E MT; EX MT; EX(O) MT; S(O) MT; S(O) Knight MT; SX MT; SX Premium MT; King MT; EX(O) IVT; S(O) IVT; SX Premium IVT; King IVT; King Knight IVT | 13 |
+| CRETA_15_CRDI_DIESEL | 1.5L U2 CRDi diesel | E MT; EX MT; EX(O) MT; S(O) MT; S(O) Knight MT; SX MT; King MT; King Knight MT; EX(O) AT; S(O) AT; King AT; King Knight AT | 12 |
 | CRETA_15_TGDI_PETROL | 1.5L Turbo GDi petrol | King DCT | 1 |
-| **Total listed combinations** |  |  | **24** |
+| **Total listed combinations** |  |  | **26** |
 
-Correction to avoid ambiguity: the matrix has 9 trim columns (E, EX, EX(O), S(O), S(O) Knight, SX, SX Premium, King, King Knight). The E trim is shown as a column but no engine/transmission combination is marked for it in the captured engine-plan rows. Do not create an E variant record from this matrix.
+Correction to avoid ambiguity: the matrix has 9 trim columns (E, EX, EX(O), S(O), S(O) Knight, SX, SX Premium, King, King Knight). The E trim is explicitly shown with MT for both 1.5L MPi petrol and 1.5L CRDi diesel. Preserve these base manual variants.
 
 Transmission normalization:
 - MT = manual.
@@ -159,7 +159,7 @@ Transmission normalization:
 - Preserve trim suffixes such as Knight Edition; do not merge those with standard trim records.
 - Preserve petrol MPi, diesel CRDi and turbo GDi as separate powertrain identities even when the trim label is the same.
 
-The official price page captured 22 petrol and 16 diesel price rows in the earlier price pass, while this engine matrix crosswalk yields 12 MPi petrol + 11 diesel + 1 Turbo GDi = 24 trim/powertrain/transmission combinations. This discrepancy means the price rows and matrix rows must not be joined by trim label alone; exact engine/transmission identity and price-page suffixes need a reconciliation pass before any price record is normalized. The price audit's count and this matrix count describe different captured page content and are not interchangeable.
+The official price page captured 22 petrol and 16 diesel price rows in the earlier price pass, while this engine matrix crosswalk yields 13 MPi petrol + 12 diesel + 1 Turbo GDi = 26 trim/powertrain/transmission combinations. This discrepancy means the price rows and matrix rows must not be joined by trim label alone; exact engine/transmission identity and price-page suffixes need a reconciliation pass before any price record is normalized. The price audit's count and this matrix count describe different captured page content and are not interchangeable.
 
 Evidence:
 - HMIL official CRETA features matrix: https://www.hyundai.com/in/en/find-a-car/creta/features
