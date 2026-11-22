@@ -63,3 +63,37 @@ Decision:
 - Price status remains **unavailable / pending verification**, not zero and not estimated.
 - Source rights remain pending; no publication approval is implied.
 - Last checked: 2026-11-22.
+
+
+## Variant identity & powertrain crosswalk — official-source pass (2026-11-22)
+
+**Status: live official variant families captured; CNG AGS needs brochure/configurator order-level confirmation; independent review and rights approval remain open.**
+
+The current NEXA Baleno product page separates the lineup as follows:
+
+| Motivo powertrain identity | Fuel / engine | Official trim + transmission combinations | Count | Confidence |
+|---|---|---|---:|---|
+| BALENO_Z12E_PETROL | Petrol, Z12E series | Sigma MT; Delta MT; Delta AMT; Zeta MT; Zeta AMT; Alpha MT; Alpha AMT; Alpha(O) MT; Alpha(O) AMT | 9 | Live official page |
+| BALENO_Z12E_SCNG | Petrol + S-CNG | Delta CNG MT; Zeta CNG MT; Delta CNG AGS; Zeta CNG AGS | 4 | Live official page; confirm orderability in current configurator |
+| **Total listed combinations** |  |  | **13** |  |
+
+The live official page explicitly lists the four CNG combinations, including Delta CNG AGS and Zeta CNG AGS. This resolves the earlier page-vs-launch-release discrepancy for the **current live website listing**, but does not yet prove every combination is orderable in every city or available for immediate dealer allocation. Keep the current configurator/order sheet as a remaining confirmation gate.
+
+Powertrain notes:
+- Current launch release identifies Z12E petrol output as 61 kW (approx. 82.9 PS) at 5,700 rpm and 112.4 Nm at 4,500 rpm.
+- The current official product page describes AGS as a 5-speed automated manual transmission. It is an automatic transmission for Motivo filters, not MT.
+- Do not infer exact CNG-mode output, gear ratios or variant-level equipment from the model highlights page; capture these from the dated technical brochure/configurator only.
+
+Mapping rules:
+1. The same trim may have MT and AMT records; preserve transmission as part of variant identity.
+2. Do not assume CNG AGS is available in every NEXA city solely because it appears on the national product page.
+3. Do not transfer petrol feature fitment to CNG variants without an explicit variant matrix.
+4. Preserve exact trim spelling including Alpha(O).
+5. Model-year, effective price date, and local availability remain independent attributes.
+
+Evidence:
+- Current official NEXA Baleno variant page: https://www.nexaexperience.com/baleno
+- Current official brochure linked from that page: https://www.nexaexperience.com/content/dam/msil/nexa/in/en/assets/cars/newbaleno/download-brochure/The-Stunning-New-Baleno-Brochure.pdf
+- September 2026 launch release: https://www.marutisuzuki.com/corporate/media/press-releases/2026/september/dare-to-go-glam-with-the-stunning-new-baleno-designed-for-dynamic-achievers
+
+This completes the first-pass live-page variant-family crosswalk only. Full model-year/orderability confirmation, field-level feature matrix, technical cross-check, exact variant-wise Trichy price capture, independent review and source redistribution rights remain open. No production import is approved.
