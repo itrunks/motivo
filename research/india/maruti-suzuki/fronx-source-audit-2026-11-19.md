@@ -124,3 +124,28 @@ Evidence:
 - Official FRONX brochure: https://www.nexaexperience.com/content/dam/msil/nexa/in/en/assets/cars/fronx/documents/NEXA-Fronx-Brochure.pdf
 
 This completes the first-pass official variant-family crosswalk only. It does not clear the model for production import: source redistribution rights remain pending, feature-by-variant review and independent verification remain open, and exact current Trichy variant prices are not fully captured.
+
+
+## Priority feature-by-trim extraction — current brochure cross-check (2026-11-22)
+
+The currently linked official FRONX brochure contains a feature matrix, but its persona columns do not fully match the live website's current trim list. Use the matrix only as evidence for the overlapping personas; do not force-map its older Alpha persona to the current Alpha(O) trim.
+
+| Feature | Brochure matrix applicability | Important limitation |
+|---|---|---|
+| Six airbags (front, side and curtain) | All five brochure personas: Sigma, Delta, Delta+, Zeta, Alpha | Current website's live variant list has additional Alpha(O) and CNG AGS combinations not represented as separate matrix columns |
+| ESP + Hill Hold Assist | All five brochure personas | Model-level / matrix standard-fit evidence |
+| Wireless Android Auto / Apple CarPlay | Delta, Delta+, Zeta, Alpha; not Sigma | Do not infer for Sigma |
+| ARKAMYS Surround Sense premium sound | Alpha persona only | No Bose, JBL or Harman branding is established for FRONX |
+| Wireless smartphone charger | Zeta and Alpha personas | Do not infer for Sigma/Delta/Delta+ |
+| Rear-view camera | Zeta and Alpha personas | Matrix's 360 View Camera row is marked unavailable in all five personas |
+| HUD | Matrix row is marked unavailable in all five personas | Conflicts with current NEXA marketing highlights that advertise HUD; exact variant fitment is unresolved |
+| 360 View Camera | Matrix row is marked unavailable in all five personas | Conflicts with current NEXA marketing highlights; do not publish as a standard feature without a current exact-variant source |
+| Auto-dimming IRVM | Alpha persona only | Matrix labels the Alpha IRVM as automatic; other personas manual day/night |
+
+**Material source mismatch:** the brochure feature matrix shows only Sigma, Delta, Delta+, Zeta and Alpha groups. The current live NEXA page lists additional Alpha(O) petrol MT/AMT and CNG AGS combinations. Therefore the current brochure matrix is not a complete one-to-one current variant matrix. The live page's HUD and 360-camera marketing highlights also conflict with the brochure's matrix rows. These items remain unresolved, not “yes” or “no”, until an updated exact-variant matrix is available.
+
+Source:
+- Current official NEXA FRONX page: https://www.nexaexperience.com/fronx
+- Currently linked official brochure: https://www.nexaexperience.com/content/dam/msil/nexa/in/en/assets/cars/fronx/documents/NEXA-Fronx-Brochure.pdf
+
+This completes a limited priority-feature extraction only. Exact current trim applicability, Alpha(O) mapping, CNG AGS fitment, independent review and source-rights approval remain pending.
