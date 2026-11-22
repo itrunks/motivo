@@ -97,3 +97,47 @@ Evidence:
 - September 2026 launch release: https://www.marutisuzuki.com/corporate/media/press-releases/2026/september/dare-to-go-glam-with-the-stunning-new-baleno-designed-for-dynamic-achievers
 
 This completes the first-pass live-page variant-family crosswalk only. Full model-year/orderability confirmation, field-level feature matrix, technical cross-check, exact variant-wise Trichy price capture, independent review and source redistribution rights remain open. No production import is approved.
+
+
+## Current 2026 brochure: variant crosswalk and priority feature matrix (2026-11-22)
+
+The current brochure linked from the live NEXA page was retrieved and reviewed. It explicitly identifies these seven powertrain/trim groups and 13 combinations:
+
+| Powertrain identity | Fuel | Exact trim/transmission combinations | Count |
+|---|---|---|---:|
+| BALENO_Z12E_PETROL | Petrol | Sigma MT; Delta MT; Delta AMT; Zeta MT; Zeta AMT; Alpha MT; Alpha AMT; Alpha(O) MT; Alpha(O) AMT | 9 |
+| BALENO_Z12E_SCNG | Petrol + CNG | Delta S-CNG MT; Delta S-CNG AMT; Zeta S-CNG MT; Zeta S-CNG AMT | 4 |
+| **Total** |  |  | **13** |
+
+This current brochure confirms S-CNG with both MT and AMT for Delta and Zeta. The earlier launch-release wording that only described S-CNG MT was incomplete; the live product page and current brochure both list CNG AGS. Keep local orderability and exact city allocation as separate checks.
+
+### High-priority feature applicability
+
+| Feature | Sigma MT | Delta petrol/CNG MT/AMT | Zeta petrol/CNG MT/AMT | Alpha MT/AMT | Alpha(O) MT/AMT |
+|---|---|---|---|---|---|
+| 6 airbags | Yes | Yes | Yes | Yes | Yes |
+| ESP + Hill Hold Assist | Yes | Yes | Yes | Yes | Yes |
+| TPMS | No | Yes | Yes | Yes | Yes |
+| Wireless Android Auto / Apple CarPlay | No | Yes | Yes | Yes | Yes |
+| SmartPlay Pro+ | No | No | Yes | Yes | Yes |
+| Premium Sound System by Clarion | No | No | No | Yes | Yes |
+| 360 View Camera | No | No | No | Yes | Yes |
+| HUD | No | No | No | Yes | Yes |
+| Front ventilated seats | No | No | No | Yes | Yes |
+| Wireless charger | No | No | Yes | Yes | Yes |
+| Auto AC | Manual AC | Manual AC | Auto AC | Auto AC | Auto AC |
+| Push start/stop | No | No | Yes | Yes | Yes |
+| Suzuki Connect remote operations | No | No | Yes | Yes | Yes |
+| Level 2 ADAS | No | No | No | No | Yes |
+
+Clarifications:
+- Clarion is the premium audio brand confirmed for Alpha and Alpha(O); do not label it Bose, JBL or Harman.
+- The brochure shows ADAS Level 2+ only for Alpha(O), with ACC, lane-keep assist, lane-departure prevention/warning, vehicle sway warning, advanced emergency braking, forward collision warning and high-beam assist.
+- Suzuki Connect remote functions listed include door lock/cancel lock, hazard lights, headlights off, alarm, immobilizer request and battery health. Remote engine start and remote cabin pre-cooling are not listed in this brochure.
+- TPMS is listed from Delta onward, but the brochure does not establish individual live tyre-pressure values. Do not label it highline TPMS.
+- The brochure groups petrol and CNG variants in the same Delta/Zeta feature columns. Any fuel-specific exception must be checked before applying a feature to CNG.
+
+Source: current official NEXA brochure:
+https://www.nexaexperience.com/content/dam/msil/nexa/in/en/assets/cars/newbaleno/download-brochure/The-Stunning-New-Baleno-Brochure.pdf
+
+This completes the first-pass current brochure feature matrix for the five brochure personas. Exact local availability, any fuel-specific footnotes, effective model-year, exact current Trichy ex-showroom price per variant, independent review and source-rights approval remain pending. Do not import these findings into production.
