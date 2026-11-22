@@ -68,3 +68,71 @@ Operational decision:
 - Official CRETA feature matrix: https://www.hyundai.com/in/en/find-a-car/creta/features
 - Official CRETA price page: https://www.hyundai.com/in/en/find-a-car/creta/price
 - Official HMIL website Terms & Conditions: https://www.hyundai.com/in/en/utility/legal-disclaimer/terms-and-conditions-of-the-website
+
+
+## Official ex-showroom price check (2026-11-22)
+
+Status: **official variant-wise prices captured for listed petrol/diesel combinations; Turbo GDi coverage incomplete; Trichy-specific applicability and rights pending**.
+
+Source: Hyundai Motor India's official CRETA price page:
+https://www.hyundai.com/in/en/find-a-car/creta/price
+
+The page explicitly labels these as ex-showroom prices. Values below are transcribed from the official page as observed on 2026-11-22; they are not on-road prices.
+
+### Petrol
+
+| Variant / powertrain | Ex-showroom price |
+|---|---:|
+| 1.5 MPi Petrol MT E | ₹10,90,700 |
+| 1.5 MPi Petrol MT EX | ₹12,06,700 |
+| 1.5 MPi Petrol MT EX(O) | ₹13,14,200 |
+| 1.5 MPi Petrol MT S(O) | ₹14,20,700 |
+| 1.5 MPi Petrol MT S(O) Knight Edition | ₹14,39,200 |
+| 1.5 MPi Petrol IVT EX(O) | ₹14,49,700 |
+| 1.5 MPi Petrol MT SX | ₹14,99,900 |
+| 1.5 MPi Petrol MT SX DT | ₹15,19,400 |
+| 1.5 MPi Petrol IVT S(O) | ₹15,65,700 |
+| 1.5 MPi Petrol MT SX Premium | ₹16,34,200 |
+| 1.5 MPi Petrol MT SX Premium DT | ₹16,49,200 |
+| 1.5 MPi Petrol MT King | ₹17,27,800 |
+| 1.5 MPi Petrol MT King DT | ₹17,42,800 |
+| 1.5 MPi Petrol IVT SX Premium | ₹17,78,700 |
+| 1.5 MPi Petrol IVT SX Premium DT | ₹17,93,700 |
+| 1.5 MPi Petrol IVT King | ₹18,68,800 |
+| 1.5 MPi Petrol IVT King Knight Edition | ₹18,83,300 |
+| 1.5 MPi Petrol IVT King DT | ₹18,83,800 |
+| 1.5 MPi Petrol IVT King Lounge | ₹19,21,700 |
+| 1.5 MPi Petrol IVT King Lounge DT | ₹19,36,700 |
+| 1.5 Turbo Petrol DCT King | ₹19,91,300 |
+| 1.5 Turbo Petrol DCT King DT | ₹20,06,300 |
+
+### Diesel
+
+| Variant / powertrain | Ex-showroom price |
+|---|---:|
+| 1.5 CRDi Diesel MT DSL E | ₹12,61,000 |
+| 1.5 CRDi Diesel MT DSL EX | ₹13,73,000 |
+| 1.5 CRDi Diesel MT DSL EX(O) | ₹14,80,200 |
+| 1.5 CRDi Diesel MT DSL S(O) | ₹15,91,700 |
+| 1.5 CRDi Diesel MT DSL S(O) Knight Edition | ₹16,10,200 |
+| 1.5 CRDi Diesel AT DSL EX(O) | ₹16,15,200 |
+| 1.5 CRDi Diesel AT DSL S(O) | ₹17,36,700 |
+| 1.5 CRDi Diesel MT DSL SX Premium | ₹17,99,700 |
+| 1.5 CRDi Diesel MT DSL SX Premium DT | ₹18,14,700 |
+| 1.5 CRDi Diesel MT DSL King | ₹18,92,800 |
+| 1.5 CRDi Diesel MT DSL King DT | ₹19,07,800 |
+| 1.5 CRDi Diesel AT DSL King | ₹19,80,800 |
+| 1.5 CRDi Diesel AT DSL King DT | ₹19,95,800 |
+| 1.5 CRDi Diesel AT DSL King Knight Edition | ₹20,14,300 |
+| 1.5 CRDi Diesel AT DSL King Lounge | ₹20,30,700 |
+| 1.5 CRDi Diesel AT DSL King Lounge DT | ₹20,45,700 |
+
+The page's retrieved price table does not show the complete Turbo GDi DCT variant family; only the two King DCT entries above appear in the petrol section. Do not invent or infer omitted combinations. The listed values are the source's current India price-page values; a dedicated Chennai/Tiruchirappalli page should be checked before any city-specific display.
+
+Decision:
+- Variant-wise ex-showroom values above are captured as internal research evidence only.
+- Keep exact variant identity aligned to the live feature/variant matrix; DT and special-edition suffixes must not be discarded.
+- Turbo GDi DCT price coverage remains incomplete.
+- Do not convert these figures to on-road prices or add taxes/insurance.
+- Source rights remain pending; no production import or redistribution approval is implied.
+- Last checked: 2026-11-22.
