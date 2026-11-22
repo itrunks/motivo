@@ -62,7 +62,7 @@ Out of first beta unless separately approved: public user accounts, paid feature
 | Hyundai VENUE | Official starting price ₹7,99,900; selector returned no variant price rows | Partial |
 | Hyundai CRETA | 22 petrol + 16 diesel ex-showroom price rows captured; Turbo GDi coverage and Trichy-specific applicability remain open | Partial |
 | Tata PUNCH ICE | Official starting figure ₹5,74,990; full variant-wise price list not retrieved | Partial |
-| Tata NEXON ICE | Official starting price ₹7.39 lakh, range ₹7.39–15.50 lakh and FAQ Fearless+ PS ₹12.41 lakh; complete numeric variant table not exposed | Partial |
+| Tata NEXON ICE | Official price page conflicts: banner ₹7.39L; FAQ ₹7.36L start, ₹7.36–15.50L range, 60+ variants, Fearless+ PS ₹12.26L; numeric variant cards blank in text capture | Partial — conflicting OEM summaries
 
 No dealer on-road quotations or derived on-road estimates are being collected. Do not import any of these price findings into production until exact variant mapping, freshness and source-specific factual-use review pass.
 
@@ -157,7 +157,7 @@ A phase cannot be marked complete based on code existing alone. Require test evi
 - [x] Tata Punch desk audit note created; current 2026 official specifications selector exposes 24 combinations and persona-level feature matrix extracted; exact per-variant fitment, dual-vs-six-airbag conflict, NCAP test applicability, model-year, prices and factual-use review remain open.
 - [x] Punch official ex-showroom price source checked; starting figure ₹5,74,990 captured, but complete current variant-wise price table unavailable; exact prices and source rights pending.
 - [x] Tata Nexon ICE desk audit note created; current specifications FAQ and brochure links rechecked; unique orderable-variant count remains unverified, diesel output conflict (113 vs 115 PS) and iCNG brochure year mismatch recorded.
-- [x] Nexon ICE official price page checked; starting price ₹7.39 lakh, overall range ₹7.39–15.50 lakh and FAQ Fearless+ PS ₹12.41 lakh captured; complete variant-wise numeric prices unavailable; rights pending.
+- [x] Nexon ICE official price/variant page re-opened; variant cards and feature personas captured, but numeric card prices are blank in retrieved text. Official page itself conflicts (banner ₹7.39L; FAQ ₹7.36L start, ₹7.36–15.50L range, 60+ variants, Fearless+ PS ₹12.26L; earlier snapshot had ₹12.41L). Do not publish a price until a dated official price output resolves this.
 
 ## Current blockers (confirmed from repository inspection)
 
@@ -199,3 +199,16 @@ A phase cannot be marked complete based on code existing alone. Require test evi
 - [ ] Confirm the unique orderable count against a dated Tata order sheet or structured OEM configurator export.
 - [ ] Map exact feature applicability and official variant-wise ex-showroom prices.
 - [ ] No change to confirmed first-pass total (102); Nexon remains excluded pending OEM crosswalk validation.
+
+
+### Latest CI and Nexon audit continuation — 2026-11-22
+
+- [x] TypeScript workflow run 45019483442 completed successfully on commit 98a47ad736feba429613bdeacccc133057cb788b.
+- [x] GitHub Pages build and deployment run 45019483456 completed successfully on the same commit; both build and deploy jobs passed.
+- [ ] Catalogue validation was not triggered by that markdown-only commit because its workflow path filter does not include research markdown/checklist changes. Do not count it as passed.
+- [x] Re-opened the full current Tata Nexon official price/variant page and recorded the card-level trim/persona labels and explicit feature groups in the Nexon audit.
+- [x] Recorded official-page price-summary conflicts: page banner ₹7.39L; FAQ ₹7.36L start; FAQ range ₹7.36–₹15.50L and 60+ variants; Fearless+ PS FAQ ₹12.26L; earlier official capture ₹12.41L. Exact variant-wise numeric card prices are not exposed in the retrieved text.
+- [x] Applied the official page's explicit footnote over its broad FAQ wording: ADAS/JBL/subwoofer only Fearless+ PS DCA; rear sunshade Fearless+ PS DCA and Red #Dark, with Red #Dark limited to Fearless+ PS. CNG exclusions retained.
+- [ ] Normalize official card labels into unique exact SKUs and verify orderability using a dated OEM/dealer export.
+- [ ] Obtain exact variant-wise official ex-showroom prices and effective dates.
+- [ ] Complete source factual-use review and independent review; no Nexon production records approved.
