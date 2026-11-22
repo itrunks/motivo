@@ -54,4 +54,4 @@ This is an optional contextual hint, not a promise that Motivo has verified a de
 
 ## Source rights
 
-A public OEM price page is not automatically licensed for commercial republication. Continue applying the source registry's commercial reuse and redistribution review gate. Keep rights-pending source observations in private research notes; do not publish price data until the relevant rights review is complete.
+A public OEM price page is not automatically licensed for commercial republication. Apply docs/SOURCE_USE_AND_PUBLICATION_POLICY.md. A price is a factual field, but its source-specific factual-reference use must still be reviewed before publication, especially where a site restricts extraction or reuse of price databases. Do not copy price-page layout, tables or other expressive content. Keep pending observations in private audit notes.
