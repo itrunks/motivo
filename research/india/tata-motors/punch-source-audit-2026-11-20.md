@@ -134,3 +134,25 @@ Important normalization controls:
 Decision:
 - Persona-level feature extraction has started for all eight trim families.
 - Exact feature applicability across all 24 combinations and the airbag conflict remain open.
+
+
+## Re-opened current official specifications page — FAQ reconciliation (2026-11-22)
+
+Page: https://tatamotors-prod.adobecqms.net/content/tml/pv/in/en/punch/ice/specifications.html
+
+The rendered FAQ explicitly states:
+- 1.2L Revotron petrol: 88 PS / 115 Nm.
+- iCNG: twin-cylinder CNG setup and direct-start capability.
+- 1.2L turbo petrol: 120 PS / 170 Nm.
+- Transmission: 5MT and 5AMT for petrol and iCNG; 6MT with turbo petrol.
+- Dimensions: 3,876 × 1,742 × 1,615 mm; wheelbase 2,445 mm; ground clearance 193 mm; petrol boot 366L; usable iCNG boot 210L.
+- Safety FAQ states **dual airbags** and describes the model as a 5-star Bharat NCAP-rated sub-compact SUV.
+- Top-variant FAQ lists 10.25-inch Harman touchscreen with wireless AA/CarPlay, 360 camera, 16-inch alloys, Infinity Glow LED tail lamp, 7-inch cluster, automatic climate control, voice-assisted sunroof, cruise control, iRA, rain-sensing wipers, LED DRLs/projector headlamps and push-button start/passive keyless entry.
+
+Reconciliation and restrictions:
+- The current specifications FAQ supports 193 mm ground clearance, matching the brochure; the earlier 187 mm marketing-page summary remains a page-level discrepancy and should stay in the audit log.
+- The safety FAQ's dual-airbag claim conflicts with the 2026 brochure's six-airbag Smart persona. Do not publish a definitive standard airbag count or apply either figure to all 24 combinations until Tata confirms the current homologated/orderable specification.
+- “Top variants” feature list is not an exact trim matrix. Do not assign those features to all 24 combinations without the current selector's per-variant output or a dated order sheet.
+- The 5-star Bharat NCAP claim is a model-level FAQ statement; tested variant, protocol/version, test date and applicability to the 2026 facelift/powertrain lineup remain to be independently verified before storing a safety rating.
+- The official page's FAQ now confirms 5MT/5AMT on petrol and iCNG and 6MT on turbo petrol, but it does not by itself confirm every trim combination. Retain the 24 selector combinations as a first-pass selector capture only.
+
