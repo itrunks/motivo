@@ -212,3 +212,18 @@ A phase cannot be marked complete based on code existing alone. Require test evi
 - [ ] Normalize official card labels into unique exact SKUs and verify orderability using a dated OEM/dealer export.
 - [ ] Obtain exact variant-wise official ex-showroom prices and effective dates.
 - [ ] Complete source factual-use review and independent review; no Nexon production records approved.
+
+
+### Tata Punch feature-matrix progress — 2026-11-22
+
+- [x] Re-opened the current official January 2026 Tata Punch brochure and extracted its 24-combination drivetrain matrix.
+- [x] Reconciled all 24 selector combinations: Petrol MT 8, Petrol AMT 5, iCNG MT 6, iCNG AMT 3, turbo petrol 6MT 2.
+- [x] Mapped the eight OEM personas (Smart through Accomplished+ S) to the brochure's explicit equipment progression.
+- [x] Preserved powertrain-specific footnotes: cruise control applies to NA petrol MT/AMT and iCNG MT; paddle shifter applies to NA petrol AMT and iCNG AMT.
+- [x] Kept the OEM conflict (six airbags in brochure vs dual airbags in specifications FAQ) unresolved; no definitive variant-level airbag count is approved.
+- [ ] Dealer orderability/effective-date confirmation, official variant-wise ex-showroom prices, exact iTPMS readout, BNCAP tested-variant applicability, factual-use rights and independent review remain pending.
+- [ ] Do not import Punch production records.
+
+Evidence: official Tata brochure https://tatamotors-prod.adobecqms.net/content/dam/tml/pv/products/punch/year-2026/ice/promoting-vc/brochures/new-punch-brochure-jan%20.pdf ; current Tata specifications page https://tatamotors-prod.adobecqms.net/content/tml/pv/in/en/punch/ice/specifications.html .
+
+Next action: continue Nexon ICE selector normalization from the current official selector labels; preserve exact CAMO/DK/RDK/ADAS suffixes and do not assert a unique SKU count without dated OEM/dealer orderability evidence.
