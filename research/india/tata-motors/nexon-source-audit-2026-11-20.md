@@ -141,3 +141,37 @@ Next verification:
 - Obtain a current dealer order sheet or accessible OEM configurator export to enumerate unique current orderable combinations.
 - Obtain a dated technical specification to resolve diesel power output and iCNG brochure revision.
 - Review each exact selector item for fuel/engine/transmission and edition suffix; no guessed combinations.
+
+
+## Rechecked indexed OEM selector and independent variant-count cross-check (2026-11-22)
+
+Sources:
+- Tata official specifications page: https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html
+- Tata official price/variant page: https://tatamotors-prod.adobecqms.net/content/tml/pv/in/en/nexon/ice/price.html
+- Independent cross-check: Autocar India variant page, last updated 16 Nov 2026: https://www.autocarindia.com/cars/tata/nexon/variants/
+
+New evidence:
+- The indexed extraction for Tata's official specifications page exposes a long Search Variant list. It includes exact labels across Smart, Smart+, Smart+ S, Pure+, Pure+ S, Pure+ PS, Creative, Creative+ S, Creative+ PS and Fearless+ PS families, with petrol/diesel/iCNG and Camo, Dark and Red #Dark edition labels.
+- Autocar's 16 Nov 2026 variant page independently describes the current Nexon range as **80 variants**. This is a useful secondary count cross-check, not an OEM orderability guarantee.
+- Tata's official price page also exposes variant cards and feature groupings in indexed content. Its feature descriptions include Smart, Smart+ CNG, Smart+ S CNG, Pure+ CNG, Pure+ S CNG, Pure+ PS CNG, Creative CNG, Creative+ PS and Fearless+ PS CNG labels, among others. Do not infer transmission from trim-family names alone.
+
+Count and crosswalk decision:
+- Record **80 as a secondary-source reported range count only** (Autocar, updated 16 Nov 2026).
+- The OEM indexed selector list is now visible in search extraction, but its labels require normalization: remove no suffixes until edition/powertrain identity is parsed; distinguish 5MT/6MT/6AMT/7DCT; and deduplicate “New”/Camo/Dark/Red #Dark aliases only when evidence proves they refer to the same orderable SKU.
+- Do not mark 80 as 80 confirmed OEM unique combinations yet. The official page's rendered selector still does not provide a stable, fully structured export in the opened page text. Current OEM FAQ remains controlling for transmission family: petrol 5MT/6MT/6AMT/7DCT, diesel 6MT/6AMT, iCNG 6MT only.
+- A dated Tata dealer order sheet or structured configurator export is still required to finalize the unique current orderable SKU count and the fuel × engine × transmission crosswalk.
+
+Feature and pricing caution:
+- Tata's official page says feature availability varies by variant/persona; its explicit footnote continues to restrict JBL/subwoofer/ADAS to Fearless+ PS DCA, excludes ADAS from CNG and diesel, and restricts rear sunshade to Fearless+ PS DCA and Red #Dark editions.
+- The secondary Autocar matrix is useful for locating possible combinations but must not override OEM evidence or be copied into Motivo production data without source review.
+- Official variant-wise numeric prices remain incomplete in retrieved OEM content. Do not substitute secondary price tables for the official ex-showroom-only pricing requirement.
+
+Status after this pass:
+- [x] Current OEM indexed selector labels surfaced and edition families recorded.
+- [x] Independent 80-variant count cross-check recorded with source/date.
+- [ ] Normalize exact selector labels into a deduplicated SKU crosswalk.
+- [ ] Confirm orderability and count with a dated OEM/dealer order sheet or structured configurator export.
+- [ ] Map exact feature applicability and official ex-showroom prices to each confirmed SKU.
+- [ ] Complete factual-use rights review and independent review.
+
+No Nexon production records are approved by this update.
