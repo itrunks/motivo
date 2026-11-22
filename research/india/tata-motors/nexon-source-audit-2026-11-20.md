@@ -30,7 +30,7 @@ Tata platform terms restrict TML-owned content to personal, non-commercial use u
 - [ ] Verify feature applicability from the live variant selector and a dated authorised-dealer order sheet.
 - [ ] Confirm TPMS readout type, exact JBL speaker/subwoofer count and audio brand by trim.
 - [ ] Confirm iRA remote functions, subscription duration/renewal fees and any remote engine/climate functions.
-- [ ] Capture current Trichy ex-showroom and on-road prices by exact variant/date.
+- [ ] Capture complete current official variant-wise ex-showroom prices, effective date and any city/state applicability; do not collect on-road quotes.
 - [ ] Confirm current safety-test protocol/rating scope and model-year applicability before publishing a rating.
 - [ ] Obtain written redistribution permission or use a separately licensed dataset.
 - [ ] Independent review before normalization.
@@ -38,3 +38,26 @@ Tata platform terms restrict TML-owned content to personal, non-commercial use u
 ## Decision
 
 No Nexon ICE variant is eligible for production import. Research remains private pending brochure retrieval, model-year/variant mapping, field-level review and rights approval.
+
+
+## Official ex-showroom price check (2026-11-22)
+
+Status: **official price range and one named variant price captured; full variant-wise prices not exposed in retrieved page content**.
+
+Checked Tata Motors' current official Nexon ICE price page:
+https://tatamotors-prod.adobecqms.net/content/tml/pv/in/en/nexon/ice/price.html
+
+The official page states:
+- Starting ex-showroom price: ₹7.39 lakh for Smart 1.2 petrol.
+- Overall displayed range: ₹7.39 lakh–₹15.50 lakh across the listed 60+ Petrol, Diesel and iCNG combinations.
+- Fearless+ PS: ₹12.41 lakh ex-showroom, as stated in the page FAQ. The FAQ does not fully disambiguate every engine/transmission suffix for this named trim, so do not create a specific variant record from that label alone.
+
+The live variant cards display a “Price” label but the retrieved page content does not expose the individual numeric values for every variant. Therefore the range and FAQ value are not a substitute for a complete price matrix.
+
+Decision:
+- Capture the starting price and published range as internal source evidence only.
+- Do not infer individual variant prices from the range or from dealer quotations.
+- Full variant-wise ex-showroom prices remain **unavailable / pending verification** until the official selector returns numeric values or a dated official price list is captured.
+- Do not collect on-road, RTO, insurance, accessories, warranty, handling, offers or finance scheme values.
+- Source rights remain pending; no production import or redistribution approval is implied.
+- Last checked: 2026-11-22.
