@@ -27,7 +27,7 @@ Tata's platform terms say TML-owned content is for personal, non-commercial use 
 - [ ] Verify trim-level feature matrix, especially audio, infotainment, 360 camera/BVM, iTPMS, auto-dimming IRVM, push start and safety equipment.
 - [ ] Confirm whether any current variant offers Clarion/JBL/Harman premium audio; no such branded system is confirmed by this audit.
 - [ ] Confirm exact iTPMS display capability (warning-only vs individual pressure values).
-- [ ] Capture current Trichy ex-showroom and on-road quote separately, with date and dealer.
+- [ ] Capture complete current official variant-wise ex-showroom prices, effective date and any city/state applicability; do not collect on-road quotes.
 - [ ] Confirm warranty, service schedule/cost and current owner-manual applicability.
 - [ ] Obtain written redistribution permission or use a separately licensed dataset.
 - [ ] Independent review before normalization.
@@ -35,3 +35,21 @@ Tata's platform terms say TML-owned content is for personal, non-commercial use 
 ## Decision
 
 No Punch variant is eligible for production import. Research remains private pending model-year, variant, field-level and rights review.
+
+
+## Official ex-showroom price check (2026-11-22)
+
+Status: **starting price captured; complete variant-wise price table unavailable**.
+
+Checked the current official Tata Punch ICE specifications page:
+https://tatamotors-prod.adobecqms.net/content/tml/pv/in/en/punch/ice/specifications.html
+
+The official page identifies the available variant names and displays ex-showroom starting-price figures, including ₹5,74,990 as the starting price for the base petrol entry. The retrieved page content does not provide a complete, reliable variant-wise price table for the current 2026 lineup.
+
+Decision:
+- Record ₹5,74,990 only as the page's displayed starting ex-showroom figure; do not assign it to every base/variant combination without a precise matching record.
+- All other variant prices remain **unavailable / pending verification**.
+- Do not use old 2025 brochures, third-party dealer PDFs, or dealer on-road quotes as substitutes for current official variant-wise ex-showroom pricing.
+- No RTO, insurance, accessories, warranty, handling or offers are to be collected.
+- Source rights remain pending; no production import or redistribution approval is implied.
+- Last checked: 2026-11-22.
