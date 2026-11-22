@@ -149,7 +149,7 @@ A phase cannot be marked complete based on code existing alone. Require test evi
 
 1. No production vehicle records are connected to the UI (the app correctly shows an empty catalogue); the new normalized catalogue is intentionally empty.
 2. A published-only variants read endpoint now exists in source code; build verification, live deployment, Firestore data setup and external smoke tests remain pending.
-3. A separate source registry and validator now exist; the registry now contains four Baleno, three FRONX, four Hyundai Venue, three Hyundai Creta, three Punch and three Nexon official source candidates, all with reuse/redistribution rights pending; there are currently zero approved redistribution sources. Normalized catalogue bootstrap and CI validation now exist; rights-approved sources and actual import/review/publish workflow are still missing.
+3. A separate source registry and validator now exist; the registry now contains four Baleno, three FRONX, four Hyundai Venue, three Hyundai Creta, three Punch and four Nexon official source candidates, all with reuse/redistribution rights pending; there are currently zero approved redistribution sources. Normalized catalogue bootstrap and CI validation now exist; rights-approved sources and actual import/review/publish workflow are still missing.
 4. Firestore rules are intentionally deny-all; a safe server-mediated read path must be implemented before publishing data.
 5. README data-policy wording has been corrected; it still needs a fresh build verification.
 6. Live Firebase deployment, billing plan, secret configuration and runtime state have not been verified.
