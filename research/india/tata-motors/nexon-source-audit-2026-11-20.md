@@ -88,3 +88,29 @@ The current page's footnote is the strongest captured exact-trim evidence for th
 The 2026 ICE brochure link is visible on the official page, but retrieval failed because the PDF exceeded the available fetch size limit. The separate 2026 iCNG brochure also timed out. Do not substitute the 2025 Nexon brochure's variant matrix for the current 2026 lineup.
 
 No production feature records are approved: model-year/variant crosswalk, complete matrix, exact city pricing, independent review and redistribution rights remain open.
+
+
+## Current official specifications-page recheck (2026-11-22)
+
+Source: https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html
+
+The current official Tata specifications page now exposes the 2026 ICE and iCNG brochure links and a live/indexed selector with **70+ named trim, powertrain and edition combinations**. The selector contains standard, Camo, Dark and Red #Dark-labelled variants, so names must be preserved exactly and edition suffixes must not be collapsed into a base trim. A normalized exact count is still pending because the indexed list contains overlapping naming patterns (including “New” labels and suffix variants) that require deduplication against the selector's current orderable configuration.
+
+Current official FAQ evidence on the same page:
+- Petrol: 1.2L turbo Revotron, 120 PS / 170 Nm.
+- Diesel: 1.5L turbo Revotorq, 113 PS / 260 Nm.
+- iCNG: 1.2L turbo Revotron, 98 PS / 170 Nm.
+- Transmission summary: petrol includes 5MT, 6MT, 6AMT and 7-speed DCA; diesel includes 6MT and 6AMT; iCNG is described as 6MT only.
+- Dimensions: 3,995 × 1,804 × 1,620 mm; wheelbase 2,498 mm; boot 321L CNG / 382L petrol-diesel.
+- Safety and infotainment summaries are model-level, not a substitute for trim applicability. The explicit footnotes on the current product page remain controlling for restrictions already captured: JBL 9-speaker system, subwoofer and ADAS only on Fearless+ PS DCA; ADAS excluded on CNG and diesel; rear sunshade only Fearless+ PS DCA and Red #Dark editions; iRA/E-call/B-call/multi-drive/cruise restrictions on CNG remain as previously noted.
+
+Important discrepancy:
+- The specifications-page FAQ describes iCNG as 6MT only, consistent with the current product-page FAQ snapshot.
+- The indexed selector includes several CNG trim/edition labels; do not infer a CNG AMT merely from a trim label. Each exact selector item must be parsed for transmission before crosswalk creation.
+- The product-page price snapshot and the current specifications page do not provide a complete numeric variant-wise price table in retrieved text.
+
+Decision:
+- Nexon 2026 selector availability is now materially better evidenced than the earlier product-page-only audit.
+- Exact normalized variant count and fuel × engine × transmission crosswalk remain **in progress**, not marked complete.
+- Current brochure content must still be manually reviewed; earlier PDF retrieval failure is not considered resolved merely because brochure links are visible.
+- Exact feature applicability, price rows, model-year/effective date, source-specific factual-use review and independent review remain pending.
