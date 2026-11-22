@@ -76,3 +76,32 @@ Decision:
 - Do not substitute the Jan 2025 brochure matrix for the current 2026 product page.
 - Obtain a dated official variant list/order matrix or official configurator export, then map each engine/fuel/transmission combination separately.
 - Exact variant-level feature applicability, current Trichy ex-showroom prices, and source rights remain pending.
+
+
+## Current official specifications-page variant selector recheck (2026-11-22)
+
+Source: https://tatamotors-prod.adobecqms.net/content/tml/pv/in/en/punch/ice/specifications.html
+
+The current official Tata specifications page now exposes a selectable list of **24 named Punch ICE powertrain/trim combinations**. This improves on the earlier product-page-only capture, which did not expose the complete current list.
+
+| Powertrain / transmission family | Selector combinations | Count |
+|---|---|---:|
+| 1.2L NA petrol, 5MT | Smart P MT; Pure P MT; Pure + P MT; Pure + S P MT; Adventure P MT; Adventure S P MT; Accomplished P MT; Accomplished + S P MT | 8 |
+| 1.2L NA petrol, 5AMT | Pure + P AMT; Pure + S P AMT; Adventure P AMT; Accomplished P AMT; Accomplished + S P AMT | 5 |
+| 1.2L turbo petrol, 6MT | Adventure TC MT; Accomplished + S TC MT | 2 |
+| iCNG, 5MT | Smart CNG MT; Pure CNG MT; Pure + CNG MT; Pure + S CNG MT; Adventure S CNG MT; Accomplished CNG MT | 6 |
+| iCNG, 5AMT | Adventure CNG AMT; Adventure S CNG AMT; Accomplished + S CNG AMT | 3 |
+| **Total** |  | **24** |
+
+Normalization notes:
+- Preserve the OEM selector's exact variant labels; do not silently rewrite `TC`, `P`, `S` or trim suffixes.
+- The selector labels distinguish NA petrol, turbo petrol and CNG plus transmission. Confirm the exact current engine output/gearbox mapping against the dated brochure/order sheet before production normalization.
+- The page FAQ independently states 1.2L NA petrol at 88 PS/115 Nm, turbo petrol at 120 PS/170 Nm, and 5MT/5AMT for NA petrol/iCNG plus 6MT for turbo.
+- The same current specifications page states 193 mm ground clearance, resolving the earlier 193/187 mm inconsistency in the product-page content for this source snapshot. Keep the value tied to this page and its checked date; reconfirm if a newer technical sheet supersedes it.
+- The page FAQ's safety summary says dual airbags, which conflicts with other current Tata marketing claims captured earlier. Do not normalize airbag count from this FAQ until an authoritative current variant matrix or owner manual resolves it.
+- The page presents top-variant features as a model summary; it still does not expose a complete trim-by-feature matrix in the retrieved text.
+
+Decision:
+- Punch first-pass current selector crosswalk: **24 combinations captured**.
+- This is not yet a complete feature matrix or publishable variant dataset.
+- Exact variant-wise ex-showroom prices, current model-year/effective date, feature applicability, conflicting safety claims, source-specific factual-use review and independent review remain pending.
