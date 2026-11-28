@@ -27,7 +27,7 @@ Recovered historical inventory: 251 model rows, 35 brands. This is not a current
 | MG Motor | 10 | Nameplates matched; Windsor Pro and Gloster exceptions |
 | Tata Motors | 16 | 15 matched; Tigor ICE exception; Aeris candidate |
 | MINI | 5 | Nameplates matched; Cooper SE and Stardust candidates |
-| Force Motors | 1 | Gurkha confirmed; complete range and SKU check pending |
+| Force Motors | 1 | Gurkha 3-door and 5-door confirmed; exact SKUs pending |
 | Tesla | 1 | Model Y matched; Y L configuration candidate |
 | VinFast | 3 | All three matched; exact SKUs pending |
 | Audi | 9 | Eight matched; Q3 Sportback exception |
@@ -45,13 +45,13 @@ Recovered historical inventory: 251 model rows, 35 brands. This is not a current
 | Ferrari | 7 | Global OEM evidence partial; India lineup pending |
 | McLaren | 3 | Secondary India evidence; OEM pending |
 | Mercedes-Benz | 24 | 24 matched across India navigation and model listings; SKU pending |
-| Nissan | 3 | Pending |
-| Porsche | 5 | Pending |
-| Renault | 4 | Pending |
+| Nissan | 3 | 3 matched; Gravite CNG and SKU reconciliation pending |
+| Porsche | 5 | 5 matched; 20 configurator entries |
+| Renault | 4 | 4 matched; Duster hybrid configuration |
 | Rolls-Royce | 4 | Global OEM matched; India evidence pending |
-| Škoda | 6 | Pending |
+| Škoda | 6 | 6 matched; generation and orderability pending |
 | Volkswagen | 4 | 4 matched; Virtus generation transition |
-| Volvo Cars | 5 | Pending |
+| Volvo Cars | 5 | 5 matched; exact SKUs pending |
 | Isuzu | 1 | mu-X confirmed; pickup scope pending |
 | Lotus | 3 | 3 matched; Evija candidate orderability pending |
 
@@ -131,3 +131,14 @@ Aston Martin: https://media.astonmartin.com/section/current-models/?lang=eng con
 - McLaren: https://www.autocarindia.com/cars/mclaren/ supports Artura, GTS and 750S; secondary only, OEM India verification outstanding.
 - Rolls-Royce: https://newsroom.rolls-roycemotorcars.com/all-products/ confirms four global names plus Extended and Black Badge derivatives; India-specific evidence pending.
 - Nissan, Porsche, Renault, Skoda and Volvo: no sufficient results returned in this search batch; status unchanged. No production imports or prices approved.
+
+## Stage 1 — Nissan, Porsche, Renault, Skoda, Volvo and Force checkpoint (2026-11-28)
+
+- Nissan https://www.nissan.in/index.html confirms Tekton, Gravite and Magnite. Gravite CNG promoted; https://www.nissan.in/prices-list.html exposes 12 Tekton and 18 Magnite transmission/trim rows plus Gravite rows; CNG retrofit pack must not be treated as factory SKU without evidence. Exact completeness pending.
+- Porsche https://www.porsche.com/middle-east/_india_/models/ confirms all five with 20 configurations (4/3/1/4/8 respectively for 911/Taycan/Panamera/Macan/Cayenne). India homepage explicitly excludes current 718 availability. European specification disclaimer requires local homologation review.
+- Renault https://www.renault.co.in/all-renault-cars.html?type=0 confirms four; Duster strong hybrid E-Tech 160 is a powertrain lead. City-specific pricing not imported.
+- Skoda https://www.skoda-auto.co.in/models/range confirms six. https://www.skoda-auto.co.in/news/news-detail/the-new-slavia-a-new-chapter-in-skoda-sedan-legacy documents new Slavia generation with 8-speed torque converter; do not mix old specs. https://www.skoda-auto.co.in/models/kylaq/kylaq yields 13 trim/transmission leads. Superb and Octavia RS exact orderability pending.
+- Volvo https://www.volvocars.com/in/cars/family-cars/ confirms five; EX90 also listed with INR price in recent indexed version. Generic saloon copy not evidence of local availability.
+- Force https://forcegurkha.co.in/shop/ and https://forcegurkha.co.in/faqs/ confirm both Gurkha body configurations. Initial passenger SUV lineup check accepted; fleet vehicles excluded provisionally. Exact variants pending.
+
+Progress: 28 initial brand inspections, seven partial; zero untouched. All exact SKU and production approvals remain open. No prices or production records imported.
