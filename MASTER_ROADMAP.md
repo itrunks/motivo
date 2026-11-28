@@ -230,3 +230,7 @@ Four Maruti models (Alto K10, Celerio, Eeco, Ertiga) reviewed on actual OEM over
 ## Tata bounded checkpoint
 
 16 existing Tata models dispositioned with gaps using actual retrieved OEM catalogue and EV support archive. 47/251 bounded closures; prior brand claims not reverified. Aeris new listing requires scope review; denominator unchanged pending reconciliation. Mahindra next. No production changes.
+
+## Mahindra bounded review checkpoint
+
+60/251 existing models marked bounded closure (includes previous 47 dispositions, not independently reverified). Mahindra 13/13: 10 navigation identity checks and 3 electric SUV FAQ reviews. No full variant audits asserted. Bolero Neo Plus scope lead pending. Kia queued. No production changes.
