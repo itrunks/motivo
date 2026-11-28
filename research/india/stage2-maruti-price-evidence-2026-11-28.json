@@ -1,0 +1,211 @@
+[
+  {
+    "brand": "Maruti Suzuki",
+    "model": "Alto K10",
+    "observed_at": "2026-11-28",
+    "source_url": "https://www.marutisuzuki.com/arena/alto-k10/price",
+    "locator": "model navigation and visible price cards",
+    "city_context": "Delhi",
+    "starting_price_inr": 369900,
+    "price_effective_date": null,
+    "publication_review": "pending",
+    "brochure_status": "not_available",
+    "brochure_reason": "PDF exceeds retrieval limit",
+    "observed_cards": [
+      {
+        "trim": "Std (O)",
+        "displayed_price_inr": 369900
+      },
+      {
+        "trim": "LXi (O) MT",
+        "displayed_price_inr": 399900
+      },
+      {
+        "trim": "VXi (O) MT",
+        "displayed_price_inr": 452400
+      },
+      {
+        "trim": "LXi (O) CNG",
+        "displayed_price_inr": 484400
+      },
+      {
+        "trim": "VXi (O) AGS",
+        "displayed_price_inr": 497400
+      }
+    ],
+    "status": "partial_source_review"
+  },
+  {
+    "brand": "Maruti Suzuki",
+    "model": "Celerio",
+    "observed_at": "2026-11-28",
+    "source_url": "https://www.marutisuzuki.com/arena/celerio/price",
+    "locator": "model navigation and visible price cards",
+    "city_context": "Delhi",
+    "starting_price_inr": 469900,
+    "price_effective_date": null,
+    "publication_review": "pending",
+    "brochure_status": "not_available",
+    "brochure_reason": "PDF exceeds retrieval limit; card transmission bullet conflicts with header",
+    "observed_cards": [
+      {
+        "trim": "LXi MT",
+        "displayed_price_inr": 469900
+      },
+      {
+        "trim": "VXi MT",
+        "displayed_price_inr": 518400
+      },
+      {
+        "trim": "VXi AGS",
+        "displayed_price_inr": 563400
+      },
+      {
+        "trim": "ZXi MT",
+        "displayed_price_inr": 573400
+      },
+      {
+        "trim": "VXi CNG",
+        "displayed_price_inr": 597900
+      }
+    ],
+    "status": "partial_source_review"
+  },
+  {
+    "brand": "Maruti Suzuki",
+    "model": "Eeco",
+    "observed_at": "2026-11-28",
+    "source_url": "https://www.marutisuzuki.com/arena/eeco/price",
+    "locator": "model navigation and visible price cards",
+    "city_context": "Delhi",
+    "starting_price_inr": 530900,
+    "price_effective_date": null,
+    "publication_review": "pending",
+    "brochure_status": "not_available",
+    "brochure_reason": "PDF returned no extracted text",
+    "observed_cards": [
+      {
+        "trim": "5 Seater Standard",
+        "displayed_price_inr": 530900
+      },
+      {
+        "trim": "6 Seater Standard",
+        "displayed_price_inr": 557400
+      },
+      {
+        "trim": "5 Seater AC",
+        "displayed_price_inr": 563800
+      },
+      {
+        "trim": "5 Seater AC CNG",
+        "displayed_price_inr": 648300
+      }
+    ],
+    "status": "partial_source_review"
+  },
+  {
+    "brand": "Maruti Suzuki",
+    "model": "Ertiga",
+    "observed_at": "2026-11-28",
+    "source_url": "https://www.marutisuzuki.com/arena/ertiga/price",
+    "locator": "model navigation and visible price cards",
+    "city_context": "Delhi",
+    "starting_price_inr": 895000,
+    "price_effective_date": null,
+    "publication_review": "pending",
+    "brochure_status": "not_available",
+    "brochure_reason": "PDF viewer returned no brochure text",
+    "observed_cards": [],
+    "status": "partial_source_review"
+  },
+  {
+    "brand": "Maruti Suzuki",
+    "model": "S-Presso",
+    "observed_at": "2026-11-28",
+    "source_url": "https://www.marutisuzuki.com/arena/alto-k10/price",
+    "locator": "shared Arena navigation",
+    "city_context": "Delhi",
+    "starting_price_inr": 349900,
+    "price_effective_date": null,
+    "publication_review": "pending",
+    "brochure_status": "pending",
+    "brochure_reason": "not attempted",
+    "observed_cards": [],
+    "status": "navigation_price_only"
+  },
+  {
+    "brand": "Maruti Suzuki",
+    "model": "Wagon R",
+    "observed_at": "2026-11-28",
+    "source_url": "https://www.marutisuzuki.com/arena/alto-k10/price",
+    "locator": "shared Arena navigation",
+    "city_context": "Delhi",
+    "starting_price_inr": 498900,
+    "price_effective_date": null,
+    "publication_review": "pending",
+    "brochure_status": "pending",
+    "brochure_reason": "not attempted",
+    "observed_cards": [],
+    "status": "navigation_price_only"
+  },
+  {
+    "brand": "Maruti Suzuki",
+    "model": "Swift",
+    "observed_at": "2026-11-28",
+    "source_url": "https://www.marutisuzuki.com/arena/alto-k10/price",
+    "locator": "shared Arena navigation",
+    "city_context": "Delhi",
+    "starting_price_inr": 583900,
+    "price_effective_date": null,
+    "publication_review": "pending",
+    "brochure_status": "pending",
+    "brochure_reason": "not attempted",
+    "observed_cards": [],
+    "status": "navigation_price_only"
+  },
+  {
+    "brand": "Maruti Suzuki",
+    "model": "Dzire",
+    "observed_at": "2026-11-28",
+    "source_url": "https://www.marutisuzuki.com/arena/alto-k10/price",
+    "locator": "shared Arena navigation",
+    "city_context": "Delhi",
+    "starting_price_inr": 633600,
+    "price_effective_date": null,
+    "publication_review": "pending",
+    "brochure_status": "pending",
+    "brochure_reason": "not attempted",
+    "observed_cards": [],
+    "status": "navigation_price_only"
+  },
+  {
+    "brand": "Maruti Suzuki",
+    "model": "Brezza",
+    "observed_at": "2026-11-28",
+    "source_url": "https://www.marutisuzuki.com/arena/alto-k10/price",
+    "locator": "shared Arena navigation",
+    "city_context": "Delhi",
+    "starting_price_inr": 754900,
+    "price_effective_date": null,
+    "publication_review": "pending",
+    "brochure_status": "pending",
+    "brochure_reason": "not attempted",
+    "observed_cards": [],
+    "status": "navigation_price_only"
+  },
+  {
+    "brand": "Maruti Suzuki",
+    "model": "Victoris",
+    "observed_at": "2026-11-28",
+    "source_url": "https://www.marutisuzuki.com/arena/alto-k10/price",
+    "locator": "shared Arena navigation",
+    "city_context": "Delhi",
+    "starting_price_inr": 1059900,
+    "price_effective_date": null,
+    "publication_review": "pending",
+    "brochure_status": "pending",
+    "brochure_reason": "not attempted",
+    "observed_cards": [],
+    "status": "navigation_price_only"
+  }
+]
