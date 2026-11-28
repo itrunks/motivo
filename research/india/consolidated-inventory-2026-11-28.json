@@ -1758,9 +1758,9 @@
         "notes": "Official page identifies five trims and prices. Keep full-battery ex-showroom prices separate from BaaS upfront amount plus ₹3.30/km battery rental. Verify city/effective-date basis and source reuse before import."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "completed_with_gaps",
+      "stage2_status": "review_required",
       "stage2_evidence_path": "research/india/stage2-mg-bounded-2026-11-28.json",
-      "stage2_verification": "catalogue_identity_and_advertised_price_only"
+      "stage2_verification": "prior_claims_unsubstantiated_require_review"
     },
     {
       "brand_id": "mg",
@@ -1784,9 +1784,9 @@
         "notes": "Official page lists five trim/battery combinations. Preserve 38 kWh and 52.9 kWh variants separately. BaaS price plus per-km rental is a distinct price basis. Indulge Edition appears as an edition/appearance package; do not add it as a separate mechanical variant without confirmation."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "completed_with_gaps",
+      "stage2_status": "review_required",
       "stage2_evidence_path": "research/india/stage2-mg-bounded-2026-11-28.json",
-      "stage2_verification": "catalogue_identity_and_advertised_price_only"
+      "stage2_verification": "prior_claims_unsubstantiated_require_review"
     },
     {
       "brand_id": "mg",
@@ -1810,9 +1810,9 @@
         "notes": "Official page lists four core trims and 50.3 kWh battery. Exclusive Plus Ivory and Essence Ivory are presented as interior-theme variants at the same price as corresponding core trim; do not count them as separate mechanical variants. Keep BaaS separate from full-battery price."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "completed_with_gaps",
+      "stage2_status": "review_required",
       "stage2_evidence_path": "research/india/stage2-mg-bounded-2026-11-28.json",
-      "stage2_verification": "catalogue_identity_and_advertised_price_only"
+      "stage2_verification": "prior_claims_unsubstantiated_require_review"
     },
     {
       "brand_id": "mg",
@@ -1836,9 +1836,9 @@
         "notes": "Current official page exposes petrol trim/transmission/seating configurations and variant-card prices. Do not infer diesel availability from historical launch statements; no current diesel variant card was captured. Price cards need city/effective-date confirmation and exact source reuse review."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "completed_with_gaps",
+      "stage2_status": "review_required",
       "stage2_evidence_path": "research/india/stage2-mg-bounded-2026-11-28.json",
-      "stage2_verification": "catalogue_identity_and_advertised_price_only"
+      "stage2_verification": "prior_claims_unsubstantiated_require_review"
     },
     {
       "brand_id": "mg",
@@ -1862,9 +1862,9 @@
         "notes": "Official product page lists trim names, manual/CVT labels and starting prices. Confirm 1.5L VTi-Tech mapping, price effective date/city scope and whether displayed amounts apply to all colour/interior combinations before import."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "completed_with_gaps",
+      "stage2_status": "review_required",
       "stage2_evidence_path": "research/india/stage2-mg-bounded-2026-11-28.json",
-      "stage2_verification": "catalogue_identity_and_advertised_price_only"
+      "stage2_verification": "prior_claims_unsubstantiated_require_review"
     },
     {
       "brand_id": "tata",
@@ -2304,7 +2304,9 @@
         "notes": "Official page confirms current Cooper 3-door model, 204 hp and a Classic Trim display example. It references four engines and four style levels but captured content does not name all India-orderable combinations. Do not infer variants from global MINI range. Exact India configurator/dealer price matrix required."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-mini-tesla-vinfast-2026-11-28.json",
+      "stage2_verification": "bounded_indexed_oem_review"
     },
     {
       "brand_id": "mini",
@@ -2328,7 +2330,9 @@
         "notes": "Current official page confirms four seats, 204PS Favoured Trim and ₹58.50L model price; S spec sheet confirms 1998cc, 300Nm and 7-speed DCT. JCW Pack page also lists from ₹58.50L; Stardust page lists 204hp/300Nm but no price. Classic/Favoured/JCW are optional style packages. Base Cooper performance level and Stardust price remain unresolved."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-mini-tesla-vinfast-2026-11-28.json",
+      "stage2_verification": "bounded_indexed_oem_review"
     },
     {
       "brand_id": "mini",
@@ -2352,7 +2356,9 @@
         "notes": "Official India page confirms Countryman C, 156 HP and model-level starting price ₹47.50 lakh. Favoured Style is shown as a style treatment, not evidence of a separately priced variant. Confirm current configurator grade/option structure and effective price."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-mini-tesla-vinfast-2026-11-28.json",
+      "stage2_verification": "bounded_indexed_oem_review"
     },
     {
       "brand_id": "mini",
@@ -2376,7 +2382,9 @@
         "notes": "Official India page confirms a 64.6 kWh electric configuration and 462 km WLTP range. The range page starting amount is model-level only. Do not infer Essential/Classic/Favoured or ALL4 trims from international markets; capture India configurator output."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-mini-tesla-vinfast-2026-11-28.json",
+      "stage2_verification": "bounded_indexed_oem_review"
     },
     {
       "brand_id": "mini",
@@ -2400,7 +2408,9 @@
         "notes": "Current MINI JCW page confirms one India configuration with 300 HP/400 Nm, 250 km/h, 5.4s and ALL4 AWD. Current homepage lists ₹66.15L model-level starting amount, while February spec sheet lists ₹65.15L ex-showroom; price basis/effective-date discrepancy remains unresolved."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-mini-tesla-vinfast-2026-11-28.json",
+      "stage2_verification": "bounded_indexed_oem_review"
     },
     {
       "brand_id": "force_motors",
@@ -2448,7 +2458,9 @@
         "notes": "Tesla India official inventory shows named configurations, seats, paint/interior and inventory-specific totals; the model page provides WLTP range. Launch ex-showroom amounts are not equivalent to inventory-specific totals. Do not call this a direct price conflict. Confirm current ex-showroom price, option uplifts, taxes, delivery charges and effective date from the official configurator/dealer before import. Battery kWh is not exposed in the captured India source."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-mini-tesla-vinfast-2026-11-28.json",
+      "stage2_verification": "bounded_indexed_oem_review"
     },
     {
       "brand_id": "vinfast",
@@ -2472,7 +2484,9 @@
         "notes": "Official India launch release confirms 59.6 kWh battery, FWD, Earth (130 kW/250 Nm, 468 km ARAI), Wind (150 kW/310 Nm, 463 km ARAI) and Wind Infinity (Wind plus fixed panoramic glass roof). All three variants share the battery capacity; no extra battery/drivetrain variants inferred. Official product page currently displays ₹18,19,000 as a model-level amount, not a per-trim price. Current exact variant prices and effective date need dealer/configurator confirmation. Product URL confirmed as the official VinFast India domain (vinfastauto.in); do not use vinfastautos.in."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-mini-tesla-vinfast-2026-11-28.json",
+      "stage2_verification": "bounded_indexed_oem_review"
     },
     {
       "brand_id": "vinfast",
@@ -2496,7 +2510,9 @@
         "notes": "Official launch release confirms Earth (59.6 kWh, 130 kW/250 Nm, FWD, 438 km ARAI); Wind and Wind Infinity (70.8 kWh, 150 kW/310 Nm, FWD, 532 km ARAI); Sky and Sky Infinity (70.8 kWh, dual-motor AWD, 260 kW/500 Nm, 510 km ARAI). Infinity versions add fixed panoramic glass roof to corresponding Wind/Sky equipment. Current official product page exposes only a model-level starting amount; no trim-wise price list captured. Battery values differ slightly across page renderings (70 vs 70.8 kWh); use launch brochure value 70.8 kWh only as launch-source observation and confirm current homologated spec before import. Product URL confirmed as the official VinFast India domain (vinfastauto.in); do not use vinfastautos.in."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-mini-tesla-vinfast-2026-11-28.json",
+      "stage2_verification": "bounded_indexed_oem_review"
     },
     {
       "brand_id": "vinfast",
@@ -2520,7 +2536,9 @@
         "notes": "Official India product page displays ₹20,39,000 and 60.13 kWh; official launch release confirms a single seven-seat FWD configuration. Secondary reporting dated 2026-11-04 attributes the current amount to a price reduction from ₹24.49 lakh at launch. The current official homepage at vinfastauto.in does not expose a conflicting price. An earlier vinfastautos.in URL was a non-canonical domain and has been removed. Confirm dated dealer quote and price basis before import."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-mini-tesla-vinfast-2026-11-28.json",
+      "stage2_verification": "bounded_indexed_oem_review"
     },
     {
       "brand_id": "audi",
@@ -6048,9 +6066,9 @@
         "notes": "Official 2026-08-26 launch release publishes the full EV variant-wise ex-showroom table and seating mapping. Preserve 5S/7S as separate configurations. Keep limited-booking BaaS separate from full vehicle price; verify current availability and price effective date."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "completed_with_gaps",
+      "stage2_status": "review_required",
       "stage2_evidence_path": "research/india/stage2-mg-bounded-2026-11-28.json",
-      "stage2_verification": "catalogue_identity_and_advertised_price_only"
+      "stage2_verification": "prior_claims_unsubstantiated_require_review"
     },
     {
       "brand_id": "mg",
@@ -6074,9 +6092,9 @@
         "notes": "Official 2026-08-26 launch release publishes two PHEV price rows; both are 7-seat configurations. Keep PHEV and EV variants separate. BaaS is not the full vehicle price. Verify current availability and price effective date."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "completed_with_gaps",
+      "stage2_status": "review_required",
       "stage2_evidence_path": "research/india/stage2-mg-bounded-2026-11-28.json",
-      "stage2_verification": "catalogue_identity_and_advertised_price_only"
+      "stage2_verification": "prior_claims_unsubstantiated_require_review"
     },
     {
       "brand_id": "mg",
@@ -6100,9 +6118,9 @@
         "notes": "Official current page lists Savvy 4X2 6-seat, Savvy 4X2 7-seat and Savvy 4X4 7-seat, but exposes only a starting price. The May launch release is historical pricing; November 2026 secondary reporting is a discrepancy lead only. Obtain a dated official dealer/configurator price list for all three variants and reconcile effective date before import."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "completed_with_gaps",
+      "stage2_status": "review_required",
       "stage2_evidence_path": "research/india/stage2-mg-bounded-2026-11-28.json",
-      "stage2_verification": "catalogue_identity_and_advertised_price_only"
+      "stage2_verification": "prior_claims_unsubstantiated_require_review"
     },
     {
       "brand_id": "mg",
@@ -6126,9 +6144,9 @@
         "notes": "MG SELECT official page confirms India retail listing and base ex-showroom amount but does not expose an exact grade label or variant matrix. Couture Edition is a limited 50-unit special edition; keep separate from the standard product price. Confirm current orderability and source reuse."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "completed_with_gaps",
+      "stage2_status": "review_required",
       "stage2_evidence_path": "research/india/stage2-mg-bounded-2026-11-28.json",
-      "stage2_verification": "catalogue_identity_and_advertised_price_only"
+      "stage2_verification": "prior_claims_unsubstantiated_require_review"
     },
     {
       "brand_id": "mg",
@@ -6152,9 +6170,9 @@
         "notes": "MG SELECT official page confirms India retail listing and base ex-showroom amount but does not expose an exact grade label or variant matrix. Do not copy third-party Presidential Limo naming into the official variant field without OEM confirmation. Couture Edition is a limited 50-unit special edition; keep separate from standard price."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "completed_with_gaps",
+      "stage2_status": "review_required",
       "stage2_evidence_path": "research/india/stage2-mg-bounded-2026-11-28.json",
-      "stage2_verification": "catalogue_identity_and_advertised_price_only"
+      "stage2_verification": "prior_claims_unsubstantiated_require_review"
     },
     {
       "brand_id": "toyota",
@@ -17464,5 +17482,5 @@
   },
   "stage1_status": "completed_with_gaps",
   "stage2_status": "in_progress",
-  "stage2_active_brand": "MINI"
+  "stage2_active_brand": "Audi"
 }
