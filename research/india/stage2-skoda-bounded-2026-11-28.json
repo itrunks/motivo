@@ -1,0 +1,382 @@
+{
+  "retrieval_scope": "Indexed official India OEM extracts retrieved 2026-11-28; prices are observed not verified invoice amounts",
+  "models": [
+    {
+      "brand": "Škoda",
+      "model": "Kylaq",
+      "source_url": "https://www.skoda-auto.co.in/models/kylaq/kylaq",
+      "checked_at": "2026-11-28",
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "observations": {
+        "starting_price_inr": 759000,
+        "power_kw": 85,
+        "torque_nm": 178,
+        "transmissions": [
+          "6MT",
+          "6AT"
+        ],
+        "brochure": "https://www.skoda-auto.co.in/_doc/a0aacbcc-e30b-4b8f-affd-53a2f5fc4150",
+        "price_conflict_source": "https://www.skoda-auto.co.in/models/kylaq/kylaq/pricelist-table"
+      },
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "unverified",
+          "reason": "Complete current variant-specific evidence not established"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "unverified",
+          "reason": "Complete current variant-specific evidence not established"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "unverified",
+          "reason": "Complete current variant-specific evidence not established"
+        },
+        {
+          "field": "NVH",
+          "status": "unverified",
+          "reason": "Complete current variant-specific evidence not established"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "unverified",
+          "reason": "Complete current variant-specific evidence not established"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "unverified",
+          "reason": "Complete current variant-specific evidence not established"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "unverified",
+          "reason": "Complete current variant-specific evidence not established"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "unverified",
+          "reason": "Complete current variant-specific evidence not established"
+        },
+        {
+          "field": "warranty",
+          "status": "unverified",
+          "reason": "Complete current variant-specific evidence not established"
+        }
+      ]
+    },
+    {
+      "brand": "Škoda",
+      "model": "Slavia",
+      "source_url": "https://www.skoda-auto.co.in/news/news-detail/the-new-slavia-a-new-chapter-in-skoda-sedan-legacy",
+      "checked_at": "2026-11-28",
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "observations": {
+        "transmissions": [
+          "1.0 TSI 6MT",
+          "1.0 TSI 8AT",
+          "1.5 TSI 7DSG"
+        ]
+      },
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "unverified",
+          "reason": "Complete current variant-specific evidence not established"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "unverified",
+          "reason": "Complete current variant-specific evidence not established"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "unverified",
+          "reason": "Complete current variant-specific evidence not established"
+        },
+        {
+          "field": "NVH",
+          "status": "unverified",
+          "reason": "Complete current variant-specific evidence not established"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "unverified",
+          "reason": "Complete current variant-specific evidence not established"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "unverified",
+          "reason": "Complete current variant-specific evidence not established"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "unverified",
+          "reason": "Complete current variant-specific evidence not established"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "unverified",
+          "reason": "Complete current variant-specific evidence not established"
+        },
+        {
+          "field": "warranty",
+          "status": "unverified",
+          "reason": "Complete current variant-specific evidence not established"
+        }
+      ]
+    },
+    {
+      "brand": "Škoda",
+      "model": "Kushaq",
+      "source_url": null,
+      "checked_at": "2026-11-28",
+      "status": "unverified",
+      "publication_review": "pending",
+      "observations": {},
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "unverified",
+          "reason": "Complete current variant-specific evidence not established"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "unverified",
+          "reason": "Complete current variant-specific evidence not established"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "unverified",
+          "reason": "Complete current variant-specific evidence not established"
+        },
+        {
+          "field": "NVH",
+          "status": "unverified",
+          "reason": "Complete current variant-specific evidence not established"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "unverified",
+          "reason": "Complete current variant-specific evidence not established"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "unverified",
+          "reason": "Complete current variant-specific evidence not established"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "unverified",
+          "reason": "Complete current variant-specific evidence not established"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "unverified",
+          "reason": "Complete current variant-specific evidence not established"
+        },
+        {
+          "field": "warranty",
+          "status": "unverified",
+          "reason": "Complete current variant-specific evidence not established"
+        }
+      ]
+    },
+    {
+      "brand": "Škoda",
+      "model": "Kodiaq",
+      "source_url": "https://www.skoda-auto.co.in/models/kodiaq/kodiaq",
+      "checked_at": "2026-11-28",
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "observations": {
+        "starting_price_inr": 3699000,
+        "power_kw": 150,
+        "torque_nm": 320,
+        "drive": "4x4",
+        "transmission": "7DSG",
+        "brochure": "https://www.skoda-auto.co.in/_doc/3cc5d7a1-756a-4e3c-bfac-f7fd2fd761cd",
+        "certified_kmpl": 14.86,
+        "laden_clearance_mm": 155,
+        "seats": [
+          5,
+          7
+        ]
+      },
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "unverified",
+          "reason": "Complete current variant-specific evidence not established"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "unverified",
+          "reason": "Complete current variant-specific evidence not established"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "unverified",
+          "reason": "Complete current variant-specific evidence not established"
+        },
+        {
+          "field": "NVH",
+          "status": "unverified",
+          "reason": "Complete current variant-specific evidence not established"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "unverified",
+          "reason": "Complete current variant-specific evidence not established"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "unverified",
+          "reason": "Complete current variant-specific evidence not established"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "unverified",
+          "reason": "Complete current variant-specific evidence not established"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "unverified",
+          "reason": "Complete current variant-specific evidence not established"
+        },
+        {
+          "field": "warranty",
+          "status": "unverified",
+          "reason": "Complete current variant-specific evidence not established"
+        }
+      ]
+    },
+    {
+      "brand": "Škoda",
+      "model": "Octavia RS",
+      "source_url": "https://www.skoda-auto.co.in/news/news-detail/a-rare-icon-returns-skoda-india-brings-back-the-octavia-rs",
+      "checked_at": "2026-11-28",
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "observations": {
+        "launch_price_inr": 5669000,
+        "power_ps": 265,
+        "torque_nm": 370,
+        "limited_batch": 50
+      },
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "unverified",
+          "reason": "Complete current variant-specific evidence not established"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "unverified",
+          "reason": "Complete current variant-specific evidence not established"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "unverified",
+          "reason": "Complete current variant-specific evidence not established"
+        },
+        {
+          "field": "NVH",
+          "status": "unverified",
+          "reason": "Complete current variant-specific evidence not established"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "unverified",
+          "reason": "Complete current variant-specific evidence not established"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "unverified",
+          "reason": "Complete current variant-specific evidence not established"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "unverified",
+          "reason": "Complete current variant-specific evidence not established"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "unverified",
+          "reason": "Complete current variant-specific evidence not established"
+        },
+        {
+          "field": "warranty",
+          "status": "unverified",
+          "reason": "Complete current variant-specific evidence not established"
+        }
+      ]
+    },
+    {
+      "brand": "Škoda",
+      "model": "Superb",
+      "source_url": "https://www.skoda-auto.co.in/models/superb/superb",
+      "checked_at": "2026-11-28",
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "observations": {
+        "power_kw": 110,
+        "torque_nm": 360,
+        "engine": "2.0 TDI",
+        "transmission": "7DSG",
+        "drive": "FWD",
+        "retail_status": "expression of interest"
+      },
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "unverified",
+          "reason": "Complete current variant-specific evidence not established"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "unverified",
+          "reason": "Complete current variant-specific evidence not established"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "unverified",
+          "reason": "Complete current variant-specific evidence not established"
+        },
+        {
+          "field": "NVH",
+          "status": "unverified",
+          "reason": "Complete current variant-specific evidence not established"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "unverified",
+          "reason": "Complete current variant-specific evidence not established"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "unverified",
+          "reason": "Complete current variant-specific evidence not established"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "unverified",
+          "reason": "Complete current variant-specific evidence not established"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "unverified",
+          "reason": "Complete current variant-specific evidence not established"
+        },
+        {
+          "field": "warranty",
+          "status": "unverified",
+          "reason": "Complete current variant-specific evidence not established"
+        }
+      ]
+    }
+  ]
+}
