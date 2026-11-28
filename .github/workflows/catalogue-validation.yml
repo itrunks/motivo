@@ -4,6 +4,8 @@ on:
   push:
     branches: [main]
     paths:
+      - "research/india/legacy-audit/**"
+      - "scripts/validate_legacy_source_crosswalk.py"
       - "data/catalogue.json"
       - "data/source-registry.csv"
       - "scripts/validate_catalogue.py"
@@ -12,6 +14,8 @@ on:
   pull_request:
     branches: [main]
     paths:
+      - "research/india/legacy-audit/**"
+      - "scripts/validate_legacy_source_crosswalk.py"
       - "data/catalogue.json"
       - "data/source-registry.csv"
       - "scripts/validate_catalogue.py"
@@ -34,3 +38,6 @@ jobs:
         run: python scripts/validate_source_registry.py
       - name: Validate normalized catalogue and provenance
         run: python scripts/validate_catalogue.py
+
+      - name: Validate recovered legacy audit crosswalk
+        run: python scripts/validate_legacy_source_crosswalk.py
