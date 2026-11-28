@@ -1,0 +1,1599 @@
+{
+  "retrieval_scope": "Actual indexed India OEM catalogue, configurator, brochure index and salesroom text retrieved 2026-11-28. Snapshot ages differ. Individual PDFs not retrieved.",
+  "sources": [
+    "https://www.mercedes-benz.co.in/passengercars/models.html",
+    "https://www.mercedes-benz.co.in/passengercars/configurator.html",
+    "https://www.mercedes-benz.co.in/passengercars/configurator.html?view=BODYTYPE",
+    "https://www.mercedes-benz.co.in/passengercars/buy/brochures.html",
+    "https://www.mercedes-benz.co.in/passengercars/buy/new-car/search-results.html/vehicleCategory-new-passenger-cars/",
+    "https://www.mercedes-benz.co.in/passengercars.html"
+  ],
+  "models": [
+    {
+      "brand": "Mercedes-Benz",
+      "model": "CLA",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.mercedes-benz.co.in/passengercars/configurator.html",
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "observations": {
+        "starting_price_inr": 5650000,
+        "fuel_listing": "electric",
+        "price_scope": "indexed India model-family starting price, not full variant quote",
+        "brochure_index_listed": true,
+        "brochure_index_source": "https://www.mercedes-benz.co.in/passengercars/buy/brochures.html",
+        "brochure_pdf_retrieved": false
+      },
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "NVH",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "warranty",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        }
+      ]
+    },
+    {
+      "brand": "Mercedes-Benz",
+      "model": "C-Class",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.mercedes-benz.co.in/passengercars/configurator.html",
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "observations": {
+        "starting_price_inr": 6120000,
+        "fuel_listing": "petrol/diesel",
+        "price_scope": "indexed India model-family starting price, not full variant quote",
+        "brochure_index_listed": true,
+        "brochure_index_source": "https://www.mercedes-benz.co.in/passengercars/buy/brochures.html",
+        "brochure_pdf_retrieved": false,
+        "additional_listing": {
+          "price": 9405000,
+          "fuel_newer": "petrol",
+          "fuel_older": "plug-in hybrid/petrol"
+        },
+        "variant_examples": [
+          {
+            "name": "C 200",
+            "kw": 150,
+            "features": [
+              "ambient lighting",
+              "panoramic sliding glass sunroof"
+            ],
+            "source": "https://www.mercedes-benz.co.in/passengercars.html"
+          }
+        ]
+      },
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "NVH",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "warranty",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        }
+      ]
+    },
+    {
+      "brand": "Mercedes-Benz",
+      "model": "E-Class Sedan Long",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.mercedes-benz.co.in/passengercars/configurator.html",
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "observations": {
+        "starting_price_inr": 8200000,
+        "fuel_listing": "petrol/diesel",
+        "price_scope": "indexed India model-family starting price, not full variant quote",
+        "older_snapshot": {
+          "source": "https://www.mercedes-benz.co.in/passengercars/models.html",
+          "starting_price_inr": 8150000
+        },
+        "brochure_index_listed": true,
+        "brochure_index_source": "https://www.mercedes-benz.co.in/passengercars/buy/brochures.html",
+        "brochure_pdf_retrieved": false
+      },
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "NVH",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "warranty",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        }
+      ]
+    },
+    {
+      "brand": "Mercedes-Benz",
+      "model": "S-Class",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.mercedes-benz.co.in/passengercars/configurator.html",
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "observations": {
+        "starting_price_inr": 22000000,
+        "fuel_listing": "plug-in hybrid",
+        "price_scope": "indexed India model-family starting price, not full variant quote",
+        "brochure_index_listed": true,
+        "brochure_index_source": "https://www.mercedes-benz.co.in/passengercars/buy/brochures.html",
+        "brochure_pdf_retrieved": false
+      },
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "NVH",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "warranty",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        }
+      ]
+    },
+    {
+      "brand": "Mercedes-Benz",
+      "model": "Mercedes-Maybach S-Class",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.mercedes-benz.co.in/passengercars/configurator.html",
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "observations": {
+        "starting_price_inr": 32000000,
+        "fuel_listing": "plug-in hybrid",
+        "price_scope": "indexed India model-family starting price, not full variant quote",
+        "older_snapshot": {
+          "source": "https://www.mercedes-benz.co.in/passengercars/models.html",
+          "starting_price_inr": 28750000,
+          "fuel": "petrol"
+        },
+        "brochure_index_listed": true,
+        "brochure_index_source": "https://www.mercedes-benz.co.in/passengercars/buy/brochures.html",
+        "brochure_pdf_retrieved": false
+      },
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "NVH",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "warranty",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        }
+      ]
+    },
+    {
+      "brand": "Mercedes-Benz",
+      "model": "E-Class Sedan",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.mercedes-benz.co.in/passengercars/configurator.html",
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "observations": {
+        "starting_price_inr": 14500000,
+        "fuel_listing": "plug-in hybrid",
+        "price_scope": "indexed India model-family starting price, not full variant quote",
+        "brochure_index_listed": false
+      },
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "NVH",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "warranty",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        }
+      ]
+    },
+    {
+      "brand": "Mercedes-Benz",
+      "model": "EQS",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.mercedes-benz.co.in/passengercars/configurator.html",
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "observations": {
+        "starting_price_inr": 13000000,
+        "fuel_listing": "electric",
+        "price_scope": "indexed India model-family starting price, not full variant quote",
+        "brochure_index_listed": true,
+        "brochure_index_source": "https://www.mercedes-benz.co.in/passengercars/buy/brochures.html",
+        "brochure_pdf_retrieved": false
+      },
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "NVH",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "warranty",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        }
+      ]
+    },
+    {
+      "brand": "Mercedes-Benz",
+      "model": "Mercedes-Maybach EQS SUV",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.mercedes-benz.co.in/passengercars/configurator.html",
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "observations": {
+        "starting_price_inr": 24000000,
+        "fuel_listing": "electric",
+        "price_scope": "indexed India model-family starting price, not full variant quote",
+        "brochure_index_listed": false
+      },
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "NVH",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "warranty",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        }
+      ]
+    },
+    {
+      "brand": "Mercedes-Benz",
+      "model": "GLA",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.mercedes-benz.co.in/passengercars/configurator.html",
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "observations": {
+        "starting_price_inr": 5180000,
+        "fuel_listing": "petrol/diesel",
+        "price_scope": "indexed India model-family starting price, not full variant quote",
+        "brochure_index_listed": true,
+        "brochure_index_source": "https://www.mercedes-benz.co.in/passengercars/buy/brochures.html",
+        "brochure_pdf_retrieved": false,
+        "variant_examples": [
+          {
+            "name": "GLA 200",
+            "kw": 120,
+            "price": 5180001,
+            "features": [
+              "knee airbag",
+              "Active Parking Assist with PARKTRONIC",
+              "Blind Spot Assist"
+            ]
+          },
+          {
+            "name": "GLA 220d 4MATIC",
+            "kw": 140,
+            "price": 5300001,
+            "features": [
+              "Off-Road Engineering Package"
+            ]
+          }
+        ],
+        "variant_source": "https://www.mercedes-benz.co.in/passengercars/buy/new-car/search-results.html/vehicleCategory-new-passenger-cars/"
+      },
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "NVH",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "warranty",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        }
+      ]
+    },
+    {
+      "brand": "Mercedes-Benz",
+      "model": "GLC",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.mercedes-benz.co.in/passengercars/configurator.html",
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "observations": {
+        "starting_price_inr": 7700000,
+        "fuel_listing": "petrol/diesel",
+        "price_scope": "indexed India model-family starting price, not full variant quote",
+        "brochure_index_listed": true,
+        "brochure_index_source": "https://www.mercedes-benz.co.in/passengercars/buy/brochures.html",
+        "brochure_pdf_retrieved": false
+      },
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "NVH",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "warranty",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        }
+      ]
+    },
+    {
+      "brand": "Mercedes-Benz",
+      "model": "GLE",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.mercedes-benz.co.in/passengercars/configurator.html",
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "observations": {
+        "starting_price_inr": 10000000,
+        "fuel_listing": "petrol/diesel",
+        "price_scope": "indexed India model-family starting price, not full variant quote",
+        "brochure_index_listed": true,
+        "brochure_index_source": "https://www.mercedes-benz.co.in/passengercars/buy/brochures.html",
+        "brochure_pdf_retrieved": false,
+        "variant_examples": [
+          {
+            "name": "GLE 300d 4MATIC LWB AMG Line",
+            "kw": 198,
+            "features": [
+              "electrically adjustable rear seats",
+              "Rear Comfort Package",
+              "Interior Chrome Package"
+            ],
+            "source": "https://www.mercedes-benz.co.in/passengercars.html"
+          }
+        ]
+      },
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "NVH",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "warranty",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        }
+      ]
+    },
+    {
+      "brand": "Mercedes-Benz",
+      "model": "GLS",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.mercedes-benz.co.in/passengercars/configurator.html",
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "observations": {
+        "starting_price_inr": 13750000,
+        "fuel_listing": "petrol/diesel",
+        "price_scope": "indexed India model-family starting price, not full variant quote",
+        "brochure_index_listed": true,
+        "brochure_index_source": "https://www.mercedes-benz.co.in/passengercars/buy/brochures.html",
+        "brochure_pdf_retrieved": false
+      },
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "NVH",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "warranty",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        }
+      ]
+    },
+    {
+      "brand": "Mercedes-Benz",
+      "model": "Mercedes-Maybach GLS",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.mercedes-benz.co.in/passengercars/configurator.html",
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "observations": {
+        "starting_price_inr": 27500000,
+        "fuel_listing": "petrol",
+        "price_scope": "indexed India model-family starting price, not full variant quote",
+        "brochure_index_listed": true,
+        "brochure_index_source": "https://www.mercedes-benz.co.in/passengercars/buy/brochures.html",
+        "brochure_pdf_retrieved": false
+      },
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "NVH",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "warranty",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        }
+      ]
+    },
+    {
+      "brand": "Mercedes-Benz",
+      "model": "G-Class",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.mercedes-benz.co.in/passengercars/configurator.html",
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "observations": {
+        "starting_price_inr": 29000000,
+        "fuel_listing": "diesel",
+        "price_scope": "indexed India model-family starting price, not full variant quote",
+        "brochure_index_listed": true,
+        "brochure_index_source": "https://www.mercedes-benz.co.in/passengercars/buy/brochures.html",
+        "brochure_pdf_retrieved": false,
+        "other_powertrain_prices": [
+          {
+            "fuel": "electric",
+            "newer": 31500000,
+            "older": 31000000
+          },
+          {
+            "fuel": "petrol",
+            "newer": 38000000,
+            "older": 37400000
+          }
+        ]
+      },
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "NVH",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "warranty",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        }
+      ]
+    },
+    {
+      "brand": "Mercedes-Benz",
+      "model": "GLC Coupé",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.mercedes-benz.co.in/passengercars/configurator.html",
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "observations": {
+        "starting_price_inr": 9985000,
+        "fuel_listing": "petrol",
+        "price_scope": "indexed India model-family starting price, not full variant quote",
+        "brochure_index_listed": true,
+        "brochure_index_source": "https://www.mercedes-benz.co.in/passengercars/buy/brochures.html",
+        "brochure_pdf_retrieved": false
+      },
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "NVH",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "warranty",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        }
+      ]
+    },
+    {
+      "brand": "Mercedes-Benz",
+      "model": "GLE Coupé",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.mercedes-benz.co.in/passengercars/configurator.html",
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "observations": {
+        "starting_price_inr": 15200000,
+        "fuel_listing": "petrol",
+        "price_scope": "indexed India model-family starting price, not full variant quote",
+        "brochure_index_listed": true,
+        "brochure_index_source": "https://www.mercedes-benz.co.in/passengercars/buy/brochures.html",
+        "brochure_pdf_retrieved": false
+      },
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "NVH",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "warranty",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        }
+      ]
+    },
+    {
+      "brand": "Mercedes-Benz",
+      "model": "CLE Cabriolet",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.mercedes-benz.co.in/passengercars/configurator.html",
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "observations": {
+        "starting_price_inr": 11600000,
+        "fuel_listing": "petrol",
+        "price_scope": "indexed India model-family starting price, not full variant quote",
+        "older_snapshot": {
+          "source": "https://www.mercedes-benz.co.in/passengercars/models.html",
+          "starting_price_inr": 11500000
+        },
+        "brochure_index_listed": false
+      },
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "NVH",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "warranty",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        }
+      ]
+    },
+    {
+      "brand": "Mercedes-Benz",
+      "model": "Mercedes-Maybach SL Monogram Series",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.mercedes-benz.co.in/passengercars/configurator.html",
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "observations": {
+        "starting_price_inr": 44000000,
+        "fuel_listing": "petrol",
+        "price_scope": "indexed India model-family starting price, not full variant quote",
+        "older_snapshot": {
+          "source": "https://www.mercedes-benz.co.in/passengercars/models.html",
+          "starting_price_inr": 43000000
+        },
+        "brochure_index_listed": false
+      },
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "NVH",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "warranty",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        }
+      ]
+    },
+    {
+      "brand": "Mercedes-Benz",
+      "model": "V-Class",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.mercedes-benz.co.in/passengercars/models.html",
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "observations": {
+        "starting_price_inr": 14000000,
+        "fuel_listing": "petrol/diesel",
+        "price_scope": "indexed India model-family starting price, not full variant quote",
+        "brochure_index_listed": false
+      },
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "NVH",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "warranty",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        }
+      ]
+    },
+    {
+      "brand": "Mercedes-Benz",
+      "model": "A-Class Hatchback",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.mercedes-benz.co.in/passengercars/configurator.html",
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "observations": {
+        "starting_price_inr": 8700000,
+        "fuel_listing": "petrol",
+        "price_scope": "indexed India model-family starting price, not full variant quote",
+        "brochure_index_listed": false
+      },
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "NVH",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "warranty",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        }
+      ]
+    },
+    {
+      "brand": "Mercedes-Benz",
+      "model": "CLE Coupé",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.mercedes-benz.co.in/passengercars/configurator.html",
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "observations": {
+        "starting_price_inr": 13400000,
+        "fuel_listing": "petrol",
+        "price_scope": "indexed India model-family starting price, not full variant quote",
+        "older_snapshot": {
+          "source": "https://www.mercedes-benz.co.in/passengercars/models.html",
+          "starting_price_inr": 13250000
+        },
+        "brochure_index_listed": false
+      },
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "NVH",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "warranty",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        }
+      ]
+    },
+    {
+      "brand": "Mercedes-Benz",
+      "model": "Mercedes-AMG GT Coupé",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.mercedes-benz.co.in/passengercars/configurator.html",
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "observations": {
+        "starting_price_inr": 30500000,
+        "fuel_listing": "petrol",
+        "price_scope": "indexed India model-family starting price, not full variant quote",
+        "older_snapshot": {
+          "source": "https://www.mercedes-benz.co.in/passengercars/models.html",
+          "starting_price_inr": 30000000
+        },
+        "brochure_index_listed": false
+      },
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "NVH",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "warranty",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        }
+      ]
+    },
+    {
+      "brand": "Mercedes-Benz",
+      "model": "GLC Electric",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.mercedes-benz.co.in/passengercars/configurator.html?view=BODYTYPE",
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "observations": {
+        "starting_price_inr": 7850000,
+        "fuel_listing": "electric",
+        "price_scope": "indexed India model-family starting price, not full variant quote",
+        "brochure_index_listed": true,
+        "brochure_index_source": "https://www.mercedes-benz.co.in/passengercars/buy/brochures.html",
+        "brochure_pdf_retrieved": false
+      },
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "NVH",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "warranty",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        }
+      ]
+    },
+    {
+      "brand": "Mercedes-Benz",
+      "model": "EQS SUV",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.mercedes-benz.co.in/passengercars/configurator.html",
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "observations": {
+        "starting_price_inr": 13500000,
+        "fuel_listing": "electric",
+        "price_scope": "indexed India model-family starting price, not full variant quote",
+        "older_snapshot": {
+          "source": "https://www.mercedes-benz.co.in/passengercars/models.html",
+          "starting_price_inr": 13350000
+        },
+        "brochure_index_listed": true,
+        "brochure_index_source": "https://www.mercedes-benz.co.in/passengercars/buy/brochures.html",
+        "brochure_pdf_retrieved": false
+      },
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "NVH",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        },
+        {
+          "field": "warranty",
+          "status": "unverified",
+          "reason": "India catalogue observations are bounded; complete variant-level evidence not retrieved"
+        }
+      ]
+    }
+  ]
+}

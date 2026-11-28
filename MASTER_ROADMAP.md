@@ -310,3 +310,7 @@ Six identities supported by retrieved global OEM documents; Amalfi Spider remain
 ## McLaren bounded checkpoint
 
 Three model identities supported by actual indexed global OEM sources. Direct Mumbai retrieval returned navigation shell. 27 unresolved India fields; 788 HS and Spider scope candidates only. 99 completed_with_gaps, 92 review_required, 60 pending. Mercedes-Benz next; Ferrari Amalfi Spider residual pending. Earlier evidence provenance re-review required. No production changes.
+
+## Mercedes-Benz bounded checkpoint
+
+24 model identities matched to retrieved India OEM catalogue and configurator; older/newer price observations separated. Brochure index retrieved, individual PDFs pending. 216 unresolved fields. 123 completed_with_gaps, 92 review_required, 36 pending. Nissan next; Ferrari Amalfi Spider residual pending. Prior evidence provenance re-review required. No production changes.

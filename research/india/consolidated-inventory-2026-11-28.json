@@ -4904,7 +4904,9 @@
         "notes": "Captured configurator confirms CLA electric only in India catalogue. Exact battery/grade/drive mapping not exposed in captured summary. Confirm live configurator and price effective date before import."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-mercedes-benz-bounded-2026-11-28.json",
+      "stage2_verification": "bounded_indexed_oem_review"
     },
     {
       "brand_id": "mercedes_benz",
@@ -4928,7 +4930,9 @@
         "notes": "Do not conflate ICE and PHEV C-Class. Exact engine/trim/transmission mapping needs India configurator detail and brochure; verify the current model year and price basis."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-mercedes-benz-bounded-2026-11-28.json",
+      "stage2_verification": "bounded_indexed_oem_review"
     },
     {
       "brand_id": "mercedes_benz",
@@ -4952,7 +4956,9 @@
         "notes": "Keep long-wheelbase India sedan distinct from standard E-Class Sedan PHEV candidate. Exact E 200/E 220d/E 450 trim and transmission mapping needs brochure/configurator."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-mercedes-benz-bounded-2026-11-28.json",
+      "stage2_verification": "bounded_indexed_oem_review"
     },
     {
       "brand_id": "mercedes_benz",
@@ -4976,7 +4982,9 @@
         "notes": "Captured India catalogue lists PHEV S-Class. Do not infer international petrol/diesel variants or S 450/S 580 derivatives without India-specific configurator confirmation."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-mercedes-benz-bounded-2026-11-28.json",
+      "stage2_verification": "bounded_indexed_oem_review"
     },
     {
       "brand_id": "mercedes_benz",
@@ -5000,7 +5008,9 @@
         "notes": "Current configurator amount differs from older model overview pricing. Retain current configurator observation only; exact S 580/S 680 grade, powertrain and price basis require brochure/dealer confirmation."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-mercedes-benz-bounded-2026-11-28.json",
+      "stage2_verification": "bounded_indexed_oem_review"
     },
     {
       "brand_id": "mercedes_benz",
@@ -5024,7 +5034,9 @@
         "notes": "Candidate is retained as a distinct PHEV sedan identity. Do not merge with locally sold E-Class Sedan Long petrol/diesel. Confirm exact India product designation and orderability."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-mercedes-benz-bounded-2026-11-28.json",
+      "stage2_verification": "bounded_indexed_oem_review"
     },
     {
       "brand_id": "mercedes_benz",
@@ -5048,7 +5060,9 @@
         "notes": "Current configurator lists EQS as electric. Exact 450+/580 4MATIC/trim and current battery configuration require India brochure/configurator capture."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-mercedes-benz-bounded-2026-11-28.json",
+      "stage2_verification": "bounded_indexed_oem_review"
     },
     {
       "brand_id": "mercedes_benz",
@@ -5072,7 +5086,9 @@
         "notes": "Keep Maybach EQS SUV separate from standard EQS SUV candidate. Exact 680 4MATIC India configuration and price effective date need brochure/dealer confirmation."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-mercedes-benz-bounded-2026-11-28.json",
+      "stage2_verification": "bounded_indexed_oem_review"
     },
     {
       "brand_id": "mercedes_benz",
@@ -5096,7 +5112,9 @@
         "notes": "Exact GLA 200/220d 4MATIC grade, drivetrain and price mapping not exposed in summary. Use live configurator/brochure; do not cross-join fuel and drive options."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-mercedes-benz-bounded-2026-11-28.json",
+      "stage2_verification": "bounded_indexed_oem_review"
     },
     {
       "brand_id": "mercedes_benz",
@@ -5120,7 +5138,9 @@
         "notes": "Keep GLC ICE and GLC Electric as separate model candidates. Exact engine grade, 4MATIC, battery pack and trim mapping need detail page; do not merge pricing."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-mercedes-benz-bounded-2026-11-28.json",
+      "stage2_verification": "bounded_indexed_oem_review"
     },
     {
       "brand_id": "mercedes_benz",
@@ -5144,7 +5164,9 @@
         "notes": "Exact GLE 300d/450/450d engine, AMG Line and 4MATIC mapping not captured from summary. Use current configurator/brochure; do not infer all combinations."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-mercedes-benz-bounded-2026-11-28.json",
+      "stage2_verification": "bounded_indexed_oem_review"
     },
     {
       "brand_id": "mercedes_benz",
@@ -5168,7 +5190,9 @@
         "notes": "Exact GLS 450/450d, AMG Line and drivetrain combinations require current India configurator/brochure mapping."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-mercedes-benz-bounded-2026-11-28.json",
+      "stage2_verification": "bounded_indexed_oem_review"
     },
     {
       "brand_id": "mercedes_benz",
@@ -5192,7 +5216,9 @@
         "notes": "Do not assume global GLS 600/680 configurations beyond the India petrol listing. Confirm current grade, engine, equipment and price date."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-mercedes-benz-bounded-2026-11-28.json",
+      "stage2_verification": "bounded_indexed_oem_review"
     },
     {
       "brand_id": "mercedes_benz",
@@ -5216,7 +5242,9 @@
         "notes": "Keep electric G 580, diesel and petrol AMG derivatives separate by powertrain. Exact grade names, 4MATIC/AMG and equipment matrix need India-specific product brochures."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-mercedes-benz-bounded-2026-11-28.json",
+      "stage2_verification": "bounded_indexed_oem_review"
     },
     {
       "brand_id": "mercedes_benz",
@@ -5240,7 +5268,9 @@
         "notes": "Do not merge GLC Coupé with GLC SUV. Exact 43 4MATIC/trim and current model year require brochure/configurator confirmation."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-mercedes-benz-bounded-2026-11-28.json",
+      "stage2_verification": "bounded_indexed_oem_review"
     },
     {
       "brand_id": "mercedes_benz",
@@ -5264,7 +5294,9 @@
         "notes": "Separate body-style candidate from GLE SUV. Exact AMG 53 4MATIC+ trim and price details need India brochure/configurator."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-mercedes-benz-bounded-2026-11-28.json",
+      "stage2_verification": "bounded_indexed_oem_review"
     },
     {
       "brand_id": "mercedes_benz",
@@ -5288,7 +5320,9 @@
         "notes": "Current configurator model label is CLE Cabriolet. Exact CLE 300 4MATIC trim/engine mapping and price effective date require brochure/dealer confirmation."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-mercedes-benz-bounded-2026-11-28.json",
+      "stage2_verification": "bounded_indexed_oem_review"
     },
     {
       "brand_id": "mercedes_benz",
@@ -5312,7 +5346,9 @@
         "notes": "Keep this Maybach SL Monogram Series separate from Mercedes-AMG SL models. Exact India specification and limited-series allocation require dealer confirmation."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-mercedes-benz-bounded-2026-11-28.json",
+      "stage2_verification": "bounded_indexed_oem_review"
     },
     {
       "brand_id": "mercedes_benz",
@@ -5336,7 +5372,9 @@
         "notes": "V-Class appears on official India model overview but not the current passenger-car configurator result. Confirm current India orderability, engine/seat configuration and price with dealer."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-mercedes-benz-bounded-2026-11-28.json",
+      "stage2_verification": "bounded_indexed_oem_review"
     },
     {
       "brand_id": "mercedes_benz",
@@ -5360,7 +5398,9 @@
         "notes": "Current India configurator lists A-Class Hatchback, but exact grade, powertrain and dealer orderability need confirmation. Do not substitute older A-Class Limousine variants."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-mercedes-benz-bounded-2026-11-28.json",
+      "stage2_verification": "bounded_indexed_oem_review"
     },
     {
       "brand_id": "mercedes_benz",
@@ -5384,7 +5424,9 @@
         "notes": "Keep CLE Coupé separate from CLE Cabriolet. Exact India engine/grade and price date require brochure/configurator confirmation."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-mercedes-benz-bounded-2026-11-28.json",
+      "stage2_verification": "bounded_indexed_oem_review"
     },
     {
       "brand_id": "mercedes_benz",
@@ -5408,7 +5450,9 @@
         "notes": "Exact India GT 63/GT 63 Pro/4MATIC+ grade and equipment mapping not exposed in configurator summary. Confirm current orderability and model-specific price."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-mercedes-benz-bounded-2026-11-28.json",
+      "stage2_verification": "bounded_indexed_oem_review"
     },
     {
       "brand_id": "mercedes_benz",
@@ -5432,7 +5476,9 @@
         "notes": "New Electric GLC is separately identified in official India configurator and homepage as all-new GLC electric. Exact battery/drive/grade mapping and delivery availability require detail page/dealer confirmation."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-mercedes-benz-bounded-2026-11-28.json",
+      "stage2_verification": "bounded_indexed_oem_review"
     },
     {
       "brand_id": "mercedes_benz",
@@ -5456,7 +5502,9 @@
         "notes": "Keep standard EQS SUV distinct from Maybach EQS SUV. Two official page captures show ₹1.35Cr and ₹1.335Cr starting amounts; verify live price and effective date before import. Exact 450/580 4MATIC mapping requires India brochure."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-mercedes-benz-bounded-2026-11-28.json",
+      "stage2_verification": "bounded_indexed_oem_review"
     },
     {
       "brand_id": "nissan",
@@ -17664,5 +17712,5 @@
   },
   "stage1_status": "completed_with_gaps",
   "stage2_status": "in_progress",
-  "stage2_active_brand": "Mercedes-Benz"
+  "stage2_active_brand": "Nissan"
 }
