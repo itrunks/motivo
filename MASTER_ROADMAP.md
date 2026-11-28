@@ -24,7 +24,7 @@ Recovered historical inventory: 251 model rows, 35 brands. This is not a current
 | Mahindra | 13 | Initial lineup checked; Neo Plus candidate and orderability open |
 | Kia | 9 | Initial lineup checked; two new candidates and EV9 exception |
 | Toyota | 13 | Nameplates matched; SKU and generation conflict pending |
-| MG Motor | 10 | Pending |
+| MG Motor | 10 | Nameplates matched; Windsor Pro and Gloster exceptions |
 | Tata Motors | 16 | Pending |
 | MINI | 5 | Pending |
 | Force Motors | 1 | Pending |
@@ -74,3 +74,7 @@ Kia: all nine legacy nameplates appear on OEM homepage, including EV9; EV9 absen
 ## Stage 1 — Toyota checkpoint (2026-11-28)
 
 All 13 legacy nameplates match Toyota India's current product navigation: Glanza, Taisor, Rumion, Hyryder, Ebella, Innova Crysta, Innova Hycross, Hilux, Fortuner, Legender, Camry, Vellfire, Land Cruiser 300. Sources https://www.toyotabharat.com/ and https://www.toyotabharat.com/brochure/?model=29 . Retain Hilux in existing scope pending consistent pickup scope decision. October 14 Glanza release https://www.toyotabharat.com/news/2026/tkm-introduces-the-new-toyota-glanza.html identifies new three-cylinder engine and CNG AMT, while https://www.toyotabharat.com/showroom/glanza/ still exposes four-cylinder specifications. Record generation conflict; do not join old features to new variants. October 9 Fortuner Leader Edition announcement indexed at https://www.toyotabharat.com/news/index.html requires exact edition mapping. No prices imported. Exact SKU/orderability and source publication review pending.
+
+## Stage 1 — MG Motor checkpoint (2026-11-28)
+
+All ten legacy records have current OEM homepage evidence: Comet EV, Windsor EV, ZS EV, Hector, Astor, Hector Tomahawk EV and PHEV, Majestor, Cyberster, M9. Windsor Pro is separately presented in the configurator; retain as configuration candidate rather than automatically creating a new model. Gloster appears in service navigation but not current retail product lineup; orderability unresolved. Majestor homepage starting reference INR 43.49L differs from configurator INR 40.99L and May 27 launch release for 4x2 automatic; resolve variant and effective-date scope before publication. Separate BaaS from outright battery-inclusive purchase prices. Sources checked: https://www.mgmotor.co.in/ ; https://cars.mgmotor.co.in/ ; https://www.mgmotor.co.in/tools/brochures ; https://www.mgmotor.co.in/media-center/newsroom/mg-majestor-4x2-automatic-top-trim-launched-at-inr-40-99-lakhs-e . Exact SKU inventory pending. No production data imported.
