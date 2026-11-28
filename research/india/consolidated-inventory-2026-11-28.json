@@ -24,9 +24,10 @@
         "notes": "Eight petrol/CNG configurations and Book Now path are visible on the official page. The current variant cards and embedded FAQ table conflict for four grades. Preserve both observations; use card amounts only as current displayed-price snapshots, not confirmed invoice prices. Official brochure supports 998cc K10C, petrol 5MT/AGS, CNG 5MT, 5-seat petrol and 4-seat CNG. Source rights remain review_required / unknown."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "partial_source_review",
+      "stage2_status": "completed_with_gaps",
       "stage2_evidence_path": "research/india/stage2-maruti-overview-2026-11-28.json",
-      "stage2_price_evidence_path": "research/india/stage2-maruti-price-evidence-2026-11-28.json"
+      "stage2_price_evidence_path": "research/india/stage2-maruti-price-evidence-2026-11-28.json",
+      "stage2_verification": "historical_claims_unconfirmed"
     },
     {
       "brand_id": "maruti_suzuki",
@@ -50,9 +51,10 @@
         "notes": "Eight exact petrol/S-CNG configurations are captured. Card headings identify manual, AGS and S-CNG; page also shows 2+ months waiting and Book Now. City-specific price differences affect several petrol grades. Prior unscoped normalized prices matched Perambra values but city scope was not retained; those amounts are preserved as legacy observations and removed from city-agnostic rows. Use companion price-observations file. Source rights remain review_required / unknown."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "partial_source_review",
+      "stage2_status": "completed_with_gaps",
       "stage2_evidence_path": "research/india/stage2-maruti-overview-2026-11-28.json",
-      "stage2_price_evidence_path": "research/india/stage2-maruti-price-evidence-2026-11-28.json"
+      "stage2_price_evidence_path": "research/india/stage2-maruti-price-evidence-2026-11-28.json",
+      "stage2_verification": "historical_claims_unconfirmed"
     },
     {
       "brand_id": "maruti_suzuki",
@@ -76,9 +78,10 @@
         "notes": "Four passenger configurations are confirmed with 5MT, 1197cc K12N and 5/6-seat mappings. Official cards show Book Now and 2+ months waiting. Prices differ by city; prior unscoped amounts matched Latur and are preserved as legacy observations. The FAQ cargo-price copy is not used as passenger price evidence. Source rights remain review_required / unknown."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "partial_source_review",
+      "stage2_status": "completed_with_gaps",
       "stage2_evidence_path": "research/india/stage2-maruti-overview-2026-11-28.json",
-      "stage2_price_evidence_path": "research/india/stage2-maruti-price-evidence-2026-11-28.json"
+      "stage2_price_evidence_path": "research/india/stage2-maruti-price-evidence-2026-11-28.json",
+      "stage2_verification": "historical_claims_unconfirmed"
     },
     {
       "brand_id": "maruti_suzuki",
@@ -102,9 +105,10 @@
         "notes": "Nine named passenger configurations confirmed: 1.5L K15C Smart Hybrid petrol and S-CNG; 5MT/6AT by grade; seven seats. City-scoped price observations are preserved separately. Two prior normalized prices matched Punalur but city scope was lost; all price values have been removed from city-agnostic normalized rows. Source rights remain review_required / unknown."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "partial_source_review",
+      "stage2_status": "completed_with_gaps",
       "stage2_evidence_path": "research/india/stage2-maruti-overview-2026-11-28.json",
-      "stage2_price_evidence_path": "research/india/stage2-maruti-price-evidence-2026-11-28.json"
+      "stage2_price_evidence_path": "research/india/stage2-maruti-price-evidence-2026-11-28.json",
+      "stage2_verification": "historical_claims_unconfirmed"
     },
     {
       "brand_id": "maruti_suzuki",
@@ -128,8 +132,10 @@
         "notes": "Official page identifies 998cc K10C petrol/S-CNG, 5MT/AGS. Variant names include (O) on current price page. Price page card extraction is incomplete for one listed variant; do not infer its price."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "navigation_price_only",
-      "stage2_price_evidence_path": "research/india/stage2-maruti-price-evidence-2026-11-28.json"
+      "stage2_status": "completed_with_gaps",
+      "stage2_price_evidence_path": "research/india/stage2-maruti-price-evidence-2026-11-28.json",
+      "stage2_evidence_path": "research/india/stage2-maruti-bounded-evidence-2026-11-28.json",
+      "stage2_verification": "partial_oem_observation"
     },
     {
       "brand_id": "maruti_suzuki",
@@ -153,8 +159,10 @@
         "notes": "Official page lists petrol and S-CNG variants with 1197cc petrol and manual/AMT; card extraction shows CNG AGS variants in selector despite incomplete transmission detail in some cards. Verify full selector-to-price matrix and current price effective date before import."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "navigation_price_only",
-      "stage2_price_evidence_path": "research/india/stage2-maruti-price-evidence-2026-11-28.json"
+      "stage2_status": "completed_with_gaps",
+      "stage2_price_evidence_path": "research/india/stage2-maruti-price-evidence-2026-11-28.json",
+      "stage2_evidence_path": "research/india/stage2-maruti-bounded-evidence-2026-11-28.json",
+      "stage2_verification": "partial_oem_observation"
     },
     {
       "brand_id": "maruti_suzuki",
@@ -178,8 +186,10 @@
         "notes": "Official Arena page explicitly distinguishes petrol, S-CNG and strong-hybrid grades, 2W/4W and automatic/manual. Do not collapse petrol AT, strong hybrid and AllGrip into one powertrain. Captured prices are page observations, not yet import-approved."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "navigation_price_only",
-      "stage2_price_evidence_path": "research/india/stage2-maruti-price-evidence-2026-11-28.json"
+      "stage2_status": "completed_with_gaps",
+      "stage2_price_evidence_path": "research/india/stage2-maruti-price-evidence-2026-11-28.json",
+      "stage2_evidence_path": "research/india/stage2-maruti-bounded-evidence-2026-11-28.json",
+      "stage2_verification": "partial_oem_observation"
     },
     {
       "brand_id": "maruti_suzuki",
@@ -203,8 +213,10 @@
         "notes": "Official page exposes petrol, S-CNG and FLEX FUEL filters. Overview page names LXi/VXi/ZXi/ZXi+ with 1.0L/1.2L and MT/AGS, plus CNG LXi/VXi. Flex-fuel filter appears on price page but current orderable variants/specs need separate confirmation. Do not infer all engine/transmission cross-combinations."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "navigation_price_only",
-      "stage2_price_evidence_path": "research/india/stage2-maruti-price-evidence-2026-11-28.json"
+      "stage2_status": "completed_with_gaps",
+      "stage2_price_evidence_path": "research/india/stage2-maruti-price-evidence-2026-11-28.json",
+      "stage2_evidence_path": "research/india/stage2-maruti-bounded-evidence-2026-11-28.json",
+      "stage2_verification": "source_inaccessible"
     },
     {
       "brand_id": "maruti_suzuki",
@@ -228,8 +240,10 @@
         "notes": "Official price page displays nine variants and 1197cc Z12E petrol/S-CNG, 5MT/AMT. The page also has a top-price FAQ amount that differs from its card amount; use card values as observations and flag FAQ copy for confirmation before import."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "navigation_price_only",
-      "stage2_price_evidence_path": "research/india/stage2-maruti-price-evidence-2026-11-28.json"
+      "stage2_status": "completed_with_gaps",
+      "stage2_price_evidence_path": "research/india/stage2-maruti-price-evidence-2026-11-28.json",
+      "stage2_evidence_path": "research/india/stage2-maruti-bounded-evidence-2026-11-28.json",
+      "stage2_verification": "partial_oem_observation"
     },
     {
       "brand_id": "maruti_suzuki",
@@ -253,8 +267,10 @@
         "notes": "Official price page contains anomalous 'LXI/VXI/ZXI Turbo MT' selector labels while its own specs describe 1462cc petrol and S-CNG, not a turbo petrol engine. Do not create turbo variants; preserve only clearly supported non-turbo/CNG grades pending official selector clarification. Price page explicitly gives Delhi effective date 24-Jul-2026."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "navigation_price_only",
-      "stage2_price_evidence_path": "research/india/stage2-maruti-price-evidence-2026-11-28.json"
+      "stage2_status": "completed_with_gaps",
+      "stage2_price_evidence_path": "research/india/stage2-maruti-price-evidence-2026-11-28.json",
+      "stage2_evidence_path": "research/india/stage2-maruti-bounded-evidence-2026-11-28.json",
+      "stage2_verification": "partial_oem_observation"
     },
     {
       "brand_id": "maruti_suzuki",
@@ -278,7 +294,9 @@
         "notes": "Official NEXA page identifies current petrol and CNG variant families and transmission choices. Do not add legacy RS or older petrol-only trim rows without current official evidence. Capture the live price configurator and confirm whether AMT naming is current."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-maruti-bounded-evidence-2026-11-28.json",
+      "stage2_verification": "partial_oem_observation"
     },
     {
       "brand_id": "maruti_suzuki",
@@ -302,7 +320,9 @@
         "notes": "Official NEXA page separates strong hybrid, petrol, ALLGRIP SELECT 4x4 and S-CNG. Variant comparison additionally shows AT derivatives and CNG grades. Avoid crossing every trim with every transmission; capture full live matrix and price effective date before import."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-maruti-bounded-evidence-2026-11-28.json",
+      "stage2_verification": "partial_oem_observation"
     },
     {
       "brand_id": "maruti_suzuki",
@@ -326,7 +346,9 @@
         "notes": "Official NEXA page maps 1.0L Boosterjet turbo, 1.2L K-series petrol and S-CNG to distinct trim families. Official page currently has a 2026 facelift banner elsewhere in the wider site; confirm whether any facelift variant changes are live before import. Do not treat 2026 third-party facelift estimates as OEM prices."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-maruti-bounded-evidence-2026-11-28.json",
+      "stage2_verification": "partial_oem_observation"
     },
     {
       "brand_id": "maruti_suzuki",
@@ -350,7 +372,9 @@
         "notes": "Official NEXA page confirms 5-speed MT and 4-speed AT; current brochure confirms 1.5L K15B petrol and ALLGRIP PRO 4WD. The brochure snapshot is older; verify current orderability and price at dealer before import."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-maruti-bounded-evidence-2026-11-28.json",
+      "stage2_verification": "partial_oem_observation"
     },
     {
       "brand_id": "maruti_suzuki",
@@ -374,7 +398,9 @@
         "notes": "Official NEXA page confirms 1.5L K-series Smart Hybrid and Zeta CNG, 6-seat MPV. The page FAQ contains a likely typo 'Apha+'; standardized to Alpha+ only because the page variant heading otherwise clearly identifies Alpha+ and current product naming. Confirm exact CNG price and current grade availability."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-maruti-bounded-evidence-2026-11-28.json",
+      "stage2_verification": "partial_oem_observation"
     },
     {
       "brand_id": "maruti_suzuki",
@@ -398,7 +424,9 @@
         "notes": "Official page identifies strong-hybrid-only range, Zeta+ 7/8-seat and Alpha+ 7-seat. Do not carry forward old Alpha+ 8-seat unless current official source confirms it. Capture current NEXA price configurator and effective date."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-maruti-bounded-evidence-2026-11-28.json",
+      "stage2_verification": "partial_oem_observation"
     },
     {
       "brand_id": "maruti_suzuki",
@@ -422,7 +450,9 @@
         "notes": "Official NEXA page links to India-specific variants/pricing and Build Your Own configurator, but current variant names, battery capacities and price rows were not extractable in this capture. Do not infer from international e VITARA specifications or secondary sources; inspect India configurator/brochure in next pass."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-maruti-bounded-evidence-2026-11-28.json",
+      "stage2_verification": "partial_oem_observation"
     },
     {
       "brand_id": "hyundai",
