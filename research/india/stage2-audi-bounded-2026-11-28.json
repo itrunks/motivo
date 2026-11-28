@@ -1,0 +1,541 @@
+{
+  "retrieval_scope": "OEM India lineup and price landing page only; no exact variant or full feature audit",
+  "models": [
+    {
+      "brand": "Audi",
+      "model": "Q3",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.audi.in/en/models/",
+      "observations": {
+        "listed_in_retrieved_navigation": true,
+        "price_source": "https://www.audi.in/en/customer-area/price-reckoner/"
+      },
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "not_available",
+          "reason": "not established by retrieved lineup and price landing pages"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "not_available",
+          "reason": "not established by retrieved lineup and price landing pages"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "not_available",
+          "reason": "price reckoner landing page retrieved; no numeric prices exposed"
+        },
+        {
+          "field": "NVH",
+          "status": "not_available",
+          "reason": "not established by retrieved lineup and price landing pages"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "not_available",
+          "reason": "not established by retrieved lineup and price landing pages"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "not_available",
+          "reason": "not established by retrieved lineup and price landing pages"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "not_available",
+          "reason": "not established by retrieved lineup and price landing pages"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "not_available",
+          "reason": "not established by retrieved lineup and price landing pages"
+        },
+        {
+          "field": "warranty",
+          "status": "not_available",
+          "reason": "not established by retrieved lineup and price landing pages"
+        }
+      ]
+    },
+    {
+      "brand": "Audi",
+      "model": "Q5",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.audi.in/en/models/",
+      "observations": {
+        "listed_in_retrieved_navigation": true,
+        "price_source": "https://www.audi.in/en/customer-area/price-reckoner/"
+      },
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "not_available",
+          "reason": "not established by retrieved lineup and price landing pages"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "not_available",
+          "reason": "not established by retrieved lineup and price landing pages"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "not_available",
+          "reason": "price reckoner landing page retrieved; no numeric prices exposed"
+        },
+        {
+          "field": "NVH",
+          "status": "not_available",
+          "reason": "not established by retrieved lineup and price landing pages"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "not_available",
+          "reason": "not established by retrieved lineup and price landing pages"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "not_available",
+          "reason": "not established by retrieved lineup and price landing pages"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "not_available",
+          "reason": "not established by retrieved lineup and price landing pages"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "not_available",
+          "reason": "not established by retrieved lineup and price landing pages"
+        },
+        {
+          "field": "warranty",
+          "status": "not_available",
+          "reason": "not established by retrieved lineup and price landing pages"
+        }
+      ]
+    },
+    {
+      "brand": "Audi",
+      "model": "Q7",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.audi.in/en/models/",
+      "observations": {
+        "listed_in_retrieved_navigation": true,
+        "price_source": "https://www.audi.in/en/customer-area/price-reckoner/"
+      },
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "not_available",
+          "reason": "not established by retrieved lineup and price landing pages"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "not_available",
+          "reason": "not established by retrieved lineup and price landing pages"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "not_available",
+          "reason": "price reckoner landing page retrieved; no numeric prices exposed"
+        },
+        {
+          "field": "NVH",
+          "status": "not_available",
+          "reason": "not established by retrieved lineup and price landing pages"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "not_available",
+          "reason": "not established by retrieved lineup and price landing pages"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "not_available",
+          "reason": "not established by retrieved lineup and price landing pages"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "not_available",
+          "reason": "not established by retrieved lineup and price landing pages"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "not_available",
+          "reason": "not established by retrieved lineup and price landing pages"
+        },
+        {
+          "field": "warranty",
+          "status": "not_available",
+          "reason": "not established by retrieved lineup and price landing pages"
+        }
+      ]
+    },
+    {
+      "brand": "Audi",
+      "model": "Q8",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.audi.in/en/models/",
+      "observations": {
+        "listed_in_retrieved_navigation": true,
+        "price_source": "https://www.audi.in/en/customer-area/price-reckoner/"
+      },
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "not_available",
+          "reason": "not established by retrieved lineup and price landing pages"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "not_available",
+          "reason": "not established by retrieved lineup and price landing pages"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "not_available",
+          "reason": "price reckoner landing page retrieved; no numeric prices exposed"
+        },
+        {
+          "field": "NVH",
+          "status": "not_available",
+          "reason": "not established by retrieved lineup and price landing pages"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "not_available",
+          "reason": "not established by retrieved lineup and price landing pages"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "not_available",
+          "reason": "not established by retrieved lineup and price landing pages"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "not_available",
+          "reason": "not established by retrieved lineup and price landing pages"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "not_available",
+          "reason": "not established by retrieved lineup and price landing pages"
+        },
+        {
+          "field": "warranty",
+          "status": "not_available",
+          "reason": "not established by retrieved lineup and price landing pages"
+        }
+      ]
+    },
+    {
+      "brand": "Audi",
+      "model": "A4",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.audi.in/en/models/",
+      "observations": {
+        "listed_in_retrieved_navigation": true,
+        "price_source": "https://www.audi.in/en/customer-area/price-reckoner/"
+      },
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "not_available",
+          "reason": "not established by retrieved lineup and price landing pages"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "not_available",
+          "reason": "not established by retrieved lineup and price landing pages"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "not_available",
+          "reason": "price reckoner landing page retrieved; no numeric prices exposed"
+        },
+        {
+          "field": "NVH",
+          "status": "not_available",
+          "reason": "not established by retrieved lineup and price landing pages"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "not_available",
+          "reason": "not established by retrieved lineup and price landing pages"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "not_available",
+          "reason": "not established by retrieved lineup and price landing pages"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "not_available",
+          "reason": "not established by retrieved lineup and price landing pages"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "not_available",
+          "reason": "not established by retrieved lineup and price landing pages"
+        },
+        {
+          "field": "warranty",
+          "status": "not_available",
+          "reason": "not established by retrieved lineup and price landing pages"
+        }
+      ]
+    },
+    {
+      "brand": "Audi",
+      "model": "A6",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.audi.in/en/models/",
+      "observations": {
+        "listed_in_retrieved_navigation": true,
+        "price_source": "https://www.audi.in/en/customer-area/price-reckoner/"
+      },
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "not_available",
+          "reason": "not established by retrieved lineup and price landing pages"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "not_available",
+          "reason": "not established by retrieved lineup and price landing pages"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "not_available",
+          "reason": "price reckoner landing page retrieved; no numeric prices exposed"
+        },
+        {
+          "field": "NVH",
+          "status": "not_available",
+          "reason": "not established by retrieved lineup and price landing pages"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "not_available",
+          "reason": "not established by retrieved lineup and price landing pages"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "not_available",
+          "reason": "not established by retrieved lineup and price landing pages"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "not_available",
+          "reason": "not established by retrieved lineup and price landing pages"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "not_available",
+          "reason": "not established by retrieved lineup and price landing pages"
+        },
+        {
+          "field": "warranty",
+          "status": "not_available",
+          "reason": "not established by retrieved lineup and price landing pages"
+        }
+      ]
+    },
+    {
+      "brand": "Audi",
+      "model": "Q3 Sportback",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.audi.in/en/models/",
+      "observations": {
+        "listed_in_retrieved_navigation": false,
+        "price_source": "https://www.audi.in/en/customer-area/price-reckoner/"
+      },
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "not_available",
+          "reason": "not established by retrieved lineup and price landing pages"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "not_available",
+          "reason": "not established by retrieved lineup and price landing pages"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "not_available",
+          "reason": "price reckoner landing page retrieved; no numeric prices exposed"
+        },
+        {
+          "field": "NVH",
+          "status": "not_available",
+          "reason": "not established by retrieved lineup and price landing pages"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "not_available",
+          "reason": "not established by retrieved lineup and price landing pages"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "not_available",
+          "reason": "not established by retrieved lineup and price landing pages"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "not_available",
+          "reason": "not established by retrieved lineup and price landing pages"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "not_available",
+          "reason": "not established by retrieved lineup and price landing pages"
+        },
+        {
+          "field": "warranty",
+          "status": "not_available",
+          "reason": "not established by retrieved lineup and price landing pages"
+        },
+        {
+          "field": "current_orderability",
+          "status": "unverified",
+          "reason": "not named in retrieved India lineup; absence does not establish discontinuation"
+        }
+      ]
+    },
+    {
+      "brand": "Audi",
+      "model": "SQ8",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.audi.in/en/models/",
+      "observations": {
+        "listed_in_retrieved_navigation": true,
+        "price_source": "https://www.audi.in/en/customer-area/price-reckoner/"
+      },
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "not_available",
+          "reason": "not established by retrieved lineup and price landing pages"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "not_available",
+          "reason": "not established by retrieved lineup and price landing pages"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "not_available",
+          "reason": "price reckoner landing page retrieved; no numeric prices exposed"
+        },
+        {
+          "field": "NVH",
+          "status": "not_available",
+          "reason": "not established by retrieved lineup and price landing pages"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "not_available",
+          "reason": "not established by retrieved lineup and price landing pages"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "not_available",
+          "reason": "not established by retrieved lineup and price landing pages"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "not_available",
+          "reason": "not established by retrieved lineup and price landing pages"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "not_available",
+          "reason": "not established by retrieved lineup and price landing pages"
+        },
+        {
+          "field": "warranty",
+          "status": "not_available",
+          "reason": "not established by retrieved lineup and price landing pages"
+        }
+      ]
+    },
+    {
+      "brand": "Audi",
+      "model": "RS Q8 Performance",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.audi.in/en/models/",
+      "observations": {
+        "listed_in_retrieved_navigation": true,
+        "price_source": "https://www.audi.in/en/customer-area/price-reckoner/"
+      },
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "not_available",
+          "reason": "not established by retrieved lineup and price landing pages"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "not_available",
+          "reason": "not established by retrieved lineup and price landing pages"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "not_available",
+          "reason": "price reckoner landing page retrieved; no numeric prices exposed"
+        },
+        {
+          "field": "NVH",
+          "status": "not_available",
+          "reason": "not established by retrieved lineup and price landing pages"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "not_available",
+          "reason": "not established by retrieved lineup and price landing pages"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "not_available",
+          "reason": "not established by retrieved lineup and price landing pages"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "not_available",
+          "reason": "not established by retrieved lineup and price landing pages"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "not_available",
+          "reason": "not established by retrieved lineup and price landing pages"
+        },
+        {
+          "field": "warranty",
+          "status": "not_available",
+          "reason": "not established by retrieved lineup and price landing pages"
+        }
+      ]
+    }
+  ]
+}

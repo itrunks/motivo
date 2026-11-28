@@ -2562,7 +2562,9 @@
         "notes": "Audi India launch release dated 2026-10-16 describes 2.0L TFSI, 150kW/320Nm and quattro AWD, but does not expose exact variant names or grade-wise pricing. Treat ₹51.99L as introductory model price only. Secondary reporting says Nova/Zenith and different prices; not substituted for OEM confirmation."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-audi-bounded-2026-11-28.json",
+      "stage2_verification": "bounded_indexed_oem_review"
     },
     {
       "brand_id": "audi",
@@ -2586,7 +2588,9 @@
         "notes": "Current Audi India model page confirms Q5 as a current product. Third-party pages list Premium Plus/Technology/Bold Edition and prices, but no current OEM variant matrix was captured; do not import secondary trim or price claims."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-audi-bounded-2026-11-28.json",
+      "stage2_verification": "bounded_indexed_oem_review"
     },
     {
       "brand_id": "audi",
@@ -2610,7 +2614,9 @@
         "notes": "The current page does not expose India grade labels. A legacy official brochure references Technology-only equipment but is not sufficient to prove current 2026 variant names or orderability. Do not carry forward legacy grades without current configurator/dealer confirmation."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-audi-bounded-2026-11-28.json",
+      "stage2_verification": "bounded_indexed_oem_review"
     },
     {
       "brand_id": "audi",
@@ -2634,7 +2640,9 @@
         "notes": "The official Q8 model page lists Q8, SQ8 and RS Q8 Performance as separate product families. This audit row covers only the Q8 SUV candidate; SQ8 and RS Q8 Performance have their own candidate rows. Do not merge the three models into one variant list."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-audi-bounded-2026-11-28.json",
+      "stage2_verification": "bounded_indexed_oem_review"
     },
     {
       "brand_id": "audi",
@@ -2658,7 +2666,9 @@
         "notes": "Official product page names three trim/equipment levels, but captured content does not map all feature/option combinations or current prices to each. Need current configurator/dealer price sheet and price effective date before import."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-audi-bounded-2026-11-28.json",
+      "stage2_verification": "bounded_indexed_oem_review"
     },
     {
       "brand_id": "audi",
@@ -2682,7 +2692,9 @@
         "notes": "Official model page confirms A6 Sedan and current product detail, but not India trim names or grade-wise price. Do not rely on third-party 2025/2026 price tables as OEM evidence."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-audi-bounded-2026-11-28.json",
+      "stage2_verification": "bounded_indexed_oem_review"
     },
     {
       "brand_id": "audi",
@@ -2706,7 +2718,9 @@
         "notes": "The current model overview shows six grouped model families and does not separately display Q3 Sportback. Legacy official navigation/sitemap references remain, but do not prove current orderability. Dealer confirmation required; do not import legacy trims/prices."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-audi-bounded-2026-11-28.json",
+      "stage2_verification": "bounded_indexed_oem_review"
     },
     {
       "brand_id": "audi",
@@ -2730,7 +2744,9 @@
         "notes": "The page supports an India pre-booking/teaser product presence but does not publish grade-wise price or orderable configuration. Keep SQ8 separate from Q8 and RS Q8 Performance; confirm launch/orderability and dated price."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-audi-bounded-2026-11-28.json",
+      "stage2_verification": "bounded_indexed_oem_review"
     },
     {
       "brand_id": "audi",
@@ -2754,7 +2770,9 @@
         "notes": "Product page confirms RS Q8 Performance identity and performance specification but does not expose India-specific grade/price matrix. Do not use international configurator options or secondary prices as OEM India variant facts."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-audi-bounded-2026-11-28.json",
+      "stage2_verification": "bounded_indexed_oem_review"
     },
     {
       "brand_id": "bmw",
@@ -17482,5 +17500,5 @@
   },
   "stage1_status": "completed_with_gaps",
   "stage2_status": "in_progress",
-  "stage2_active_brand": "Audi"
+  "stage2_active_brand": "BMW"
 }

@@ -250,3 +250,7 @@ Kia 9/9 bounded dispositions based on actual indexed OEM excerpts. Earlier 60 mo
 ## MINI Tesla VinFast checkpoint
 
 9 supported bounded closures, 92 review_required (including MG), 150 pending of 251. No full variant audits. Audi next. Actual OEM excerpts support this batch; prior unsupported claims excluded from production. No production changes.
+
+## Audi bounded lineup checkpoint
+
+Eight names observed in current India OEM navigation; Q3 Sportback not listed, orderability unverified, retained. Price reckoner landing page contains no numeric prices in retrieved text. Nine bounded dispositions, 82 gap rows, 18 completed_with_gaps, 92 review_required unchanged, 141 pending. No full variant audit or production import. BMW next.
