@@ -322,3 +322,7 @@ Three inventory identities matched to actual India OEM excerpts; 42 published pr
 ## Porsche bounded checkpoint
 
 Five families and 20 configurations supported by retrieved India OEM configurator. 45 unresolved fields; 131 completed_with_gaps, 92 review_required, 28 pending. Renault next; Ferrari residual pending. Prior evidence provenance review required. No production changes.
+
+## Renault bounded checkpoint and Porsche correction
+
+Renault four registered identities audited against actual indexed India OEM pages; 17 grade price observations and 36 unresolved fields. Duster hybrid catalogue listing retained within Duster scope; exact SKUs and individual brochures pending. Porsche 911 combined power labels corrected and drivetrain/top speed added from India configurator. 135 completed_with_gaps, 92 review_required, 24 pending. Rolls-Royce next; Ferrari residual pending. No production changes.
