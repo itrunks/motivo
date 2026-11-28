@@ -214,3 +214,7 @@ All 251 legacy variant audit rows matched to the 251 master model identities. Hi
 ## Stage 1 closure with gaps / Stage 2 entry
 
 Latest authoritative checkpoint supersedes earlier progress counts. All 251 historical model identities have dated source URLs and audit notes. Under owner non-blocking policy, inventory scope is closed with gaps, not verified current retail completeness. 535 raw candidates retained, zero independently verified in this checkpoint. All 251 variant information fields remain not_available; previous unconfirmed Verna matrix and Fortuner access claim preserved as unconfirmed history, not fresh evidence. Missing-data export covers 251 identities. Stage 2 queue initialized; zero completed feature audits in this checkpoint. No production import, Firebase or deployment.
+
+## Stage 2 first overview batch
+
+Four Maruti models (Alto K10, Celerio, Eeco, Ertiga) reviewed on actual OEM overview pages. 28 scoped observations and 44 deferred field records in `research/india/stage2-maruti-overview-2026-11-28.json`. Four partial reviews, zero full variant feature audits. Publication review pending. Next: bounded brochure/price review then remaining Maruti models.
