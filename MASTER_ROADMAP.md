@@ -36,9 +36,9 @@ Recovered historical inventory: 251 model rows, 35 brands. This is not a current
 | Citroën | 5 | 4 confirmed; C5 Aircross unresolved |
 | Honda | 5 | 5 matched; ALPHA future only |
 | Jeep | 4 | 4 matched; exact SKUs pending |
-| Lamborghini | 3 | Pending |
-| Land Rover | 7 | Pending |
-| Lexus | 5 | Pending |
+| Lamborghini | 3 | Global OEM and India secondary evidence; local OEM range pending |
+| Land Rover | 7 | All seven matched; Defender body configurations pending |
+| Lexus | 5 | Dealer and historical OEM evidence; current national OEM check pending |
 | Maserati | 7 | All seven matched; MY2026/2027 configuration conflict |
 | Aston Martin | 4 | Pending |
 | Bentley | 5 | Pending |
@@ -109,3 +109,11 @@ No production records or prices imported. All four initial inspections performed
 ## Stage 1 — Maserati checkpoint (2026-11-28)
 
 India range https://www.maserati.com/in/en/models and configurator https://www.maserati.com/in/en/shopping-tools/configurator match all seven historical records. Configurator lists 13 MY2026/2027 configurations across Grecale (4), GranTurismo (3), GranCabrio (3), MCPURA, MCPURA Cielo and GT2 Stradale. Grecale Folgore is a powertrain within Grecale; preserve legacy mapping. Current India homepage https://www.maserati.com/in/en shows five new Grecale configurations including Modena V6. MY2027 Modena starting price differs from MY2026 configurator; keep model years separate, do not import prices. GranTurismo and GranCabrio Folgore are configuration leads. MC20 and MC20 Cielo remain on older range page but not configurator; orderability unresolved. Track-only GT2 and MCXtrema excluded. India debut of updated range confirmed by https://www.maserati.com/gb/en/brand/stories-of-audacity/maserati-partnership-navnit-india . Exact current orderability and SKU completeness pending. Other brands searched in this batch yielded insufficient market-specific evidence; no completion marks assigned.
+
+## Stage 1 — Luxury lineup evidence checkpoint (2026-11-28)
+
+- Land Rover: India OEM brochure index https://www.landrover.in/download-a-brochure/index.html matches all seven legacy nameplates. Defender 90/110/130 are body configuration leads, not automatically separate models. Current exact orderable SKUs pending.
+- Lexus: https://www.toyotabharat.com/documents/toyota-in-india/environment/tkm-sustainability-report-2024.pdf confirms historical five-nameplate portfolio. Current dealer https://lexusmumbai.co.in/ lists ES, NX, RX, LX, LM, including ES 500e electric candidate. Dealer figures not approved as national OEM prices; current national OEM lineup confirmation pending.
+- Lamborghini: global OEM https://www.lamborghini.com/en-en includes all three legacy names and additional global candidates Temerario Spyder, Revuelto SV, Urus SE Performante; no India orderability inferred. India corporate release https://skoda-vw.co.in/lamborghini/lamborghini-conquers-new-heights-with-the-inaugural-esperienza-terra-india/ confirms Urus SE India activity. Secondary corroboration https://www.autocarindia.com/cars/lamborghini supports three local models, but India-specific OEM evidence for remaining models and completeness is pending.
+
+No production imports. Only Land Rover reaches initial India OEM lineup reconciliation in this batch.
