@@ -1,0 +1,26 @@
+brand,model,trim,fuel,engine,transmission,drive,seats,source_url,source_locator,status,publication_review
+Toyota,Hilux,GX,diesel,2755cc,6AT,4x2,5,https://www.toyotabharat.com/showroom/hilux/,engine and trim plan,oem_matrix_observed,pending
+Toyota,Hilux,GX,diesel,2755cc,6AT,4x4,5,https://www.toyotabharat.com/showroom/hilux/,engine and trim plan,oem_matrix_observed,pending
+Toyota,Hilux,VX,diesel,2755cc,6AT,4x4,5,https://www.toyotabharat.com/showroom/hilux/,engine and trim plan,oem_matrix_observed,pending
+Hyundai,Grand i10 Nios,Era,petrol,1.2 Kappa,MT,,,https://www.hyundai.com/in/en/find-a-car/grand-i10-nios/features,engine and trim plan,oem_matrix_observed,pending
+Hyundai,Grand i10 Nios,Magna,petrol,1.2 Kappa,MT,,,https://www.hyundai.com/in/en/find-a-car/grand-i10-nios/features,engine and trim plan,oem_matrix_observed,pending
+Hyundai,Grand i10 Nios,Corporate,petrol,1.2 Kappa,MT,,,https://www.hyundai.com/in/en/find-a-car/grand-i10-nios/features,engine and trim plan,oem_matrix_observed,pending
+Hyundai,Grand i10 Nios,Sportz,petrol,1.2 Kappa,MT,,,https://www.hyundai.com/in/en/find-a-car/grand-i10-nios/features,engine and trim plan,oem_matrix_observed,pending
+Hyundai,Grand i10 Nios,Sportz VIBE,petrol,1.2 Kappa,MT,,,https://www.hyundai.com/in/en/find-a-car/grand-i10-nios/features,engine and trim plan,oem_matrix_observed,pending
+Hyundai,Grand i10 Nios,Sportz(O),petrol,1.2 Kappa,MT,,,https://www.hyundai.com/in/en/find-a-car/grand-i10-nios/features,engine and trim plan,oem_matrix_observed,pending
+Hyundai,Grand i10 Nios,Asta,petrol,1.2 Kappa,MT,,,https://www.hyundai.com/in/en/find-a-car/grand-i10-nios/features,engine and trim plan,oem_matrix_observed,pending
+Hyundai,Grand i10 Nios,Corporate,petrol,1.2 Kappa,AMT,,,https://www.hyundai.com/in/en/find-a-car/grand-i10-nios/features,engine and trim plan,oem_matrix_observed,pending
+Hyundai,Grand i10 Nios,Sportz,petrol,1.2 Kappa,AMT,,,https://www.hyundai.com/in/en/find-a-car/grand-i10-nios/features,engine and trim plan,oem_matrix_observed,pending
+Hyundai,Grand i10 Nios,Sportz VIBE,petrol,1.2 Kappa,AMT,,,https://www.hyundai.com/in/en/find-a-car/grand-i10-nios/features,engine and trim plan,oem_matrix_observed,pending
+Hyundai,Grand i10 Nios,Sportz(O),petrol,1.2 Kappa,AMT,,,https://www.hyundai.com/in/en/find-a-car/grand-i10-nios/features,engine and trim plan,oem_matrix_observed,pending
+Hyundai,Grand i10 Nios,Sportz(O) VIBE,petrol,1.2 Kappa,AMT,,,https://www.hyundai.com/in/en/find-a-car/grand-i10-nios/features,engine and trim plan,oem_matrix_observed,pending
+Hyundai,Grand i10 Nios,Asta,petrol,1.2 Kappa,AMT,,,https://www.hyundai.com/in/en/find-a-car/grand-i10-nios/features,engine and trim plan,oem_matrix_observed,pending
+Hyundai,Grand i10 Nios,Magna,CNG,1.2 Kappa,MT,,,https://www.hyundai.com/in/en/find-a-car/grand-i10-nios/features,engine and trim plan,oem_matrix_observed,pending
+Hyundai,Grand i10 Nios,Sportz,CNG,1.2 Kappa,MT,,,https://www.hyundai.com/in/en/find-a-car/grand-i10-nios/features,engine and trim plan,oem_matrix_observed,pending
+Hyundai,Aura,E,petrol,1.2 Kappa,MT,,,https://www.hyundai.com/in/en/find-a-car/aura/features,engine and trim plan,oem_matrix_observed,pending
+Hyundai,Aura,S,petrol,1.2 Kappa,MT,,,https://www.hyundai.com/in/en/find-a-car/aura/features,engine and trim plan,oem_matrix_observed,pending
+Hyundai,Aura,SX,petrol,1.2 Kappa,MT,,,https://www.hyundai.com/in/en/find-a-car/aura/features,engine and trim plan,oem_matrix_observed,pending
+Hyundai,Aura,SX(O),petrol,1.2 Kappa,MT,,,https://www.hyundai.com/in/en/find-a-car/aura/features,engine and trim plan,oem_matrix_observed,pending
+Hyundai,Aura,SX+,petrol,1.2 Kappa,AMT,,,https://www.hyundai.com/in/en/find-a-car/aura/features,engine and trim plan,oem_matrix_observed,pending
+Hyundai,Aura,S,CNG,1.2 Kappa,MT,,,https://www.hyundai.com/in/en/find-a-car/aura/features,engine and trim plan,oem_matrix_observed,pending
+Hyundai,Aura,SX,CNG,1.2 Kappa,MT,,,https://www.hyundai.com/in/en/find-a-car/aura/features,engine and trim plan,oem_matrix_observed,pending
