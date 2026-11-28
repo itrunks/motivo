@@ -166,3 +166,7 @@ Added 24 Punch and six explicit Nexon combinations from existing repository audi
 ## Mahindra selector checkpoint (2026-11-28)
 
 55 unique indexed selector codes (Scorpio N 27, Thar ROXX 28) in research/india/variant-inventory-scorpio-n-thar-roxx-2026-11-28.csv. Removed repeated selected values, preserved raw labels, E suffix and Mocha/STAR distinctions; seats blank, unspecified drive blank, RWD not collapsed. Indexed pages retrieved today, not live order confirmation. Total research rows 223; not production SKUs. Kia and Nexon follow-up pending. Publication review pending.
+
+## Kia matrix checkpoint (2026-11-28)
+
+59 unique rows in research/india/variant-inventory-kia-seltos-syros-2026-11-28.csv: Seltos 42, Syros 17. Kia indexed specs trim order matched to powertrain groups; Syros comparison table corroborates 2026 brochure. Seltos positional mapping requires rendered comparison cross-check. Cached sources, not live dealer orderability. Total research rows 282. Nexon search did not yield new exact evidence in this batch. No production import.
