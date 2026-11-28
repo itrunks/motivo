@@ -43,17 +43,17 @@ Recovered historical inventory: 251 model rows, 35 brands. This is not a current
 | Aston Martin | 4 | Global OEM matched; India orderability pending |
 | Bentley | 5 | India OEM confirms three; two unresolved |
 | Ferrari | 7 | Global OEM evidence partial; India lineup pending |
-| McLaren | 3 | Pending |
-| Mercedes-Benz | 24 | Pending |
+| McLaren | 3 | Secondary India evidence; OEM pending |
+| Mercedes-Benz | 24 | 24 matched across India navigation and model listings; SKU pending |
 | Nissan | 3 | Pending |
 | Porsche | 5 | Pending |
 | Renault | 4 | Pending |
-| Rolls-Royce | 4 | Pending |
+| Rolls-Royce | 4 | Global OEM matched; India evidence pending |
 | Škoda | 6 | Pending |
-| Volkswagen | 4 | Pending |
+| Volkswagen | 4 | 4 matched; Virtus generation transition |
 | Volvo Cars | 5 | Pending |
-| Isuzu | 1 | Pending |
-| Lotus | 3 | Pending |
+| Isuzu | 1 | mu-X confirmed; pickup scope pending |
+| Lotus | 3 | 3 matched; Evija candidate orderability pending |
 
 No Firebase writes or production publication authorized. Do not mark a brand complete without dated OEM lineup evidence and explicit disposition of each historical model.
 
@@ -121,3 +121,13 @@ No production imports. Only Land Rover reaches initial India OEM lineup reconcil
 ## Stage 1 — Aston Martin, Bentley, Ferrari checkpoint (2026-11-28)
 
 Aston Martin: https://media.astonmartin.com/section/current-models/?lang=eng confirms all four global core nameplates. https://www.astonmartin.com/en/models and June 29 2026 Goodwood OEM announcement identify S and Volante derivatives; India availability not established. Bentley: https://www.bentleymotors.com/in/en.html explicitly promotes Bentayga EWB, Flying Spur and Continental GT in India. Standard Bentayga and Continental GT Convertible not confirmed by this page; retain as unresolved. Ferrari: https://cdn.ferrari.com/cms/network/media/pdf/2.%20Ferrari%20Capital%20Markets%20Day%202025%20-%20Unique%20Proposition%2C%20Clients%20and%20Experiences.pdf confirms six historical global records and additional 296 GTS and 849 Testarossa Spider candidates. Amalfi Spider and current India orderability not established by this source. McLaren search did not yield sufficient official India evidence; status unchanged. No new brand marked fully initially reconciled, no production data imported.
+
+## Stage 1 — Additional India evidence checkpoint (2026-11-28)
+
+- Mercedes-Benz: https://www.mercedes-benz.co.in/ and https://www.mercedes-benz.co.in/passengercars/models.html?showOnly=new together cover all 24 legacy model labels. EQS sedan/SUV differentiated by body; GLC Electric separate from ICE. Listing counts are configuration cards, not exact SKUs.
+- Volkswagen: https://www.volkswagen.co.in/en/models.html covers Taigun, Tayron, Virtus and Golf GTI. New Virtus explicitly coming soon; Virtus Sport and Chrome listed separately. Preserve generation and edition distinctions.
+- Lotus: https://www.lotuscars.com/en-IN lists Eletre, Emeya, Emira and additional limited-production Evija candidate; India orderability not inferred for Evija. Emira 420 Sport derivative lead.
+- Isuzu: https://www.isuzu.in/mux confirms mu-X, 4x2/4x4 configuration leads; pickup scope and exact SKU pending.
+- McLaren: https://www.autocarindia.com/cars/mclaren/ supports Artura, GTS and 750S; secondary only, OEM India verification outstanding.
+- Rolls-Royce: https://newsroom.rolls-roycemotorcars.com/all-products/ confirms four global names plus Extended and Black Badge derivatives; India-specific evidence pending.
+- Nissan, Porsche, Renault, Skoda and Volvo: no sufficient results returned in this search batch; status unchanged. No production imports or prices approved.
