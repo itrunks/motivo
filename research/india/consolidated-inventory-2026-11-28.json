@@ -4826,7 +4826,9 @@
         "notes": "Current India range includes Artura PHEV; confirm Coupe vs Spider India orderability, exact battery/motor specification, allocation and invoice-date price with Infinity Cars. Do not apply pure-petrol FTA reductions to the hybrid without written confirmation."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-mclaren-bounded-2026-11-28.json",
+      "stage2_verification": "bounded_indexed_oem_review"
     },
     {
       "brand_id": "mclaren",
@@ -4850,7 +4852,9 @@
         "notes": "GTS is the current successor identity to McLaren GT; do not retain GT as a current variant. Confirm current orderability, model-year, tariff quota eligibility and written dealer quote. FTA estimate is not a confirmed transaction price."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-mclaren-bounded-2026-11-28.json",
+      "stage2_verification": "bounded_indexed_oem_review"
     },
     {
       "brand_id": "mclaren",
@@ -4874,7 +4878,9 @@
         "notes": "McLaren announced production will end in 2027 and final orders are being accepted. Keep Coupe and Spider separate. The reported reduced amounts are conditional on FTA duty treatment/quota and delivery timing; obtain written dealer confirmation of current order acceptance, allocation and final price."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-mclaren-bounded-2026-11-28.json",
+      "stage2_verification": "bounded_indexed_oem_review"
     },
     {
       "brand_id": "mercedes_benz",
@@ -17658,5 +17664,5 @@
   },
   "stage1_status": "completed_with_gaps",
   "stage2_status": "in_progress",
-  "stage2_active_brand": "McLaren"
+  "stage2_active_brand": "Mercedes-Benz"
 }

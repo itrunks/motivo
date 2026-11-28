@@ -1,0 +1,233 @@
+{
+  "retrieval_scope": "Direct model and Mumbai pages returned shell; alternate indexed OEM sources supplied actual text. Global only.",
+  "direct_attempts": [
+    "https://cars.mclaren.com/en/artura",
+    "https://cars.mclaren.com/en/gts",
+    "https://cars.mclaren.com/en/750s",
+    "https://mumbai.mclaren.com/en"
+  ],
+  "models": [
+    {
+      "brand": "McLaren",
+      "model": "Artura",
+      "checked_at": "2026-11-28",
+      "source_url": "https://cms-assets-production.mclaren.com/1209/Global_Artura_Product_Brochure.pdf",
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "url": "https://cms-assets-production.mclaren.com/1209/Global_Artura_Product_Brochure.pdf",
+      "observations": {
+        "scope": "EU UK brochure dated 2024-02-26",
+        "power_ps": 700,
+        "torque_nm": 720,
+        "cc": 2993,
+        "engine": "twin turbo V6 PHEV",
+        "gears": 8,
+        "battery_kwh": 7.4,
+        "front": "double wishbone",
+        "rear": "multi-link",
+        "electric_range_wltp_km": 33,
+        "zero_to_100_s": 3,
+        "max_kmh": 330
+      },
+      "additional_source": "https://www.mclaren.com/cars/gl_en/artura",
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "unverified",
+          "reason": "Global OEM indexed evidence only; Mumbai page returned navigation/subscription shell; current India-specific coverage not established"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "unverified",
+          "reason": "Global OEM indexed evidence only; Mumbai page returned navigation/subscription shell; current India-specific coverage not established"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "unverified",
+          "reason": "Global OEM indexed evidence only; Mumbai page returned navigation/subscription shell; current India-specific coverage not established"
+        },
+        {
+          "field": "NVH",
+          "status": "unverified",
+          "reason": "Global OEM indexed evidence only; Mumbai page returned navigation/subscription shell; current India-specific coverage not established"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "unverified",
+          "reason": "Global OEM indexed evidence only; Mumbai page returned navigation/subscription shell; current India-specific coverage not established"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "unverified",
+          "reason": "Global OEM indexed evidence only; Mumbai page returned navigation/subscription shell; current India-specific coverage not established"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "unverified",
+          "reason": "Global OEM indexed evidence only; Mumbai page returned navigation/subscription shell; current India-specific coverage not established"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "unverified",
+          "reason": "Global OEM indexed evidence only; Mumbai page returned navigation/subscription shell; current India-specific coverage not established"
+        },
+        {
+          "field": "warranty",
+          "status": "unverified",
+          "reason": "Global OEM indexed evidence only; Mumbai page returned navigation/subscription shell; current India-specific coverage not established"
+        }
+      ]
+    },
+    {
+      "brand": "McLaren",
+      "model": "GTS",
+      "checked_at": "2026-11-28",
+      "source_url": "https://cars.mclaren.com/gl_en/gts",
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "url": "https://cars.mclaren.com/gl_en/gts",
+      "observations": {
+        "scope": "global detailed specification table",
+        "power_ps": 635,
+        "power_bhp": 626,
+        "torque_nm": 630,
+        "engine": "4.0L twin turbo V8",
+        "gears": 7,
+        "zero_to_100_s": 3.2,
+        "max_kmh": 326,
+        "suspension": "double wishbone adaptive dampers",
+        "warranty_global": "3 years unlimited mileage",
+        "wltp_l_100km": 11.9
+      },
+      "additional_source": "https://www.mclaren.com/cars/gl_en/post/the-new-mclaren-gts",
+      "conflict": "Animated headline values inconsistent with detailed table; launch supports 635 PS. 0-200 figures differ 8.9 vs 9.0; excluded.",
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "unverified",
+          "reason": "Global OEM indexed evidence only; Mumbai page returned navigation/subscription shell; current India-specific coverage not established"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "unverified",
+          "reason": "Global OEM indexed evidence only; Mumbai page returned navigation/subscription shell; current India-specific coverage not established"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "unverified",
+          "reason": "Global OEM indexed evidence only; Mumbai page returned navigation/subscription shell; current India-specific coverage not established"
+        },
+        {
+          "field": "NVH",
+          "status": "unverified",
+          "reason": "Global OEM indexed evidence only; Mumbai page returned navigation/subscription shell; current India-specific coverage not established"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "unverified",
+          "reason": "Global OEM indexed evidence only; Mumbai page returned navigation/subscription shell; current India-specific coverage not established"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "unverified",
+          "reason": "Global OEM indexed evidence only; Mumbai page returned navigation/subscription shell; current India-specific coverage not established"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "unverified",
+          "reason": "Global OEM indexed evidence only; Mumbai page returned navigation/subscription shell; current India-specific coverage not established"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "unverified",
+          "reason": "Global OEM indexed evidence only; Mumbai page returned navigation/subscription shell; current India-specific coverage not established"
+        },
+        {
+          "field": "warranty",
+          "status": "unverified",
+          "reason": "Global OEM indexed evidence only; Mumbai page returned navigation/subscription shell; current India-specific coverage not established"
+        }
+      ]
+    },
+    {
+      "brand": "McLaren",
+      "model": "750S",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.mclaren.com/cars/gl_en/750s",
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "url": "https://www.mclaren.com/cars/gl_en/750s",
+      "observations": {
+        "scope": "global coupe page",
+        "engine": "4.0L twin turbo V8",
+        "power_ps": 750,
+        "torque_nm": 800,
+        "max_kmh": 332,
+        "body_styles": [
+          "Coupe",
+          "Spider"
+        ],
+        "chassis": "Proactive Chassis Control"
+      },
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "unverified",
+          "reason": "Global OEM indexed evidence only; Mumbai page returned navigation/subscription shell; current India-specific coverage not established"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "unverified",
+          "reason": "Global OEM indexed evidence only; Mumbai page returned navigation/subscription shell; current India-specific coverage not established"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "unverified",
+          "reason": "Global OEM indexed evidence only; Mumbai page returned navigation/subscription shell; current India-specific coverage not established"
+        },
+        {
+          "field": "NVH",
+          "status": "unverified",
+          "reason": "Global OEM indexed evidence only; Mumbai page returned navigation/subscription shell; current India-specific coverage not established"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "unverified",
+          "reason": "Global OEM indexed evidence only; Mumbai page returned navigation/subscription shell; current India-specific coverage not established"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "unverified",
+          "reason": "Global OEM indexed evidence only; Mumbai page returned navigation/subscription shell; current India-specific coverage not established"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "unverified",
+          "reason": "Global OEM indexed evidence only; Mumbai page returned navigation/subscription shell; current India-specific coverage not established"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "unverified",
+          "reason": "Global OEM indexed evidence only; Mumbai page returned navigation/subscription shell; current India-specific coverage not established"
+        },
+        {
+          "field": "warranty",
+          "status": "unverified",
+          "reason": "Global OEM indexed evidence only; Mumbai page returned navigation/subscription shell; current India-specific coverage not established"
+        }
+      ]
+    }
+  ],
+  "scope_candidates": [
+    {
+      "name": "788 HS",
+      "source": "https://www.mclaren.com/cars/gl_en/immersive/supercars",
+      "india_orderability": "unverified"
+    },
+    {
+      "name": "788 HS Spider",
+      "source": "https://www.mclaren.com/cars/gl_en/immersive/supercars",
+      "india_orderability": "unverified"
+    }
+  ]
+}
