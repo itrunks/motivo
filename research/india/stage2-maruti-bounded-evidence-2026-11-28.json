@@ -1,0 +1,666 @@
+[
+  {
+    "brand": "Maruti Suzuki",
+    "model": "S-Presso",
+    "source_url": "https://www.marutisuzuki.com/arena/s-presso/price",
+    "observed_at": "2026-11-28",
+    "locator": "246–254",
+    "scope": "LXi (O) MT",
+    "facts": {
+      "engine_cc": 998,
+      "fuel": "petrol",
+      "transmission": "manual",
+      "ABS_EBD": true,
+      "ESP": true
+    },
+    "price_observation": {
+      "inr": 387400,
+      "trim": "LXi (O) MT",
+      "effective_date": null,
+      "city": null
+    },
+    "status": "partial_oem_observation",
+    "gaps": [
+      {
+        "field": "complete_variant_matrix",
+        "status": "not_available"
+      },
+      {
+        "field": "complete_variant_feature_matrix",
+        "status": "not_available"
+      },
+      {
+        "field": "complete_variant_prices",
+        "status": "not_available"
+      },
+      {
+        "field": "real_world_mileage",
+        "status": "not_available"
+      },
+      {
+        "field": "NVH",
+        "status": "not_available"
+      },
+      {
+        "field": "suspension_tuning",
+        "status": "not_available"
+      },
+      {
+        "field": "ownership_cost",
+        "status": "not_available"
+      },
+      {
+        "field": "OEM_accessories",
+        "status": "not_available"
+      }
+    ],
+    "publication_review": "pending"
+  },
+  {
+    "brand": "Maruti Suzuki",
+    "model": "Swift",
+    "source_url": "https://www.marutisuzuki.com/arena/swift/price",
+    "observed_at": "2026-11-28",
+    "locator": "239–255",
+    "scope": "VXi MT",
+    "facts": {
+      "engine_cc": 1197,
+      "fuel": "petrol",
+      "transmission": "manual",
+      "hill_hold": true
+    },
+    "price_observation": {
+      "inr": 667900,
+      "trim": "VXi MT",
+      "effective_date": null,
+      "city": null
+    },
+    "status": "partial_oem_observation",
+    "gaps": [
+      {
+        "field": "complete_variant_matrix",
+        "status": "not_available"
+      },
+      {
+        "field": "complete_variant_feature_matrix",
+        "status": "not_available"
+      },
+      {
+        "field": "complete_variant_prices",
+        "status": "not_available"
+      },
+      {
+        "field": "real_world_mileage",
+        "status": "not_available"
+      },
+      {
+        "field": "NVH",
+        "status": "not_available"
+      },
+      {
+        "field": "suspension_tuning",
+        "status": "not_available"
+      },
+      {
+        "field": "ownership_cost",
+        "status": "not_available"
+      },
+      {
+        "field": "OEM_accessories",
+        "status": "not_available"
+      }
+    ],
+    "publication_review": "pending"
+  },
+  {
+    "brand": "Maruti Suzuki",
+    "model": "Dzire",
+    "source_url": "https://www.marutisuzuki.com/arena/dzire/price",
+    "observed_at": "2026-11-28",
+    "locator": "384–401",
+    "scope": "ZXi+ MT",
+    "facts": {
+      "engine_cc": 1197,
+      "camera_360": true,
+      "cruise_control": true,
+      "sunroof": true
+    },
+    "price_observation": {
+      "inr": 899300,
+      "trim": "ZXi+ MT",
+      "effective_date": null,
+      "city": null
+    },
+    "status": "partial_oem_observation",
+    "gaps": [
+      {
+        "field": "complete_variant_matrix",
+        "status": "not_available"
+      },
+      {
+        "field": "complete_variant_feature_matrix",
+        "status": "not_available"
+      },
+      {
+        "field": "complete_variant_prices",
+        "status": "not_available"
+      },
+      {
+        "field": "real_world_mileage",
+        "status": "not_available"
+      },
+      {
+        "field": "NVH",
+        "status": "not_available"
+      },
+      {
+        "field": "suspension_tuning",
+        "status": "not_available"
+      },
+      {
+        "field": "ownership_cost",
+        "status": "not_available"
+      },
+      {
+        "field": "OEM_accessories",
+        "status": "not_available"
+      }
+    ],
+    "publication_review": "pending"
+  },
+  {
+    "brand": "Maruti Suzuki",
+    "model": "Brezza",
+    "source_url": "https://www.marutisuzuki.com/arena/brezza/price",
+    "observed_at": "2026-11-28",
+    "locator": "203,259–279",
+    "scope": "ZXI+ AT",
+    "facts": {
+      "engine_cc": 1462,
+      "front_ventilated_seats": true,
+      "camera_360": true
+    },
+    "price_observation": {
+      "inr": 1375500,
+      "trim": "ZXI+ AT",
+      "effective_date": "2026-07-24",
+      "city": "Delhi"
+    },
+    "status": "partial_oem_observation",
+    "gaps": [
+      {
+        "field": "complete_variant_matrix",
+        "status": "not_available"
+      },
+      {
+        "field": "complete_variant_feature_matrix",
+        "status": "not_available"
+      },
+      {
+        "field": "complete_variant_prices",
+        "status": "not_available"
+      },
+      {
+        "field": "real_world_mileage",
+        "status": "not_available"
+      },
+      {
+        "field": "NVH",
+        "status": "not_available"
+      },
+      {
+        "field": "suspension_tuning",
+        "status": "not_available"
+      },
+      {
+        "field": "ownership_cost",
+        "status": "not_available"
+      },
+      {
+        "field": "OEM_accessories",
+        "status": "not_available"
+      }
+    ],
+    "publication_review": "pending"
+  },
+  {
+    "brand": "Maruti Suzuki",
+    "model": "Victoris",
+    "source_url": "https://www.marutisuzuki.com/arena/victoris/price",
+    "observed_at": "2026-11-28",
+    "locator": "841–842",
+    "scope": "model advertisement; no grade inference",
+    "facts": {
+      "advertised_grades": [
+        "ZXI+ STRONG HYBRID",
+        "ZXI+ (O) STRONG HYBRID"
+      ]
+    },
+    "price_observation": null,
+    "status": "partial_oem_observation",
+    "gaps": [
+      {
+        "field": "complete_variant_matrix",
+        "status": "not_available"
+      },
+      {
+        "field": "complete_variant_feature_matrix",
+        "status": "not_available"
+      },
+      {
+        "field": "complete_variant_prices",
+        "status": "not_available"
+      },
+      {
+        "field": "real_world_mileage",
+        "status": "not_available"
+      },
+      {
+        "field": "NVH",
+        "status": "not_available"
+      },
+      {
+        "field": "suspension_tuning",
+        "status": "not_available"
+      },
+      {
+        "field": "ownership_cost",
+        "status": "not_available"
+      },
+      {
+        "field": "OEM_accessories",
+        "status": "not_available"
+      }
+    ],
+    "publication_review": "pending"
+  },
+  {
+    "brand": "Maruti Suzuki",
+    "model": "Wagon R",
+    "source_url": "https://www.marutisuzuki.com/arena/wagonr/price",
+    "observed_at": "2026-11-28",
+    "locator": "access failed",
+    "scope": "model advertisement; no grade inference",
+    "facts": {},
+    "price_observation": null,
+    "status": "source_inaccessible",
+    "gaps": [
+      {
+        "field": "complete_variant_matrix",
+        "status": "not_available"
+      },
+      {
+        "field": "complete_variant_feature_matrix",
+        "status": "not_available"
+      },
+      {
+        "field": "complete_variant_prices",
+        "status": "not_available"
+      },
+      {
+        "field": "real_world_mileage",
+        "status": "not_available"
+      },
+      {
+        "field": "NVH",
+        "status": "not_available"
+      },
+      {
+        "field": "suspension_tuning",
+        "status": "not_available"
+      },
+      {
+        "field": "ownership_cost",
+        "status": "not_available"
+      },
+      {
+        "field": "OEM_accessories",
+        "status": "not_available"
+      }
+    ],
+    "publication_review": "pending"
+  },
+  {
+    "brand": "Maruti Suzuki",
+    "model": "Baleno",
+    "source_url": "https://www.nexaexperience.com/baleno",
+    "observed_at": "2026-11-28",
+    "locator": "284",
+    "scope": "model advertisement; no grade inference",
+    "facts": {
+      "advertised_airbags": 6
+    },
+    "price_observation": null,
+    "status": "partial_oem_observation",
+    "gaps": [
+      {
+        "field": "complete_variant_matrix",
+        "status": "not_available"
+      },
+      {
+        "field": "complete_variant_feature_matrix",
+        "status": "not_available"
+      },
+      {
+        "field": "complete_variant_prices",
+        "status": "not_available"
+      },
+      {
+        "field": "real_world_mileage",
+        "status": "not_available"
+      },
+      {
+        "field": "NVH",
+        "status": "not_available"
+      },
+      {
+        "field": "suspension_tuning",
+        "status": "not_available"
+      },
+      {
+        "field": "ownership_cost",
+        "status": "not_available"
+      },
+      {
+        "field": "OEM_accessories",
+        "status": "not_available"
+      }
+    ],
+    "publication_review": "pending"
+  },
+  {
+    "brand": "Maruti Suzuki",
+    "model": "Grand Vitara",
+    "source_url": "https://www.nexaexperience.com/grand-vitara",
+    "observed_at": "2026-11-28",
+    "locator": "367–369",
+    "scope": "model advertisement; no grade inference",
+    "facts": {
+      "standard_airbags": 6
+    },
+    "price_observation": null,
+    "status": "partial_oem_observation",
+    "gaps": [
+      {
+        "field": "complete_variant_matrix",
+        "status": "not_available"
+      },
+      {
+        "field": "complete_variant_feature_matrix",
+        "status": "not_available"
+      },
+      {
+        "field": "complete_variant_prices",
+        "status": "not_available"
+      },
+      {
+        "field": "real_world_mileage",
+        "status": "not_available"
+      },
+      {
+        "field": "NVH",
+        "status": "not_available"
+      },
+      {
+        "field": "suspension_tuning",
+        "status": "not_available"
+      },
+      {
+        "field": "ownership_cost",
+        "status": "not_available"
+      },
+      {
+        "field": "OEM_accessories",
+        "status": "not_available"
+      }
+    ],
+    "publication_review": "pending"
+  },
+  {
+    "brand": "Maruti Suzuki",
+    "model": "Fronx",
+    "source_url": "https://www.nexaexperience.com/fronx",
+    "observed_at": "2026-11-28",
+    "locator": "318–320",
+    "scope": "model advertisement; no grade inference",
+    "facts": {
+      "advertised_airbags": 6
+    },
+    "price_observation": null,
+    "status": "partial_oem_observation",
+    "gaps": [
+      {
+        "field": "complete_variant_matrix",
+        "status": "not_available"
+      },
+      {
+        "field": "complete_variant_feature_matrix",
+        "status": "not_available"
+      },
+      {
+        "field": "complete_variant_prices",
+        "status": "not_available"
+      },
+      {
+        "field": "real_world_mileage",
+        "status": "not_available"
+      },
+      {
+        "field": "NVH",
+        "status": "not_available"
+      },
+      {
+        "field": "suspension_tuning",
+        "status": "not_available"
+      },
+      {
+        "field": "ownership_cost",
+        "status": "not_available"
+      },
+      {
+        "field": "OEM_accessories",
+        "status": "not_available"
+      }
+    ],
+    "publication_review": "pending"
+  },
+  {
+    "brand": "Maruti Suzuki",
+    "model": "Jimny",
+    "source_url": "https://www.nexaexperience.com/jimny",
+    "observed_at": "2026-11-28",
+    "locator": "136–141",
+    "scope": "model advertisement; no grade inference",
+    "facts": {
+      "drive": "4WD",
+      "low_range": true
+    },
+    "price_observation": null,
+    "status": "partial_oem_observation",
+    "gaps": [
+      {
+        "field": "complete_variant_matrix",
+        "status": "not_available"
+      },
+      {
+        "field": "complete_variant_feature_matrix",
+        "status": "not_available"
+      },
+      {
+        "field": "complete_variant_prices",
+        "status": "not_available"
+      },
+      {
+        "field": "real_world_mileage",
+        "status": "not_available"
+      },
+      {
+        "field": "NVH",
+        "status": "not_available"
+      },
+      {
+        "field": "suspension_tuning",
+        "status": "not_available"
+      },
+      {
+        "field": "ownership_cost",
+        "status": "not_available"
+      },
+      {
+        "field": "OEM_accessories",
+        "status": "not_available"
+      }
+    ],
+    "publication_review": "pending"
+  },
+  {
+    "brand": "Maruti Suzuki",
+    "model": "XL6",
+    "source_url": "https://www.nexaexperience.com/xl6",
+    "observed_at": "2026-11-28",
+    "locator": "282–298",
+    "scope": "model advertisement; no grade inference",
+    "facts": {
+      "standard_airbags": 6,
+      "advertised_ESP": true,
+      "advertised_hill_hold": true
+    },
+    "price_observation": null,
+    "status": "partial_oem_observation",
+    "gaps": [
+      {
+        "field": "complete_variant_matrix",
+        "status": "not_available"
+      },
+      {
+        "field": "complete_variant_feature_matrix",
+        "status": "not_available"
+      },
+      {
+        "field": "complete_variant_prices",
+        "status": "not_available"
+      },
+      {
+        "field": "real_world_mileage",
+        "status": "not_available"
+      },
+      {
+        "field": "NVH",
+        "status": "not_available"
+      },
+      {
+        "field": "suspension_tuning",
+        "status": "not_available"
+      },
+      {
+        "field": "ownership_cost",
+        "status": "not_available"
+      },
+      {
+        "field": "OEM_accessories",
+        "status": "not_available"
+      }
+    ],
+    "publication_review": "pending"
+  },
+  {
+    "brand": "Maruti Suzuki",
+    "model": "Invicto",
+    "source_url": "https://www.nexaexperience.com/invicto",
+    "observed_at": "2026-11-28",
+    "locator": "216–221",
+    "scope": "model advertisement; no grade inference",
+    "facts": {
+      "engine_l": 2,
+      "hybrid": "strong",
+      "transmission": "e-CVT"
+    },
+    "price_observation": null,
+    "status": "partial_oem_observation",
+    "gaps": [
+      {
+        "field": "complete_variant_matrix",
+        "status": "not_available"
+      },
+      {
+        "field": "complete_variant_feature_matrix",
+        "status": "not_available"
+      },
+      {
+        "field": "complete_variant_prices",
+        "status": "not_available"
+      },
+      {
+        "field": "real_world_mileage",
+        "status": "not_available"
+      },
+      {
+        "field": "NVH",
+        "status": "not_available"
+      },
+      {
+        "field": "suspension_tuning",
+        "status": "not_available"
+      },
+      {
+        "field": "ownership_cost",
+        "status": "not_available"
+      },
+      {
+        "field": "OEM_accessories",
+        "status": "not_available"
+      }
+    ],
+    "publication_review": "pending"
+  },
+  {
+    "brand": "Maruti Suzuki",
+    "model": "eVitara",
+    "source_url": "https://www.nexaexperience.com/e-vitara",
+    "observed_at": "2026-11-28",
+    "locator": "673–681",
+    "scope": "model advertisement; no grade inference",
+    "facts": {
+      "advertised_airbags": 7,
+      "advertised_ADAS_level": 2,
+      "seats": 5
+    },
+    "price_observation": null,
+    "status": "partial_oem_observation",
+    "gaps": [
+      {
+        "field": "complete_variant_matrix",
+        "status": "not_available"
+      },
+      {
+        "field": "complete_variant_feature_matrix",
+        "status": "not_available"
+      },
+      {
+        "field": "complete_variant_prices",
+        "status": "not_available"
+      },
+      {
+        "field": "real_world_mileage",
+        "status": "not_available"
+      },
+      {
+        "field": "NVH",
+        "status": "not_available"
+      },
+      {
+        "field": "suspension_tuning",
+        "status": "not_available"
+      },
+      {
+        "field": "ownership_cost",
+        "status": "not_available"
+      },
+      {
+        "field": "OEM_accessories",
+        "status": "not_available"
+      }
+    ],
+    "publication_review": "pending"
+  }
+]
