@@ -48,7 +48,7 @@ Recovered historical inventory: 251 model rows, 35 brands. This is not a current
 | Nissan | 3 | 3 matched; Gravite CNG and SKU reconciliation pending |
 | Porsche | 5 | 5 matched; 20 configurator entries |
 | Renault | 4 | 4 matched; Duster hybrid configuration |
-| Rolls-Royce | 4 | Global OEM matched; India evidence pending |
+| Rolls-Royce | 4 | Four India dealer new-purchase names confirmed; derivatives pending |
 | Škoda | 6 | 6 matched; generation and orderability pending |
 | Volkswagen | 4 | 4 matched; Virtus generation transition |
 | Volvo Cars | 5 | 5 matched; exact SKUs pending |
@@ -142,3 +142,7 @@ Aston Martin: https://media.astonmartin.com/section/current-models/?lang=eng con
 - Force https://forcegurkha.co.in/shop/ and https://forcegurkha.co.in/faqs/ confirm both Gurkha body configurations. Initial passenger SUV lineup check accepted; fleet vehicles excluded provisionally. Exact variants pending.
 
 Progress: 28 initial brand inspections, seven partial; zero untouched. All exact SKU and production approvals remain open. No prices or production records imported.
+
+## Stage 1 — Luxury evidence follow-up (2026-11-28)
+
+Rolls-Royce manufacturer-hosted New Delhi ownership page https://www.rolls-roycemotorcars.com/newdelhi/en_GB/ownership-services.html explicitly covers new purchases of Phantom, Ghost, Cullinan and Spectre. Accept initial local nameplate evidence, not current allocation or exact SKU confirmation. Global https://newsroom.rolls-roycemotorcars.com/all-products/ identifies nine configuration leads: Phantom/Extended, Ghost/Extended/Black Badge, Cullinan/Black Badge, Spectre/Black Badge. India derivative availability remains unverified; bespoke options are not enumerated as SKUs. Bentley India https://www.bentleymotors.com/in/en.html?newsid=1127253 still confirms three names only; global https://www.bentleymotors.com/en/pages/sitemap.html adds Torcal and Supersports candidates, India status unknown. Lamborghini global https://www.lamborghini.com/en-en explicitly marks Temerario Spyder under approval and not available for sale; do not include as current SKU. Searches for other four partial brands did not return sufficient new India evidence. Initial checks 29/35, six partial. No production imports.
