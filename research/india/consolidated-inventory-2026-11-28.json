@@ -920,7 +920,9 @@
         "notes": "OEM selector exposes petrol/diesel/CNG filters; captured prices are partial and do not map every grade to a transmission. Do not cross-join powertrain/gearbox combinations; confirm current dealer/configurator matrix."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-mahindra-bounded-2026-11-28.json",
+      "stage2_verification": "oem_listing_only"
     },
     {
       "brand_id": "mahindra",
@@ -944,7 +946,9 @@
         "notes": "OEM SUV range gives model-level band ₹10.32L–₹18.99L; selector snapshot only exposes one card. Keep the two price observations separate and obtain full current variant matrix."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-mahindra-bounded-2026-11-28.json",
+      "stage2_verification": "oem_listing_only"
     },
     {
       "brand_id": "mahindra",
@@ -968,7 +972,9 @@
         "notes": "Only populated OEM matrix combinations are saleable evidence; blank cells are not interpolated. Confirm city/effective date and seating derivatives."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-mahindra-bounded-2026-11-28.json",
+      "stage2_verification": "oem_listing_only"
     },
     {
       "brand_id": "mahindra",
@@ -992,7 +998,9 @@
         "notes": "The current 2026 OEM brochure resolves the 27 exact grade/fuel/transmission/seating/drive combinations. Current selector cards expose 12 grade/fuel prices but do not expose per-derivative gearbox/seating prices. January launch prices were introductory for first 40,000 deliveries and are not used as current prices. Keep current selector prices separate from the exact derivative matrix."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-mahindra-bounded-2026-11-28.json",
+      "stage2_verification": "oem_listing_only"
     },
     {
       "brand_id": "mahindra",
@@ -1016,7 +1024,9 @@
         "notes": "Diesel 4WD limited to selected diesel grades per OEM guide. Keep interior codes/edition derivatives separate from trim names; full price and orderability require configurator/dealer confirmation."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-mahindra-bounded-2026-11-28.json",
+      "stage2_verification": "oem_listing_only"
     },
     {
       "brand_id": "mahindra",
@@ -1040,7 +1050,9 @@
         "notes": "Live selector/detail-page price conflict resolved on 2026-11-07. Effective date and city scope are not exposed; source reuse rights remain pending."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-mahindra-bounded-2026-11-28.json",
+      "stage2_verification": "oem_listing_only"
     },
     {
       "brand_id": "mahindra",
@@ -1064,7 +1076,9 @@
         "notes": "Five current diesel grades confirmed. No effective date is published; current selector amounts are snapshots and prior captures are retained separately. Source rights remain pending."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-mahindra-bounded-2026-11-28.json",
+      "stage2_verification": "oem_listing_only"
     },
     {
       "brand_id": "mahindra",
@@ -1088,7 +1102,9 @@
         "notes": "Four diesel cards captured. Verify city, effective date and orderability."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-mahindra-bounded-2026-11-28.json",
+      "stage2_verification": "oem_listing_only"
     },
     {
       "brand_id": "mahindra",
@@ -1112,7 +1128,9 @@
         "notes": "Current live booking selector renders one card: EL PRO ST 39.4KW 7.2KW at ₹17,49,000. Official brochure confirms 7.2 kW wallbox included and 110 kW/150 PS, 310 Nm, FWD, automatic, 456 km MIDC. Preserve OEM suffix ST. Booking flow is present, but online booking is only an indication of intent until dealer accepts in writing; no price effective date."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-mahindra-bounded-2026-11-28.json",
+      "stage2_verification": "oem_listing_only"
     },
     {
       "brand_id": "mahindra",
@@ -1136,7 +1154,9 @@
         "notes": "Latest captured OEM table is specifically SPORTEQ and includes limited editions. Do not treat all special editions as standard trims. Keep BaaS upfront amount and per-km battery rental separate from full-battery ex-showroom prices."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-mahindra-bounded-2026-11-28.json",
+      "stage2_verification": "selected_oem_facts_retrieved"
     },
     {
       "brand_id": "mahindra",
@@ -1160,7 +1180,9 @@
         "notes": "Current FAQ confirms full-battery prices for all five grade labels and Cineluxe; Pack Two price is not mapped to 59 vs 79 kWh, so do not duplicate it. Current BaaS FAQ confirms four grade/battery vehicle-upfront amounts; these are dual-loan chassis prices, not full prices. No price effective date; source rights pending."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-mahindra-bounded-2026-11-28.json",
+      "stage2_verification": "selected_oem_facts_retrieved"
     },
     {
       "brand_id": "kia",
@@ -6118,7 +6140,9 @@
         "notes": "Two exact variant structures captured. Current model-level range corroborates the dated launch price endpoints but does not independently map endpoints to grades or establish a new effective date. Dealer locator presence confirms dealer-network listing, not booking acceptance. Optional 7.2kW charger is ₹50,000 extra per launch release. Current grade-wise price and dealer orderability remain pending."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-mahindra-bounded-2026-11-28.json",
+      "stage2_verification": "oem_listing_only"
     },
     {
       "brand_id": "mahindra",
@@ -6142,7 +6166,9 @@
         "notes": "Current FAQ resolves full prices and 6/7-seat availability. BaaS table is grade/battery-level and does not split by seating; do not assign BaaS prices to individual seat derivatives. No price effective date shown; source rights remain pending."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-mahindra-bounded-2026-11-28.json",
+      "stage2_verification": "selected_oem_facts_retrieved"
     },
     {
       "brand_id": "lotus",
@@ -17374,5 +17400,5 @@
   },
   "stage1_status": "completed_with_gaps",
   "stage2_status": "in_progress",
-  "stage2_active_brand": "Mahindra"
+  "stage2_active_brand": "Kia"
 }
