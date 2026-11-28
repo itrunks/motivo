@@ -1440,9 +1440,9 @@
         "notes": "11 combinations are mapped from current OEM technical Variant Type table; two V(O) feature-matrix combinations remain internally inconsistent. Current price list requires dealer selection; keep ₹6.99L as model-level starting price only. Do not import secondary-only variant prices."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "completed_with_gaps",
+      "stage2_status": "review_required",
       "stage2_evidence_path": "research/india/stage2-toyota-bounded-2026-11-28.json",
-      "stage2_verification": "catalogue_identity_only_or_dated_announcement"
+      "stage2_verification": "prior_claims_unsubstantiated_require_review"
     },
     {
       "brand_id": "toyota",
@@ -1466,9 +1466,9 @@
         "notes": "Official Toyota launch release lists engine families and launch-grade combinations. It is historical and cannot substantiate current trim naming, availability or prices; obtain current official configurator/price list before using."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "completed_with_gaps",
+      "stage2_status": "review_required",
       "stage2_evidence_path": "research/india/stage2-toyota-bounded-2026-11-28.json",
-      "stage2_verification": "catalogue_identity_only_or_dated_announcement"
+      "stage2_verification": "prior_claims_unsubstantiated_require_review"
     },
     {
       "brand_id": "toyota",
@@ -1492,9 +1492,9 @@
         "notes": "Official Toyota brochure lists petrol S/G/V with MT/AT and CNG S MT; 1.5L engine and 7-seat configuration. Brochure is an older snapshot, so verify current grade availability, exact CNG naming and price basis/effective date against the live Toyota price list or dealer before import."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "completed_with_gaps",
+      "stage2_status": "review_required",
       "stage2_evidence_path": "research/india/stage2-toyota-bounded-2026-11-28.json",
-      "stage2_verification": "catalogue_identity_only_or_dated_announcement"
+      "stage2_verification": "prior_claims_unsubstantiated_require_review"
     },
     {
       "brand_id": "toyota",
@@ -1518,9 +1518,9 @@
         "notes": "Official page confirms E-CNG S/G with 1.5L petrol+CNG and 5MT; also separates Neodrive and Hybrid powertrain families. Exact grade names, engine/gearbox mapping and price matrix require full official configurator capture."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "completed_with_gaps",
+      "stage2_status": "review_required",
       "stage2_evidence_path": "research/india/stage2-toyota-bounded-2026-11-28.json",
-      "stage2_verification": "catalogue_identity_only_or_dated_announcement"
+      "stage2_verification": "prior_claims_unsubstantiated_require_review"
     },
     {
       "brand_id": "toyota",
@@ -1544,9 +1544,9 @@
         "notes": "Official Toyota specification page confirms 2.4L diesel, 5-speed manual and grades G/GX/VX/ZX with seating availability. Official 2026-11-05 press release introduces Crysta LIMO as a fleet/commercial-only identity; exclude LIMO from retail passenger variants. Price evidence for GX Fleet is not automatically applicable to retail GX grade."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "completed_with_gaps",
+      "stage2_status": "review_required",
       "stage2_evidence_path": "research/india/stage2-toyota-bounded-2026-11-28.json",
-      "stage2_verification": "catalogue_identity_only_or_dated_announcement"
+      "stage2_verification": "prior_claims_unsubstantiated_require_review"
     },
     {
       "brand_id": "toyota",
@@ -1570,9 +1570,9 @@
         "notes": "Official TKM page confirms petrol/hybrid grade split and seating: G-SLF/GX/VX 7/8 seats; ZX/ZX(O) 7 seats. Capture exact trim-to-powertrain and seat combinations from live configurator; do not rely on third-party variant prices."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "completed_with_gaps",
+      "stage2_status": "review_required",
       "stage2_evidence_path": "research/india/stage2-toyota-bounded-2026-11-28.json",
-      "stage2_verification": "catalogue_identity_only_or_dated_announcement"
+      "stage2_verification": "prior_claims_unsubstantiated_require_review"
     },
     {
       "brand_id": "toyota",
@@ -1596,9 +1596,9 @@
         "notes": "Official page confirms 2.8L diesel, 4WD, 6MT with iMT on STD MT/High MT and 6AT on High AT. Capture seating/body/grade availability and current price from official configurator before import."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "completed_with_gaps",
+      "stage2_status": "review_required",
       "stage2_evidence_path": "research/india/stage2-toyota-bounded-2026-11-28.json",
-      "stage2_verification": "catalogue_identity_only_or_dated_announcement"
+      "stage2_verification": "prior_claims_unsubstantiated_require_review"
     },
     {
       "brand_id": "toyota",
@@ -1628,9 +1628,9 @@
         "reason": "HTTP 403"
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "completed_with_gaps",
+      "stage2_status": "review_required",
       "stage2_evidence_path": "research/india/stage2-toyota-bounded-2026-11-28.json",
-      "stage2_verification": "catalogue_identity_only_or_dated_announcement"
+      "stage2_verification": "prior_claims_unsubstantiated_require_review"
     },
     {
       "brand_id": "toyota",
@@ -1654,9 +1654,9 @@
         "notes": "Current showroom resolves exact current drive/transmission combinations but does not expose retail grade names or current prices. Three current configs are 4x4 MT, 4x2 AT and 4x4 AT; 2025 NeoDrive 48V is historical. Current showroom calculator says price unavailable; dealer grade-wise price matrix required."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "completed_with_gaps",
+      "stage2_status": "review_required",
       "stage2_evidence_path": "research/india/stage2-toyota-bounded-2026-11-28.json",
-      "stage2_verification": "catalogue_identity_only_or_dated_announcement"
+      "stage2_verification": "prior_claims_unsubstantiated_require_review"
     },
     {
       "brand_id": "toyota",
@@ -1680,9 +1680,9 @@
         "notes": "Official specification confirms 2.5L petrol-hybrid system, e-CVT and 5-seat layout. Exact retail grade label, price effective date and variant identity are not exposed; retain as model-level only."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "completed_with_gaps",
+      "stage2_status": "review_required",
       "stage2_evidence_path": "research/india/stage2-toyota-bounded-2026-11-28.json",
-      "stage2_verification": "catalogue_identity_only_or_dated_announcement"
+      "stage2_verification": "prior_claims_unsubstantiated_require_review"
     },
     {
       "brand_id": "toyota",
@@ -1706,9 +1706,9 @@
         "notes": "Official Toyota brochure explicitly states two grades, Hi and VIP-Executive Lounge, with 2.5L hybrid/CVT and 7-seat configuration. VIP-specific equipment is identified in the brochure. Brochure is an older snapshot; confirm current India grade naming, orderability and grade prices with the live price list/dealer."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "completed_with_gaps",
+      "stage2_status": "review_required",
       "stage2_evidence_path": "research/india/stage2-toyota-bounded-2026-11-28.json",
-      "stage2_verification": "catalogue_identity_only_or_dated_announcement"
+      "stage2_verification": "prior_claims_unsubstantiated_require_review"
     },
     {
       "brand_id": "toyota",
@@ -1732,9 +1732,9 @@
         "notes": "Official Toyota booking release confirms two India grades and their 2025 introductory ex-showroom prices. Retain as dated historical observations only; current price/orderability must be reconfirmed. Official brochure also maps the same grade/powertrain split. Imported CBU."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "completed_with_gaps",
+      "stage2_status": "review_required",
       "stage2_evidence_path": "research/india/stage2-toyota-bounded-2026-11-28.json",
-      "stage2_verification": "catalogue_identity_only_or_dated_announcement"
+      "stage2_verification": "prior_claims_unsubstantiated_require_review"
     },
     {
       "brand_id": "mg",
@@ -1758,7 +1758,9 @@
         "notes": "Official page identifies five trims and prices. Keep full-battery ex-showroom prices separate from BaaS upfront amount plus ₹3.30/km battery rental. Verify city/effective-date basis and source reuse before import."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-mg-bounded-2026-11-28.json",
+      "stage2_verification": "catalogue_identity_and_advertised_price_only"
     },
     {
       "brand_id": "mg",
@@ -1782,7 +1784,9 @@
         "notes": "Official page lists five trim/battery combinations. Preserve 38 kWh and 52.9 kWh variants separately. BaaS price plus per-km rental is a distinct price basis. Indulge Edition appears as an edition/appearance package; do not add it as a separate mechanical variant without confirmation."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-mg-bounded-2026-11-28.json",
+      "stage2_verification": "catalogue_identity_and_advertised_price_only"
     },
     {
       "brand_id": "mg",
@@ -1806,7 +1810,9 @@
         "notes": "Official page lists four core trims and 50.3 kWh battery. Exclusive Plus Ivory and Essence Ivory are presented as interior-theme variants at the same price as corresponding core trim; do not count them as separate mechanical variants. Keep BaaS separate from full-battery price."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-mg-bounded-2026-11-28.json",
+      "stage2_verification": "catalogue_identity_and_advertised_price_only"
     },
     {
       "brand_id": "mg",
@@ -1830,7 +1836,9 @@
         "notes": "Current official page exposes petrol trim/transmission/seating configurations and variant-card prices. Do not infer diesel availability from historical launch statements; no current diesel variant card was captured. Price cards need city/effective-date confirmation and exact source reuse review."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-mg-bounded-2026-11-28.json",
+      "stage2_verification": "catalogue_identity_and_advertised_price_only"
     },
     {
       "brand_id": "mg",
@@ -1854,7 +1862,9 @@
         "notes": "Official product page lists trim names, manual/CVT labels and starting prices. Confirm 1.5L VTi-Tech mapping, price effective date/city scope and whether displayed amounts apply to all colour/interior combinations before import."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-mg-bounded-2026-11-28.json",
+      "stage2_verification": "catalogue_identity_and_advertised_price_only"
     },
     {
       "brand_id": "tata",
@@ -6038,7 +6048,9 @@
         "notes": "Official 2026-08-26 launch release publishes the full EV variant-wise ex-showroom table and seating mapping. Preserve 5S/7S as separate configurations. Keep limited-booking BaaS separate from full vehicle price; verify current availability and price effective date."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-mg-bounded-2026-11-28.json",
+      "stage2_verification": "catalogue_identity_and_advertised_price_only"
     },
     {
       "brand_id": "mg",
@@ -6062,7 +6074,9 @@
         "notes": "Official 2026-08-26 launch release publishes two PHEV price rows; both are 7-seat configurations. Keep PHEV and EV variants separate. BaaS is not the full vehicle price. Verify current availability and price effective date."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-mg-bounded-2026-11-28.json",
+      "stage2_verification": "catalogue_identity_and_advertised_price_only"
     },
     {
       "brand_id": "mg",
@@ -6086,7 +6100,9 @@
         "notes": "Official current page lists Savvy 4X2 6-seat, Savvy 4X2 7-seat and Savvy 4X4 7-seat, but exposes only a starting price. The May launch release is historical pricing; November 2026 secondary reporting is a discrepancy lead only. Obtain a dated official dealer/configurator price list for all three variants and reconcile effective date before import."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-mg-bounded-2026-11-28.json",
+      "stage2_verification": "catalogue_identity_and_advertised_price_only"
     },
     {
       "brand_id": "mg",
@@ -6110,7 +6126,9 @@
         "notes": "MG SELECT official page confirms India retail listing and base ex-showroom amount but does not expose an exact grade label or variant matrix. Couture Edition is a limited 50-unit special edition; keep separate from the standard product price. Confirm current orderability and source reuse."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-mg-bounded-2026-11-28.json",
+      "stage2_verification": "catalogue_identity_and_advertised_price_only"
     },
     {
       "brand_id": "mg",
@@ -6134,7 +6152,9 @@
         "notes": "MG SELECT official page confirms India retail listing and base ex-showroom amount but does not expose an exact grade label or variant matrix. Do not copy third-party Presidential Limo naming into the official variant field without OEM confirmation. Couture Edition is a limited 50-unit special edition; keep separate from standard price."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-mg-bounded-2026-11-28.json",
+      "stage2_verification": "catalogue_identity_and_advertised_price_only"
     },
     {
       "brand_id": "toyota",
@@ -6158,9 +6178,9 @@
         "notes": "Toyota launch release identifies E1 (49 kWh) and E2/E3 (61 kWh) battery-grade groupings; the later official price release prices E3 at ₹23.60 lakh. Do not apply the E3 price to E1/E2. Confirm whether E2 is separately retail-orderable and capture current city-independent price list/effective date before import."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "completed_with_gaps",
+      "stage2_status": "review_required",
       "stage2_evidence_path": "research/india/stage2-toyota-bounded-2026-11-28.json",
-      "stage2_verification": "catalogue_identity_only_or_dated_announcement"
+      "stage2_verification": "prior_claims_unsubstantiated_require_review"
     },
     {
       "brand_id": "mahindra",
@@ -17444,5 +17464,5 @@
   },
   "stage1_status": "completed_with_gaps",
   "stage2_status": "in_progress",
-  "stage2_active_brand": "MG Motor"
+  "stage2_active_brand": "MINI"
 }
