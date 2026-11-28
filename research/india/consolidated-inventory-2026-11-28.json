@@ -4228,7 +4228,9 @@
         "notes": "2026-10-30 OEM India range announcement confirms updated Grecale and new Modena V6. Configurator prices are manufacturer India page observations. Confirm effective date, taxes/option scope and dealer invoice quote before import."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-maserati-bounded-2026-11-28.json",
+      "stage2_verification": "bounded_indexed_oem_review"
     },
     {
       "brand_id": "maserati",
@@ -4252,7 +4254,9 @@
         "notes": "Keep Folgore electric as a separate model candidate from petrol/mild-hybrid Grecale. The 2026-10-30 OEM India release confirms improved range for the updated electric model; configurator supplies India price and power output."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-maserati-bounded-2026-11-28.json",
+      "stage2_verification": "bounded_indexed_oem_review"
     },
     {
       "brand_id": "maserati",
@@ -4276,7 +4280,9 @@
         "notes": "Official configurator confirms 490/Trofeo/Folgore product configurations. October 2026 OEM release confirms GranTurismo updated range and up to 590hp Trofeo; confirm exact India trim availability, current ex-showroom price and Folgore orderability with authorized dealer."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-maserati-bounded-2026-11-28.json",
+      "stage2_verification": "bounded_indexed_oem_review"
     },
     {
       "brand_id": "maserati",
@@ -4300,7 +4306,9 @@
         "notes": "Official configurator confirms 490/Trofeo/Folgore versions. October 2026 OEM release confirms updated India range. Keep convertible body identity separate from GranTurismo coupe; confirm India allocation, current price and Folgore orderability."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-maserati-bounded-2026-11-28.json",
+      "stage2_verification": "bounded_indexed_oem_review"
     },
     {
       "brand_id": "maserati",
@@ -4324,7 +4332,9 @@
         "notes": "Official India configurator lists MCPURA as 2027 and 630PS RWD. The 2026-10-30 OEM India release describes MCPURA coupe as part of the India commercial range, but exact local orderability, production allocation and price require authorized dealer confirmation."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-maserati-bounded-2026-11-28.json",
+      "stage2_verification": "bounded_indexed_oem_review"
     },
     {
       "brand_id": "maserati",
@@ -4348,7 +4358,9 @@
         "notes": "Official India configurator lists MCPURA Cielo as 2027 with 630PS RWD. Keep Cielo as a distinct convertible model candidate, not a roof option inside the MCPURA coupe row. Confirm India orderability, allocation and price with authorized dealer."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-maserati-bounded-2026-11-28.json",
+      "stage2_verification": "bounded_indexed_oem_review"
     },
     {
       "brand_id": "maserati",
@@ -4372,7 +4384,9 @@
         "notes": "2026-10-30 OEM India announcement confirms India debut/display and 640hp road-legal GT2 derivative. Configurator lists a 2027 product but does not establish retail booking or price; dealer confirmation required. Do not confuse with MCXtrema, which is track-only limited series and outside the passenger-car retail candidate."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-maserati-bounded-2026-11-28.json",
+      "stage2_verification": "bounded_indexed_oem_review"
     },
     {
       "brand_id": "aston_martin",
@@ -17612,5 +17626,5 @@
   },
   "stage1_status": "completed_with_gaps",
   "stage2_status": "in_progress",
-  "stage2_active_brand": "Maserati"
+  "stage2_active_brand": "Aston Martin"
 }

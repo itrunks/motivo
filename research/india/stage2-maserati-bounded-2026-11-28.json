@@ -1,0 +1,516 @@
+{
+  "retrieval_scope": "Actual indexed India OEM configurator, homepage, model and catalogue excerpts retrieved 2026-11-28; crawler ages differ; not live dealer orderability",
+  "sources": [
+    "https://www.maserati.com/in/en/shopping-tools/configurator",
+    "https://www.maserati.com/in/en",
+    "https://www.maserati.com/in/en/models",
+    "https://www.maserati.com/in/en/shopping-tools/catalogues"
+  ],
+  "models": [
+    {
+      "brand": "Maserati",
+      "model": "Grecale",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.maserati.com/in/en/shopping-tools/configurator",
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "observations": {
+        "configurator_model_year": 2026,
+        "trims": [
+          {
+            "name": "Grecale",
+            "power_ps": 300,
+            "starting_price_inr": 11400000
+          },
+          {
+            "name": "Modena",
+            "power_ps": 330,
+            "starting_price_inr": 14100000
+          },
+          {
+            "name": "Trofeo",
+            "power_ps": 530,
+            "starting_price_inr": 20000000
+          }
+        ],
+        "homepage_source": "https://www.maserati.com/in/en",
+        "homepage_new_range_prices_inr": {
+          "Grecale": 11400000,
+          "Modena": 12900000,
+          "Modena V6": 13900000,
+          "Trofeo": 20000000
+        },
+        "homepage_2027_starting_price_includes_three_year_warranty_package": true
+      },
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "unverified",
+          "reason": "Retrieved excerpts do not establish complete India-specific coverage"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "unverified",
+          "reason": "Retrieved excerpts do not establish complete India-specific coverage"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "unverified",
+          "reason": "Complete effective-date price matrix not established; model-year observations kept separate"
+        },
+        {
+          "field": "NVH",
+          "status": "unverified",
+          "reason": "Retrieved excerpts do not establish complete India-specific coverage"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "unverified",
+          "reason": "Retrieved excerpts do not establish complete India-specific coverage"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "unverified",
+          "reason": "Retrieved excerpts do not establish complete India-specific coverage"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "unverified",
+          "reason": "Retrieved excerpts do not establish complete India-specific coverage"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "unverified",
+          "reason": "Retrieved excerpts do not establish complete India-specific coverage"
+        },
+        {
+          "field": "warranty",
+          "status": "unverified",
+          "reason": "Retrieved excerpts do not establish complete India-specific coverage"
+        }
+      ]
+    },
+    {
+      "brand": "Maserati",
+      "model": "Grecale Folgore",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.maserati.com/in/en/shopping-tools/configurator",
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "observations": {
+        "configurator_model_year": 2026,
+        "trims": [
+          {
+            "name": "Folgore",
+            "power_ps": 550,
+            "starting_price_inr": 19000000
+          }
+        ],
+        "homepage_source": "https://www.maserati.com/in/en",
+        "homepage_starting_price_inr": 19000000
+      },
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "unverified",
+          "reason": "Retrieved excerpts do not establish complete India-specific coverage"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "unverified",
+          "reason": "Retrieved excerpts do not establish complete India-specific coverage"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "unverified",
+          "reason": "Complete effective-date price matrix not established; model-year observations kept separate"
+        },
+        {
+          "field": "NVH",
+          "status": "unverified",
+          "reason": "Retrieved excerpts do not establish complete India-specific coverage"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "unverified",
+          "reason": "Retrieved excerpts do not establish complete India-specific coverage"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "unverified",
+          "reason": "Retrieved excerpts do not establish complete India-specific coverage"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "unverified",
+          "reason": "Retrieved excerpts do not establish complete India-specific coverage"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "unverified",
+          "reason": "Retrieved excerpts do not establish complete India-specific coverage"
+        },
+        {
+          "field": "warranty",
+          "status": "unverified",
+          "reason": "Retrieved excerpts do not establish complete India-specific coverage"
+        }
+      ]
+    },
+    {
+      "brand": "Maserati",
+      "model": "GranTurismo",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.maserati.com/in/en/shopping-tools/configurator",
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "observations": {
+        "configurator_model_year": 2026,
+        "trims": [
+          {
+            "name": "base",
+            "power_ps": 490
+          },
+          {
+            "name": "Trofeo",
+            "power_ps": 550
+          },
+          {
+            "name": "Folgore",
+            "power_ps": 761
+          }
+        ]
+      },
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "unverified",
+          "reason": "Retrieved excerpts do not establish complete India-specific coverage"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "unverified",
+          "reason": "Retrieved excerpts do not establish complete India-specific coverage"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "unverified",
+          "reason": "Complete effective-date price matrix not established; model-year observations kept separate"
+        },
+        {
+          "field": "NVH",
+          "status": "unverified",
+          "reason": "Retrieved excerpts do not establish complete India-specific coverage"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "unverified",
+          "reason": "Retrieved excerpts do not establish complete India-specific coverage"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "unverified",
+          "reason": "Retrieved excerpts do not establish complete India-specific coverage"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "unverified",
+          "reason": "Retrieved excerpts do not establish complete India-specific coverage"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "unverified",
+          "reason": "Retrieved excerpts do not establish complete India-specific coverage"
+        },
+        {
+          "field": "warranty",
+          "status": "unverified",
+          "reason": "Retrieved excerpts do not establish complete India-specific coverage"
+        }
+      ]
+    },
+    {
+      "brand": "Maserati",
+      "model": "GranCabrio",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.maserati.com/in/en/shopping-tools/configurator",
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "observations": {
+        "configurator_model_year": 2026,
+        "trims": [
+          {
+            "name": "base",
+            "power_ps": 490
+          },
+          {
+            "name": "Trofeo",
+            "power_ps": 550
+          },
+          {
+            "name": "Folgore",
+            "power_ps": 761
+          }
+        ]
+      },
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "unverified",
+          "reason": "Retrieved excerpts do not establish complete India-specific coverage"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "unverified",
+          "reason": "Retrieved excerpts do not establish complete India-specific coverage"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "unverified",
+          "reason": "Complete effective-date price matrix not established; model-year observations kept separate"
+        },
+        {
+          "field": "NVH",
+          "status": "unverified",
+          "reason": "Retrieved excerpts do not establish complete India-specific coverage"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "unverified",
+          "reason": "Retrieved excerpts do not establish complete India-specific coverage"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "unverified",
+          "reason": "Retrieved excerpts do not establish complete India-specific coverage"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "unverified",
+          "reason": "Retrieved excerpts do not establish complete India-specific coverage"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "unverified",
+          "reason": "Retrieved excerpts do not establish complete India-specific coverage"
+        },
+        {
+          "field": "warranty",
+          "status": "unverified",
+          "reason": "Retrieved excerpts do not establish complete India-specific coverage"
+        }
+      ]
+    },
+    {
+      "brand": "Maserati",
+      "model": "MCPURA",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.maserati.com/in/en/shopping-tools/configurator",
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "observations": {
+        "configurator_model_year": 2027,
+        "trims": [
+          {
+            "name": "base",
+            "power_ps": 630
+          }
+        ]
+      },
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "unverified",
+          "reason": "Retrieved excerpts do not establish complete India-specific coverage"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "unverified",
+          "reason": "Retrieved excerpts do not establish complete India-specific coverage"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "unverified",
+          "reason": "Complete effective-date price matrix not established; model-year observations kept separate"
+        },
+        {
+          "field": "NVH",
+          "status": "unverified",
+          "reason": "Retrieved excerpts do not establish complete India-specific coverage"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "unverified",
+          "reason": "Retrieved excerpts do not establish complete India-specific coverage"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "unverified",
+          "reason": "Retrieved excerpts do not establish complete India-specific coverage"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "unverified",
+          "reason": "Retrieved excerpts do not establish complete India-specific coverage"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "unverified",
+          "reason": "Retrieved excerpts do not establish complete India-specific coverage"
+        },
+        {
+          "field": "warranty",
+          "status": "unverified",
+          "reason": "Retrieved excerpts do not establish complete India-specific coverage"
+        }
+      ]
+    },
+    {
+      "brand": "Maserati",
+      "model": "MCPURA Cielo",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.maserati.com/in/en/shopping-tools/configurator",
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "observations": {
+        "configurator_model_year": 2027,
+        "trims": [
+          {
+            "name": "base",
+            "power_ps": 630
+          }
+        ]
+      },
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "unverified",
+          "reason": "Retrieved excerpts do not establish complete India-specific coverage"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "unverified",
+          "reason": "Retrieved excerpts do not establish complete India-specific coverage"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "unverified",
+          "reason": "Complete effective-date price matrix not established; model-year observations kept separate"
+        },
+        {
+          "field": "NVH",
+          "status": "unverified",
+          "reason": "Retrieved excerpts do not establish complete India-specific coverage"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "unverified",
+          "reason": "Retrieved excerpts do not establish complete India-specific coverage"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "unverified",
+          "reason": "Retrieved excerpts do not establish complete India-specific coverage"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "unverified",
+          "reason": "Retrieved excerpts do not establish complete India-specific coverage"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "unverified",
+          "reason": "Retrieved excerpts do not establish complete India-specific coverage"
+        },
+        {
+          "field": "warranty",
+          "status": "unverified",
+          "reason": "Retrieved excerpts do not establish complete India-specific coverage"
+        }
+      ]
+    },
+    {
+      "brand": "Maserati",
+      "model": "GT2 Stradale",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.maserati.com/in/en/shopping-tools/configurator",
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "observations": {
+        "configurator_model_year": 2027,
+        "trims": [
+          {
+            "name": "base",
+            "power_ps": 640
+          }
+        ]
+      },
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "unverified",
+          "reason": "Retrieved excerpts do not establish complete India-specific coverage"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "unverified",
+          "reason": "Retrieved excerpts do not establish complete India-specific coverage"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "unverified",
+          "reason": "Complete effective-date price matrix not established; model-year observations kept separate"
+        },
+        {
+          "field": "NVH",
+          "status": "unverified",
+          "reason": "Retrieved excerpts do not establish complete India-specific coverage"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "unverified",
+          "reason": "Retrieved excerpts do not establish complete India-specific coverage"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "unverified",
+          "reason": "Retrieved excerpts do not establish complete India-specific coverage"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "unverified",
+          "reason": "Retrieved excerpts do not establish complete India-specific coverage"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "unverified",
+          "reason": "Retrieved excerpts do not establish complete India-specific coverage"
+        },
+        {
+          "field": "warranty",
+          "status": "unverified",
+          "reason": "Retrieved excerpts do not establish complete India-specific coverage"
+        }
+      ]
+    }
+  ],
+  "scope_candidates": [
+    {
+      "names": [
+        "MC20",
+        "MC20 Cielo"
+      ],
+      "source": "https://www.maserati.com/in/en/models",
+      "orderability": "unverified"
+    },
+    {
+      "names": [
+        "Levante",
+        "Ghibli",
+        "Quattroporte"
+      ],
+      "source": "https://www.maserati.com/in/en/shopping-tools/catalogues",
+      "orderability": "unverified"
+    }
+  ]
+}
