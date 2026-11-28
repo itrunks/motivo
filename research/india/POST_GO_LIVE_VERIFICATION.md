@@ -50,3 +50,7 @@ All 17 model identities retained; full variant features and prices, real-world m
 ## Kia bounded review
 
 9 existing identities, 8 selected model pages and Carens warranty only; 81 gaps merged into central CSV. Syros EV scope review pending. Earlier Maruti, Hyundai, Tata and Mahindra source verification claims lack substantiated retrieval in available execution records; quarantine all associated facts from publication until independently verified.
+
+## Toyota bounded catalogue review
+
+13 identities supported by actual Toyota homepage and brochure selector results. 117 gaps in central CSV. Glanza October 2026 announcement differs from 2025 brochure; do not combine generations. Individual current model feature audits remain deferred. Prior Kia claims also lack retrievable supporting evidence in execution records and are quarantined along with earlier 60 models.
