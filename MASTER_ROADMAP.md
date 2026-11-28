@@ -32,10 +32,10 @@ Recovered historical inventory: 251 model rows, 35 brands. This is not a current
 | VinFast | 3 | All three matched; exact SKUs pending |
 | Audi | 9 | Eight matched; Q3 Sportback exception |
 | BMW | 22 | 19 matched; i4, iX, XM exceptions |
-| BYD | 4 | Pending |
-| Citroën | 5 | Pending |
-| Honda | 5 | Pending |
-| Jeep | 4 | Pending |
+| BYD | 4 | 4 matched; 13 regional configuration leads |
+| Citroën | 5 | 4 confirmed; C5 Aircross unresolved |
+| Honda | 5 | 5 matched; ALPHA future only |
+| Jeep | 4 | 4 matched; exact SKUs pending |
 | Lamborghini | 3 | Pending |
 | Land Rover | 7 | Pending |
 | Lexus | 5 | Pending |
@@ -96,3 +96,12 @@ Tata: https://cars.tatamotors.com/ returned HTTP 403 in this inspection; full li
 - BMW: https://www.bmw.in/en/all-models.html matches 19 of 22 historical nameplates (including X1 diesel and X1 LWB petrol as separate legacy records pending taxonomy). i4, iX and XM absent from current listing; do not infer discontinuation. Separate X3 petrol grades and X7 diesel grades. No concept or protection vehicle added to retail scope. Some price disclaimers reference German VAT; no prices promoted.
 
 All five initial inspections complete; exact SKU verification and exceptions remain open. No production imports.
+
+## Stage 1 — BYD, Citroën, Honda and Jeep checkpoint (2026-11-28)
+
+- BYD: all four historical models confirmed at https://bydautoindia.com/car-dealer/byd-car-price . Regional table https://www.bydautoindia.com/car-dealer/electric-car-price/telangana identifies 13 configuration leads: ATTO 3 Dynamic/Premium/Superior; eMAX 7 Comfort/Superior each six/seven seats; SEAL Dynamic/Premium/Performance; SEALION 7 Dynamic/Premium/Performance. National starting price for SEALION 7 conflicts with regional Dynamic listing; verify effective date and market before pricing publication. Exact orderability pending.
+- Citroën: https://www.citroen.in/about-citroen/news/citroen-variants-extended.html confirms AircrossX, BasaltX, ë-C3X and new September 7 configurations; https://www.citroen.in/models/c3.html confirms C3X but mixes Basalt copy. C5 Aircross current retail status unresolved; no discontinuation inference. Separate BaaS from outright EV pricing.
+- Honda: https://www.hondacarindia.com/?pr_id=306 matches New City, New Amaze, Amaze 2nd Gen, ZR-V and New Elevate. ALPHA explicitly future, excluded from current retail. https://www.hondacarindia.com/download-brochure provides generation-specific leads; City petrol and hybrid taxonomy pending.
+- Jeep: https://www.jeep-india.com/ confirms Compass, Meridian, Wrangler and Grand Cherokee. Exact powertrain/edition/orderability inventory pending.
+
+No production records or prices imported. All four initial inspections performed; open exceptions retained.
