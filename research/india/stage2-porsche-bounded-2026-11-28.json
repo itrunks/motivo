@@ -17,7 +17,10 @@
             "power_ps": 394,
             "zero_to_100_s": 4.1,
             "condition": "as listed",
-            "power_scope": "as listed"
+            "power_scope": "engine power",
+            "top_speed_kmh": 294,
+            "drivetrain": "RWD",
+            "transmission": "automatic"
           },
           {
             "name": "Carrera 4 GTS",
@@ -25,7 +28,10 @@
             "power_ps": 541,
             "zero_to_100_s": 3,
             "condition": "Sport Chrono",
-            "power_scope": "as listed"
+            "power_scope": "combined power",
+            "top_speed_kmh": 312,
+            "drivetrain": "AWD",
+            "transmission": "automatic"
           },
           {
             "name": "GT3",
@@ -33,7 +39,10 @@
             "power_ps": 510,
             "zero_to_100_s": 3.4,
             "condition": "as listed",
-            "power_scope": "as listed"
+            "power_scope": "engine power",
+            "top_speed_kmh": 311,
+            "drivetrain": "RWD",
+            "transmission": "automatic"
           },
           {
             "name": "Turbo S",
@@ -41,10 +50,14 @@
             "power_ps": 711,
             "zero_to_100_s": 2.5,
             "condition": "Sport Chrono",
-            "power_scope": "as listed"
+            "power_scope": "combined power",
+            "top_speed_kmh": 322,
+            "drivetrain": "AWD",
+            "transmission": "automatic"
           }
         ],
-        "price_scope": "VAT inclusive starting price; indexed snapshot crawled two months earlier"
+        "price_scope": "VAT inclusive starting price; indexed snapshot crawled two months earlier",
+        "supplementary_review": "India configurator indexed extract retrieved 2026-11-28; crawl reported two months old; no current orderability confirmation"
       },
       "gaps": [
         {
