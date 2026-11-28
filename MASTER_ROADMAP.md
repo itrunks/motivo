@@ -222,3 +222,7 @@ Four Maruti models (Alto K10, Celerio, Eeco, Ertiga) reviewed on actual OEM over
 ## Stage 2 Maruti bounded pass
 
 17/17 Maruti models dispositioned with gaps; 12 of 13 newly attempted models have retrieved OEM observations, Wagon R inaccessible. Four earlier models have unconfirmed historical claims only. Full variant feature audits remain zero. Hyundai next; production publication review pending.
+
+## Hyundai bounded selected-feature checkpoint
+
+14/14 Hyundai identities dispositioned; 13 feature pages retrieved, IONIQ 5 URL inaccessible via tool. Selected facts only, 112 gaps. 31/251 model bounded passes closed including prior Maruti records (Maruti source claims not independently checked here). Tata selected next; no fresh Tata evidence yet. No fully verified variant catalogue or production import.
