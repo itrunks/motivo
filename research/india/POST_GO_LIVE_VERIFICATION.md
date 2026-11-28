@@ -34,3 +34,7 @@ Retain known in-scope vehicle identities in selection lists even when variant or
 ## Maruti bounded pass
 
 All 17 model identities retained; full variant features and prices, real-world mileage, NVH, suspension, ownership and OEM accessories remain gaps unless separately established. Wagon R price URL inaccessible in this run. First four models' previously asserted observations remain unconfirmed; do not publish as verified. See `research/india/stage2-maruti-bounded-evidence-2026-11-28.json` for 13 model outcomes and per-field backlog.
+
+## Hyundai selected-feature bounded pass
+
+14 model outcomes, 13 retrieved feature pages and one inaccessible URL (IONIQ 5). 112 model-field gaps in `research/india/stage2-hyundai-bounded-2026-11-28.json`. Earlier generated safety matrix is superseded for selected observations; unrechecked cells remain unconfirmed. Retail availability and publication rights not established by this pass.
