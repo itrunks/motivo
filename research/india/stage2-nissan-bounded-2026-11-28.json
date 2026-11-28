@@ -1,0 +1,437 @@
+{
+  "retrieval_scope": "Actual web tool excerpts from Nissan India price list, brochure index, Magnite brochure and model pages, Gravite launch release; no effective-date or dealer quote verification",
+  "sources": [
+    "https://www.nissan.in/prices-list.html",
+    "https://www.nissan.in/vehicles/brochures.html",
+    "https://www.nissan.in/vehicles/new/nissan-magnite.html",
+    "https://www.nissan.in/vehicles/new/nissan-gravite.html",
+    "https://www.nissan.in/latest-news/nissan-signals-a-bold-india-resurgence-with-the-launch-of-the-all-new-gravite.html",
+    "https://www.nissan.in/content/dam/Nissan/in/brochures/New-Nissan-%20Magnite-Brochure-Oct-2024.pdf"
+  ],
+  "models": [
+    {
+      "brand": "Nissan",
+      "model": "Tekton",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.nissan.in/prices-list.html",
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "observations": {
+        "prices": [
+          [
+            "Visia T160 MT",
+            1049000
+          ],
+          [
+            "Visia+ T160 MT",
+            1114000
+          ],
+          [
+            "Acenta T160 MT",
+            1179000
+          ],
+          [
+            "N-Connecta T160 MT",
+            1369000
+          ],
+          [
+            "N-Connecta T280 MT",
+            1499000
+          ],
+          [
+            "Tekna T160 MT",
+            1539000
+          ],
+          [
+            "Tekna T280 MT",
+            1639000
+          ],
+          [
+            "Tekna+ T160 MT",
+            1649000
+          ],
+          [
+            "Acenta T280 DCT",
+            1499000
+          ],
+          [
+            "N-Connecta T280 DCT",
+            1649000
+          ],
+          [
+            "Tekna T280 DCT",
+            1779000
+          ],
+          [
+            "Tekna+ T280 DCT",
+            1859000
+          ]
+        ],
+        "brochure_index": "https://www.nissan.in/vehicles/brochures.html",
+        "price_scope": "OEM indexed ex-showroom list, crawl last month; effective date unknown"
+      },
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "unverified",
+          "reason": "Complete current India field not established by retrieved excerpts"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "unverified",
+          "reason": "Complete current India field not established by retrieved excerpts"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "unverified",
+          "reason": "Published price list captured; effective date and dealer invoice applicability not established"
+        },
+        {
+          "field": "NVH",
+          "status": "unverified",
+          "reason": "Complete current India field not established by retrieved excerpts"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "unverified",
+          "reason": "Complete current India field not established by retrieved excerpts"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "unverified",
+          "reason": "Complete current India field not established by retrieved excerpts"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "unverified",
+          "reason": "Complete current India field not established by retrieved excerpts"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "unverified",
+          "reason": "Complete current India field not established by retrieved excerpts"
+        },
+        {
+          "field": "warranty",
+          "status": "unverified",
+          "reason": "Complete current India field not established by retrieved excerpts"
+        }
+      ]
+    },
+    {
+      "brand": "Nissan",
+      "model": "Gravite",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.nissan.in/prices-list.html",
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "observations": {
+        "prices": [
+          [
+            "Visia MT",
+            573400
+          ],
+          [
+            "Acenta MT",
+            668400
+          ],
+          [
+            "N-Connecta MT",
+            738400
+          ],
+          [
+            "Tekna MT",
+            808000
+          ],
+          [
+            "Tekna Launch Edition MT",
+            852500
+          ],
+          [
+            "N-Connecta EZ Shift",
+            795000
+          ],
+          [
+            "Tekna EZ Shift",
+            864000
+          ],
+          [
+            "Tekna Launch Edition EZ Shift",
+            908500
+          ]
+        ],
+        "technical": {
+          "source": "https://www.nissan.in/latest-news/nissan-signals-a-bold-india-resurgence-with-the-launch-of-the-all-new-gravite.html",
+          "power_ps": 72,
+          "torque_nm": 96,
+          "engine": "1.0L 3-cylinder NA petrol",
+          "gears": 5,
+          "seats": 7,
+          "claimed_kmpl": {
+            "MT": 19.3,
+            "AMT": 19.6
+          },
+          "launch_price": 565000
+        },
+        "features": {
+          "source": "https://www.nissan.in/vehicles/new/nissan-gravite.html",
+          "standard_airbags": 6,
+          "visia": [
+            "projector headlamp",
+            "ESP",
+            "TCS",
+            "removable split third row"
+          ],
+          "acenta": [
+            "wireless Android Auto and Apple CarPlay",
+            "rear AC vents"
+          ],
+          "n_connecta": [
+            "rear camera",
+            "rear wiper and defogger",
+            "roof rail 50kg capacity"
+          ]
+        },
+        "cng_pack_after_2026_06_30": 85999,
+        "price_scope": "OEM indexed ex-showroom list, crawl last month; effective date unknown"
+      },
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "unverified",
+          "reason": "Complete current India field not established by retrieved excerpts"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "unverified",
+          "reason": "Complete current India field not established by retrieved excerpts"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "unverified",
+          "reason": "Published price list captured; effective date and dealer invoice applicability not established"
+        },
+        {
+          "field": "NVH",
+          "status": "unverified",
+          "reason": "Complete current India field not established by retrieved excerpts"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "unverified",
+          "reason": "Complete current India field not established by retrieved excerpts"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "unverified",
+          "reason": "Complete current India field not established by retrieved excerpts"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "unverified",
+          "reason": "Complete current India field not established by retrieved excerpts"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "unverified",
+          "reason": "Complete current India field not established by retrieved excerpts"
+        },
+        {
+          "field": "warranty",
+          "status": "unverified",
+          "reason": "Complete current India field not established by retrieved excerpts"
+        }
+      ]
+    },
+    {
+      "brand": "Nissan",
+      "model": "Magnite",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.nissan.in/prices-list.html",
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "observations": {
+        "prices": [
+          [
+            "Visia MT",
+            569400
+          ],
+          [
+            "Visia+ MT",
+            626000
+          ],
+          [
+            "Acenta MT",
+            687000
+          ],
+          [
+            "N-Connecta MT",
+            750000
+          ],
+          [
+            "Tekna MT",
+            843000
+          ],
+          [
+            "Tekna+ MT",
+            876000
+          ],
+          [
+            "N-Connecta Turbo MT",
+            881000
+          ],
+          [
+            "Tekna Turbo MT",
+            961000
+          ],
+          [
+            "Tekna+ Turbo MT",
+            995000
+          ],
+          [
+            "Visia EZ Shift",
+            630000
+          ],
+          [
+            "Acenta EZ Shift",
+            742000
+          ],
+          [
+            "N-Connecta EZ Shift",
+            805000
+          ],
+          [
+            "Tekna EZ Shift",
+            898000
+          ],
+          [
+            "Tekna+ EZ Shift",
+            931000
+          ],
+          [
+            "Acenta Turbo CVT",
+            930000
+          ],
+          [
+            "N-Connecta Turbo CVT",
+            974000
+          ],
+          [
+            "Tekna Turbo CVT",
+            1069000
+          ],
+          [
+            "Tekna+ Turbo CVT",
+            1099000
+          ],
+          [
+            "KURO MT",
+            785000
+          ],
+          [
+            "KURO EZ Shift",
+            840000
+          ],
+          [
+            "KURO Turbo MT",
+            916000
+          ],
+          [
+            "KURO Turbo CVT",
+            999400
+          ]
+        ],
+        "model_page": {
+          "source": "https://www.nissan.in/vehicles/new/nissan-magnite.html",
+          "starting_price": 568000,
+          "features": {
+            "Visia": [
+              "6 airbags",
+              "60:40 rear seat split"
+            ],
+            "Acenta": [
+              "auto climate control"
+            ],
+            "N-Connecta": [
+              "digital cluster",
+              "push button start"
+            ],
+            "Tekna": [
+              "360 camera",
+              "LED projector headlamps"
+            ],
+            "Tekna+": [
+              "ambient lighting",
+              "quilted synthetic leather seats"
+            ]
+          },
+          "warranty_conflict": {
+            "headline": "10 years/200000 km",
+            "footnote": "3 years/100000 km standard"
+          }
+        },
+        "historical_brochure": {
+          "source": "https://www.nissan.in/content/dam/Nissan/in/brochures/New-Nissan-%20Magnite-Brochure-Oct-2024.pdf",
+          "date": "2024-10",
+          "scope": "dated feature excerpt only"
+        },
+        "cng_pack": 74999,
+        "price_scope": "OEM indexed ex-showroom list, crawl last month; effective date unknown"
+      },
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "unverified",
+          "reason": "Complete current India field not established by retrieved excerpts"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "unverified",
+          "reason": "Complete current India field not established by retrieved excerpts"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "unverified",
+          "reason": "Published price list captured; effective date and dealer invoice applicability not established"
+        },
+        {
+          "field": "NVH",
+          "status": "unverified",
+          "reason": "Complete current India field not established by retrieved excerpts"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "unverified",
+          "reason": "Complete current India field not established by retrieved excerpts"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "unverified",
+          "reason": "Complete current India field not established by retrieved excerpts"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "unverified",
+          "reason": "Complete current India field not established by retrieved excerpts"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "unverified",
+          "reason": "Complete current India field not established by retrieved excerpts"
+        },
+        {
+          "field": "warranty",
+          "status": "conflicting",
+          "reason": "OEM headline and standard warranty footnote differ"
+        }
+      ]
+    }
+  ],
+  "scope_candidates": [
+    {
+      "name": "X-Trail",
+      "source": "https://www.nissan.in/vehicles/brochures.html",
+      "india_orderability": "unverified; absent from retrieved price list and homepage range"
+    }
+  ]
+}

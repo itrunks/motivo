@@ -314,3 +314,7 @@ Three model identities supported by actual indexed global OEM sources. Direct Mu
 ## Mercedes-Benz bounded checkpoint
 
 24 model identities matched to retrieved India OEM catalogue and configurator; older/newer price observations separated. Brochure index retrieved, individual PDFs pending. 216 unresolved fields. 123 completed_with_gaps, 92 review_required, 36 pending. Nissan next; Ferrari Amalfi Spider residual pending. Prior evidence provenance re-review required. No production changes.
+
+## Nissan bounded checkpoint
+
+Three inventory identities matched to actual India OEM excerpts; 42 published price rows including KURO, 27 unresolved fields. Magnite warranty conflict and price snapshot differences retained. 126 completed_with_gaps, 92 review_required, 33 pending. Porsche next; Ferrari residual pending. Prior batches require independent evidence provenance review before publication. No production changes.

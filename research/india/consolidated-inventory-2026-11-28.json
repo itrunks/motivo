@@ -5528,7 +5528,9 @@
         "notes": "Official Nissan India price list provides exact grade/engine/transmission rows. Do not cross-combine missing grade/engine cells. Prices are ex-showroom; confirm state/dealer quote and effective date before import."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-nissan-bounded-2026-11-28.json",
+      "stage2_verification": "bounded_indexed_oem_review"
     },
     {
       "brand_id": "nissan",
@@ -5552,7 +5554,9 @@
         "notes": "Current official price page confirms exact MT/AMT grades. CNG retrofitment is a separate kit/installation/endorsement package; do not add it as a factory-built CNG grade. Launch Edition includes accessory/equipment bundle and is treated as edition derivative."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-nissan-bounded-2026-11-28.json",
+      "stage2_verification": "bounded_indexed_oem_review"
     },
     {
       "brand_id": "nissan",
@@ -5576,7 +5580,9 @@
         "notes": "Current OEM price list supplies the variant/transmission matrix. KURO is a special appearance edition. CNG is an approved retrofitment kit with separate installation/endorsement costs, not a factory fuel/trim combination. The price page and product page can differ by a few thousand due to current offers/page timing; use dated price list as source and reconfirm current dealer quote."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-nissan-bounded-2026-11-28.json",
+      "stage2_verification": "bounded_indexed_oem_review"
     },
     {
       "brand_id": "porsche",
@@ -17712,5 +17718,5 @@
   },
   "stage1_status": "completed_with_gaps",
   "stage2_status": "in_progress",
-  "stage2_active_brand": "Nissan"
+  "stage2_active_brand": "Porsche"
 }
