@@ -170,3 +170,7 @@ Added 24 Punch and six explicit Nexon combinations from existing repository audi
 ## Kia matrix checkpoint (2026-11-28)
 
 59 unique rows in research/india/variant-inventory-kia-seltos-syros-2026-11-28.csv: Seltos 42, Syros 17. Kia indexed specs trim order matched to powertrain groups; Syros comparison table corroborates 2026 brochure. Seltos positional mapping requires rendered comparison cross-check. Cached sources, not live dealer orderability. Total research rows 282. Nexon search did not yield new exact evidence in this batch. No production import.
+
+## OEM brochure checkpoint (2026-11-28)
+
+Added 36 unique brochure candidate rows in research/india/variant-inventory-xuv7xo-glanza-2026-11-28.csv: XUV 7XO 27, Glanza 9 (2025 brochure, not current generation confirmation). XUV 7XO brochure explicitly marks AWD only for selected seven-seat diesel AT; other drive labels left blank. Current orderability and source publication clearance pending. Nexon current specifications selector was located but remaining raw labels require reconciliation against six existing records; no additional Nexon rows committed in this batch. Cumulative research rows 318, not production SKU count. No production import.
