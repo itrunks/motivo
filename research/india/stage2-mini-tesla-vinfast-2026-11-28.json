@@ -1,0 +1,565 @@
+{
+  "models": [
+    {
+      "brand": "MINI",
+      "model": "Cooper",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.mini.in/en_IN/home.html",
+      "observations": {
+        "listed": true
+      },
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "not_available",
+          "reason": "complete coverage not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "not_available",
+          "reason": "complete coverage not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "not_available",
+          "reason": "complete coverage not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "NVH",
+          "status": "not_available",
+          "reason": "complete coverage not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "not_available",
+          "reason": "complete coverage not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "not_available",
+          "reason": "complete coverage not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "not_available",
+          "reason": "complete coverage not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "not_available",
+          "reason": "complete coverage not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "warranty",
+          "status": "not_available",
+          "reason": "complete coverage not established by retrieved OEM excerpts"
+        }
+      ]
+    },
+    {
+      "brand": "MINI",
+      "model": "Cooper Convertible",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.mini.in/en_IN/home.html",
+      "observations": {
+        "listed": true
+      },
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "not_available",
+          "reason": "complete coverage not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "not_available",
+          "reason": "complete coverage not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "not_available",
+          "reason": "complete coverage not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "NVH",
+          "status": "not_available",
+          "reason": "complete coverage not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "not_available",
+          "reason": "complete coverage not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "not_available",
+          "reason": "complete coverage not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "not_available",
+          "reason": "complete coverage not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "not_available",
+          "reason": "complete coverage not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "warranty",
+          "status": "not_available",
+          "reason": "complete coverage not established by retrieved OEM excerpts"
+        }
+      ]
+    },
+    {
+      "brand": "MINI",
+      "model": "Countryman C",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.mini.in/en_IN/home/range.html",
+      "observations": {
+        "advertised_starting_inr": 4750000,
+        "price_basis": "unconfirmed; European VAT disclaimer"
+      },
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "not_available",
+          "reason": "complete coverage not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "not_available",
+          "reason": "complete coverage not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "not_available",
+          "reason": "complete coverage not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "NVH",
+          "status": "not_available",
+          "reason": "complete coverage not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "not_available",
+          "reason": "complete coverage not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "not_available",
+          "reason": "complete coverage not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "not_available",
+          "reason": "complete coverage not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "not_available",
+          "reason": "complete coverage not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "warranty",
+          "status": "not_available",
+          "reason": "complete coverage not established by retrieved OEM excerpts"
+        }
+      ]
+    },
+    {
+      "brand": "MINI",
+      "model": "Countryman Electric",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.mini.in/en_IN/home/range.html",
+      "observations": {
+        "range_max_km": 440,
+        "cycle": "WLTP",
+        "seats": 5
+      },
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "not_available",
+          "reason": "complete coverage not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "not_available",
+          "reason": "complete coverage not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "not_available",
+          "reason": "complete coverage not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "NVH",
+          "status": "not_available",
+          "reason": "complete coverage not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "not_available",
+          "reason": "complete coverage not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "not_available",
+          "reason": "complete coverage not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "not_available",
+          "reason": "complete coverage not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "not_available",
+          "reason": "complete coverage not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "warranty",
+          "status": "not_available",
+          "reason": "complete coverage not established by retrieved OEM excerpts"
+        }
+      ]
+    },
+    {
+      "brand": "MINI",
+      "model": "John Cooper Works Countryman ALL4",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.mini.in/en_IN/home/range/john-cooper-works.html",
+      "observations": {
+        "power_hp": 300,
+        "torque_nm": 400,
+        "drive": "AWD",
+        "acceleration_0_100_s": 5.4
+      },
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "not_available",
+          "reason": "complete coverage not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "not_available",
+          "reason": "complete coverage not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "not_available",
+          "reason": "complete coverage not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "NVH",
+          "status": "not_available",
+          "reason": "complete coverage not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "not_available",
+          "reason": "complete coverage not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "not_available",
+          "reason": "complete coverage not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "not_available",
+          "reason": "complete coverage not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "not_available",
+          "reason": "complete coverage not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "warranty",
+          "status": "not_available",
+          "reason": "complete coverage not established by retrieved OEM excerpts"
+        }
+      ]
+    },
+    {
+      "brand": "Tesla",
+      "model": "Model Y",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.tesla.com/en_in/modely",
+      "observations": {
+        "variants": [
+          {
+            "name": "Model Y Premium",
+            "drive": "RWD",
+            "seats": 5,
+            "wltp_km": 500,
+            "acceleration_s": 5.9,
+            "charging_max_kw": 175,
+            "vehicle_price_inr": 5089000
+          },
+          {
+            "name": "Model Y L Premium",
+            "drive": "AWD",
+            "seats_max": 6,
+            "wltp_km": 681,
+            "acceleration_s": 5,
+            "charging_max_kw": 250,
+            "vehicle_price_inr": 6199000
+          }
+        ],
+        "price_source": "https://www.tesla.com/en_in/modely/design?redirect=no&referral=najee944936",
+        "price_basis": "configurator vehicle price not on-road; referral URL; effective date unknown"
+      },
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "not_available",
+          "reason": "complete coverage not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "not_available",
+          "reason": "complete coverage not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "not_available",
+          "reason": "complete coverage not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "NVH",
+          "status": "not_available",
+          "reason": "complete coverage not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "not_available",
+          "reason": "complete coverage not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "not_available",
+          "reason": "complete coverage not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "not_available",
+          "reason": "complete coverage not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "not_available",
+          "reason": "complete coverage not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "warranty",
+          "status": "not_available",
+          "reason": "complete coverage not established by retrieved OEM excerpts"
+        }
+      ]
+    },
+    {
+      "brand": "VinFast",
+      "model": "VF 6",
+      "checked_at": "2026-11-28",
+      "source_url": "https://vinfastauto.in/en/press-release/vinfast-india-named-ev-manufacturer-of-the-year-at-ht-auto-leaderboard-awards-2026",
+      "observations": {
+        "india_offered": true
+      },
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "not_available",
+          "reason": "complete coverage not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "not_available",
+          "reason": "complete coverage not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "not_available",
+          "reason": "complete coverage not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "NVH",
+          "status": "not_available",
+          "reason": "complete coverage not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "not_available",
+          "reason": "complete coverage not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "not_available",
+          "reason": "complete coverage not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "not_available",
+          "reason": "complete coverage not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "not_available",
+          "reason": "complete coverage not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "warranty",
+          "status": "not_available",
+          "reason": "complete coverage not established by retrieved OEM excerpts"
+        }
+      ]
+    },
+    {
+      "brand": "VinFast",
+      "model": "VF 7",
+      "checked_at": "2026-11-28",
+      "source_url": "https://vinfastauto.in/en/press-release/vinfast-india-named-ev-manufacturer-of-the-year-at-ht-auto-leaderboard-awards-2026",
+      "observations": {
+        "india_offered": true
+      },
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "not_available",
+          "reason": "complete coverage not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "not_available",
+          "reason": "complete coverage not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "not_available",
+          "reason": "complete coverage not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "NVH",
+          "status": "not_available",
+          "reason": "complete coverage not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "not_available",
+          "reason": "complete coverage not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "not_available",
+          "reason": "complete coverage not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "not_available",
+          "reason": "complete coverage not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "not_available",
+          "reason": "complete coverage not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "warranty",
+          "status": "not_available",
+          "reason": "complete coverage not established by retrieved OEM excerpts"
+        }
+      ]
+    },
+    {
+      "brand": "VinFast",
+      "model": "VF MPV 7",
+      "checked_at": "2026-11-28",
+      "source_url": "https://vinfastauto.in/en/press-release/vinfast-india-named-ev-manufacturer-of-the-year-at-ht-auto-leaderboard-awards-2026",
+      "observations": {
+        "india_offered": true,
+        "seats": 7,
+        "wheelbase_mm": 2840,
+        "additional_source": "https://vinfastauto.in/en/press-release/vinfast-launches-the-all-new-vf-mpv-7-a-spacious-electric-seven-seater-for-indian",
+        "launch_date": "2026-04-15"
+      },
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "not_available",
+          "reason": "complete coverage not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "not_available",
+          "reason": "complete coverage not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "not_available",
+          "reason": "complete coverage not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "NVH",
+          "status": "not_available",
+          "reason": "complete coverage not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "not_available",
+          "reason": "complete coverage not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "not_available",
+          "reason": "complete coverage not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "not_available",
+          "reason": "complete coverage not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "not_available",
+          "reason": "complete coverage not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "warranty",
+          "status": "not_available",
+          "reason": "complete coverage not established by retrieved OEM excerpts"
+        }
+      ]
+    }
+  ],
+  "inventory_leads": [
+    {
+      "brand": "MINI",
+      "model": "Cooper SE",
+      "source_url": "https://www.mini.in/en_IN/home.html",
+      "status": "scope_review_pending"
+    }
+  ]
+}
