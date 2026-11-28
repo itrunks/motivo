@@ -3602,7 +3602,9 @@
         "notes": "Current OEM page confirms grade and powertrain mapping. Use the dated official launch matrix as an observation, not a guaranteed current invoice quote; dealer/city price and effective date must be reconfirmed. e:HEV is only ZX+."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-honda-bounded-2026-11-28.json",
+      "stage2_verification": "bounded_indexed_oem_review"
     },
     {
       "brand_id": "honda",
@@ -3626,7 +3628,9 @@
         "notes": "Official launch release confirms V/VX/ZX and MT/CVT combinations. Do not reuse expired introductory launch prices. Confirm current exact Delhi/city price matrix with Honda configurator/dealer."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-honda-bounded-2026-11-28.json",
+      "stage2_verification": "bounded_indexed_oem_review"
     },
     {
       "brand_id": "honda",
@@ -3650,7 +3654,9 @@
         "notes": "Current official homepage still lists the 2nd Gen model, but the city price page appears stale/inconsistent. Confirm current dealer orderability and exact current price; do not merge 2nd Gen grades with 3rd Gen V/VX/ZX."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-honda-bounded-2026-11-28.json",
+      "stage2_verification": "bounded_indexed_oem_review"
     },
     {
       "brand_id": "honda",
@@ -3674,7 +3680,9 @@
         "notes": "Official release confirms CBU import from Japan, one 2.0L e:HEV configuration and delivery commencement. Homepage current price differs from introductory launch price. Verify current invoice-date price and whether any option/grade distinctions exist."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-honda-bounded-2026-11-28.json",
+      "stage2_verification": "bounded_indexed_oem_review"
     },
     {
       "brand_id": "honda",
@@ -3698,7 +3706,9 @@
         "notes": "Official facelift release explicitly lists five grades plus ZX+ Black, and 6MT/7-speed CVT applicability. This October 2026 matrix supersedes older pre-facelift price observations. Confirm current dealer/city invoice price and exact Black Edition availability."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-honda-bounded-2026-11-28.json",
+      "stage2_verification": "bounded_indexed_oem_review"
     },
     {
       "brand_id": "jeep",
@@ -17562,5 +17572,5 @@
   },
   "stage1_status": "completed_with_gaps",
   "stage2_status": "in_progress",
-  "stage2_active_brand": "Honda"
+  "stage2_active_brand": "Jeep"
 }

@@ -1,0 +1,367 @@
+{
+  "retrieval_scope": "Retrieved indexed OEM price, booking, test drive and older model specifications; no live dealer orderability verification",
+  "models": [
+    {
+      "brand": "Honda",
+      "model": "New City",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.hondacarindia.com/check-price",
+      "sources": [
+        "https://www.hondacarindia.com/check-price",
+        "https://www.hondacarindia.com/shop/new-car-booking",
+        "https://www.hondacarindia.com/shop/request-test-drive"
+      ],
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "observations": {
+        "listed_on_price_and_booking_pages": true,
+        "price_page_inr": 1199900,
+        "booking_page_inr": 1199900,
+        "older_test_drive_page_inr": 1199900,
+        "booking_price_basis": "indicative Delhi ex-showroom; invoice date price applies"
+      },
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "not_available",
+          "reason": "complete current model coverage not established by retrieved excerpts"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "not_available",
+          "reason": "complete current model coverage not established by retrieved excerpts"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "unverified",
+          "reason": "starting price only; complete variant prices and invoice date not established"
+        },
+        {
+          "field": "NVH",
+          "status": "not_available",
+          "reason": "complete current model coverage not established by retrieved excerpts"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "not_available",
+          "reason": "complete current model coverage not established by retrieved excerpts"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "not_available",
+          "reason": "complete current model coverage not established by retrieved excerpts"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "not_available",
+          "reason": "complete current model coverage not established by retrieved excerpts"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "not_available",
+          "reason": "complete current model coverage not established by retrieved excerpts"
+        },
+        {
+          "field": "warranty",
+          "status": "not_available",
+          "reason": "complete current model coverage not established by retrieved excerpts"
+        }
+      ]
+    },
+    {
+      "brand": "Honda",
+      "model": "New Amaze",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.hondacarindia.com/check-price",
+      "sources": [
+        "https://www.hondacarindia.com/check-price",
+        "https://www.hondacarindia.com/shop/new-car-booking",
+        "https://www.hondacarindia.com/shop/request-test-drive"
+      ],
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "observations": {
+        "listed_on_price_and_booking_pages": true,
+        "price_page_inr": 765400,
+        "booking_page_inr": 765400,
+        "older_test_drive_page_inr": 765400,
+        "booking_price_basis": "indicative Delhi ex-showroom; invoice date price applies",
+        "historical_brochure": {
+          "url": "https://www.hondacarindia.com/web-data/brochures/pdfs/All%20New%20Amaze_new16Sept25.pdf",
+          "engine_cc": 1199,
+          "power_ps": 90,
+          "torque_nm": 110,
+          "claimed_efficiency_kmpl": {
+            "CVT": 19.46,
+            "MT": 18.65
+          },
+          "current_applicability": "unverified"
+        }
+      },
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "not_available",
+          "reason": "complete current model coverage not established by retrieved excerpts"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "not_available",
+          "reason": "complete current model coverage not established by retrieved excerpts"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "unverified",
+          "reason": "starting price only; complete variant prices and invoice date not established"
+        },
+        {
+          "field": "NVH",
+          "status": "not_available",
+          "reason": "complete current model coverage not established by retrieved excerpts"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "not_available",
+          "reason": "complete current model coverage not established by retrieved excerpts"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "not_available",
+          "reason": "complete current model coverage not established by retrieved excerpts"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "not_available",
+          "reason": "complete current model coverage not established by retrieved excerpts"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "not_available",
+          "reason": "complete current model coverage not established by retrieved excerpts"
+        },
+        {
+          "field": "warranty",
+          "status": "not_available",
+          "reason": "complete current model coverage not established by retrieved excerpts"
+        }
+      ]
+    },
+    {
+      "brand": "Honda",
+      "model": "Amaze - 2nd Gen",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.hondacarindia.com/check-price",
+      "sources": [
+        "https://www.hondacarindia.com/check-price",
+        "https://www.hondacarindia.com/shop/new-car-booking",
+        "https://www.hondacarindia.com/shop/request-test-drive"
+      ],
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "observations": {
+        "listed_on_price_and_booking_pages": true,
+        "price_page_inr": 697700,
+        "booking_page_inr": 697700,
+        "older_test_drive_page_inr": 697700,
+        "booking_price_basis": "indicative Delhi ex-showroom; invoice date price applies"
+      },
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "not_available",
+          "reason": "complete current model coverage not established by retrieved excerpts"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "not_available",
+          "reason": "complete current model coverage not established by retrieved excerpts"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "unverified",
+          "reason": "starting price only; complete variant prices and invoice date not established"
+        },
+        {
+          "field": "NVH",
+          "status": "not_available",
+          "reason": "complete current model coverage not established by retrieved excerpts"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "not_available",
+          "reason": "complete current model coverage not established by retrieved excerpts"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "not_available",
+          "reason": "complete current model coverage not established by retrieved excerpts"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "not_available",
+          "reason": "complete current model coverage not established by retrieved excerpts"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "not_available",
+          "reason": "complete current model coverage not established by retrieved excerpts"
+        },
+        {
+          "field": "warranty",
+          "status": "not_available",
+          "reason": "complete current model coverage not established by retrieved excerpts"
+        }
+      ]
+    },
+    {
+      "brand": "Honda",
+      "model": "All New ZR-V",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.hondacarindia.com/check-price",
+      "sources": [
+        "https://www.hondacarindia.com/check-price",
+        "https://www.hondacarindia.com/shop/new-car-booking",
+        "https://www.hondacarindia.com/shop/request-test-drive"
+      ],
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "observations": {
+        "listed_on_price_and_booking_pages": true,
+        "price_page_inr": 4999900,
+        "booking_page_inr": 4999900,
+        "older_test_drive_page_inr": 4799000,
+        "booking_price_basis": "indicative Delhi ex-showroom; invoice date price applies"
+      },
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "not_available",
+          "reason": "complete current model coverage not established by retrieved excerpts"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "not_available",
+          "reason": "complete current model coverage not established by retrieved excerpts"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "conflicting",
+          "reason": "retrieved OEM pages show differing prices; effective date not established"
+        },
+        {
+          "field": "NVH",
+          "status": "not_available",
+          "reason": "complete current model coverage not established by retrieved excerpts"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "not_available",
+          "reason": "complete current model coverage not established by retrieved excerpts"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "not_available",
+          "reason": "complete current model coverage not established by retrieved excerpts"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "not_available",
+          "reason": "complete current model coverage not established by retrieved excerpts"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "not_available",
+          "reason": "complete current model coverage not established by retrieved excerpts"
+        },
+        {
+          "field": "warranty",
+          "status": "not_available",
+          "reason": "complete current model coverage not established by retrieved excerpts"
+        }
+      ]
+    },
+    {
+      "brand": "Honda",
+      "model": "New Elevate",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.hondacarindia.com/check-price",
+      "sources": [
+        "https://www.hondacarindia.com/check-price",
+        "https://www.hondacarindia.com/shop/new-car-booking",
+        "https://www.hondacarindia.com/shop/request-test-drive"
+      ],
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "observations": {
+        "listed_on_price_and_booking_pages": true,
+        "price_page_inr": 1180000,
+        "booking_page_inr": 1180700,
+        "older_test_drive_page_inr": 1180700,
+        "booking_price_basis": "indicative Delhi ex-showroom; invoice date price applies",
+        "older_tech_specs": {
+          "url": "https://www.hondacarindia.com/honda-elevate/tech-specs",
+          "grades": [
+            "SV",
+            "V",
+            "VX",
+            "ZX",
+            "ZX Black Edition",
+            "ADV Edition"
+          ],
+          "claimed_efficiency_kmpl": {
+            "CVT": 16.92,
+            "MT": 15.31
+          },
+          "current_applicability": "unverified; excerpt predates new Elevate launch"
+        }
+      },
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "not_available",
+          "reason": "complete current model coverage not established by retrieved excerpts"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "not_available",
+          "reason": "complete current model coverage not established by retrieved excerpts"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "conflicting",
+          "reason": "retrieved OEM pages show differing prices; effective date not established"
+        },
+        {
+          "field": "NVH",
+          "status": "not_available",
+          "reason": "complete current model coverage not established by retrieved excerpts"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "not_available",
+          "reason": "complete current model coverage not established by retrieved excerpts"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "not_available",
+          "reason": "complete current model coverage not established by retrieved excerpts"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "not_available",
+          "reason": "complete current model coverage not established by retrieved excerpts"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "not_available",
+          "reason": "complete current model coverage not established by retrieved excerpts"
+        },
+        {
+          "field": "warranty",
+          "status": "not_available",
+          "reason": "complete current model coverage not established by retrieved excerpts"
+        }
+      ]
+    }
+  ]
+}

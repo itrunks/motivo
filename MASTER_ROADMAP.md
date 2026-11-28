@@ -266,3 +266,7 @@ Four models, 13 observed price rows, 36 deferred gaps including SEALION 7 confli
 ## Citroën bounded checkpoint
 
 Five models listed; four selected introductory variant prices, maintenance plan MSRPs, EV extended BaaS and range captured. Starting price conflicts for AircrossX and BasaltX quarantined. 45 gap rows. 49 completed_with_gaps, 92 review_required, 110 pending. Honda next. No production changes.
+
+## Honda bounded checkpoint
+
+Five model identities listed in OEM price and booking pages. Elevate and ZR-V price differences recorded; older Amaze brochure and Elevate specs not promoted to current model claims. 45 gap rows. 54 completed_with_gaps, 92 review_required, 105 pending. Jeep next. No production changes.
