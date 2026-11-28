@@ -1,0 +1,318 @@
+{
+  "retrieval_scope": "Actual indexed OEM homepage, comparator, January 2024 maintenance PDF, 2026 Meridian press release; dealer pages excluded",
+  "models": [
+    {
+      "brand": "Jeep",
+      "model": "Compass",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.jeep-india.com/",
+      "sources": [
+        "https://www.jeep-india.com/",
+        "https://www.jeep-india.com/model-comparator.html",
+        "https://www.jeep-india.com/content/dam/cross-regional/apac/jeep/en_in/flexcare/MSP_Stellantis_Jan2024.pdf"
+      ],
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "observations": {
+        "listed": true,
+        "comparator_start_price_inr": 1799000,
+        "comparator_zip": "110111",
+        "historical_maintenance_mrp_inr": [
+          50500,
+          73500,
+          92500
+        ],
+        "maintenance_years": [
+          3,
+          4,
+          5
+        ],
+        "maintenance_document": "January 2024; current applicability unverified"
+      },
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "unverified",
+          "reason": "complete current variant price matrix not retrieved"
+        },
+        {
+          "field": "NVH",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "unverified",
+          "reason": "January 2024 maintenance MRP historical; current applicability and total cost unknown"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "warranty",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM excerpts"
+        }
+      ]
+    },
+    {
+      "brand": "Jeep",
+      "model": "Meridian",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.jeep-india.com/",
+      "sources": [
+        "https://www.jeep-india.com/",
+        "https://www.jeep-india.com/model-comparator.html",
+        "https://www.jeep-india.com/content/dam/cross-regional/apac/jeep/en_in/flexcare/MSP_Stellantis_Jan2024.pdf",
+        "https://www.jeep-india.com/content/dam/cross-regional/apac/jeep/en_in/press-release/Jeep-india-introduces-new-2026-meridian-with-sliding-second-row-seats-for-enhanced-comfort.pdf"
+      ],
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "observations": {
+        "listed": true,
+        "comparator_start_price_inr": 2333000,
+        "comparator_zip": "110111",
+        "historical_maintenance_mrp_inr": [
+          55500,
+          78500,
+          119500
+        ],
+        "maintenance_years": [
+          3,
+          4,
+          5
+        ],
+        "maintenance_document": "January 2024; current applicability unverified",
+        "press_release_2026": {
+          "sliding_second_row_start_price_inr": 3001000,
+          "engine_l": 2,
+          "power_hp": 170,
+          "torque_nm": 350,
+          "arai_up_to_kmpl": 16.25,
+          "adas": "select variants"
+        }
+      },
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "unverified",
+          "reason": "complete current variant price matrix not retrieved"
+        },
+        {
+          "field": "NVH",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "unverified",
+          "reason": "January 2024 maintenance MRP historical; current applicability and total cost unknown"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "warranty",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM excerpts"
+        }
+      ]
+    },
+    {
+      "brand": "Jeep",
+      "model": "Wrangler",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.jeep-india.com/",
+      "sources": [
+        "https://www.jeep-india.com/",
+        "https://www.jeep-india.com/model-comparator.html",
+        "https://www.jeep-india.com/content/dam/cross-regional/apac/jeep/en_in/flexcare/MSP_Stellantis_Jan2024.pdf"
+      ],
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "observations": {
+        "listed": true,
+        "comparator_start_price_inr": 6620000,
+        "comparator_zip": "110111",
+        "historical_maintenance_mrp_inr": [
+          146500,
+          191000,
+          366000
+        ],
+        "maintenance_years": [
+          3,
+          4,
+          5
+        ],
+        "maintenance_document": "January 2024; current applicability unverified"
+      },
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "unverified",
+          "reason": "complete current variant price matrix not retrieved"
+        },
+        {
+          "field": "NVH",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "unverified",
+          "reason": "January 2024 maintenance MRP historical; current applicability and total cost unknown"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "warranty",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM excerpts"
+        }
+      ]
+    },
+    {
+      "brand": "Jeep",
+      "model": "Grand Cherokee",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.jeep-india.com/",
+      "sources": [
+        "https://www.jeep-india.com/",
+        "https://www.jeep-india.com/model-comparator.html",
+        "https://www.jeep-india.com/content/dam/cross-regional/apac/jeep/en_in/flexcare/MSP_Stellantis_Jan2024.pdf"
+      ],
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "observations": {
+        "listed": true,
+        "comparator_start_price_inr": null,
+        "comparator_zip": "110111",
+        "historical_maintenance_mrp_inr": [
+          179500,
+          235500,
+          375500
+        ],
+        "maintenance_years": [
+          3,
+          4,
+          5
+        ],
+        "maintenance_document": "January 2024; current applicability unverified"
+      },
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "not_available",
+          "reason": "complete current variant price matrix not retrieved"
+        },
+        {
+          "field": "NVH",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "unverified",
+          "reason": "January 2024 maintenance MRP historical; current applicability and total cost unknown"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "warranty",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM excerpts"
+        }
+      ]
+    }
+  ]
+}

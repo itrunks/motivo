@@ -270,3 +270,7 @@ Five models listed; four selected introductory variant prices, maintenance plan 
 ## Honda bounded checkpoint
 
 Five model identities listed in OEM price and booking pages. Elevate and ZR-V price differences recorded; older Amaze brochure and Elevate specs not promoted to current model claims. 45 gap rows. 54 completed_with_gaps, 92 review_required, 105 pending. Jeep next. No production changes.
+
+## Jeep bounded checkpoint
+
+Four OEM listings; three comparator starting prices; historical maintenance MRP and Meridian 2026 press release observations. 36 gap rows. 58 completed_with_gaps, 92 review_required, 101 pending. Force Motors next. No production changes.
