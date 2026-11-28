@@ -23,3 +23,10 @@ Append model, field, source URL, attempt date, reason and status for subsequent 
 ## Owner requirement: selectable vehicles and missing-data export
 
 Retain known in-scope vehicle identities in selection lists even when variant or specification data is missing. Display `Not available` for missing information, not a claim that the vehicle is discontinued or the feature absent. Use machine-readable `not_available` for missing-data availability, retaining separate evidence/reason statuses. Do not invent placeholder variants. Provide a filterable/exportable missing-vehicle and missing-field report with brand, model, variant (nullable), field, source, attempt date, reason and review status. After launch, re-audit these entries and replace missing values only with supported evidence. Website and export implementation are pending roadmap tasks, not implemented by this documentation change.
+
+## Stage 2 Arena bounded brochure checks (2026-11-28)
+
+- Alto K10: brochure feature matrix not_available; PDF exceeds retrieval limit. https://www.marutisuzuki.com/arena/alto-k10/price. Price effective date and full variant feature mapping unresolved.
+- Celerio: brochure feature matrix not_available; PDF exceeds retrieval limit; card transmission bullet conflicts with header. https://www.marutisuzuki.com/arena/celerio/price. Price effective date and full variant feature mapping unresolved.
+- Eeco: brochure feature matrix not_available; PDF returned no extracted text. https://www.marutisuzuki.com/arena/eeco/price. Price effective date and full variant feature mapping unresolved.
+- Ertiga: brochure feature matrix not_available; PDF viewer returned no brochure text. https://www.marutisuzuki.com/arena/ertiga/price. Price effective date and full variant feature mapping unresolved.
