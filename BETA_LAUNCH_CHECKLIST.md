@@ -253,3 +253,19 @@ Next action: continue Nexon ICE selector normalization from the current official
 4. Only after Nexon orderability is evidenced, continue Punch exact trim-level applicability and keep airbag/ground-clearance conflicts unresolved.
 
 Checkpoint commit target: this audit update plus checklist update. No production records approved; source factual-use review remains pending.
+
+
+## Fast-track launch checkpoint — 2026-11-28
+
+Owner direction: prioritize public beta and advertisement integration; defer RAG/Knowledge Engine. Do not wait for all brands. Continue independent tasks when evidence is blocked.
+
+- [ ] Finish exact pilot SKU and field-level evidence review; omit unresolved fields and exclude unapproved records.
+- [ ] Complete source-specific factual-use review and independent review before publication.
+- [ ] Generate and validate nonempty approved catalogue; import only approved records.
+- [ ] Verify Firebase access, billing, rules, functions and external smoke tests.
+- [ ] Integrate published catalogue API, comparison, loading/error states and feedback.
+- [ ] Publish privacy notice, methodology and terms; complete mobile/desktop QA and closed beta.
+- [ ] Prepare disabled-by-default ad placements; enable only after publisher approval and applicable consent requirements. Do not delay public beta solely for ad approval.
+- [ ] Obtain owner go/no-go and verify production deployment, monitoring and rollback.
+
+Proposed target: 2026-12-10, conditional on release gates; not a committed date. Existing catalogue remains empty and no production approval is implied. No paid services without explicit approval.
