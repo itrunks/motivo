@@ -1,0 +1,904 @@
+{
+  "models": [
+    {
+      "brand": "Tata Motors",
+      "model": "Sierra",
+      "checked_at": "2026-11-28",
+      "source_url": "https://tatamotors-prod.adobecqms.net/",
+      "observation": {
+        "listed_in_current_navigation": true,
+        "scope": "model listing only; absence is not discontinuation"
+      },
+      "historical_source": "https://tata.cars/sierra/ice.html",
+      "publication_review": "pending",
+      "gaps": [
+        {
+          "field": "current_variant_matrix",
+          "status": "not_available"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "not_available"
+        },
+        {
+          "field": "variant_prices",
+          "status": "not_available"
+        },
+        {
+          "field": "safety",
+          "status": "not_available"
+        },
+        {
+          "field": "NVH",
+          "status": "not_available"
+        },
+        {
+          "field": "suspension",
+          "status": "not_available"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "not_available"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "not_available"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "not_available"
+        },
+        {
+          "field": "warranty",
+          "status": "not_available"
+        }
+      ]
+    },
+    {
+      "brand": "Tata Motors",
+      "model": "Sierra.ev",
+      "checked_at": "2026-11-28",
+      "source_url": "https://ev.tata.cars/support.html",
+      "observation": {
+        "documented_battery_capacities_kwh": [
+          63,
+          75
+        ],
+        "scope": "support archive; current retail applicability unconfirmed"
+      },
+      "historical_source": "https://ev.tata.cars/sierra/ev/price.html",
+      "publication_review": "pending",
+      "gaps": [
+        {
+          "field": "current_variant_matrix",
+          "status": "not_available"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "not_available"
+        },
+        {
+          "field": "variant_prices",
+          "status": "not_available"
+        },
+        {
+          "field": "safety",
+          "status": "not_available"
+        },
+        {
+          "field": "NVH",
+          "status": "not_available"
+        },
+        {
+          "field": "suspension",
+          "status": "not_available"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "not_available"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "not_available"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "not_available"
+        },
+        {
+          "field": "warranty",
+          "status": "not_available"
+        }
+      ]
+    },
+    {
+      "brand": "Tata Motors",
+      "model": "Harrier",
+      "checked_at": "2026-11-28",
+      "source_url": "https://tatamotors-prod.adobecqms.net/",
+      "observation": {
+        "listed_in_current_navigation": true,
+        "scope": "model listing only; absence is not discontinuation"
+      },
+      "historical_source": "https://tata.cars/harrier/ice.html",
+      "publication_review": "pending",
+      "gaps": [
+        {
+          "field": "current_variant_matrix",
+          "status": "not_available"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "not_available"
+        },
+        {
+          "field": "variant_prices",
+          "status": "not_available"
+        },
+        {
+          "field": "safety",
+          "status": "not_available"
+        },
+        {
+          "field": "NVH",
+          "status": "not_available"
+        },
+        {
+          "field": "suspension",
+          "status": "not_available"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "not_available"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "not_available"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "not_available"
+        },
+        {
+          "field": "warranty",
+          "status": "not_available"
+        }
+      ]
+    },
+    {
+      "brand": "Tata Motors",
+      "model": "Harrier.ev",
+      "checked_at": "2026-11-28",
+      "source_url": "https://ev.tata.cars/support.html",
+      "observation": {
+        "documented_battery_capacities_kwh": [
+          65,
+          75
+        ],
+        "scope": "support archive; current retail applicability unconfirmed"
+      },
+      "historical_source": "https://ev.tata.cars/harrier/ev/price.html",
+      "publication_review": "pending",
+      "gaps": [
+        {
+          "field": "current_variant_matrix",
+          "status": "not_available"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "not_available"
+        },
+        {
+          "field": "variant_prices",
+          "status": "not_available"
+        },
+        {
+          "field": "safety",
+          "status": "not_available"
+        },
+        {
+          "field": "NVH",
+          "status": "not_available"
+        },
+        {
+          "field": "suspension",
+          "status": "not_available"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "not_available"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "not_available"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "not_available"
+        },
+        {
+          "field": "warranty",
+          "status": "not_available"
+        }
+      ]
+    },
+    {
+      "brand": "Tata Motors",
+      "model": "Safari",
+      "checked_at": "2026-11-28",
+      "source_url": "https://tatamotors-prod.adobecqms.net/",
+      "observation": {
+        "listed_in_current_navigation": true,
+        "scope": "model listing only; absence is not discontinuation"
+      },
+      "historical_source": "https://tata.cars/safari/ice.html",
+      "publication_review": "pending",
+      "gaps": [
+        {
+          "field": "current_variant_matrix",
+          "status": "not_available"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "not_available"
+        },
+        {
+          "field": "variant_prices",
+          "status": "not_available"
+        },
+        {
+          "field": "safety",
+          "status": "not_available"
+        },
+        {
+          "field": "NVH",
+          "status": "not_available"
+        },
+        {
+          "field": "suspension",
+          "status": "not_available"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "not_available"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "not_available"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "not_available"
+        },
+        {
+          "field": "warranty",
+          "status": "not_available"
+        }
+      ]
+    },
+    {
+      "brand": "Tata Motors",
+      "model": "Nexon",
+      "checked_at": "2026-11-28",
+      "source_url": "https://tatamotors-prod.adobecqms.net/",
+      "observation": {
+        "listed_in_current_navigation": true,
+        "scope": "model listing only; absence is not discontinuation"
+      },
+      "historical_source": "https://tata.cars/nexon/ice.html",
+      "publication_review": "pending",
+      "gaps": [
+        {
+          "field": "current_variant_matrix",
+          "status": "not_available"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "not_available"
+        },
+        {
+          "field": "variant_prices",
+          "status": "not_available"
+        },
+        {
+          "field": "safety",
+          "status": "not_available"
+        },
+        {
+          "field": "NVH",
+          "status": "not_available"
+        },
+        {
+          "field": "suspension",
+          "status": "not_available"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "not_available"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "not_available"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "not_available"
+        },
+        {
+          "field": "warranty",
+          "status": "not_available"
+        }
+      ]
+    },
+    {
+      "brand": "Tata Motors",
+      "model": "Nexon.ev",
+      "checked_at": "2026-11-28",
+      "source_url": "https://ev.tata.cars/support.html",
+      "observation": {
+        "documented_battery_capacities_kwh": [
+          30.2,
+          40.5,
+          30,
+          45
+        ],
+        "scope": "support archive; current retail applicability unconfirmed"
+      },
+      "historical_source": "https://ev.tata.cars/nexon/ev/price.html",
+      "publication_review": "pending",
+      "gaps": [
+        {
+          "field": "current_variant_matrix",
+          "status": "not_available"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "not_available"
+        },
+        {
+          "field": "variant_prices",
+          "status": "not_available"
+        },
+        {
+          "field": "safety",
+          "status": "not_available"
+        },
+        {
+          "field": "NVH",
+          "status": "not_available"
+        },
+        {
+          "field": "suspension",
+          "status": "not_available"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "not_available"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "not_available"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "not_available"
+        },
+        {
+          "field": "warranty",
+          "status": "not_available"
+        }
+      ]
+    },
+    {
+      "brand": "Tata Motors",
+      "model": "Punch",
+      "checked_at": "2026-11-28",
+      "source_url": "https://tatamotors-prod.adobecqms.net/",
+      "observation": {
+        "listed_in_current_navigation": true,
+        "scope": "model listing only; absence is not discontinuation"
+      },
+      "historical_source": "https://tata.cars/punch/ice.html",
+      "publication_review": "pending",
+      "gaps": [
+        {
+          "field": "current_variant_matrix",
+          "status": "not_available"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "not_available"
+        },
+        {
+          "field": "variant_prices",
+          "status": "not_available"
+        },
+        {
+          "field": "safety",
+          "status": "not_available"
+        },
+        {
+          "field": "NVH",
+          "status": "not_available"
+        },
+        {
+          "field": "suspension",
+          "status": "not_available"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "not_available"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "not_available"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "not_available"
+        },
+        {
+          "field": "warranty",
+          "status": "not_available"
+        }
+      ]
+    },
+    {
+      "brand": "Tata Motors",
+      "model": "Punch.ev",
+      "checked_at": "2026-11-28",
+      "source_url": "https://ev.tata.cars/support.html",
+      "observation": {
+        "documented_battery_capacities_kwh": [
+          30,
+          40
+        ],
+        "scope": "support archive; current retail applicability unconfirmed"
+      },
+      "historical_source": "https://ev.tata.cars/punch/ev/price.html",
+      "publication_review": "pending",
+      "gaps": [
+        {
+          "field": "current_variant_matrix",
+          "status": "not_available"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "not_available"
+        },
+        {
+          "field": "variant_prices",
+          "status": "not_available"
+        },
+        {
+          "field": "safety",
+          "status": "not_available"
+        },
+        {
+          "field": "NVH",
+          "status": "not_available"
+        },
+        {
+          "field": "suspension",
+          "status": "not_available"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "not_available"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "not_available"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "not_available"
+        },
+        {
+          "field": "warranty",
+          "status": "not_available"
+        }
+      ]
+    },
+    {
+      "brand": "Tata Motors",
+      "model": "Altroz",
+      "checked_at": "2026-11-28",
+      "source_url": "https://tatamotors-prod.adobecqms.net/",
+      "observation": {
+        "listed_in_current_navigation": true,
+        "scope": "model listing only; absence is not discontinuation"
+      },
+      "historical_source": "https://tata.cars/altroz/ice.html",
+      "publication_review": "pending",
+      "gaps": [
+        {
+          "field": "current_variant_matrix",
+          "status": "not_available"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "not_available"
+        },
+        {
+          "field": "variant_prices",
+          "status": "not_available"
+        },
+        {
+          "field": "safety",
+          "status": "not_available"
+        },
+        {
+          "field": "NVH",
+          "status": "not_available"
+        },
+        {
+          "field": "suspension",
+          "status": "not_available"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "not_available"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "not_available"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "not_available"
+        },
+        {
+          "field": "warranty",
+          "status": "not_available"
+        }
+      ]
+    },
+    {
+      "brand": "Tata Motors",
+      "model": "Tiago",
+      "checked_at": "2026-11-28",
+      "source_url": "https://tatamotors-prod.adobecqms.net/",
+      "observation": {
+        "listed_in_current_navigation": true,
+        "scope": "model listing only; absence is not discontinuation"
+      },
+      "historical_source": "https://tata.cars/tiago/ice.html",
+      "publication_review": "pending",
+      "gaps": [
+        {
+          "field": "current_variant_matrix",
+          "status": "not_available"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "not_available"
+        },
+        {
+          "field": "variant_prices",
+          "status": "not_available"
+        },
+        {
+          "field": "safety",
+          "status": "not_available"
+        },
+        {
+          "field": "NVH",
+          "status": "not_available"
+        },
+        {
+          "field": "suspension",
+          "status": "not_available"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "not_available"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "not_available"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "not_available"
+        },
+        {
+          "field": "warranty",
+          "status": "not_available"
+        }
+      ]
+    },
+    {
+      "brand": "Tata Motors",
+      "model": "Tiago.ev",
+      "checked_at": "2026-11-28",
+      "source_url": "https://ev.tata.cars/support.html",
+      "observation": {
+        "documented_battery_capacities_kwh": [
+          19.2,
+          24
+        ],
+        "scope": "support archive; current retail applicability unconfirmed"
+      },
+      "historical_source": "https://ev.tata.cars/tiago/ev/price.html",
+      "publication_review": "pending",
+      "gaps": [
+        {
+          "field": "current_variant_matrix",
+          "status": "not_available"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "not_available"
+        },
+        {
+          "field": "variant_prices",
+          "status": "not_available"
+        },
+        {
+          "field": "safety",
+          "status": "not_available"
+        },
+        {
+          "field": "NVH",
+          "status": "not_available"
+        },
+        {
+          "field": "suspension",
+          "status": "not_available"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "not_available"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "not_available"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "not_available"
+        },
+        {
+          "field": "warranty",
+          "status": "not_available"
+        }
+      ]
+    },
+    {
+      "brand": "Tata Motors",
+      "model": "Curvv",
+      "checked_at": "2026-11-28",
+      "source_url": "https://tatamotors-prod.adobecqms.net/",
+      "observation": {
+        "listed_in_current_navigation": true,
+        "scope": "model listing only; absence is not discontinuation"
+      },
+      "historical_source": "https://tata.cars/curvv/ice.html",
+      "publication_review": "pending",
+      "gaps": [
+        {
+          "field": "current_variant_matrix",
+          "status": "not_available"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "not_available"
+        },
+        {
+          "field": "variant_prices",
+          "status": "not_available"
+        },
+        {
+          "field": "safety",
+          "status": "not_available"
+        },
+        {
+          "field": "NVH",
+          "status": "not_available"
+        },
+        {
+          "field": "suspension",
+          "status": "not_available"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "not_available"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "not_available"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "not_available"
+        },
+        {
+          "field": "warranty",
+          "status": "not_available"
+        }
+      ]
+    },
+    {
+      "brand": "Tata Motors",
+      "model": "Curvv.ev",
+      "checked_at": "2026-11-28",
+      "source_url": "https://ev.tata.cars/support.html",
+      "observation": {
+        "documented_battery_capacities_kwh": [
+          45,
+          55
+        ],
+        "scope": "support archive; current retail applicability unconfirmed"
+      },
+      "historical_source": "https://ev.tata.cars/curvv/ev/price.html",
+      "publication_review": "pending",
+      "gaps": [
+        {
+          "field": "current_variant_matrix",
+          "status": "not_available"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "not_available"
+        },
+        {
+          "field": "variant_prices",
+          "status": "not_available"
+        },
+        {
+          "field": "safety",
+          "status": "not_available"
+        },
+        {
+          "field": "NVH",
+          "status": "not_available"
+        },
+        {
+          "field": "suspension",
+          "status": "not_available"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "not_available"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "not_available"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "not_available"
+        },
+        {
+          "field": "warranty",
+          "status": "not_available"
+        }
+      ]
+    },
+    {
+      "brand": "Tata Motors",
+      "model": "Tigor",
+      "checked_at": "2026-11-28",
+      "source_url": "https://tatamotors-prod.adobecqms.net/",
+      "observation": {
+        "listed_in_current_navigation": false,
+        "scope": "model listing only; absence is not discontinuation"
+      },
+      "historical_source": "https://tatamotors-prod.adobecqms.net/",
+      "publication_review": "pending",
+      "gaps": [
+        {
+          "field": "current_variant_matrix",
+          "status": "not_available"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "not_available"
+        },
+        {
+          "field": "variant_prices",
+          "status": "not_available"
+        },
+        {
+          "field": "safety",
+          "status": "not_available"
+        },
+        {
+          "field": "NVH",
+          "status": "not_available"
+        },
+        {
+          "field": "suspension",
+          "status": "not_available"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "not_available"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "not_available"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "not_available"
+        },
+        {
+          "field": "warranty",
+          "status": "not_available"
+        }
+      ]
+    },
+    {
+      "brand": "Tata Motors",
+      "model": "Tigor.ev",
+      "checked_at": "2026-11-28",
+      "source_url": "https://ev.tata.cars/support.html",
+      "observation": {
+        "documented_battery_capacities_kwh": [
+          21.5,
+          25.5,
+          26,
+          24
+        ],
+        "scope": "support archive; current retail applicability unconfirmed",
+        "warning": "fleet and passenger configurations mixed; do not assign to retail trims"
+      },
+      "historical_source": "https://ev.tata.cars/tigor/ev/price.html",
+      "publication_review": "pending",
+      "gaps": [
+        {
+          "field": "current_variant_matrix",
+          "status": "not_available"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "not_available"
+        },
+        {
+          "field": "variant_prices",
+          "status": "not_available"
+        },
+        {
+          "field": "safety",
+          "status": "not_available"
+        },
+        {
+          "field": "NVH",
+          "status": "not_available"
+        },
+        {
+          "field": "suspension",
+          "status": "not_available"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "not_available"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "not_available"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "not_available"
+        },
+        {
+          "field": "warranty",
+          "status": "not_available"
+        }
+      ]
+    }
+  ],
+  "new_identity_leads": [
+    {
+      "model": "Aeris",
+      "source_url": "https://tatamotors-prod.adobecqms.net/",
+      "status": "scope_review_pending"
+    }
+  ],
+  "excluded_from_retail_inference": [
+    "XPRES"
+  ]
+}
