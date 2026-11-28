@@ -5736,7 +5736,9 @@
         "notes": "The official pre-configurator confirms 3 distinct powertrain groups and applicable grade families; the official hybrid page confirms E-Tech 160 from ₹16.99L. Hybrid prices are time-limited introductory amounts. Do not cross-join all trims and engines; dual-tone is a separate ₹20,000 appearance option, not a variant."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-renault-bounded-2026-11-28.json",
+      "stage2_verification": "bounded_indexed_oem_review"
     },
     {
       "brand_id": "renault",
@@ -5760,7 +5762,9 @@
         "notes": "The current official page confirms four grades, 72PS NA and 100PS turbo families, 5–7 seating configurations and starting amounts. Confirm exact TCe100/72PS grade/gearbox availability from live configurator and dealer. Do not infer AMT or cross all powertrains with all grades."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-renault-bounded-2026-11-28.json",
+      "stage2_verification": "bounded_indexed_oem_review"
     },
     {
       "brand_id": "renault",
@@ -5784,7 +5788,9 @@
         "notes": "Official configurator exposes four powertrain choices and five grades; captured product page gives each grade's starting amount. Do not cross-join all grades and powertrains. Verify current exact mapping and final city price from configurator/dealer."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-renault-bounded-2026-11-28.json",
+      "stage2_verification": "bounded_indexed_oem_review"
     },
     {
       "brand_id": "renault",
@@ -5808,7 +5814,9 @@
         "notes": "Current official page confirms two grades and grade starting amounts. Do not infer transmission applicability or historic RXT/AMT trims from older model years; verify live configurator and dealer quote."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-renault-bounded-2026-11-28.json",
+      "stage2_verification": "bounded_indexed_oem_review"
     },
     {
       "brand_id": "rolls_royce",
@@ -17728,5 +17736,5 @@
   },
   "stage1_status": "completed_with_gaps",
   "stage2_status": "in_progress",
-  "stage2_active_brand": "Renault"
+  "stage2_active_brand": "Rolls-Royce"
 }
