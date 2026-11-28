@@ -1,0 +1,196 @@
+{
+  "retrieval_scope": "Official indexed OEM extracts retrieved 2026-11-28; India retail availability unverified",
+  "models": [
+    {
+      "brand": "Lotus",
+      "model": "Eletre",
+      "source_url": "https://www.lotuscars.com/en-IN/eletre",
+      "checked_at": "2026-11-28",
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "observations": {
+        "series": [
+          "600",
+          "900"
+        ],
+        "powertrain": "electric"
+      },
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "unverified",
+          "reason": "Full India variant-specific evidence not retrieved"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "unverified",
+          "reason": "Full India variant-specific evidence not retrieved"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "unverified",
+          "reason": "Full India variant-specific evidence not retrieved"
+        },
+        {
+          "field": "NVH",
+          "status": "unverified",
+          "reason": "Full India variant-specific evidence not retrieved"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "unverified",
+          "reason": "Full India variant-specific evidence not retrieved"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "unverified",
+          "reason": "Full India variant-specific evidence not retrieved"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "unverified",
+          "reason": "Full India variant-specific evidence not retrieved"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "unverified",
+          "reason": "Full India variant-specific evidence not retrieved"
+        },
+        {
+          "field": "warranty",
+          "status": "unverified",
+          "reason": "Full India variant-specific evidence not retrieved"
+        }
+      ]
+    },
+    {
+      "brand": "Lotus",
+      "model": "Emeya",
+      "source_url": "https://www.lotuscars.com/en-IN/emeya",
+      "checked_at": "2026-11-28",
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "observations": {
+        "series": [
+          "600",
+          "900"
+        ],
+        "global_technical_source": "https://www.lotuscars.com/en/press/models/emeya",
+        "global_power_kw": [
+          450,
+          675
+        ],
+        "global_gross_battery_kwh": 102
+      },
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "unverified",
+          "reason": "Full India variant-specific evidence not retrieved"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "unverified",
+          "reason": "Full India variant-specific evidence not retrieved"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "unverified",
+          "reason": "Full India variant-specific evidence not retrieved"
+        },
+        {
+          "field": "NVH",
+          "status": "unverified",
+          "reason": "Full India variant-specific evidence not retrieved"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "unverified",
+          "reason": "Full India variant-specific evidence not retrieved"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "unverified",
+          "reason": "Full India variant-specific evidence not retrieved"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "unverified",
+          "reason": "Full India variant-specific evidence not retrieved"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "unverified",
+          "reason": "Full India variant-specific evidence not retrieved"
+        },
+        {
+          "field": "warranty",
+          "status": "unverified",
+          "reason": "Full India variant-specific evidence not retrieved"
+        }
+      ]
+    },
+    {
+      "brand": "Lotus",
+      "model": "Emira",
+      "source_url": "https://www.lotuscars.com/en-IN/emira/drive",
+      "checked_at": "2026-11-28",
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "observations": {
+        "engines": [
+          "2.0 turbo inline four",
+          "3.5 supercharged V6"
+        ],
+        "suspension": "double wishbone front and rear"
+      },
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "unverified",
+          "reason": "Full India variant-specific evidence not retrieved"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "unverified",
+          "reason": "Full India variant-specific evidence not retrieved"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "unverified",
+          "reason": "Full India variant-specific evidence not retrieved"
+        },
+        {
+          "field": "NVH",
+          "status": "unverified",
+          "reason": "Full India variant-specific evidence not retrieved"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "unverified",
+          "reason": "Full India variant-specific evidence not retrieved"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "unverified",
+          "reason": "Full India variant-specific evidence not retrieved"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "unverified",
+          "reason": "Full India variant-specific evidence not retrieved"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "unverified",
+          "reason": "Full India variant-specific evidence not retrieved"
+        },
+        {
+          "field": "warranty",
+          "status": "unverified",
+          "reason": "Full India variant-specific evidence not retrieved"
+        }
+      ]
+    }
+  ]
+}
