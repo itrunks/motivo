@@ -1,0 +1,432 @@
+{
+  "retrieval_scope": "2025 OEM Capital Markets Day slide 17 and two OEM technical PDFs; India orderability unverified",
+  "sources": [
+    "https://cdn.ferrari.com/cms/network/media/pdf/2.%20Ferrari%20Capital%20Markets%20Day%202025%20-%20Unique%20Proposition%2C%20Clients%20and%20Experiences.pdf",
+    "https://www.ferrari.com/content/dam/ferrari-fcom/news/corporate/2025/09/pdf/CS_Ferrari_Amalfi_v2_gbr.pdf",
+    "https://cdn.ferrari.com/cms/network/media/pdf/CS_Ferrari_12Cilindri_Spider_def_gbr.pdf"
+  ],
+  "models": [
+    {
+      "brand": "Ferrari",
+      "model": "Amalfi",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.ferrari.com/content/dam/ferrari-fcom/news/corporate/2025/09/pdf/CS_Ferrari_Amalfi_v2_gbr.pdf",
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "observations": {
+        "engine": "V8 twin turbo",
+        "cc": 3855,
+        "power_cv": 640,
+        "torque_nm": 760,
+        "gears": 8,
+        "zero_to_100_s": 3.3,
+        "max_kmh": 320
+      },
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "unverified",
+          "reason": "Dated global OEM evidence does not establish current India-specific field"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "unverified",
+          "reason": "Dated global OEM evidence does not establish current India-specific field"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "unverified",
+          "reason": "Dated global OEM evidence does not establish current India-specific field"
+        },
+        {
+          "field": "NVH",
+          "status": "unverified",
+          "reason": "Dated global OEM evidence does not establish current India-specific field"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "unverified",
+          "reason": "Dated global OEM evidence does not establish current India-specific field"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "unverified",
+          "reason": "Dated global OEM evidence does not establish current India-specific field"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "unverified",
+          "reason": "Dated global OEM evidence does not establish current India-specific field"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "unverified",
+          "reason": "Dated global OEM evidence does not establish current India-specific field"
+        },
+        {
+          "field": "warranty",
+          "status": "unverified",
+          "reason": "Dated global OEM evidence does not establish current India-specific field"
+        }
+      ]
+    },
+    {
+      "brand": "Ferrari",
+      "model": "Amalfi Spider",
+      "checked_at": "2026-11-28",
+      "source_url": "https://cdn.ferrari.com/cms/network/media/pdf/2.%20Ferrari%20Capital%20Markets%20Day%202025%20-%20Unique%20Proposition%2C%20Clients%20and%20Experiences.pdf",
+      "status": "exact_identity_unverified",
+      "publication_review": "pending",
+      "observations": {},
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "unverified",
+          "reason": "No exact model evidence retrieved; absence not inferred"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "unverified",
+          "reason": "No exact model evidence retrieved; absence not inferred"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "unverified",
+          "reason": "No exact model evidence retrieved; absence not inferred"
+        },
+        {
+          "field": "NVH",
+          "status": "unverified",
+          "reason": "No exact model evidence retrieved; absence not inferred"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "unverified",
+          "reason": "No exact model evidence retrieved; absence not inferred"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "unverified",
+          "reason": "No exact model evidence retrieved; absence not inferred"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "unverified",
+          "reason": "No exact model evidence retrieved; absence not inferred"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "unverified",
+          "reason": "No exact model evidence retrieved; absence not inferred"
+        },
+        {
+          "field": "warranty",
+          "status": "unverified",
+          "reason": "No exact model evidence retrieved; absence not inferred"
+        },
+        {
+          "field": "model_identity",
+          "status": "unverified",
+          "reason": "No exact model evidence retrieved; absence not inferred"
+        }
+      ]
+    },
+    {
+      "brand": "Ferrari",
+      "model": "296 GTB",
+      "checked_at": "2026-11-28",
+      "source_url": "https://cdn.ferrari.com/cms/network/media/pdf/2.%20Ferrari%20Capital%20Markets%20Day%202025%20-%20Unique%20Proposition%2C%20Clients%20and%20Experiences.pdf",
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "observations": {
+        "engine": "V6 hybrid"
+      },
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "unverified",
+          "reason": "Dated global OEM evidence does not establish current India-specific field"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "unverified",
+          "reason": "Dated global OEM evidence does not establish current India-specific field"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "unverified",
+          "reason": "Dated global OEM evidence does not establish current India-specific field"
+        },
+        {
+          "field": "NVH",
+          "status": "unverified",
+          "reason": "Dated global OEM evidence does not establish current India-specific field"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "unverified",
+          "reason": "Dated global OEM evidence does not establish current India-specific field"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "unverified",
+          "reason": "Dated global OEM evidence does not establish current India-specific field"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "unverified",
+          "reason": "Dated global OEM evidence does not establish current India-specific field"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "unverified",
+          "reason": "Dated global OEM evidence does not establish current India-specific field"
+        },
+        {
+          "field": "warranty",
+          "status": "unverified",
+          "reason": "Dated global OEM evidence does not establish current India-specific field"
+        }
+      ]
+    },
+    {
+      "brand": "Ferrari",
+      "model": "849 Testarossa",
+      "checked_at": "2026-11-28",
+      "source_url": "https://cdn.ferrari.com/cms/network/media/pdf/2.%20Ferrari%20Capital%20Markets%20Day%202025%20-%20Unique%20Proposition%2C%20Clients%20and%20Experiences.pdf",
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "observations": {
+        "engine": "V8 hybrid"
+      },
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "unverified",
+          "reason": "Dated global OEM evidence does not establish current India-specific field"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "unverified",
+          "reason": "Dated global OEM evidence does not establish current India-specific field"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "unverified",
+          "reason": "Dated global OEM evidence does not establish current India-specific field"
+        },
+        {
+          "field": "NVH",
+          "status": "unverified",
+          "reason": "Dated global OEM evidence does not establish current India-specific field"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "unverified",
+          "reason": "Dated global OEM evidence does not establish current India-specific field"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "unverified",
+          "reason": "Dated global OEM evidence does not establish current India-specific field"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "unverified",
+          "reason": "Dated global OEM evidence does not establish current India-specific field"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "unverified",
+          "reason": "Dated global OEM evidence does not establish current India-specific field"
+        },
+        {
+          "field": "warranty",
+          "status": "unverified",
+          "reason": "Dated global OEM evidence does not establish current India-specific field"
+        }
+      ]
+    },
+    {
+      "brand": "Ferrari",
+      "model": "12Cilindri Coupe",
+      "checked_at": "2026-11-28",
+      "source_url": "https://cdn.ferrari.com/cms/network/media/pdf/2.%20Ferrari%20Capital%20Markets%20Day%202025%20-%20Unique%20Proposition%2C%20Clients%20and%20Experiences.pdf",
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "observations": {
+        "engine": "V12"
+      },
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "unverified",
+          "reason": "Dated global OEM evidence does not establish current India-specific field"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "unverified",
+          "reason": "Dated global OEM evidence does not establish current India-specific field"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "unverified",
+          "reason": "Dated global OEM evidence does not establish current India-specific field"
+        },
+        {
+          "field": "NVH",
+          "status": "unverified",
+          "reason": "Dated global OEM evidence does not establish current India-specific field"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "unverified",
+          "reason": "Dated global OEM evidence does not establish current India-specific field"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "unverified",
+          "reason": "Dated global OEM evidence does not establish current India-specific field"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "unverified",
+          "reason": "Dated global OEM evidence does not establish current India-specific field"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "unverified",
+          "reason": "Dated global OEM evidence does not establish current India-specific field"
+        },
+        {
+          "field": "warranty",
+          "status": "unverified",
+          "reason": "Dated global OEM evidence does not establish current India-specific field"
+        }
+      ]
+    },
+    {
+      "brand": "Ferrari",
+      "model": "12Cilindri Spider",
+      "checked_at": "2026-11-28",
+      "source_url": "https://cdn.ferrari.com/cms/network/media/pdf/CS_Ferrari_12Cilindri_Spider_def_gbr.pdf",
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "observations": {
+        "engine": "V12",
+        "cc": 6496,
+        "power_cv": 830,
+        "power_condition": "98 RON including 5 cv ram effect",
+        "torque_nm": 678,
+        "gears": 8,
+        "zero_to_100_s": 2.95,
+        "max_kmh_lower_bound": 340
+      },
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "unverified",
+          "reason": "Dated global OEM evidence does not establish current India-specific field"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "unverified",
+          "reason": "Dated global OEM evidence does not establish current India-specific field"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "unverified",
+          "reason": "Dated global OEM evidence does not establish current India-specific field"
+        },
+        {
+          "field": "NVH",
+          "status": "unverified",
+          "reason": "Dated global OEM evidence does not establish current India-specific field"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "unverified",
+          "reason": "Dated global OEM evidence does not establish current India-specific field"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "unverified",
+          "reason": "Dated global OEM evidence does not establish current India-specific field"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "unverified",
+          "reason": "Dated global OEM evidence does not establish current India-specific field"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "unverified",
+          "reason": "Dated global OEM evidence does not establish current India-specific field"
+        },
+        {
+          "field": "warranty",
+          "status": "unverified",
+          "reason": "Dated global OEM evidence does not establish current India-specific field"
+        }
+      ]
+    },
+    {
+      "brand": "Ferrari",
+      "model": "Purosangue",
+      "checked_at": "2026-11-28",
+      "source_url": "https://cdn.ferrari.com/cms/network/media/pdf/2.%20Ferrari%20Capital%20Markets%20Day%202025%20-%20Unique%20Proposition%2C%20Clients%20and%20Experiences.pdf",
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "observations": {
+        "engine": "V12"
+      },
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "unverified",
+          "reason": "Dated global OEM evidence does not establish current India-specific field"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "unverified",
+          "reason": "Dated global OEM evidence does not establish current India-specific field"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "unverified",
+          "reason": "Dated global OEM evidence does not establish current India-specific field"
+        },
+        {
+          "field": "NVH",
+          "status": "unverified",
+          "reason": "Dated global OEM evidence does not establish current India-specific field"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "unverified",
+          "reason": "Dated global OEM evidence does not establish current India-specific field"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "unverified",
+          "reason": "Dated global OEM evidence does not establish current India-specific field"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "unverified",
+          "reason": "Dated global OEM evidence does not establish current India-specific field"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "unverified",
+          "reason": "Dated global OEM evidence does not establish current India-specific field"
+        },
+        {
+          "field": "warranty",
+          "status": "unverified",
+          "reason": "Dated global OEM evidence does not establish current India-specific field"
+        }
+      ]
+    }
+  ]
+}

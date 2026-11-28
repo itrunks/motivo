@@ -302,3 +302,7 @@ Four historical inventory identities audited against global OEM listing and tech
 ## Bentley bounded checkpoint
 
 Five model families matched to retrieved OEM catalogue. India landing-page powertrain observations and global/historical evidence separated. 45 unresolved fields. 90 completed_with_gaps, 92 review_required, 69 pending. Ferrari next. Prior evidence provenance review remains required. No production changes.
+
+## Ferrari bounded checkpoint
+
+Six identities supported by retrieved global OEM documents; Amalfi Spider remains pending exact identity evidence. 64 unresolved fields, 96 completed_with_gaps, 92 review_required, 63 pending. McLaren next; Ferrari residual pending. Prior evidence provenance review required. No production changes.

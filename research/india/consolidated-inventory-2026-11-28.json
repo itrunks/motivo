@@ -4644,7 +4644,9 @@
         "notes": "The candidate is confirmed in current India market reporting; verify direct Ferrari dealer orderability, allocation and final price. FTA estimate is conditional on future agreement implementation and delivery timing; do not ingest as confirmed price."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-ferrari-bounded-2026-11-28.json",
+      "stage2_verification": "bounded_indexed_oem_review"
     },
     {
       "brand_id": "ferrari",
@@ -4668,7 +4670,9 @@
         "notes": "Global Spider product identity confirmed. India launch/orderability is not independently confirmed in the official India source capture; confirm dealer allocation, booking status and price. Do not assume Amalfi coupe price applies to Spider."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "pending",
+      "stage2_evidence_path": "research/india/stage2-ferrari-bounded-2026-11-28.json",
+      "stage2_verification": "exact_identity_unverified"
     },
     {
       "brand_id": "ferrari",
@@ -4692,7 +4696,9 @@
         "notes": "Ferrari FY2025 results presentation lists 296 GTB as phased out in 2026. Existing candidate is retained for India stock/remaining allocation review only; do not mark as current factory-orderable without written dealer confirmation."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-ferrari-bounded-2026-11-28.json",
+      "stage2_verification": "bounded_indexed_oem_review"
     },
     {
       "brand_id": "ferrari",
@@ -4716,7 +4722,9 @@
         "notes": "New 2026 global model and India market coverage confirm local candidate presence. Confirm India allocation, production/delivery schedule, options, hybrid import duty basis and written dealer price."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-ferrari-bounded-2026-11-28.json",
+      "stage2_verification": "bounded_indexed_oem_review"
     },
     {
       "brand_id": "ferrari",
@@ -4740,7 +4748,9 @@
         "notes": "Pure-petrol model is reported as eligible for estimated 30% lower FTA-anticipatory bookings, but delivery before FTA implementation would retain old price. Confirm delivery timing, tariff eligibility and final dealer quote."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-ferrari-bounded-2026-11-28.json",
+      "stage2_verification": "bounded_indexed_oem_review"
     },
     {
       "brand_id": "ferrari",
@@ -4764,7 +4774,9 @@
         "notes": "Keep Spider body style distinct from coupe. Estimated FTA booking amount depends on future agreement implementation and delivery timing; confirm India allocation and written dealer quote."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-ferrari-bounded-2026-11-28.json",
+      "stage2_verification": "bounded_indexed_oem_review"
     },
     {
       "brand_id": "ferrari",
@@ -4788,7 +4800,9 @@
         "notes": "Pure-petrol model is reported as eligible for conditional FTA booking estimate; final price depends on FTA implementation, import quota and delivery date. Confirm order acceptance, allocation and written quotation; no global optional specification is treated as a separate India variant."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-ferrari-bounded-2026-11-28.json",
+      "stage2_verification": "bounded_indexed_oem_review"
     },
     {
       "brand_id": "mclaren",
@@ -17644,5 +17658,5 @@
   },
   "stage1_status": "completed_with_gaps",
   "stage2_status": "in_progress",
-  "stage2_active_brand": "Ferrari"
+  "stage2_active_brand": "McLaren"
 }
