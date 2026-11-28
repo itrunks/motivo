@@ -162,3 +162,7 @@ Added 47 unique research rows in `research/india/variant-inventory-xuv3xo-sonet-
 ## Tata structured inventory checkpoint
 
 Added 24 Punch and six explicit Nexon combinations from existing repository audit evidence, not a fresh OEM capture. File `research/india/variant-inventory-tata-punch-nexon-2026-11-28.csv`. 30 unique keys and GitHub readback passed. Nexon remains partial; 60+/70+/80 counts are not reconciled. Total research rows 168, not approved SKUs. Scorpio N, Thar ROXX, XUV 7XO, Seltos and Syros pending fresh source extraction. No production import.
+
+## Mahindra selector checkpoint (2026-11-28)
+
+55 unique indexed selector codes (Scorpio N 27, Thar ROXX 28) in research/india/variant-inventory-scorpio-n-thar-roxx-2026-11-28.csv. Removed repeated selected values, preserved raw labels, E suffix and Mocha/STAR distinctions; seats blank, unspecified drive blank, RWD not collapsed. Indexed pages retrieved today, not live order confirmation. Total research rows 223; not production SKUs. Kia and Nexon follow-up pending. Publication review pending.
