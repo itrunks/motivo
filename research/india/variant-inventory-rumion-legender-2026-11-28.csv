@@ -1,0 +1,12 @@
+brand,model,trim,fuel,engine_cc,transmission,drive,seats,source_url,source_locator,status
+Toyota,Rumion,E,petrol,1462,5MT,,7,https://www.toyotabharat.com/documents/brochures/e-brochure-rumion.pdf,p6,oem_brochure_orderability_pending
+Toyota,Rumion,S,petrol,1462,5MT,,7,https://www.toyotabharat.com/documents/brochures/e-brochure-rumion.pdf,p6,oem_brochure_orderability_pending
+Toyota,Rumion,G,petrol,1462,5MT,,7,https://www.toyotabharat.com/documents/brochures/e-brochure-rumion.pdf,p6,oem_brochure_orderability_pending
+Toyota,Rumion,V,petrol,1462,5MT,,7,https://www.toyotabharat.com/documents/brochures/e-brochure-rumion.pdf,p6,oem_brochure_orderability_pending
+Toyota,Rumion,S,petrol,1462,6AT,,7,https://www.toyotabharat.com/documents/brochures/e-brochure-rumion.pdf,p6,oem_brochure_orderability_pending
+Toyota,Rumion,G,petrol,1462,6AT,,7,https://www.toyotabharat.com/documents/brochures/e-brochure-rumion.pdf,p6,oem_brochure_orderability_pending
+Toyota,Rumion,V,petrol,1462,6AT,,7,https://www.toyotabharat.com/documents/brochures/e-brochure-rumion.pdf,p6,oem_brochure_orderability_pending
+Toyota,Rumion,S,CNG,1462,5MT,,7,https://www.toyotabharat.com/documents/brochures/e-brochure-rumion.pdf,p6,oem_brochure_orderability_pending
+Toyota,Legender,,diesel,2755,6MT,4WD,7,https://www.toyotabharat.com/documents/brochures/fortuner-mmc/legender-spec-brochure.pdf,specification table Feb 2025,oem_brochure_orderability_pending
+Toyota,Legender,,diesel,2755,6AT,2WD,7,https://www.toyotabharat.com/documents/brochures/fortuner-mmc/legender-spec-brochure.pdf,specification table Feb 2025,oem_brochure_orderability_pending
+Toyota,Legender,,diesel,2755,6AT,4WD,7,https://www.toyotabharat.com/documents/brochures/fortuner-mmc/legender-spec-brochure.pdf,specification table Feb 2025,oem_brochure_orderability_pending
