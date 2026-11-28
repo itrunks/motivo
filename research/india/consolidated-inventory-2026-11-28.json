@@ -3472,7 +3472,9 @@
         "notes": "All NA variants available in petrol and CNG per OEM launch release. Do not assume every trim/engine/seat/gearbox cross-combination. Current official brochure predates September range extension; capture latest configurator/dealer matrix before import."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-citroen-bounded-2026-11-28.json",
+      "stage2_verification": "bounded_indexed_oem_review"
     },
     {
       "brand_id": "citroen",
@@ -3496,7 +3498,9 @@
         "notes": "Keep full-battery ex-showroom and BaaS chassis upfront + per-km battery rental as separate price types. September OEM release confirms 330km certified range. Do not infer battery capacity or variant-specific full purchase prices from third-party listings."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-citroen-bounded-2026-11-28.json",
+      "stage2_verification": "bounded_indexed_oem_review"
     },
     {
       "brand_id": "citroen",
@@ -3520,7 +3524,9 @@
         "notes": "Only one India retail trim/configuration observed on current official product page. Do not add legacy Feel/Feel Plus grades or historic launch prices without current OEM confirmation. Verify current booking/orderability and price with dealer."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-citroen-bounded-2026-11-28.json",
+      "stage2_verification": "bounded_indexed_oem_review"
     },
     {
       "brand_id": "citroen",
@@ -3544,7 +3550,9 @@
         "notes": "Current official product page identifies trim families and transmission applicability but some duplicated page content and turbo/CNG mapping need configurator validation. Do not use third-party 12-row price lists as OEM source evidence."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-citroen-bounded-2026-11-28.json",
+      "stage2_verification": "bounded_indexed_oem_review"
     },
     {
       "brand_id": "citroen",
@@ -3568,7 +3576,9 @@
         "notes": "OEM product page confirms NA 82PS 5MT and turbo 110PS 6MT/6AT. September release says MAX NA available in petrol and CNG; do not infer exact CNG transmission/grade cross-combinations. Comfort Edition package is an accessory/equipment package on YOU Turbo, not necessarily a separate mechanical variant."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-citroen-bounded-2026-11-28.json",
+      "stage2_verification": "bounded_indexed_oem_review"
     },
     {
       "brand_id": "honda",
@@ -17552,5 +17562,5 @@
   },
   "stage1_status": "completed_with_gaps",
   "stage2_status": "in_progress",
-  "stage2_active_brand": "Citroën"
+  "stage2_active_brand": "Honda"
 }

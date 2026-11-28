@@ -1,0 +1,461 @@
+{
+  "retrieval_scope": "OEM range, September launch release, maintenance plan and OEM blog; no live orderability verification",
+  "models": [
+    {
+      "brand": "Citroën",
+      "model": "AircrossX",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.citroen.in/citroen-range.html",
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "observations": {
+        "starting_price_inr_lakh": 8.89,
+        "blog_starting_price_inr_lakh": 9.09,
+        "selected_introductory_variants_inr_lakh": [
+          [
+            "YOU Turbo Comfort Edition",
+            10.69
+          ],
+          [
+            "MAX NA",
+            11.62
+          ]
+        ],
+        "launch_date": "2026-09-07",
+        "maintenance_plans_inr": {
+          "turbo": [
+            20447,
+            31627,
+            37859
+          ],
+          "NA": [
+            10376,
+            16389,
+            20596
+          ]
+        },
+        "maintenance_plan_terms_years": [
+          3,
+          4,
+          5
+        ],
+        "maintenance_plan_km": [
+          30000,
+          40000,
+          50000
+        ]
+      },
+      "sources": [
+        "https://www.citroen.in/citroen-range.html",
+        "https://www.citroen.in/about-citroen/news/citroen-variants-extended.html",
+        "https://www.citroen.in/services/flexcare/price-list.html",
+        "https://www.citroen.in/about-citroen/blogs/which-is-best-family-suv-in-india.html"
+      ],
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "not_available",
+          "reason": "complete coverage not established by retrieved sources"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "not_available",
+          "reason": "complete coverage not established by retrieved sources"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "conflicting",
+          "reason": "OEM range and OEM blog starting prices disagree; effective date unknown"
+        },
+        {
+          "field": "NVH",
+          "status": "not_available",
+          "reason": "complete coverage not established by retrieved sources"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "not_available",
+          "reason": "complete coverage not established by retrieved sources"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "not_available",
+          "reason": "complete coverage not established by retrieved sources"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "unverified",
+          "reason": "maintenance package MSRP observed; full ownership cost not established"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "not_available",
+          "reason": "complete coverage not established by retrieved sources"
+        },
+        {
+          "field": "warranty",
+          "status": "not_available",
+          "reason": "complete coverage not established by retrieved sources"
+        }
+      ]
+    },
+    {
+      "brand": "Citroën",
+      "model": "ë-C3X",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.citroen.in/citroen-range.html",
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "observations": {
+        "starting_price_inr_lakh": 11.99,
+        "blog_starting_price_inr_lakh": null,
+        "selected_introductory_variants_inr_lakh": [],
+        "launch_date": "2026-09-07",
+        "maintenance_plans_inr": {
+          "electric": [
+            3685,
+            9102,
+            11146
+          ]
+        },
+        "maintenance_plan_terms_years": [
+          3,
+          4,
+          5
+        ],
+        "maintenance_plan_km": [
+          30000,
+          40000,
+          50000
+        ],
+        "extended_certified_range_km": 330,
+        "baas_start_inr_lakh": 6.99,
+        "battery_emi_inr_per_km": 2.26
+      },
+      "sources": [
+        "https://www.citroen.in/citroen-range.html",
+        "https://www.citroen.in/about-citroen/news/citroen-variants-extended.html",
+        "https://www.citroen.in/services/flexcare/price-list.html",
+        "https://www.citroen.in/about-citroen/blogs/which-is-best-family-suv-in-india.html"
+      ],
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "not_available",
+          "reason": "complete coverage not established by retrieved sources"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "not_available",
+          "reason": "complete coverage not established by retrieved sources"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "unverified",
+          "reason": "only starting or selected introductory prices observed"
+        },
+        {
+          "field": "NVH",
+          "status": "not_available",
+          "reason": "complete coverage not established by retrieved sources"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "not_available",
+          "reason": "complete coverage not established by retrieved sources"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "not_available",
+          "reason": "complete coverage not established by retrieved sources"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "unverified",
+          "reason": "maintenance package MSRP observed; full ownership cost not established"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "not_available",
+          "reason": "complete coverage not established by retrieved sources"
+        },
+        {
+          "field": "warranty",
+          "status": "not_available",
+          "reason": "complete coverage not established by retrieved sources"
+        }
+      ]
+    },
+    {
+      "brand": "Citroën",
+      "model": "C5 Aircross",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.citroen.in/citroen-range.html",
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "observations": {
+        "starting_price_inr_lakh": 37.32,
+        "blog_starting_price_inr_lakh": null,
+        "selected_introductory_variants_inr_lakh": [],
+        "launch_date": "2026-09-07",
+        "maintenance_plans_inr": {
+          "C5": [
+            44578,
+            70740,
+            82139
+          ]
+        },
+        "maintenance_plan_terms_years": [
+          3,
+          4,
+          5
+        ],
+        "maintenance_plan_km": [
+          30000,
+          40000,
+          50000
+        ]
+      },
+      "sources": [
+        "https://www.citroen.in/citroen-range.html",
+        "https://www.citroen.in/about-citroen/news/citroen-variants-extended.html",
+        "https://www.citroen.in/services/flexcare/price-list.html",
+        "https://www.citroen.in/about-citroen/blogs/which-is-best-family-suv-in-india.html"
+      ],
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "not_available",
+          "reason": "complete coverage not established by retrieved sources"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "not_available",
+          "reason": "complete coverage not established by retrieved sources"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "unverified",
+          "reason": "only starting or selected introductory prices observed"
+        },
+        {
+          "field": "NVH",
+          "status": "not_available",
+          "reason": "complete coverage not established by retrieved sources"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "not_available",
+          "reason": "complete coverage not established by retrieved sources"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "not_available",
+          "reason": "complete coverage not established by retrieved sources"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "unverified",
+          "reason": "maintenance package MSRP observed; full ownership cost not established"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "not_available",
+          "reason": "complete coverage not established by retrieved sources"
+        },
+        {
+          "field": "warranty",
+          "status": "not_available",
+          "reason": "complete coverage not established by retrieved sources"
+        }
+      ]
+    },
+    {
+      "brand": "Citroën",
+      "model": "C3X",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.citroen.in/citroen-range.html",
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "observations": {
+        "starting_price_inr_lakh": 4.99,
+        "blog_starting_price_inr_lakh": 4.99,
+        "selected_introductory_variants_inr_lakh": [],
+        "launch_date": "2026-09-07",
+        "maintenance_plans_inr": {
+          "turbo": [
+            20403,
+            29331,
+            36734
+          ],
+          "NA": [
+            14211,
+            20239,
+            24339
+          ]
+        },
+        "maintenance_plan_terms_years": [
+          3,
+          4,
+          5
+        ],
+        "maintenance_plan_km": [
+          30000,
+          40000,
+          50000
+        ]
+      },
+      "sources": [
+        "https://www.citroen.in/citroen-range.html",
+        "https://www.citroen.in/about-citroen/news/citroen-variants-extended.html",
+        "https://www.citroen.in/services/flexcare/price-list.html",
+        "https://www.citroen.in/about-citroen/blogs/which-is-best-family-suv-in-india.html"
+      ],
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "not_available",
+          "reason": "complete coverage not established by retrieved sources"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "not_available",
+          "reason": "complete coverage not established by retrieved sources"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "unverified",
+          "reason": "only starting or selected introductory prices observed"
+        },
+        {
+          "field": "NVH",
+          "status": "not_available",
+          "reason": "complete coverage not established by retrieved sources"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "not_available",
+          "reason": "complete coverage not established by retrieved sources"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "not_available",
+          "reason": "complete coverage not established by retrieved sources"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "unverified",
+          "reason": "maintenance package MSRP observed; full ownership cost not established"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "not_available",
+          "reason": "complete coverage not established by retrieved sources"
+        },
+        {
+          "field": "warranty",
+          "status": "not_available",
+          "reason": "complete coverage not established by retrieved sources"
+        }
+      ]
+    },
+    {
+      "brand": "Citroën",
+      "model": "BasaltX",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.citroen.in/citroen-range.html",
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "observations": {
+        "starting_price_inr_lakh": 8.55,
+        "blog_starting_price_inr_lakh": 8.75,
+        "selected_introductory_variants_inr_lakh": [
+          [
+            "YOU Turbo",
+            9.99
+          ],
+          [
+            "MAX NA",
+            11.34
+          ]
+        ],
+        "launch_date": "2026-09-07",
+        "maintenance_plans_inr": {
+          "NA": [
+            10376,
+            16389,
+            20596
+          ],
+          "turbo": [
+            18816,
+            23873,
+            28510
+          ]
+        },
+        "maintenance_plan_terms_years": [
+          3,
+          4,
+          5
+        ],
+        "maintenance_plan_km": [
+          30000,
+          40000,
+          50000
+        ]
+      },
+      "sources": [
+        "https://www.citroen.in/citroen-range.html",
+        "https://www.citroen.in/about-citroen/news/citroen-variants-extended.html",
+        "https://www.citroen.in/services/flexcare/price-list.html",
+        "https://www.citroen.in/about-citroen/blogs/which-is-best-family-suv-in-india.html"
+      ],
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "not_available",
+          "reason": "complete coverage not established by retrieved sources"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "not_available",
+          "reason": "complete coverage not established by retrieved sources"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "conflicting",
+          "reason": "OEM range and OEM blog starting prices disagree; effective date unknown"
+        },
+        {
+          "field": "NVH",
+          "status": "not_available",
+          "reason": "complete coverage not established by retrieved sources"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "not_available",
+          "reason": "complete coverage not established by retrieved sources"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "not_available",
+          "reason": "complete coverage not established by retrieved sources"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "unverified",
+          "reason": "maintenance package MSRP observed; full ownership cost not established"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "not_available",
+          "reason": "complete coverage not established by retrieved sources"
+        },
+        {
+          "field": "warranty",
+          "status": "not_available",
+          "reason": "complete coverage not established by retrieved sources"
+        }
+      ]
+    }
+  ]
+}

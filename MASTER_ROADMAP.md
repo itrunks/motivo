@@ -262,3 +262,7 @@ Eight names observed in current India OEM navigation; Q3 Sportback not listed, o
 ## BYD bounded checkpoint
 
 Four models, 13 observed price rows, 36 deferred gaps including SEALION 7 conflicting starting price. 44 completed_with_gaps, 92 review_required, 115 pending. Citroën next. No production changes.
+
+## Citroën bounded checkpoint
+
+Five models listed; four selected introductory variant prices, maintenance plan MSRPs, EV extended BaaS and range captured. Starting price conflicts for AircrossX and BasaltX quarantined. 45 gap rows. 49 completed_with_gaps, 92 review_required, 110 pending. Honda next. No production changes.
