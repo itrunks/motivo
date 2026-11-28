@@ -1,0 +1,26 @@
+brand,model,fuel,trim,transmission,source_url,evidence_status,publication_review
+Maruti Suzuki,Brezza,petrol,LXi,5MT,https://www.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/brezza/documents/Maruti_Suzuki_Brezza_Brochure.pdf,historical_oem,pending
+Maruti Suzuki,Brezza,petrol,VXi,5MT,https://www.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/brezza/documents/Maruti_Suzuki_Brezza_Brochure.pdf,historical_oem,pending
+Maruti Suzuki,Brezza,petrol,ZXi,5MT,https://www.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/brezza/documents/Maruti_Suzuki_Brezza_Brochure.pdf,historical_oem,pending
+Maruti Suzuki,Brezza,petrol,ZXi+,5MT,https://www.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/brezza/documents/Maruti_Suzuki_Brezza_Brochure.pdf,historical_oem,pending
+Maruti Suzuki,Brezza,petrol,VXi,6AT,https://www.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/brezza/documents/Maruti_Suzuki_Brezza_Brochure.pdf,historical_oem,pending
+Maruti Suzuki,Brezza,petrol,ZXi,6AT,https://www.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/brezza/documents/Maruti_Suzuki_Brezza_Brochure.pdf,historical_oem,pending
+Maruti Suzuki,Brezza,petrol,ZXi+,6AT,https://www.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/brezza/documents/Maruti_Suzuki_Brezza_Brochure.pdf,historical_oem,pending
+Maruti Suzuki,Brezza,CNG,LXi,5MT,https://www.marutisuzuki.com/arena/brezza/price?filter=s-cng&transmission=manual,oem_price_listing,pending
+Maruti Suzuki,Brezza,CNG,VXi,5MT,https://www.marutisuzuki.com/arena/brezza/price?filter=s-cng&transmission=manual,oem_price_listing,pending
+Maruti Suzuki,Brezza,CNG,ZXi,5MT,https://www.marutisuzuki.com/arena/brezza/price?filter=s-cng&transmission=manual,oem_price_listing,pending
+Maruti Suzuki,Swift,petrol,LXi,5MT,https://www.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/swift/document/Swift_SCNG_VerticalBrochure.pdf,historical_oem,pending
+Maruti Suzuki,Swift,petrol,VXi,5MT,https://www.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/swift/document/Swift_SCNG_VerticalBrochure.pdf,historical_oem,pending
+Maruti Suzuki,Swift,petrol,VXi (O),5MT,https://www.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/swift/document/Swift_SCNG_VerticalBrochure.pdf,historical_oem,pending
+Maruti Suzuki,Swift,petrol,ZXi,5MT,https://www.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/swift/document/Swift_SCNG_VerticalBrochure.pdf,historical_oem,pending
+Maruti Suzuki,Swift,petrol,ZXi+,5MT,https://www.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/swift/document/Swift_SCNG_VerticalBrochure.pdf,historical_oem,pending
+Maruti Suzuki,Swift,petrol,VXi,5AMT,https://www.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/swift/document/Swift_SCNG_VerticalBrochure.pdf,historical_oem,pending
+Maruti Suzuki,Swift,petrol,VXi (O),5AMT,https://www.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/swift/document/Swift_SCNG_VerticalBrochure.pdf,historical_oem,pending
+Maruti Suzuki,Swift,petrol,ZXi,5AMT,https://www.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/swift/document/Swift_SCNG_VerticalBrochure.pdf,historical_oem,pending
+Maruti Suzuki,Swift,petrol,ZXi+,5AMT,https://www.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/swift/document/Swift_SCNG_VerticalBrochure.pdf,historical_oem,pending
+Maruti Suzuki,Swift,CNG,VXi,5MT,https://www.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/swift/document/Swift_SCNG_VerticalBrochure.pdf,historical_oem,pending
+Maruti Suzuki,Swift,CNG,VXi (O),5MT,https://www.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/swift/document/Swift_SCNG_VerticalBrochure.pdf,historical_oem,pending
+Maruti Suzuki,Swift,CNG,ZXi,5MT,https://www.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/swift/document/Swift_SCNG_VerticalBrochure.pdf,historical_oem,pending
+Maruti Suzuki,Swift,CNG,VXi,5AMT,https://www.arenaofhimatnagar.com/content/dam/msil/arena/in/en/assets/cars/swift/brochures/Swift%20Brochure%20-%20Vertical%20-%205th%20Oct.pdf,dealer_brochure_candidate,pending
+Maruti Suzuki,Swift,CNG,VXi (O),5AMT,https://www.arenaofhimatnagar.com/content/dam/msil/arena/in/en/assets/cars/swift/brochures/Swift%20Brochure%20-%20Vertical%20-%205th%20Oct.pdf,dealer_brochure_candidate,pending
+Maruti Suzuki,Swift,CNG,ZXi,5AMT,https://www.arenaofhimatnagar.com/content/dam/msil/arena/in/en/assets/cars/swift/brochures/Swift%20Brochure%20-%20Vertical%20-%205th%20Oct.pdf,dealer_brochure_candidate,pending
