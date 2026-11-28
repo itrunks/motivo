@@ -1,0 +1,83 @@
+brand,model,raw_label,fuel,transmission_label,reconciliation_status,source_url
+Tata Motors,Nexon,Smart 1.2,petrol,5MT,prior_candidate_overlap,https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html
+Tata Motors,Nexon,Smart + 1.2,petrol,unknown,new_selector_candidate,https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html
+Tata Motors,Nexon,Smart CNG,CNG,6MT,prior_candidate_overlap,https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html
+Tata Motors,Nexon,Smart + S 1.2,petrol,unknown,new_selector_candidate,https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html
+Tata Motors,Nexon,Smart + AMT 1.2,petrol,AMT,prior_candidate_overlap,https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html
+Tata Motors,Nexon,Pure + 1.2,petrol,6MT,prior_candidate_overlap,https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html
+Tata Motors,Nexon,Smart + 1.5,diesel,unknown,new_selector_candidate,https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html
+Tata Motors,Nexon,Smart + CNG,CNG,unknown,new_selector_candidate,https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html
+Tata Motors,Nexon,Pure + S 1.2,petrol,unknown,new_selector_candidate,https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html
+Tata Motors,Nexon,Smart + S 1.5,diesel,unknown,new_selector_candidate,https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html
+Tata Motors,Nexon,Smart + S CNG,CNG,unknown,new_selector_candidate,https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html
+Tata Motors,Nexon,Pure + AMT 1.2,petrol,AMT,new_selector_candidate,https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html
+Tata Motors,Nexon,Pure + PS 1.2,petrol,unknown,new_selector_candidate,https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html
+Tata Motors,Nexon,Pure + 1.5,diesel,unknown,new_selector_candidate,https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html
+Tata Motors,Nexon,Pure + S CNG,CNG,unknown,new_selector_candidate,https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html
+Tata Motors,Nexon,Pure + CNG,CNG,6MT,prior_candidate_overlap,https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html
+Tata Motors,Nexon,Pure + S AMT 1.2,petrol,AMT,new_selector_candidate,https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html
+Tata Motors,Nexon,Creative 1.2,petrol,unknown,new_selector_candidate,https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html
+Tata Motors,Nexon,Creative 1.2 Camo,petrol,unknown,new_selector_candidate,https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html
+Tata Motors,Nexon,Pure + PS AMT 1.2,petrol,AMT,new_selector_candidate,https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html
+Tata Motors,Nexon,Nexon Creative + S 1.2 New,petrol,unknown,new_selector_candidate,https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html
+Tata Motors,Nexon,Pure + S 1.5,diesel,unknown,new_selector_candidate,https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html
+Tata Motors,Nexon,Pure + PS CNG,CNG,unknown,new_selector_candidate,https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html
+Tata Motors,Nexon,Pure + PS 1.5,diesel,unknown,new_selector_candidate,https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html
+Tata Motors,Nexon,Creative + S 1.2 Camo,petrol,unknown,new_selector_candidate,https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html
+Tata Motors,Nexon,Creative AMT 1.2,petrol,AMT,new_selector_candidate,https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html
+Tata Motors,Nexon,Pure + AMT 1.5,diesel,AMT,new_selector_candidate,https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html
+Tata Motors,Nexon,Nexon Creative + S DK 1.2 New,petrol,unknown,new_selector_candidate,https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html
+Tata Motors,Nexon,Creative AMT 1.2 Camo,petrol,AMT,new_selector_candidate,https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html
+Tata Motors,Nexon,Nexon Creative + S AMT 1.2 New,petrol,AMT,new_selector_candidate,https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html
+Tata Motors,Nexon,Creative CNG,CNG,unknown,new_selector_candidate,https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html
+Tata Motors,Nexon,Creative 1.5,diesel,unknown,new_selector_candidate,https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html
+Tata Motors,Nexon,Pure + PS AMT 1.5,diesel,AMT,new_selector_candidate,https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html
+Tata Motors,Nexon,Nexon Creative DCA 1.2 New,petrol,DCA,prior_candidate_overlap,https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html
+Tata Motors,Nexon,Creative+ S AMT 1.2 Camo,petrol,AMT,new_selector_candidate,https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html
+Tata Motors,Nexon,Nexon Creative + PS 1.2,petrol,unknown,new_selector_candidate,https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html
+Tata Motors,Nexon,Creative CNG Camo,CNG,unknown,new_selector_candidate,https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html
+Tata Motors,Nexon,Nexon Creative + S CNG New,CNG,unknown,new_selector_candidate,https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html
+Tata Motors,Nexon,Nexon Creative + S 1.5 New,diesel,unknown,new_selector_candidate,https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html
+Tata Motors,Nexon,Nexon Creative+S AMT DK1.2 New,petrol,AMT,new_selector_candidate,https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html
+Tata Motors,Nexon,Creative 1.5 Camo,diesel,unknown,new_selector_candidate,https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html
+Tata Motors,Nexon,Creative DCA 1.2 Camo,petrol,DCA,new_selector_candidate,https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html
+Tata Motors,Nexon,Creative + PS 1.2 Camo,petrol,unknown,new_selector_candidate,https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html
+Tata Motors,Nexon,Creative + S CNG Camo,CNG,unknown,new_selector_candidate,https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html
+Tata Motors,Nexon,Nexon Creative + PS DK 1.2,petrol,unknown,new_selector_candidate,https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html
+Tata Motors,Nexon,Creative + S 1.5 Camo,diesel,unknown,new_selector_candidate,https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html
+Tata Motors,Nexon,Nexon Creative + S DK CNG New,CNG,unknown,new_selector_candidate,https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html
+Tata Motors,Nexon,Creative AMT 1.5,diesel,AMT,new_selector_candidate,https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html
+Tata Motors,Nexon,Nexon Creative + S DK 1.5 New,diesel,unknown,new_selector_candidate,https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html
+Tata Motors,Nexon,Creative AMT 1.5 Camo,diesel,AMT,new_selector_candidate,https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html
+Tata Motors,Nexon,Nexon Creative + S AMT 1.5 New,diesel,AMT,new_selector_candidate,https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html
+Tata Motors,Nexon,Nexon Fearless + PS 1.2 New,petrol,unknown,new_selector_candidate,https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html
+Tata Motors,Nexon,Nexon Creative + PS CNG New,CNG,unknown,new_selector_candidate,https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html
+Tata Motors,Nexon,Creative+ S AMT 1.5 Camo,diesel,AMT,new_selector_candidate,https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html
+Tata Motors,Nexon,Nexon Fearless + PS DK 1.2 New,petrol,unknown,new_selector_candidate,https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html
+Tata Motors,Nexon,Nexon Creative + PS 1.5,diesel,unknown,new_selector_candidate,https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html
+Tata Motors,Nexon,Nexon Creative + PS DCA 1.2,petrol,DCA,new_selector_candidate,https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html
+Tata Motors,Nexon,Fearless + PS 1.2 Camo,petrol,unknown,new_selector_candidate,https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html
+Tata Motors,Nexon,Nexon Creative+S AMT DK1.5 New,diesel,AMT,new_selector_candidate,https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html
+Tata Motors,Nexon,Nexon Fearless + PS RDK 1.2,petrol,unknown,new_selector_candidate,https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html
+Tata Motors,Nexon,Creative + PS CNG Camo,CNG,unknown,new_selector_candidate,https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html
+Tata Motors,Nexon,Nexon Creative + PS DK CNG,CNG,unknown,new_selector_candidate,https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html
+Tata Motors,Nexon,Creative+PS DCA 1.2 Camo,petrol,DCA,new_selector_candidate,https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html
+Tata Motors,Nexon,Nexon Creative + PS DK 1.5,diesel,unknown,new_selector_candidate,https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html
+Tata Motors,Nexon,Nexon Creative + PS DCA DK 1.2,petrol,DCA,new_selector_candidate,https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html
+Tata Motors,Nexon,Nexon Creative + PS AMT 1.5,diesel,AMT,new_selector_candidate,https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html
+Tata Motors,Nexon,Nexon Fearless + PS CNG New,CNG,unknown,new_selector_candidate,https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html
+Tata Motors,Nexon,Nexon Fearless+PS DCA DK1.2New,petrol,DCA,new_selector_candidate,https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html
+Tata Motors,Nexon,Nexon Fearless + PS 1.5 New,diesel,unknown,new_selector_candidate,https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html
+Tata Motors,Nexon,Nexon Fearless + PS DK CNG New,CNG,unknown,new_selector_candidate,https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html
+Tata Motors,Nexon,Nexon Creative + PS AMT DK 1.5,diesel,AMT,new_selector_candidate,https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html
+Tata Motors,Nexon,Fearless + PS CNG Camo,CNG,unknown,new_selector_candidate,https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html
+Tata Motors,Nexon,Nexon Fearless + PS RDK CNG,CNG,unknown,new_selector_candidate,https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html
+Tata Motors,Nexon,Nexon Fearless + PS DK 1.5 New,diesel,unknown,new_selector_candidate,https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html
+Tata Motors,Nexon,Nexon Fearless+A PS DCA 1.2,petrol,DCA,new_selector_candidate,https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html
+Tata Motors,Nexon,Nexon Fearless + PS RDK 1.5,diesel,unknown,new_selector_candidate,https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html
+Tata Motors,Nexon,Nexon Fearless+A PS DCA DK1.2,petrol,DCA,new_selector_candidate,https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html
+Tata Motors,Nexon,Fearless+A PSDCA 1.2Camo,petrol,DCA,new_selector_candidate,https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html
+Tata Motors,Nexon,Nexon Fearless+A PS DCA RDK1.2,petrol,DCA,new_selector_candidate,https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html
+Tata Motors,Nexon,Nexon Fearless+PS AMT 1.5New,diesel,AMT,new_selector_candidate,https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html
+Tata Motors,Nexon,Nexon Fearless+PS AMT DK1.5New,diesel,AMT,new_selector_candidate,https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html
+Tata Motors,Nexon,Nexon Fearless + PS AMT RDK 1.5,diesel,AMT,new_selector_candidate,https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html
