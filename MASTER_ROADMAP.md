@@ -202,3 +202,7 @@ Supersedes earlier requirements to resolve every missing OEM field before advanc
 ## Owner decision: post-launch enrichment
 
 Track unresolved optional model/variant gaps in `research/india/POST_GO_LIVE_VERIFICATION.md`. After bounded attempts, close with gaps and advance. Post-launch enrichment is not a launch gate. Unattempted models remain active; unsupported facts must not enter production. Initial brand reconciliation percentage is not Stage 1 completion percentage.
+
+## Consolidated inventory checkpoint
+
+251 unique historical model identities across 35 brands, 535 raw candidate rows from 13 files, all linked after explicit Toyota aliases and Unicode-preserving normalization. 31 models have structured candidates; 220 lack structured candidates (not necessarily unattempted historically). All candidates remain unverified pending actual source evidence. Missing variant information is `not_available`. Stage 1 remains open: remaining source attempts and candidate evidence review not performed in this checkpoint. No production changes.
