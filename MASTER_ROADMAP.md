@@ -218,3 +218,7 @@ Latest authoritative checkpoint supersedes earlier progress counts. All 251 hist
 ## Stage 2 first overview batch
 
 Four Maruti models (Alto K10, Celerio, Eeco, Ertiga) reviewed on actual OEM overview pages. 28 scoped observations and 44 deferred field records in `research/india/stage2-maruti-overview-2026-11-28.json`. Four partial reviews, zero full variant feature audits. Publication review pending. Next: bounded brochure/price review then remaining Maruti models.
+
+## Stage 2 Maruti bounded pass
+
+17/17 Maruti models dispositioned with gaps; 12 of 13 newly attempted models have retrieved OEM observations, Wagon R inaccessible. Four earlier models have unconfirmed historical claims only. Full variant feature audits remain zero. Hyundai next; production publication review pending.
