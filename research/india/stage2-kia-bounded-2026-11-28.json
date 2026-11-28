@@ -1,0 +1,593 @@
+{
+  "models": [
+    {
+      "model": "Sonet",
+      "brand": "Kia",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.kia.com/in/our-vehicles/sonet/specs.html",
+      "observations": {
+        "height_mm": 1642,
+        "conditional": [
+          {
+            "feature": "paddle_shifters",
+            "condition": "automatic only; selected equipment block, trim unidentified"
+          },
+          {
+            "feature": "remote_engine_start",
+            "condition": "D1.5 only in displayed equipment block"
+          }
+        ]
+      },
+      "status": "selected_indexed_oem_evidence",
+      "publication_review": "pending",
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "not_available",
+          "reason": "not established completely by indexed OEM excerpts"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "not_available",
+          "reason": "not established completely by indexed OEM excerpts"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "not_available",
+          "reason": "not established completely by indexed OEM excerpts"
+        },
+        {
+          "field": "NVH",
+          "status": "not_available",
+          "reason": "not established completely by indexed OEM excerpts"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "not_available",
+          "reason": "not established completely by indexed OEM excerpts"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "not_available",
+          "reason": "not established completely by indexed OEM excerpts"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "not_available",
+          "reason": "not established completely by indexed OEM excerpts"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "not_available",
+          "reason": "not established completely by indexed OEM excerpts"
+        },
+        {
+          "field": "warranty_full_terms",
+          "status": "not_available",
+          "reason": "not established completely by indexed OEM excerpts"
+        }
+      ]
+    },
+    {
+      "model": "Syros",
+      "brand": "Kia",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.kia.com/in/our-vehicles/syros/specs.html",
+      "observations": {
+        "length_mm": 3995,
+        "width_mm": 1805,
+        "wheelbase_mm": 2550,
+        "conditional": [
+          {
+            "feature": "rear_disc_brakes",
+            "condition": "displayed mixed-transmission blocks: G1.0T 7DCT or D1.5 6AT only; trim labels unavailable"
+          }
+        ]
+      },
+      "status": "selected_indexed_oem_evidence",
+      "publication_review": "pending",
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "not_available",
+          "reason": "not established completely by indexed OEM excerpts"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "not_available",
+          "reason": "not established completely by indexed OEM excerpts"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "not_available",
+          "reason": "not established completely by indexed OEM excerpts"
+        },
+        {
+          "field": "NVH",
+          "status": "not_available",
+          "reason": "not established completely by indexed OEM excerpts"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "not_available",
+          "reason": "not established completely by indexed OEM excerpts"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "not_available",
+          "reason": "not established completely by indexed OEM excerpts"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "not_available",
+          "reason": "not established completely by indexed OEM excerpts"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "not_available",
+          "reason": "not established completely by indexed OEM excerpts"
+        },
+        {
+          "field": "warranty_full_terms",
+          "status": "not_available",
+          "reason": "not established completely by indexed OEM excerpts"
+        }
+      ]
+    },
+    {
+      "model": "Seltos",
+      "brand": "Kia",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.kia.com/in/our-vehicles/seltos/specs.html",
+      "observations": {
+        "conditional": [
+          {
+            "features": [
+              "EPB_auto_hold",
+              "paddle_shifters",
+              "traction_modes"
+            ],
+            "condition": "automatic only in displayed equipment block; grade unidentified"
+          }
+        ]
+      },
+      "status": "selected_indexed_oem_evidence",
+      "publication_review": "pending",
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "not_available",
+          "reason": "not established completely by indexed OEM excerpts"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "not_available",
+          "reason": "not established completely by indexed OEM excerpts"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "not_available",
+          "reason": "not established completely by indexed OEM excerpts"
+        },
+        {
+          "field": "NVH",
+          "status": "not_available",
+          "reason": "not established completely by indexed OEM excerpts"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "not_available",
+          "reason": "not established completely by indexed OEM excerpts"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "not_available",
+          "reason": "not established completely by indexed OEM excerpts"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "not_available",
+          "reason": "not established completely by indexed OEM excerpts"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "not_available",
+          "reason": "not established completely by indexed OEM excerpts"
+        },
+        {
+          "field": "warranty_full_terms",
+          "status": "not_available",
+          "reason": "not established completely by indexed OEM excerpts"
+        }
+      ]
+    },
+    {
+      "model": "Carens",
+      "brand": "Kia",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.kia.com/in/service/service-and-maintenance/warranty.html",
+      "observations": {
+        "private_vehicle_warranty_months": 36,
+        "mileage_limit": null,
+        "scope": "warranty policy only; current retail not confirmed"
+      },
+      "status": "selected_indexed_oem_evidence",
+      "publication_review": "pending",
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "not_available",
+          "reason": "not established completely by indexed OEM excerpts"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "not_available",
+          "reason": "not established completely by indexed OEM excerpts"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "not_available",
+          "reason": "not established completely by indexed OEM excerpts"
+        },
+        {
+          "field": "NVH",
+          "status": "not_available",
+          "reason": "not established completely by indexed OEM excerpts"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "not_available",
+          "reason": "not established completely by indexed OEM excerpts"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "not_available",
+          "reason": "not established completely by indexed OEM excerpts"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "not_available",
+          "reason": "not established completely by indexed OEM excerpts"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "not_available",
+          "reason": "not established completely by indexed OEM excerpts"
+        },
+        {
+          "field": "warranty_full_terms",
+          "status": "not_available",
+          "reason": "not established completely by indexed OEM excerpts"
+        }
+      ]
+    },
+    {
+      "model": "Carens Clavis",
+      "brand": "Kia",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.kia.com/in/our-vehicles/carens-clavis/showroom.html",
+      "observations": {
+        "grades": [
+          {
+            "trim": "HTE CNG",
+            "fuel": "CNG"
+          },
+          {
+            "trim": "HTE(O) 7",
+            "conditional": {
+              "EPB": "AT/DCT",
+              "drive_mode": "AT/DCT"
+            }
+          }
+        ]
+      },
+      "status": "selected_indexed_oem_evidence",
+      "publication_review": "pending",
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "not_available",
+          "reason": "not established completely by indexed OEM excerpts"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "not_available",
+          "reason": "not established completely by indexed OEM excerpts"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "not_available",
+          "reason": "not established completely by indexed OEM excerpts"
+        },
+        {
+          "field": "NVH",
+          "status": "not_available",
+          "reason": "not established completely by indexed OEM excerpts"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "not_available",
+          "reason": "not established completely by indexed OEM excerpts"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "not_available",
+          "reason": "not established completely by indexed OEM excerpts"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "not_available",
+          "reason": "not established completely by indexed OEM excerpts"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "not_available",
+          "reason": "not established completely by indexed OEM excerpts"
+        },
+        {
+          "field": "warranty_full_terms",
+          "status": "not_available",
+          "reason": "not established completely by indexed OEM excerpts"
+        }
+      ]
+    },
+    {
+      "model": "Carnival",
+      "brand": "Kia",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.kia.com/in/our-vehicles/carnival/specs.html",
+      "observations": {
+        "engine_cc": 2151,
+        "power_ps": 193,
+        "transmission": "8AT",
+        "seats": 7,
+        "front_suspension": "MacPherson strut",
+        "rear_suspension": "multi-link"
+      },
+      "status": "selected_indexed_oem_evidence",
+      "publication_review": "pending",
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "not_available",
+          "reason": "not established completely by indexed OEM excerpts"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "not_available",
+          "reason": "not established completely by indexed OEM excerpts"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "not_available",
+          "reason": "not established completely by indexed OEM excerpts"
+        },
+        {
+          "field": "NVH",
+          "status": "not_available",
+          "reason": "not established completely by indexed OEM excerpts"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "not_available",
+          "reason": "not established completely by indexed OEM excerpts"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "not_available",
+          "reason": "not established completely by indexed OEM excerpts"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "not_available",
+          "reason": "not established completely by indexed OEM excerpts"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "not_available",
+          "reason": "not established completely by indexed OEM excerpts"
+        },
+        {
+          "field": "warranty_full_terms",
+          "status": "not_available",
+          "reason": "not established completely by indexed OEM excerpts"
+        }
+      ]
+    },
+    {
+      "model": "Carens Clavis EV",
+      "brand": "Kia",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.kia.com/in/our-vehicles/carens-clavis-ev/showroom.html",
+      "observations": {
+        "advertised_trim": "HTK+ 7",
+        "trim_features": {
+          "wheel_inches": 16,
+          "regen_paddles": true
+        }
+      },
+      "status": "selected_indexed_oem_evidence",
+      "publication_review": "pending",
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "not_available",
+          "reason": "not established completely by indexed OEM excerpts"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "not_available",
+          "reason": "not established completely by indexed OEM excerpts"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "not_available",
+          "reason": "not established completely by indexed OEM excerpts"
+        },
+        {
+          "field": "NVH",
+          "status": "not_available",
+          "reason": "not established completely by indexed OEM excerpts"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "not_available",
+          "reason": "not established completely by indexed OEM excerpts"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "not_available",
+          "reason": "not established completely by indexed OEM excerpts"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "not_available",
+          "reason": "not established completely by indexed OEM excerpts"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "not_available",
+          "reason": "not established completely by indexed OEM excerpts"
+        },
+        {
+          "field": "warranty_full_terms",
+          "status": "not_available",
+          "reason": "not established completely by indexed OEM excerpts"
+        }
+      ]
+    },
+    {
+      "model": "EV6",
+      "brand": "Kia",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.kia.com/in/our-vehicles/ev6/specs.html",
+      "observations": {
+        "battery_kwh": 84,
+        "charge_10_80_minutes": 18,
+        "charger_kw": 350,
+        "front_suspension": "MacPherson strut",
+        "rear_suspension": "multi-link",
+        "price_warning": "USD placeholder excluded"
+      },
+      "status": "selected_indexed_oem_evidence",
+      "publication_review": "pending",
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "not_available",
+          "reason": "not established completely by indexed OEM excerpts"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "not_available",
+          "reason": "not established completely by indexed OEM excerpts"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "not_available",
+          "reason": "not established completely by indexed OEM excerpts"
+        },
+        {
+          "field": "NVH",
+          "status": "not_available",
+          "reason": "not established completely by indexed OEM excerpts"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "not_available",
+          "reason": "not established completely by indexed OEM excerpts"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "not_available",
+          "reason": "not established completely by indexed OEM excerpts"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "not_available",
+          "reason": "not established completely by indexed OEM excerpts"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "not_available",
+          "reason": "not established completely by indexed OEM excerpts"
+        },
+        {
+          "field": "warranty_full_terms",
+          "status": "not_available",
+          "reason": "not established completely by indexed OEM excerpts"
+        }
+      ]
+    },
+    {
+      "model": "EV9",
+      "brand": "Kia",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.kia.com/in/our-vehicles/ev9/specs.html",
+      "observations": {
+        "battery_kwh": 99.8,
+        "range_km": 561,
+        "range_cycle": "ARAI MIDC full",
+        "charge_10_80_minutes": 24,
+        "charger_kw": 350,
+        "price_warning": "zero placeholder excluded"
+      },
+      "status": "selected_indexed_oem_evidence",
+      "publication_review": "pending",
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "not_available",
+          "reason": "not established completely by indexed OEM excerpts"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "not_available",
+          "reason": "not established completely by indexed OEM excerpts"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "not_available",
+          "reason": "not established completely by indexed OEM excerpts"
+        },
+        {
+          "field": "NVH",
+          "status": "not_available",
+          "reason": "not established completely by indexed OEM excerpts"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "not_available",
+          "reason": "not established completely by indexed OEM excerpts"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "not_available",
+          "reason": "not established completely by indexed OEM excerpts"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "not_available",
+          "reason": "not established completely by indexed OEM excerpts"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "not_available",
+          "reason": "not established completely by indexed OEM excerpts"
+        },
+        {
+          "field": "warranty_full_terms",
+          "status": "not_available",
+          "reason": "not established completely by indexed OEM excerpts"
+        }
+      ]
+    }
+  ],
+  "inventory_leads": [
+    {
+      "model": "Syros EV",
+      "source_url": "https://www.kia.com/in/our-vehicles/syros-ev/showroom.html",
+      "status": "scope_review_pending"
+    }
+  ]
+}
