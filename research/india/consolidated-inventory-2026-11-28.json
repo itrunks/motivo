@@ -1814,7 +1814,9 @@
         "notes": "The official catalogue links this model, but its product page returned HTTP 403 to the research fetch. Do not infer ICE trim/powertrain structure from Sierra.ev. Retry official configurator or dealer source."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-tata-bounded-2026-11-28.json",
+      "stage2_verification": "limited_catalogue_or_support_evidence"
     },
     {
       "brand_id": "tata",
@@ -1838,7 +1840,9 @@
         "notes": "Preserve battery, ACFC charger pack and AWD/QWD distinctions only where explicitly named. Verify complete live price matrix and drive mapping before import."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-tata-bounded-2026-11-28.json",
+      "stage2_verification": "limited_catalogue_or_support_evidence"
     },
     {
       "brand_id": "tata",
@@ -1862,7 +1866,9 @@
         "notes": "Official catalogue confirms the model listing, but product detail page returned HTTP 403. Do not reuse Harrier.ev trims or infer ICE grade/powertrain mapping."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-tata-bounded-2026-11-28.json",
+      "stage2_verification": "limited_catalogue_or_support_evidence"
     },
     {
       "brand_id": "tata",
@@ -1886,7 +1892,9 @@
         "notes": "Official page identifies 65/75 kWh, QWD dual-motor, ACFC wallbox and Stealth edition. Do not cross all combinations; only explicitly named cards are observed. Verify exact live prices and edition applicability."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-tata-bounded-2026-11-28.json",
+      "stage2_verification": "limited_catalogue_or_support_evidence"
     },
     {
       "brand_id": "tata",
@@ -1910,7 +1918,9 @@
         "notes": "Official catalogue confirms New Safari listing, but product detail page returned HTTP 403. Current trim and powertrain matrix requires official configurator/dealer evidence."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-tata-bounded-2026-11-28.json",
+      "stage2_verification": "limited_catalogue_or_support_evidence"
     },
     {
       "brand_id": "tata",
@@ -1934,7 +1944,9 @@
         "notes": "Official catalogue confirms Nexon listing and describes multiple powertrain combinations, but exact current ICE variants could not be retrieved. Do not infer grade/fuel/transmission combinations."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-tata-bounded-2026-11-28.json",
+      "stage2_verification": "limited_catalogue_or_support_evidence"
     },
     {
       "brand_id": "tata",
@@ -1958,7 +1970,9 @@
         "notes": "Official page identifies current 30 kWh MR and 45 kWh LR families. Do not copy legacy 40.5 kWh or Prime/Max battery data from support archives into current variants. Confirm complete current trim matrix and individual prices."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-tata-bounded-2026-11-28.json",
+      "stage2_verification": "limited_catalogue_or_support_evidence"
     },
     {
       "brand_id": "tata",
@@ -1982,7 +1996,9 @@
         "notes": "Official catalogue confirms New Punch listing, but product detail page returned HTTP 403. Current 2026 facelift trim and powertrain matrix requires official configurator/dealer evidence."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-tata-bounded-2026-11-28.json",
+      "stage2_verification": "limited_catalogue_or_support_evidence"
     },
     {
       "brand_id": "tata",
@@ -2006,7 +2022,9 @@
         "notes": "Official page identifies 30/40 kWh battery configurations. Confirm complete current trim matrix and individual prices before import."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-tata-bounded-2026-11-28.json",
+      "stage2_verification": "limited_catalogue_or_support_evidence"
     },
     {
       "brand_id": "tata",
@@ -2030,7 +2048,9 @@
         "notes": "Official catalogue confirms Altroz listing, but product detail page returned HTTP 403. Do not infer current petrol/diesel/CNG trim combinations from older brochures."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-tata-bounded-2026-11-28.json",
+      "stage2_verification": "limited_catalogue_or_support_evidence"
     },
     {
       "brand_id": "tata",
@@ -2054,7 +2074,9 @@
         "notes": "Official 2026 price page confirms trim labels and two CNG prices, but many dynamic price cells are blank. Secondary reporting contains more complete launch pricing but is not accepted as final price evidence."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-tata-bounded-2026-11-28.json",
+      "stage2_verification": "limited_catalogue_or_support_evidence"
     },
     {
       "brand_id": "tata",
@@ -2078,7 +2100,9 @@
         "notes": "Official pages identify four current grade/battery combinations. Keep 19.2 kWh and 24 kWh distinct. Verify full current matrix and price effective date."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-tata-bounded-2026-11-28.json",
+      "stage2_verification": "limited_catalogue_or_support_evidence"
     },
     {
       "brand_id": "tata",
@@ -2102,7 +2126,9 @@
         "notes": "Official catalogue confirms Curvv listing, but product detail page returned HTTP 403. Do not reuse Curvv.ev trim labels or infer petrol/diesel/gearbox combinations."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-tata-bounded-2026-11-28.json",
+      "stage2_verification": "limited_catalogue_or_support_evidence"
     },
     {
       "brand_id": "tata",
@@ -2126,7 +2152,9 @@
         "notes": "Preserve #DARK as edition suffix. Older 45 kWh series appears in historical material; do not merge with current Series X without configurator confirmation."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-tata-bounded-2026-11-28.json",
+      "stage2_verification": "limited_catalogue_or_support_evidence"
     },
     {
       "brand_id": "tata",
@@ -2150,7 +2178,9 @@
         "notes": "Tigor remains in the prior candidate inventory, but the current official Tata Cars model navigation does not list it. Confirm whether the retail model is discontinued/removed or available through dealer-only stock before treating it as a current passenger retail model."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-tata-bounded-2026-11-28.json",
+      "stage2_verification": "limited_catalogue_or_support_evidence"
     },
     {
       "brand_id": "tata",
@@ -2174,7 +2204,9 @@
         "notes": "Official page is live but captured variant content includes legacy XE/XT/XZ+ nomenclature. Tata support archive also contains XpresT/fleet battery families; do not mix commercial products with current private retail variants. Dealer confirmation required."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-tata-bounded-2026-11-28.json",
+      "stage2_verification": "limited_catalogue_or_support_evidence"
     },
     {
       "brand_id": "mini",
@@ -17342,5 +17374,5 @@
   },
   "stage1_status": "completed_with_gaps",
   "stage2_status": "in_progress",
-  "stage2_active_brand": "Tata Motors"
+  "stage2_active_brand": "Mahindra"
 }
