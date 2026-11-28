@@ -1,0 +1,277 @@
+[
+  {
+    "brand": "Hyundai",
+    "model": "Creta",
+    "source_url": "https://www.hyundai.com/in/en/find-a-car/creta/features",
+    "observed_at": "2026-11-28",
+    "scope": "trim-level safety matrix",
+    "locator": "52–58,82–86,104",
+    "trims": [
+      {
+        "trim": "E",
+        "front_side_curtain_airbags": true,
+        "ABS_EBD": true,
+        "ESC": true,
+        "hill_start_assist": true,
+        "highline_TPMS": true,
+        "rear_camera": false,
+        "forward_collision_warning": false,
+        "surround_view_monitor": false
+      },
+      {
+        "trim": "EX",
+        "front_side_curtain_airbags": true,
+        "ABS_EBD": true,
+        "ESC": true,
+        "hill_start_assist": true,
+        "highline_TPMS": true,
+        "rear_camera": false,
+        "forward_collision_warning": false,
+        "surround_view_monitor": false
+      },
+      {
+        "trim": "EX(O)",
+        "front_side_curtain_airbags": true,
+        "ABS_EBD": true,
+        "ESC": true,
+        "hill_start_assist": true,
+        "highline_TPMS": true,
+        "rear_camera": true,
+        "forward_collision_warning": false,
+        "surround_view_monitor": false
+      },
+      {
+        "trim": "S(O)",
+        "front_side_curtain_airbags": true,
+        "ABS_EBD": true,
+        "ESC": true,
+        "hill_start_assist": true,
+        "highline_TPMS": true,
+        "rear_camera": true,
+        "forward_collision_warning": false,
+        "surround_view_monitor": false
+      },
+      {
+        "trim": "S(O) Knight",
+        "front_side_curtain_airbags": true,
+        "ABS_EBD": true,
+        "ESC": true,
+        "hill_start_assist": true,
+        "highline_TPMS": true,
+        "rear_camera": true,
+        "forward_collision_warning": false,
+        "surround_view_monitor": false
+      },
+      {
+        "trim": "SX",
+        "front_side_curtain_airbags": true,
+        "ABS_EBD": true,
+        "ESC": true,
+        "hill_start_assist": true,
+        "highline_TPMS": true,
+        "rear_camera": true,
+        "forward_collision_warning": false,
+        "surround_view_monitor": false
+      },
+      {
+        "trim": "SX Premium",
+        "front_side_curtain_airbags": true,
+        "ABS_EBD": true,
+        "ESC": true,
+        "hill_start_assist": true,
+        "highline_TPMS": true,
+        "rear_camera": true,
+        "forward_collision_warning": false,
+        "surround_view_monitor": false
+      },
+      {
+        "trim": "King",
+        "front_side_curtain_airbags": true,
+        "ABS_EBD": true,
+        "ESC": true,
+        "hill_start_assist": true,
+        "highline_TPMS": true,
+        "rear_camera": true,
+        "forward_collision_warning": true,
+        "surround_view_monitor": true
+      },
+      {
+        "trim": "King Knight",
+        "front_side_curtain_airbags": true,
+        "ABS_EBD": true,
+        "ESC": true,
+        "hill_start_assist": true,
+        "highline_TPMS": true,
+        "rear_camera": true,
+        "forward_collision_warning": true,
+        "surround_view_monitor": true
+      },
+      {
+        "trim": "Lounge Edition",
+        "front_side_curtain_airbags": true,
+        "ABS_EBD": true,
+        "ESC": true,
+        "hill_start_assist": true,
+        "highline_TPMS": true,
+        "rear_camera": true,
+        "forward_collision_warning": true,
+        "surround_view_monitor": true
+      }
+    ],
+    "publication_review": "pending"
+  },
+  {
+    "brand": "Hyundai",
+    "model": "Venue",
+    "source_url": "https://www.hyundai.com/in/en/find-a-car/venue/features",
+    "observed_at": "2026-11-28",
+    "scope": "trim-level safety matrix",
+    "locator": "50–57,77–82,96",
+    "trims": [
+      {
+        "trim": "HX2",
+        "front_side_curtain_airbags": true,
+        "ABS_EBD": true,
+        "ESC": true,
+        "hill_start_assist": true,
+        "highline_TPMS": false,
+        "rear_camera": false,
+        "forward_collision_warning": false,
+        "surround_view_monitor": false
+      },
+      {
+        "trim": "HX4",
+        "front_side_curtain_airbags": true,
+        "ABS_EBD": true,
+        "ESC": true,
+        "hill_start_assist": true,
+        "highline_TPMS": true,
+        "rear_camera": true,
+        "forward_collision_warning": false,
+        "surround_view_monitor": false
+      },
+      {
+        "trim": "HX5",
+        "front_side_curtain_airbags": true,
+        "ABS_EBD": true,
+        "ESC": true,
+        "hill_start_assist": true,
+        "highline_TPMS": true,
+        "rear_camera": true,
+        "forward_collision_warning": false,
+        "surround_view_monitor": false
+      },
+      {
+        "trim": "HX5+",
+        "front_side_curtain_airbags": true,
+        "ABS_EBD": true,
+        "ESC": true,
+        "hill_start_assist": true,
+        "highline_TPMS": true,
+        "rear_camera": true,
+        "forward_collision_warning": false,
+        "surround_view_monitor": false
+      },
+      {
+        "trim": "HX5 Knight",
+        "front_side_curtain_airbags": true,
+        "ABS_EBD": true,
+        "ESC": true,
+        "hill_start_assist": true,
+        "highline_TPMS": true,
+        "rear_camera": true,
+        "forward_collision_warning": false,
+        "surround_view_monitor": false
+      },
+      {
+        "trim": "HX6",
+        "front_side_curtain_airbags": true,
+        "ABS_EBD": true,
+        "ESC": true,
+        "hill_start_assist": true,
+        "highline_TPMS": true,
+        "rear_camera": true,
+        "forward_collision_warning": false,
+        "surround_view_monitor": false
+      },
+      {
+        "trim": "HX6T",
+        "front_side_curtain_airbags": true,
+        "ABS_EBD": true,
+        "ESC": true,
+        "hill_start_assist": true,
+        "highline_TPMS": true,
+        "rear_camera": true,
+        "forward_collision_warning": false,
+        "surround_view_monitor": false
+      },
+      {
+        "trim": "HX6T Knight",
+        "front_side_curtain_airbags": true,
+        "ABS_EBD": true,
+        "ESC": true,
+        "hill_start_assist": true,
+        "highline_TPMS": true,
+        "rear_camera": true,
+        "forward_collision_warning": false,
+        "surround_view_monitor": false
+      },
+      {
+        "trim": "HX7",
+        "front_side_curtain_airbags": true,
+        "ABS_EBD": true,
+        "ESC": true,
+        "hill_start_assist": true,
+        "highline_TPMS": true,
+        "rear_camera": true,
+        "forward_collision_warning": false,
+        "surround_view_monitor": false
+      },
+      {
+        "trim": "HX8",
+        "front_side_curtain_airbags": true,
+        "ABS_EBD": true,
+        "ESC": true,
+        "hill_start_assist": true,
+        "highline_TPMS": true,
+        "rear_camera": true,
+        "forward_collision_warning": false,
+        "surround_view_monitor": false
+      },
+      {
+        "trim": "HX8 Knight",
+        "front_side_curtain_airbags": true,
+        "ABS_EBD": true,
+        "ESC": true,
+        "hill_start_assist": true,
+        "highline_TPMS": true,
+        "rear_camera": true,
+        "forward_collision_warning": false,
+        "surround_view_monitor": false
+      },
+      {
+        "trim": "HX10",
+        "front_side_curtain_airbags": true,
+        "ABS_EBD": true,
+        "ESC": true,
+        "hill_start_assist": true,
+        "highline_TPMS": true,
+        "rear_camera": true,
+        "forward_collision_warning": true,
+        "surround_view_monitor": true
+      },
+      {
+        "trim": "HX10 Knight",
+        "front_side_curtain_airbags": true,
+        "ABS_EBD": true,
+        "ESC": true,
+        "hill_start_assist": true,
+        "highline_TPMS": true,
+        "rear_camera": true,
+        "forward_collision_warning": true,
+        "surround_view_monitor": true
+      }
+    ],
+    "publication_review": "pending"
+  }
+]
