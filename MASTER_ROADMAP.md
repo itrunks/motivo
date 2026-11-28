@@ -25,9 +25,9 @@ Recovered historical inventory: 251 model rows, 35 brands. This is not a current
 | Kia | 9 | Initial lineup checked; two new candidates and EV9 exception |
 | Toyota | 13 | Nameplates matched; SKU and generation conflict pending |
 | MG Motor | 10 | Nameplates matched; Windsor Pro and Gloster exceptions |
-| Tata Motors | 16 | Pending |
-| MINI | 5 | Pending |
-| Force Motors | 1 | Pending |
+| Tata Motors | 16 | OEM homepage access blocked; retry needed |
+| MINI | 5 | Nameplates matched; Cooper SE and Stardust candidates |
+| Force Motors | 1 | Gurkha confirmed; complete range and SKU check pending |
 | Tesla | 1 | Pending |
 | VinFast | 3 | Pending |
 | Audi | 9 | Pending |
@@ -78,3 +78,11 @@ All 13 legacy nameplates match Toyota India's current product navigation: Glanza
 ## Stage 1 — MG Motor checkpoint (2026-11-28)
 
 All ten legacy records have current OEM homepage evidence: Comet EV, Windsor EV, ZS EV, Hector, Astor, Hector Tomahawk EV and PHEV, Majestor, Cyberster, M9. Windsor Pro is separately presented in the configurator; retain as configuration candidate rather than automatically creating a new model. Gloster appears in service navigation but not current retail product lineup; orderability unresolved. Majestor homepage starting reference INR 43.49L differs from configurator INR 40.99L and May 27 launch release for 4x2 automatic; resolve variant and effective-date scope before publication. Separate BaaS from outright battery-inclusive purchase prices. Sources checked: https://www.mgmotor.co.in/ ; https://cars.mgmotor.co.in/ ; https://www.mgmotor.co.in/tools/brochures ; https://www.mgmotor.co.in/media-center/newsroom/mg-majestor-4x2-automatic-top-trim-launched-at-inr-40-99-lakhs-e . Exact SKU inventory pending. No production data imported.
+
+## Stage 1 — MINI, Force and Tata access checkpoint (2026-11-28)
+
+MINI: all five historical entries appear on https://www.mini.in/en_IN/home/range.html . Additional Cooper SE EV listing requires separate powertrain/model classification; footer also links Convertible Stardust Edition, exact edition availability pending. Range page contains generic German VAT and European consumption disclaimers; do not import India prices or mileage from those disclaimers. Exact SKUs pending.
+
+Force: Gurkha nameplate confirmed at https://forcegurkha.co.in/ . Homepage mixes 2021 imagery and updated equipment claims; current 3-door/5-door configuration evidence and full passenger range inventory remain pending. No historical specs promoted.
+
+Tata: https://cars.tatamotors.com/ returned HTTP 403 in this inspection; full lineup not verified. Existing Punch and Nexon research remains evidence, not brand reconciliation. Retry accessible official catalogue or authorized alternate evidence; do not bypass access restrictions.
