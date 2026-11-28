@@ -46,3 +46,7 @@ All 17 model identities retained; full variant features and prices, real-world m
 ## Mahindra 2026-11-28
 
 13 existing models reviewed: 10 listing-only, 3 selected FAQ facts. 117 unresolved field records in `research/india/stage2-mahindra-bounded-2026-11-28.json`. Bolero Neo Plus passenger scope review pending. Individual model pages not checked. Earlier brand claims not reverified.
+
+## Kia bounded review
+
+9 existing identities, 8 selected model pages and Carens warranty only; 81 gaps merged into central CSV. Syros EV scope review pending. Earlier Maruti, Hyundai, Tata and Mahindra source verification claims lack substantiated retrieval in available execution records; quarantine all associated facts from publication until independently verified.
