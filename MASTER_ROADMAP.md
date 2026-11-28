@@ -19,7 +19,7 @@ Recovered historical inventory: 251 model rows, 35 brands. This is not a current
 
 | Brand | Historical model rows | OEM reconciliation |
 |---|---:|---|
-| Maruti Suzuki | 17 | Pending |
+| Maruti Suzuki | 17 | Nameplates matched; SKU pending |
 | Hyundai | 14 | Pending |
 | Mahindra | 13 | Pending |
 | Kia | 9 | Pending |
@@ -56,3 +56,7 @@ Recovered historical inventory: 251 model rows, 35 brands. This is not a current
 | Lotus | 3 | Pending |
 
 No Firebase writes or production publication authorized. Do not mark a brand complete without dated OEM lineup evidence and explicit disposition of each historical model.
+
+## Stage 1 — Maruti Suzuki checkpoint (2026-11-28)
+
+OEM passenger retail lineup matched all 17 historical nameplates: Arena 10, Nexa 7. Sources: https://www.marutisuzuki.com/arena and https://www.nexaexperience.com/ ; corroborating configurators https://www.marutisuzuki.com/arena/configurator and https://www.nexaexperience.com/configurator . Tour commercial range excluded under passenger retail scope, not claimed discontinued. Exact SKU inventory and dealer orderability remain open. Arena comparison and landing page show inconsistent price references; no price imported. This is nameplate reconciliation only.
