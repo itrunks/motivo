@@ -25,13 +25,13 @@ Recovered historical inventory: 251 model rows, 35 brands. This is not a current
 | Kia | 9 | Initial lineup checked; two new candidates and EV9 exception |
 | Toyota | 13 | Nameplates matched; SKU and generation conflict pending |
 | MG Motor | 10 | Nameplates matched; Windsor Pro and Gloster exceptions |
-| Tata Motors | 16 | OEM homepage access blocked; retry needed |
+| Tata Motors | 16 | 15 matched; Tigor ICE exception; Aeris candidate |
 | MINI | 5 | Nameplates matched; Cooper SE and Stardust candidates |
 | Force Motors | 1 | Gurkha confirmed; complete range and SKU check pending |
-| Tesla | 1 | Pending |
-| VinFast | 3 | Pending |
-| Audi | 9 | Pending |
-| BMW | 22 | Pending |
+| Tesla | 1 | Model Y matched; Y L configuration candidate |
+| VinFast | 3 | All three matched; exact SKUs pending |
+| Audi | 9 | Eight matched; Q3 Sportback exception |
+| BMW | 22 | 19 matched; i4, iX, XM exceptions |
 | BYD | 4 | Pending |
 | Citroën | 5 | Pending |
 | Honda | 5 | Pending |
@@ -86,3 +86,13 @@ MINI: all five historical entries appear on https://www.mini.in/en_IN/home/range
 Force: Gurkha nameplate confirmed at https://forcegurkha.co.in/ . Homepage mixes 2021 imagery and updated equipment claims; current 3-door/5-door configuration evidence and full passenger range inventory remain pending. No historical specs promoted.
 
 Tata: https://cars.tatamotors.com/ returned HTTP 403 in this inspection; full lineup not verified. Existing Punch and Nexon research remains evidence, not brand reconciliation. Retry accessible official catalogue or authorized alternate evidence; do not bypass access restrictions.
+
+## Stage 1 — Tata, Tesla, VinFast, Audi and BMW checkpoint (2026-11-28)
+
+- Tata: accessible indexed official catalogue https://tatamotors-prod.adobecqms.net/ and EV range https://ev.tatamotors.com/product-compare.html resolve prior access blocker for lineup research. Eight historical ICE names and seven EV names matched. Tigor ICE absent from current retail navigation; do not declare discontinued. Aeris is a new listed candidate; XPRES requires fleet scope classification. Sierra Dark is an edition candidate.
+- Tesla: https://www.tesla.com/en_in/modely lists five-seat Premium RWD and six-seat L Premium AWD; preserve as separate configurations pending exact order selector. https://www.tesla.com/en_IN/model3 explicitly excludes India orders.
+- VinFast: https://vinfastauto.in/en/press-release/vinfast-india-named-ev-manufacturer-of-the-year-at-ht-auto-leaderboard-awards-2026 confirms three India models. https://vinfastauto.in/en/vf6 lists Earth, Wind, Wind Infinity; https://vinfastauto.in/en/vf7 and https://vinfastauto.in/en/mpv7 provide further SKU leads. Global-spec disclaimers require India-specific verification.
+- Audi: https://www.audi.in/en/models/ lists eight historical names; Q3 Sportback absent, orderability unresolved.
+- BMW: https://www.bmw.in/en/all-models.html matches 19 of 22 historical nameplates (including X1 diesel and X1 LWB petrol as separate legacy records pending taxonomy). i4, iX and XM absent from current listing; do not infer discontinuation. Separate X3 petrol grades and X7 diesel grades. No concept or protection vehicle added to retail scope. Some price disclaimers reference German VAT; no prices promoted.
+
+All five initial inspections complete; exact SKU verification and exceptions remain open. No production imports.
