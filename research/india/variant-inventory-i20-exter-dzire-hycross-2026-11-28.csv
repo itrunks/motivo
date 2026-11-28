@@ -41,12 +41,15 @@ Maruti Suzuki,Dzire,Z12E,CNG,VXI,5MT,5,IN,https://www.marutisuzuki.com/content/d
 Maruti Suzuki,Dzire,Z12E,CNG,ZXI,5MT,5,IN,https://www.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/dzire/brochures/Dzire_brochure_Vertical.pdf,2026-11-28,oem_matrix_orderability_pending,pending
 Maruti Suzuki,Dzire,Z12E,CNG,VXI,5AMT,5,IN,https://www.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/dzire/brochures/Dzire_brochure_Vertical.pdf,2026-11-28,oem_matrix_orderability_pending,pending
 Maruti Suzuki,Dzire,Z12E,CNG,ZXI,5AMT,5,IN,https://www.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/dzire/brochures/Dzire_brochure_Vertical.pdf,2026-11-28,oem_matrix_orderability_pending,pending
-Toyota,Innova Hycross,,petrol,GX,,7,IN,https://www.toyotabharat.com/documents/brochures/e-brochure-hycross-specsheet.pdf,2026-11-28,oem_grade_seating_transmission_pending,pending
-Toyota,Innova Hycross,,petrol,GX,,8,IN,https://www.toyotabharat.com/documents/brochures/e-brochure-hycross-specsheet.pdf,2026-11-28,oem_grade_seating_transmission_pending,pending
-Toyota,Innova Hycross,,hybrid,G-SLF,,7,IN,https://www.toyotabharat.com/documents/brochures/e-brochure-hycross-specsheet.pdf,2026-11-28,oem_grade_seating_transmission_pending,pending
-Toyota,Innova Hycross,,hybrid,G-SLF,,8,IN,https://www.toyotabharat.com/documents/brochures/e-brochure-hycross-specsheet.pdf,2026-11-28,oem_grade_seating_transmission_pending,pending
-Toyota,Innova Hycross,,hybrid,GX,,7,IN,https://www.toyotabharat.com/documents/brochures/e-brochure-hycross-specsheet.pdf,2026-11-28,oem_grade_seating_transmission_pending,pending
-Toyota,Innova Hycross,,hybrid,GX,,8,IN,https://www.toyotabharat.com/documents/brochures/e-brochure-hycross-specsheet.pdf,2026-11-28,oem_grade_seating_transmission_pending,pending
-Toyota,Innova Hycross,,hybrid,VX,,7,IN,https://www.toyotabharat.com/documents/brochures/e-brochure-hycross-specsheet.pdf,2026-11-28,oem_grade_seating_transmission_pending,pending
-Toyota,Innova Hycross,,hybrid,VX,,8,IN,https://www.toyotabharat.com/documents/brochures/e-brochure-hycross-specsheet.pdf,2026-11-28,oem_grade_seating_transmission_pending,pending
-Toyota,Innova Hycross,,hybrid,ZX,,7,IN,https://www.toyotabharat.com/documents/brochures/e-brochure-hycross-specsheet.pdf,2026-11-28,oem_grade_seating_transmission_pending,pending
+Toyota,Innova Hycross,1987cc,petrol,G-SLF,CVT,7,IN,https://www.toyotabharat.com/showroom/innova/features-specs.html,2026-11-28,oem_listed_fleet_scope_pending,pending
+Toyota,Innova Hycross,1987cc,petrol,G-SLF,CVT,8,IN,https://www.toyotabharat.com/showroom/innova/features-specs.html,2026-11-28,oem_listed_fleet_scope_pending,pending
+Toyota,Innova Hycross,1987cc,petrol,GX,CVT,7,IN,https://www.toyotabharat.com/showroom/innova/features-specs.html,2026-11-28,oem_listed_orderability_pending,pending
+Toyota,Innova Hycross,1987cc,petrol,GX,CVT,8,IN,https://www.toyotabharat.com/showroom/innova/features-specs.html,2026-11-28,oem_listed_orderability_pending,pending
+Toyota,Innova Hycross,1987cc,petrol,GX(O),CVT,7,IN,https://www.toyotabharat.com/showroom/innova/features-specs.html,2026-11-28,oem_listed_orderability_pending,pending
+Toyota,Innova Hycross,1987cc,petrol,GX(O),CVT,8,IN,https://www.toyotabharat.com/showroom/innova/features-specs.html,2026-11-28,oem_listed_orderability_pending,pending
+Toyota,Innova Hycross,1987cc,hybrid,VX,e-Drive,7,IN,https://www.toyotabharat.com/showroom/innova/features-specs.html,2026-11-28,oem_listed_orderability_pending,pending
+Toyota,Innova Hycross,1987cc,hybrid,VX,e-Drive,8,IN,https://www.toyotabharat.com/showroom/innova/features-specs.html,2026-11-28,oem_listed_orderability_pending,pending
+Toyota,Innova Hycross,1987cc,hybrid,VX (O),e-Drive,7,IN,https://www.toyotabharat.com/showroom/innova/features-specs.html,2026-11-28,oem_listed_orderability_pending,pending
+Toyota,Innova Hycross,1987cc,hybrid,VX (O),e-Drive,8,IN,https://www.toyotabharat.com/showroom/innova/features-specs.html,2026-11-28,oem_listed_orderability_pending,pending
+Toyota,Innova Hycross,1987cc,hybrid,ZX,e-Drive,7,IN,https://www.toyotabharat.com/showroom/innova/features-specs.html,2026-11-28,oem_listed_orderability_pending,pending
+Toyota,Innova Hycross,1987cc,hybrid,ZX (O),e-Drive,7,IN,https://www.toyotabharat.com/showroom/innova/features-specs.html,2026-11-28,oem_listed_orderability_pending,pending
