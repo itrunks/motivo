@@ -1,0 +1,323 @@
+{
+  "catalogue": "https://www.volvocars.com/in/cars/family-cars/",
+  "retrieval_scope": "India OEM indexed pages retrieved 2026-11-28; prior XC90/XC60 detailed observations not independently reverified",
+  "models": [
+    {
+      "brand": "Volvo Cars",
+      "model": "XC90",
+      "source_url": "https://www.volvocars.com/in/cars/family-cars/",
+      "checked_at": "2026-11-28",
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "observations": {
+        "starting_price_inr": 9880000,
+        "powertrain": "mild hybrid"
+      },
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "unverified",
+          "reason": "Complete India documentation not established"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "unverified",
+          "reason": "Complete India documentation not established"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "unverified",
+          "reason": "Complete India documentation not established"
+        },
+        {
+          "field": "NVH",
+          "status": "unverified",
+          "reason": "Complete India documentation not established"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "unverified",
+          "reason": "Complete India documentation not established"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "unverified",
+          "reason": "Complete India documentation not established"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "unverified",
+          "reason": "Complete India documentation not established"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "unverified",
+          "reason": "Complete India documentation not established"
+        },
+        {
+          "field": "warranty",
+          "status": "unverified",
+          "reason": "Complete India documentation not established"
+        }
+      ]
+    },
+    {
+      "brand": "Volvo Cars",
+      "model": "XC60",
+      "source_url": "https://www.volvocars.com/in/cars/family-cars/",
+      "checked_at": "2026-11-28",
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "observations": {
+        "starting_price_inr": 7090000,
+        "powertrain": "mild hybrid"
+      },
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "unverified",
+          "reason": "Complete India documentation not established"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "unverified",
+          "reason": "Complete India documentation not established"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "unverified",
+          "reason": "Complete India documentation not established"
+        },
+        {
+          "field": "NVH",
+          "status": "unverified",
+          "reason": "Complete India documentation not established"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "unverified",
+          "reason": "Complete India documentation not established"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "unverified",
+          "reason": "Complete India documentation not established"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "unverified",
+          "reason": "Complete India documentation not established"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "unverified",
+          "reason": "Complete India documentation not established"
+        },
+        {
+          "field": "warranty",
+          "status": "unverified",
+          "reason": "Complete India documentation not established"
+        }
+      ]
+    },
+    {
+      "brand": "Volvo Cars",
+      "model": "EC40",
+      "source_url": "https://www.volvocars.com/in/cars/ec40-electric/",
+      "checked_at": "2026-11-28",
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "observations": {
+        "starting_price_inr": 5900000,
+        "model_year": 2027,
+        "range_km": 551,
+        "range_scope": "preliminary WLTP certification pending",
+        "charge_10_80_min": 28,
+        "dc_kw": 200,
+        "boot_l": 404
+      },
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "unverified",
+          "reason": "Complete India documentation not established"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "unverified",
+          "reason": "Complete India documentation not established"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "unverified",
+          "reason": "Complete India documentation not established"
+        },
+        {
+          "field": "NVH",
+          "status": "unverified",
+          "reason": "Complete India documentation not established"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "unverified",
+          "reason": "Complete India documentation not established"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "unverified",
+          "reason": "Complete India documentation not established"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "unverified",
+          "reason": "Complete India documentation not established"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "unverified",
+          "reason": "Complete India documentation not established"
+        },
+        {
+          "field": "warranty",
+          "status": "unverified",
+          "reason": "Complete India documentation not established"
+        }
+      ]
+    },
+    {
+      "brand": "Volvo Cars",
+      "model": "EX30",
+      "source_url": "https://www.volvocars.com/in/cars/ex30-electric/specifications/",
+      "checked_at": "2026-11-28",
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "observations": {
+        "starting_price_inr": 4100000,
+        "drive": "RWD",
+        "seats": 5,
+        "power_kw": 200,
+        "torque_nm": 343,
+        "battery_nominal_kwh": 69,
+        "range_km": 480,
+        "range_scope": "preliminary WLTP",
+        "zero_to_100_s": 5.3,
+        "charge_10_80_min": 28,
+        "dc_kw": 175
+      },
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "unverified",
+          "reason": "Complete India documentation not established"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "unverified",
+          "reason": "Complete India documentation not established"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "unverified",
+          "reason": "Complete India documentation not established"
+        },
+        {
+          "field": "NVH",
+          "status": "unverified",
+          "reason": "Complete India documentation not established"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "unverified",
+          "reason": "Complete India documentation not established"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "unverified",
+          "reason": "Complete India documentation not established"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "unverified",
+          "reason": "Complete India documentation not established"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "unverified",
+          "reason": "Complete India documentation not established"
+        },
+        {
+          "field": "warranty",
+          "status": "unverified",
+          "reason": "Complete India documentation not established"
+        }
+      ]
+    },
+    {
+      "brand": "Volvo Cars",
+      "model": "EX90",
+      "source_url": "https://www.volvocars.com/in/cars/ex90-electric/specifications/",
+      "checked_at": "2026-11-28",
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "observations": {
+        "drive": "AWD",
+        "seats": 6,
+        "power_kw": 335,
+        "torque_nm": 670,
+        "battery_nominal_kwh": 106,
+        "range_km": 625,
+        "range_scope": "OEM indicated up to; homologation unverified",
+        "zero_to_100_s": 5.5,
+        "charge_10_80_min": 22,
+        "dc_kw": 350
+      },
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "unverified",
+          "reason": "Complete India documentation not established"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "unverified",
+          "reason": "Complete India documentation not established"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "unverified",
+          "reason": "Complete India documentation not established"
+        },
+        {
+          "field": "NVH",
+          "status": "unverified",
+          "reason": "Complete India documentation not established"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "unverified",
+          "reason": "Complete India documentation not established"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "unverified",
+          "reason": "Complete India documentation not established"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "unverified",
+          "reason": "Complete India documentation not established"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "unverified",
+          "reason": "Complete India documentation not established"
+        },
+        {
+          "field": "warranty",
+          "status": "unverified",
+          "reason": "Complete India documentation not established"
+        }
+      ]
+    }
+  ]
+}
