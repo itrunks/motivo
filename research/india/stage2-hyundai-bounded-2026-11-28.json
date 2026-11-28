@@ -1,0 +1,831 @@
+[
+  {
+    "brand": "Hyundai",
+    "model": "Creta",
+    "source_url": "https://www.hyundai.com/in/en/find-a-car/creta/features",
+    "checked_at": "2026-11-28",
+    "locator": "52–104",
+    "observations": {
+      "six_airbags": "all listed trims",
+      "highline_tpms": "all listed trims",
+      "rear_camera_absent": [
+        "E",
+        "EX"
+      ],
+      "forward_collision_warning_present": [
+        "King",
+        "King Knight",
+        "Lounge Edition"
+      ]
+    },
+    "evidence_status": "retrieved_selected_facts",
+    "publication_review": "pending",
+    "gaps": [
+      {
+        "field": "full_variant_feature_matrix",
+        "status": "not_available",
+        "reason": "not established in bounded selected-feature review"
+      },
+      {
+        "field": "current_variant_prices",
+        "status": "not_available",
+        "reason": "not established in bounded selected-feature review"
+      },
+      {
+        "field": "NVH",
+        "status": "not_available",
+        "reason": "not established in bounded selected-feature review"
+      },
+      {
+        "field": "real_world_efficiency",
+        "status": "not_available",
+        "reason": "not established in bounded selected-feature review"
+      },
+      {
+        "field": "suspension_tuning",
+        "status": "not_available",
+        "reason": "not established in bounded selected-feature review"
+      },
+      {
+        "field": "OEM_accessories",
+        "status": "not_available",
+        "reason": "not established in bounded selected-feature review"
+      },
+      {
+        "field": "ownership_cost",
+        "status": "not_available",
+        "reason": "not established in bounded selected-feature review"
+      },
+      {
+        "field": "warranty",
+        "status": "not_available",
+        "reason": "not established in bounded selected-feature review"
+      }
+    ]
+  },
+  {
+    "brand": "Hyundai",
+    "model": "Venue",
+    "source_url": "https://www.hyundai.com/in/en/find-a-car/venue/features",
+    "checked_at": "2026-11-28",
+    "locator": "50–96",
+    "observations": {
+      "six_airbags": "all listed trims",
+      "highline_tpms_absent": [
+        "HX2"
+      ],
+      "rear_camera_absent": [
+        "HX2"
+      ],
+      "forward_collision_warning_present": [
+        "HX10",
+        "HX10 Knight"
+      ]
+    },
+    "evidence_status": "retrieved_selected_facts",
+    "publication_review": "pending",
+    "gaps": [
+      {
+        "field": "full_variant_feature_matrix",
+        "status": "not_available",
+        "reason": "not established in bounded selected-feature review"
+      },
+      {
+        "field": "current_variant_prices",
+        "status": "not_available",
+        "reason": "not established in bounded selected-feature review"
+      },
+      {
+        "field": "NVH",
+        "status": "not_available",
+        "reason": "not established in bounded selected-feature review"
+      },
+      {
+        "field": "real_world_efficiency",
+        "status": "not_available",
+        "reason": "not established in bounded selected-feature review"
+      },
+      {
+        "field": "suspension_tuning",
+        "status": "not_available",
+        "reason": "not established in bounded selected-feature review"
+      },
+      {
+        "field": "OEM_accessories",
+        "status": "not_available",
+        "reason": "not established in bounded selected-feature review"
+      },
+      {
+        "field": "ownership_cost",
+        "status": "not_available",
+        "reason": "not established in bounded selected-feature review"
+      },
+      {
+        "field": "warranty",
+        "status": "not_available",
+        "reason": "not established in bounded selected-feature review"
+      }
+    ]
+  },
+  {
+    "brand": "Hyundai",
+    "model": "Verna",
+    "source_url": "https://www.hyundai.com/in/en/find-a-car/verna/features",
+    "checked_at": "2026-11-28",
+    "locator": "45–55",
+    "observations": {
+      "rear_parking_sensors": "all six displayed columns",
+      "automatic_headlamps": "all six displayed columns"
+    },
+    "evidence_status": "retrieved_selected_facts",
+    "publication_review": "pending",
+    "gaps": [
+      {
+        "field": "full_variant_feature_matrix",
+        "status": "not_available",
+        "reason": "not established in bounded selected-feature review"
+      },
+      {
+        "field": "current_variant_prices",
+        "status": "not_available",
+        "reason": "not established in bounded selected-feature review"
+      },
+      {
+        "field": "NVH",
+        "status": "not_available",
+        "reason": "not established in bounded selected-feature review"
+      },
+      {
+        "field": "real_world_efficiency",
+        "status": "not_available",
+        "reason": "not established in bounded selected-feature review"
+      },
+      {
+        "field": "suspension_tuning",
+        "status": "not_available",
+        "reason": "not established in bounded selected-feature review"
+      },
+      {
+        "field": "OEM_accessories",
+        "status": "not_available",
+        "reason": "not established in bounded selected-feature review"
+      },
+      {
+        "field": "ownership_cost",
+        "status": "not_available",
+        "reason": "not established in bounded selected-feature review"
+      },
+      {
+        "field": "warranty",
+        "status": "not_available",
+        "reason": "not established in bounded selected-feature review"
+      }
+    ]
+  },
+  {
+    "brand": "Hyundai",
+    "model": "Aura",
+    "source_url": "https://www.hyundai.com/in/en/find-a-car/aura/features",
+    "checked_at": "2026-11-28",
+    "locator": "53–57",
+    "observations": {
+      "petrol_MT": [
+        "E",
+        "S",
+        "SX",
+        "SX(O)"
+      ],
+      "petrol_AMT": [
+        "SX+"
+      ],
+      "CNG_MT": [
+        "S",
+        "SX"
+      ]
+    },
+    "evidence_status": "retrieved_selected_facts",
+    "publication_review": "pending",
+    "gaps": [
+      {
+        "field": "full_variant_feature_matrix",
+        "status": "not_available",
+        "reason": "not established in bounded selected-feature review"
+      },
+      {
+        "field": "current_variant_prices",
+        "status": "not_available",
+        "reason": "not established in bounded selected-feature review"
+      },
+      {
+        "field": "NVH",
+        "status": "not_available",
+        "reason": "not established in bounded selected-feature review"
+      },
+      {
+        "field": "real_world_efficiency",
+        "status": "not_available",
+        "reason": "not established in bounded selected-feature review"
+      },
+      {
+        "field": "suspension_tuning",
+        "status": "not_available",
+        "reason": "not established in bounded selected-feature review"
+      },
+      {
+        "field": "OEM_accessories",
+        "status": "not_available",
+        "reason": "not established in bounded selected-feature review"
+      },
+      {
+        "field": "ownership_cost",
+        "status": "not_available",
+        "reason": "not established in bounded selected-feature review"
+      },
+      {
+        "field": "warranty",
+        "status": "not_available",
+        "reason": "not established in bounded selected-feature review"
+      }
+    ]
+  },
+  {
+    "brand": "Hyundai",
+    "model": "Venue N Line",
+    "source_url": "https://www.hyundai.com/in/en/find-a-car/venue-n-line/features",
+    "checked_at": "2026-11-28",
+    "locator": "47–62",
+    "observations": {
+      "turbo_petrol_MT": [
+        "N6"
+      ],
+      "turbo_petrol_DCT": [
+        "N6",
+        "N10"
+      ],
+      "rear_disc_brakes": "both trims"
+    },
+    "evidence_status": "retrieved_selected_facts",
+    "publication_review": "pending",
+    "gaps": [
+      {
+        "field": "full_variant_feature_matrix",
+        "status": "not_available",
+        "reason": "not established in bounded selected-feature review"
+      },
+      {
+        "field": "current_variant_prices",
+        "status": "not_available",
+        "reason": "not established in bounded selected-feature review"
+      },
+      {
+        "field": "NVH",
+        "status": "not_available",
+        "reason": "not established in bounded selected-feature review"
+      },
+      {
+        "field": "real_world_efficiency",
+        "status": "not_available",
+        "reason": "not established in bounded selected-feature review"
+      },
+      {
+        "field": "suspension_tuning",
+        "status": "not_available",
+        "reason": "not established in bounded selected-feature review"
+      },
+      {
+        "field": "OEM_accessories",
+        "status": "not_available",
+        "reason": "not established in bounded selected-feature review"
+      },
+      {
+        "field": "ownership_cost",
+        "status": "not_available",
+        "reason": "not established in bounded selected-feature review"
+      },
+      {
+        "field": "warranty",
+        "status": "not_available",
+        "reason": "not established in bounded selected-feature review"
+      }
+    ]
+  },
+  {
+    "brand": "Hyundai",
+    "model": "Creta N Line",
+    "source_url": "https://www.hyundai.com/in/en/find-a-car/creta-n-line/features",
+    "checked_at": "2026-11-28",
+    "locator": "42–57",
+    "observations": {
+      "turbo_petrol_MT": [
+        "N10"
+      ],
+      "turbo_petrol_DCT": [
+        "N8",
+        "N10"
+      ],
+      "rear_disc_brakes": "both trims"
+    },
+    "evidence_status": "retrieved_selected_facts",
+    "publication_review": "pending",
+    "gaps": [
+      {
+        "field": "full_variant_feature_matrix",
+        "status": "not_available",
+        "reason": "not established in bounded selected-feature review"
+      },
+      {
+        "field": "current_variant_prices",
+        "status": "not_available",
+        "reason": "not established in bounded selected-feature review"
+      },
+      {
+        "field": "NVH",
+        "status": "not_available",
+        "reason": "not established in bounded selected-feature review"
+      },
+      {
+        "field": "real_world_efficiency",
+        "status": "not_available",
+        "reason": "not established in bounded selected-feature review"
+      },
+      {
+        "field": "suspension_tuning",
+        "status": "not_available",
+        "reason": "not established in bounded selected-feature review"
+      },
+      {
+        "field": "OEM_accessories",
+        "status": "not_available",
+        "reason": "not established in bounded selected-feature review"
+      },
+      {
+        "field": "ownership_cost",
+        "status": "not_available",
+        "reason": "not established in bounded selected-feature review"
+      },
+      {
+        "field": "warranty",
+        "status": "not_available",
+        "reason": "not established in bounded selected-feature review"
+      }
+    ]
+  },
+  {
+    "brand": "Hyundai",
+    "model": "Exter",
+    "source_url": "https://www.hyundai.com/in/en/find-a-car/exter/features",
+    "checked_at": "2026-11-28",
+    "locator": "43–47",
+    "observations": {
+      "ABS_EBD": "all displayed columns",
+      "ESC": "all displayed columns",
+      "hill_assist": "all displayed columns"
+    },
+    "evidence_status": "retrieved_selected_facts",
+    "publication_review": "pending",
+    "gaps": [
+      {
+        "field": "full_variant_feature_matrix",
+        "status": "not_available",
+        "reason": "not established in bounded selected-feature review"
+      },
+      {
+        "field": "current_variant_prices",
+        "status": "not_available",
+        "reason": "not established in bounded selected-feature review"
+      },
+      {
+        "field": "NVH",
+        "status": "not_available",
+        "reason": "not established in bounded selected-feature review"
+      },
+      {
+        "field": "real_world_efficiency",
+        "status": "not_available",
+        "reason": "not established in bounded selected-feature review"
+      },
+      {
+        "field": "suspension_tuning",
+        "status": "not_available",
+        "reason": "not established in bounded selected-feature review"
+      },
+      {
+        "field": "OEM_accessories",
+        "status": "not_available",
+        "reason": "not established in bounded selected-feature review"
+      },
+      {
+        "field": "ownership_cost",
+        "status": "not_available",
+        "reason": "not established in bounded selected-feature review"
+      },
+      {
+        "field": "warranty",
+        "status": "not_available",
+        "reason": "not established in bounded selected-feature review"
+      }
+    ]
+  },
+  {
+    "brand": "Hyundai",
+    "model": "Alcazar",
+    "source_url": "https://www.hyundai.com/in/en/find-a-car/alcazar/features",
+    "checked_at": "2026-11-28",
+    "locator": "42–54",
+    "observations": {
+      "diesel_AT_5seat": [
+        "Lounge Edition"
+      ],
+      "petrol_DCT_6seat": [
+        "Signature"
+      ],
+      "six_airbags": "all listed trims"
+    },
+    "evidence_status": "retrieved_selected_facts",
+    "publication_review": "pending",
+    "gaps": [
+      {
+        "field": "full_variant_feature_matrix",
+        "status": "not_available",
+        "reason": "not established in bounded selected-feature review"
+      },
+      {
+        "field": "current_variant_prices",
+        "status": "not_available",
+        "reason": "not established in bounded selected-feature review"
+      },
+      {
+        "field": "NVH",
+        "status": "not_available",
+        "reason": "not established in bounded selected-feature review"
+      },
+      {
+        "field": "real_world_efficiency",
+        "status": "not_available",
+        "reason": "not established in bounded selected-feature review"
+      },
+      {
+        "field": "suspension_tuning",
+        "status": "not_available",
+        "reason": "not established in bounded selected-feature review"
+      },
+      {
+        "field": "OEM_accessories",
+        "status": "not_available",
+        "reason": "not established in bounded selected-feature review"
+      },
+      {
+        "field": "ownership_cost",
+        "status": "not_available",
+        "reason": "not established in bounded selected-feature review"
+      },
+      {
+        "field": "warranty",
+        "status": "not_available",
+        "reason": "not established in bounded selected-feature review"
+      }
+    ]
+  },
+  {
+    "brand": "Hyundai",
+    "model": "Grand i10 NIOS",
+    "source_url": "https://www.hyundai.com/in/en/find-a-car/grand-i10-nios/features",
+    "checked_at": "2026-11-28",
+    "locator": "42–60",
+    "observations": {
+      "six_airbags": "all listed trims",
+      "ESC_Corporate": "AMT only",
+      "ESC_absent": [
+        "Era",
+        "Magna"
+      ]
+    },
+    "evidence_status": "retrieved_selected_facts",
+    "publication_review": "pending",
+    "gaps": [
+      {
+        "field": "full_variant_feature_matrix",
+        "status": "not_available",
+        "reason": "not established in bounded selected-feature review"
+      },
+      {
+        "field": "current_variant_prices",
+        "status": "not_available",
+        "reason": "not established in bounded selected-feature review"
+      },
+      {
+        "field": "NVH",
+        "status": "not_available",
+        "reason": "not established in bounded selected-feature review"
+      },
+      {
+        "field": "real_world_efficiency",
+        "status": "not_available",
+        "reason": "not established in bounded selected-feature review"
+      },
+      {
+        "field": "suspension_tuning",
+        "status": "not_available",
+        "reason": "not established in bounded selected-feature review"
+      },
+      {
+        "field": "OEM_accessories",
+        "status": "not_available",
+        "reason": "not established in bounded selected-feature review"
+      },
+      {
+        "field": "ownership_cost",
+        "status": "not_available",
+        "reason": "not established in bounded selected-feature review"
+      },
+      {
+        "field": "warranty",
+        "status": "not_available",
+        "reason": "not established in bounded selected-feature review"
+      }
+    ]
+  },
+  {
+    "brand": "Hyundai",
+    "model": "i20",
+    "source_url": "https://www.hyundai.com/in/en/find-a-car/i20/features",
+    "checked_at": "2026-11-28",
+    "locator": "42–58",
+    "observations": {
+      "six_airbags": "all listed trims",
+      "dashcam_Asta_O": "IVT only",
+      "ESC": "all listed trims"
+    },
+    "evidence_status": "retrieved_selected_facts",
+    "publication_review": "pending",
+    "gaps": [
+      {
+        "field": "full_variant_feature_matrix",
+        "status": "not_available",
+        "reason": "not established in bounded selected-feature review"
+      },
+      {
+        "field": "current_variant_prices",
+        "status": "not_available",
+        "reason": "not established in bounded selected-feature review"
+      },
+      {
+        "field": "NVH",
+        "status": "not_available",
+        "reason": "not established in bounded selected-feature review"
+      },
+      {
+        "field": "real_world_efficiency",
+        "status": "not_available",
+        "reason": "not established in bounded selected-feature review"
+      },
+      {
+        "field": "suspension_tuning",
+        "status": "not_available",
+        "reason": "not established in bounded selected-feature review"
+      },
+      {
+        "field": "OEM_accessories",
+        "status": "not_available",
+        "reason": "not established in bounded selected-feature review"
+      },
+      {
+        "field": "ownership_cost",
+        "status": "not_available",
+        "reason": "not established in bounded selected-feature review"
+      },
+      {
+        "field": "warranty",
+        "status": "not_available",
+        "reason": "not established in bounded selected-feature review"
+      }
+    ]
+  },
+  {
+    "brand": "Hyundai",
+    "model": "i20 N Line",
+    "source_url": "https://www.hyundai.com/in/en/find-a-car/i20-n-line/features",
+    "checked_at": "2026-11-28",
+    "locator": "41–56",
+    "observations": {
+      "turbo_petrol_MT": [
+        "N6",
+        "N8"
+      ],
+      "turbo_petrol_DCT": [
+        "N8"
+      ],
+      "rear_disc_brakes": "both trims"
+    },
+    "evidence_status": "retrieved_selected_facts",
+    "publication_review": "pending",
+    "gaps": [
+      {
+        "field": "full_variant_feature_matrix",
+        "status": "not_available",
+        "reason": "not established in bounded selected-feature review"
+      },
+      {
+        "field": "current_variant_prices",
+        "status": "not_available",
+        "reason": "not established in bounded selected-feature review"
+      },
+      {
+        "field": "NVH",
+        "status": "not_available",
+        "reason": "not established in bounded selected-feature review"
+      },
+      {
+        "field": "real_world_efficiency",
+        "status": "not_available",
+        "reason": "not established in bounded selected-feature review"
+      },
+      {
+        "field": "suspension_tuning",
+        "status": "not_available",
+        "reason": "not established in bounded selected-feature review"
+      },
+      {
+        "field": "OEM_accessories",
+        "status": "not_available",
+        "reason": "not established in bounded selected-feature review"
+      },
+      {
+        "field": "ownership_cost",
+        "status": "not_available",
+        "reason": "not established in bounded selected-feature review"
+      },
+      {
+        "field": "warranty",
+        "status": "not_available",
+        "reason": "not established in bounded selected-feature review"
+      }
+    ]
+  },
+  {
+    "brand": "Hyundai",
+    "model": "IONIQ 5",
+    "source_url": "https://www.hyundai.com/in/en/find-a-car/ioniq5/features",
+    "checked_at": "2026-11-28",
+    "locator": null,
+    "observations": {},
+    "evidence_status": "source_inaccessible_via_tool",
+    "publication_review": "pending",
+    "gaps": [
+      {
+        "field": "full_variant_feature_matrix",
+        "status": "not_available",
+        "reason": "not established in bounded selected-feature review"
+      },
+      {
+        "field": "current_variant_prices",
+        "status": "not_available",
+        "reason": "not established in bounded selected-feature review"
+      },
+      {
+        "field": "NVH",
+        "status": "not_available",
+        "reason": "not established in bounded selected-feature review"
+      },
+      {
+        "field": "real_world_efficiency",
+        "status": "not_available",
+        "reason": "not established in bounded selected-feature review"
+      },
+      {
+        "field": "suspension_tuning",
+        "status": "not_available",
+        "reason": "not established in bounded selected-feature review"
+      },
+      {
+        "field": "OEM_accessories",
+        "status": "not_available",
+        "reason": "not established in bounded selected-feature review"
+      },
+      {
+        "field": "ownership_cost",
+        "status": "not_available",
+        "reason": "not established in bounded selected-feature review"
+      },
+      {
+        "field": "warranty",
+        "status": "not_available",
+        "reason": "not established in bounded selected-feature review"
+      }
+    ]
+  },
+  {
+    "brand": "Hyundai",
+    "model": "Creta Electric",
+    "source_url": "https://www.hyundai.com/in/en/find-a-car/creta-electric/features",
+    "checked_at": "2026-11-28",
+    "locator": "47–57",
+    "observations": {
+      "battery_kwh": [
+        42,
+        51.4
+      ],
+      "six_airbags": "all displayed trims",
+      "ESC": "all displayed trims"
+    },
+    "evidence_status": "retrieved_selected_facts",
+    "publication_review": "pending",
+    "gaps": [
+      {
+        "field": "full_variant_feature_matrix",
+        "status": "not_available",
+        "reason": "not established in bounded selected-feature review"
+      },
+      {
+        "field": "current_variant_prices",
+        "status": "not_available",
+        "reason": "not established in bounded selected-feature review"
+      },
+      {
+        "field": "NVH",
+        "status": "not_available",
+        "reason": "not established in bounded selected-feature review"
+      },
+      {
+        "field": "real_world_efficiency",
+        "status": "not_available",
+        "reason": "not established in bounded selected-feature review"
+      },
+      {
+        "field": "suspension_tuning",
+        "status": "not_available",
+        "reason": "not established in bounded selected-feature review"
+      },
+      {
+        "field": "OEM_accessories",
+        "status": "not_available",
+        "reason": "not established in bounded selected-feature review"
+      },
+      {
+        "field": "ownership_cost",
+        "status": "not_available",
+        "reason": "not established in bounded selected-feature review"
+      },
+      {
+        "field": "warranty",
+        "status": "not_available",
+        "reason": "not established in bounded selected-feature review"
+      }
+    ]
+  },
+  {
+    "brand": "Hyundai",
+    "model": "BAYON",
+    "source_url": "https://www.hyundai.com/in/en/find-a-car/bayon/features",
+    "checked_at": "2026-11-28",
+    "locator": "42–53",
+    "observations": {
+      "highline_tpms": "all seven displayed columns",
+      "rear_parking_sensors": "all seven displayed columns"
+    },
+    "evidence_status": "retrieved_selected_facts",
+    "publication_review": "pending",
+    "gaps": [
+      {
+        "field": "full_variant_feature_matrix",
+        "status": "not_available",
+        "reason": "not established in bounded selected-feature review"
+      },
+      {
+        "field": "current_variant_prices",
+        "status": "not_available",
+        "reason": "not established in bounded selected-feature review"
+      },
+      {
+        "field": "NVH",
+        "status": "not_available",
+        "reason": "not established in bounded selected-feature review"
+      },
+      {
+        "field": "real_world_efficiency",
+        "status": "not_available",
+        "reason": "not established in bounded selected-feature review"
+      },
+      {
+        "field": "suspension_tuning",
+        "status": "not_available",
+        "reason": "not established in bounded selected-feature review"
+      },
+      {
+        "field": "OEM_accessories",
+        "status": "not_available",
+        "reason": "not established in bounded selected-feature review"
+      },
+      {
+        "field": "ownership_cost",
+        "status": "not_available",
+        "reason": "not established in bounded selected-feature review"
+      },
+      {
+        "field": "warranty",
+        "status": "not_available",
+        "reason": "not established in bounded selected-feature review"
+      }
+    ]
+  }
+]
