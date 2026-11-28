@@ -21,8 +21,8 @@ Recovered historical inventory: 251 model rows, 35 brands. This is not a current
 |---|---:|---|
 | Maruti Suzuki | 17 | Nameplates matched; SKU pending |
 | Hyundai | 14 | Nameplates matched; SKU and Tucson exception pending |
-| Mahindra | 13 | Pending |
-| Kia | 9 | Pending |
+| Mahindra | 13 | Initial lineup checked; Neo Plus candidate and orderability open |
+| Kia | 9 | Initial lineup checked; two new candidates and EV9 exception |
 | Toyota | 13 | Pending |
 | MG Motor | 10 | Pending |
 | Tata Motors | 16 | Pending |
@@ -64,3 +64,9 @@ OEM passenger retail lineup matched all 17 historical nameplates: Arena 10, Nexa
 ## Stage 1 — Hyundai checkpoint (2026-11-28)
 
 All 14 historical passenger nameplates match the current India retail finder: Verna, Aura, Venue, Venue N Line, Creta, Creta N Line, Exter, Alcazar, Grand i10 NIOS, i20, i20 N Line, IONIQ 5, Creta Electric, Bayon. Sources checked: https://www.hyundai.com/in/en/find-a-car and https://www.hyundai.com/in/en.html . Prime-HB and Prime-SD explicitly classified as taxis in the finder, outside passenger retail scope. Tucson and Kona Electric occur in the sitemap/owner support but not current retail finder; do not infer discontinuation or dealer stock. Tucson also appears in corporate about page, so retain orderability as an open exception. Exact SKU inventory pending. No price or production data imported.
+
+## Stage 1 — Mahindra and Kia checkpoints (2026-11-28)
+
+Mahindra: all 13 historical nameplates have OEM listing or launch evidence. Thar is now labelled Thar OG. Bolero Neo Plus is an additional SUV listing missing from legacy inventory; retain as candidate pending passenger vs fleet configuration classification. XUV400 remains in navigation but current orderability unresolved. BE 6, XEV 9e and XEV 9S have OEM evidence; electric configurator and exact SKU check pending. Sources https://auto.mahindra.com/ , https://auto.mahindra.com/suv , https://www.mahindra.com/annual-report-FY2026/171/ .
+
+Kia: all nine legacy nameplates appear on OEM homepage, including EV9; EV9 absent from current buy navigation, so orderability unresolved. Two additional nameplates appear on OEM homepage and buy navigation: Sorento and Syros EV. Add as candidates; exact launch/retail availability and variants to confirm. Sources https://www.kia.com/in/home.html and https://www.kia.com/in/buy/kid.html . Do not add Carnival HEV solely from investor plans. No production prices imported.
