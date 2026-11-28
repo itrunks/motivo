@@ -1,0 +1,60 @@
+brand,model,engine,fuel,transmission,trim,market,retrieved_at,source_url,status,publication_review
+Kia,Seltos,1.5 G,petrol,6MT,HTE,IN,2026-11-28,https://www.kia.com/in/our-vehicles/seltos/specs.html,indexed_matrix_orderability_pending,pending
+Kia,Seltos,1.5 CRDi VGT,diesel,6MT,HTE,IN,2026-11-28,https://www.kia.com/in/our-vehicles/seltos/specs.html,indexed_matrix_orderability_pending,pending
+Kia,Seltos,1.5 G,petrol,6MT,HTE(O),IN,2026-11-28,https://www.kia.com/in/our-vehicles/seltos/specs.html,indexed_matrix_orderability_pending,pending
+Kia,Seltos,1.5 G,petrol,IVT,HTE(O),IN,2026-11-28,https://www.kia.com/in/our-vehicles/seltos/specs.html,indexed_matrix_orderability_pending,pending
+Kia,Seltos,1.5 T-GDi,petrol,6iMT,HTE(O),IN,2026-11-28,https://www.kia.com/in/our-vehicles/seltos/specs.html,indexed_matrix_orderability_pending,pending
+Kia,Seltos,1.5 CRDi VGT,diesel,6MT,HTE(O),IN,2026-11-28,https://www.kia.com/in/our-vehicles/seltos/specs.html,indexed_matrix_orderability_pending,pending
+Kia,Seltos,1.5 CRDi VGT,diesel,6AT,HTE(O),IN,2026-11-28,https://www.kia.com/in/our-vehicles/seltos/specs.html,indexed_matrix_orderability_pending,pending
+Kia,Seltos,1.5 G,petrol,6MT,HTK,IN,2026-11-28,https://www.kia.com/in/our-vehicles/seltos/specs.html,indexed_matrix_orderability_pending,pending
+Kia,Seltos,1.5 G,petrol,IVT,HTK,IN,2026-11-28,https://www.kia.com/in/our-vehicles/seltos/specs.html,indexed_matrix_orderability_pending,pending
+Kia,Seltos,1.5 T-GDi,petrol,6iMT,HTK,IN,2026-11-28,https://www.kia.com/in/our-vehicles/seltos/specs.html,indexed_matrix_orderability_pending,pending
+Kia,Seltos,1.5 CRDi VGT,diesel,6MT,HTK,IN,2026-11-28,https://www.kia.com/in/our-vehicles/seltos/specs.html,indexed_matrix_orderability_pending,pending
+Kia,Seltos,1.5 CRDi VGT,diesel,6AT,HTK,IN,2026-11-28,https://www.kia.com/in/our-vehicles/seltos/specs.html,indexed_matrix_orderability_pending,pending
+Kia,Seltos,1.5 G,petrol,6MT,HTK(O),IN,2026-11-28,https://www.kia.com/in/our-vehicles/seltos/specs.html,indexed_matrix_orderability_pending,pending
+Kia,Seltos,1.5 G,petrol,IVT,HTK(O),IN,2026-11-28,https://www.kia.com/in/our-vehicles/seltos/specs.html,indexed_matrix_orderability_pending,pending
+Kia,Seltos,1.5 T-GDi,petrol,6iMT,HTK(O),IN,2026-11-28,https://www.kia.com/in/our-vehicles/seltos/specs.html,indexed_matrix_orderability_pending,pending
+Kia,Seltos,1.5 T-GDi,petrol,7DCT,HTK(O),IN,2026-11-28,https://www.kia.com/in/our-vehicles/seltos/specs.html,indexed_matrix_orderability_pending,pending
+Kia,Seltos,1.5 CRDi VGT,diesel,6MT,HTK(O),IN,2026-11-28,https://www.kia.com/in/our-vehicles/seltos/specs.html,indexed_matrix_orderability_pending,pending
+Kia,Seltos,1.5 CRDi VGT,diesel,6AT,HTK(O),IN,2026-11-28,https://www.kia.com/in/our-vehicles/seltos/specs.html,indexed_matrix_orderability_pending,pending
+Kia,Seltos,1.5 G,petrol,6MT,HTX,IN,2026-11-28,https://www.kia.com/in/our-vehicles/seltos/specs.html,indexed_matrix_orderability_pending,pending
+Kia,Seltos,1.5 G,petrol,IVT,HTX,IN,2026-11-28,https://www.kia.com/in/our-vehicles/seltos/specs.html,indexed_matrix_orderability_pending,pending
+Kia,Seltos,1.5 T-GDi,petrol,7DCT,HTX,IN,2026-11-28,https://www.kia.com/in/our-vehicles/seltos/specs.html,indexed_matrix_orderability_pending,pending
+Kia,Seltos,1.5 CRDi VGT,diesel,6MT,HTX,IN,2026-11-28,https://www.kia.com/in/our-vehicles/seltos/specs.html,indexed_matrix_orderability_pending,pending
+Kia,Seltos,1.5 CRDi VGT,diesel,6AT,HTX,IN,2026-11-28,https://www.kia.com/in/our-vehicles/seltos/specs.html,indexed_matrix_orderability_pending,pending
+Kia,Seltos,1.5 G,petrol,6MT,HTX(A),IN,2026-11-28,https://www.kia.com/in/our-vehicles/seltos/specs.html,indexed_matrix_orderability_pending,pending
+Kia,Seltos,1.5 G,petrol,IVT,HTX(A),IN,2026-11-28,https://www.kia.com/in/our-vehicles/seltos/specs.html,indexed_matrix_orderability_pending,pending
+Kia,Seltos,1.5 T-GDi,petrol,7DCT,HTX(A),IN,2026-11-28,https://www.kia.com/in/our-vehicles/seltos/specs.html,indexed_matrix_orderability_pending,pending
+Kia,Seltos,1.5 CRDi VGT,diesel,6MT,HTX(A),IN,2026-11-28,https://www.kia.com/in/our-vehicles/seltos/specs.html,indexed_matrix_orderability_pending,pending
+Kia,Seltos,1.5 CRDi VGT,diesel,6AT,HTX(A),IN,2026-11-28,https://www.kia.com/in/our-vehicles/seltos/specs.html,indexed_matrix_orderability_pending,pending
+Kia,Seltos,1.5 G,petrol,IVT,GTX,IN,2026-11-28,https://www.kia.com/in/our-vehicles/seltos/specs.html,indexed_matrix_orderability_pending,pending
+Kia,Seltos,1.5 T-GDi,petrol,7DCT,GTX,IN,2026-11-28,https://www.kia.com/in/our-vehicles/seltos/specs.html,indexed_matrix_orderability_pending,pending
+Kia,Seltos,1.5 G,petrol,IVT,X-Line,IN,2026-11-28,https://www.kia.com/in/our-vehicles/seltos/specs.html,indexed_matrix_orderability_pending,pending
+Kia,Seltos,1.5 T-GDi,petrol,7DCT,X-Line,IN,2026-11-28,https://www.kia.com/in/our-vehicles/seltos/specs.html,indexed_matrix_orderability_pending,pending
+Kia,Seltos,1.5 G,petrol,IVT,GTX(A),IN,2026-11-28,https://www.kia.com/in/our-vehicles/seltos/specs.html,indexed_matrix_orderability_pending,pending
+Kia,Seltos,1.5 T-GDi,petrol,7DCT,GTX(A),IN,2026-11-28,https://www.kia.com/in/our-vehicles/seltos/specs.html,indexed_matrix_orderability_pending,pending
+Kia,Seltos,1.5 CRDi VGT,diesel,6AT,GTX(A),IN,2026-11-28,https://www.kia.com/in/our-vehicles/seltos/specs.html,indexed_matrix_orderability_pending,pending
+Kia,Seltos,1.5 G,petrol,IVT,X-Line (A),IN,2026-11-28,https://www.kia.com/in/our-vehicles/seltos/specs.html,indexed_matrix_orderability_pending,pending
+Kia,Seltos,1.5 T-GDi,petrol,7DCT,X-Line (A),IN,2026-11-28,https://www.kia.com/in/our-vehicles/seltos/specs.html,indexed_matrix_orderability_pending,pending
+Kia,Seltos,1.5 CRDi VGT,diesel,6AT,X-Line (A),IN,2026-11-28,https://www.kia.com/in/our-vehicles/seltos/specs.html,indexed_matrix_orderability_pending,pending
+Kia,Seltos,1.5 T-GDi,petrol,7DCT,GTX(O),IN,2026-11-28,https://www.kia.com/in/our-vehicles/seltos/specs.html,indexed_matrix_orderability_pending,pending
+Kia,Seltos,1.5 CRDi VGT,diesel,6AT,GTX(O),IN,2026-11-28,https://www.kia.com/in/our-vehicles/seltos/specs.html,indexed_matrix_orderability_pending,pending
+Kia,Seltos,1.5 T-GDi,petrol,7DCT,X-Line (O),IN,2026-11-28,https://www.kia.com/in/our-vehicles/seltos/specs.html,indexed_matrix_orderability_pending,pending
+Kia,Seltos,1.5 CRDi VGT,diesel,6AT,X-Line (O),IN,2026-11-28,https://www.kia.com/in/our-vehicles/seltos/specs.html,indexed_matrix_orderability_pending,pending
+Kia,Syros,1.0 T-GDi,petrol,6MT,HTE,IN,2026-11-28,https://www.kia.com/in/our-vehicles/syros/specs/compare-trims.html,indexed_matrix_orderability_pending,pending
+Kia,Syros,1.0 T-GDi,petrol,6MT,HTE(O),IN,2026-11-28,https://www.kia.com/in/our-vehicles/syros/specs/compare-trims.html,indexed_matrix_orderability_pending,pending
+Kia,Syros,1.0 T-GDi,petrol,6MT,HTK(EX),IN,2026-11-28,https://www.kia.com/in/our-vehicles/syros/specs/compare-trims.html,indexed_matrix_orderability_pending,pending
+Kia,Syros,1.0 T-GDi,petrol,6MT,HTK+,IN,2026-11-28,https://www.kia.com/in/our-vehicles/syros/specs/compare-trims.html,indexed_matrix_orderability_pending,pending
+Kia,Syros,1.0 T-GDi,petrol,6MT,HTK+(O),IN,2026-11-28,https://www.kia.com/in/our-vehicles/syros/specs/compare-trims.html,indexed_matrix_orderability_pending,pending
+Kia,Syros,1.0 T-GDi,petrol,7DCT,HTK+,IN,2026-11-28,https://www.kia.com/in/our-vehicles/syros/specs/compare-trims.html,indexed_matrix_orderability_pending,pending
+Kia,Syros,1.0 T-GDi,petrol,7DCT,HTK+(O),IN,2026-11-28,https://www.kia.com/in/our-vehicles/syros/specs/compare-trims.html,indexed_matrix_orderability_pending,pending
+Kia,Syros,1.0 T-GDi,petrol,7DCT,HTX,IN,2026-11-28,https://www.kia.com/in/our-vehicles/syros/specs/compare-trims.html,indexed_matrix_orderability_pending,pending
+Kia,Syros,1.0 T-GDi,petrol,7DCT,HTX(O),IN,2026-11-28,https://www.kia.com/in/our-vehicles/syros/specs/compare-trims.html,indexed_matrix_orderability_pending,pending
+Kia,Syros,1.5 CRDi VGT,diesel,6MT,HTE(O),IN,2026-11-28,https://www.kia.com/in/our-vehicles/syros/specs/compare-trims.html,indexed_matrix_orderability_pending,pending
+Kia,Syros,1.5 CRDi VGT,diesel,6MT,HTK(EX),IN,2026-11-28,https://www.kia.com/in/our-vehicles/syros/specs/compare-trims.html,indexed_matrix_orderability_pending,pending
+Kia,Syros,1.5 CRDi VGT,diesel,6MT,HTK+,IN,2026-11-28,https://www.kia.com/in/our-vehicles/syros/specs/compare-trims.html,indexed_matrix_orderability_pending,pending
+Kia,Syros,1.5 CRDi VGT,diesel,6MT,HTK+(O),IN,2026-11-28,https://www.kia.com/in/our-vehicles/syros/specs/compare-trims.html,indexed_matrix_orderability_pending,pending
+Kia,Syros,1.5 CRDi VGT,diesel,6AT,HTK+,IN,2026-11-28,https://www.kia.com/in/our-vehicles/syros/specs/compare-trims.html,indexed_matrix_orderability_pending,pending
+Kia,Syros,1.5 CRDi VGT,diesel,6AT,HTK+(O),IN,2026-11-28,https://www.kia.com/in/our-vehicles/syros/specs/compare-trims.html,indexed_matrix_orderability_pending,pending
+Kia,Syros,1.5 CRDi VGT,diesel,6AT,HTX,IN,2026-11-28,https://www.kia.com/in/our-vehicles/syros/specs/compare-trims.html,indexed_matrix_orderability_pending,pending
+Kia,Syros,1.5 CRDi VGT,diesel,6AT,HTX(O),IN,2026-11-28,https://www.kia.com/in/our-vehicles/syros/specs/compare-trims.html,indexed_matrix_orderability_pending,pending
