@@ -3838,7 +3838,9 @@
         "notes": "Official global product identity and technical configuration are available, but exact India retail orderability, dealer allocation, options and price require direct Lamborghini India dealer confirmation. Do not infer Urus S/Performante as current India variants; treat Tettonero Capsule/SE Performante as special or future derivatives only if India allocation is verified."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-lamborghini-bounded-2026-11-28.json",
+      "stage2_verification": "bounded_indexed_oem_review"
     },
     {
       "brand_id": "lamborghini",
@@ -3862,7 +3864,9 @@
         "notes": "First India delivery was reported in June 2026, but the model audit classifies retail details as dealer-confirmation-required. Confirm current India allocation, options, tax/import basis and final dealer quote. Do not use international configurator options as India retail variants."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-lamborghini-bounded-2026-11-28.json",
+      "stage2_verification": "bounded_indexed_oem_review"
     },
     {
       "brand_id": "lamborghini",
@@ -3886,7 +3890,9 @@
         "notes": "Official global product identity/specification confirmed. India allocation, dealer orderability, custom Ad Personam specification and final price require authorized dealer confirmation. Do not add Revuelto Roadster (upcoming/other body style) as a variant of the coupe candidate."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-lamborghini-bounded-2026-11-28.json",
+      "stage2_verification": "bounded_indexed_oem_review"
     },
     {
       "brand_id": "land_rover",
@@ -17582,5 +17588,5 @@
   },
   "stage1_status": "completed_with_gaps",
   "stage2_status": "in_progress",
-  "stage2_active_brand": "Lamborghini"
+  "stage2_active_brand": "Land Rover"
 }

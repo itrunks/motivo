@@ -1,0 +1,199 @@
+{
+  "models": [
+    {
+      "brand": "Lamborghini",
+      "model": "Urus SE",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.lamborghini.com/en-en/models/urus/urus-se?trk=article-ssr-frontend-pulse_little-text-block",
+      "scope": "global OEM technical data; India applicability and orderability unverified",
+      "observations": {
+        "engine_cc": 3996,
+        "combined_cv": 800,
+        "top_speed_kmh": 312,
+        "zero_to_100_s": 3.4
+      },
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "not_available",
+          "reason": "India-specific coverage not established by retrieved global OEM excerpt"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "not_available",
+          "reason": "India-specific coverage not established by retrieved global OEM excerpt"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "not_available",
+          "reason": "India-specific coverage not established by retrieved global OEM excerpt"
+        },
+        {
+          "field": "NVH",
+          "status": "not_available",
+          "reason": "India-specific coverage not established by retrieved global OEM excerpt"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "not_available",
+          "reason": "India-specific coverage not established by retrieved global OEM excerpt"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "not_available",
+          "reason": "India-specific coverage not established by retrieved global OEM excerpt"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "not_available",
+          "reason": "India-specific coverage not established by retrieved global OEM excerpt"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "not_available",
+          "reason": "India-specific coverage not established by retrieved global OEM excerpt"
+        },
+        {
+          "field": "warranty",
+          "status": "not_available",
+          "reason": "India-specific coverage not established by retrieved global OEM excerpt"
+        }
+      ]
+    },
+    {
+      "brand": "Lamborghini",
+      "model": "Temerario",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.lamborghini.com/en-en/models/temerario",
+      "scope": "global OEM technical data; India applicability and orderability unverified",
+      "observations": {
+        "engine_cc": 3995.2,
+        "combined_cv": 920,
+        "top_speed_kmh": 343,
+        "zero_to_100_s": 2.7
+      },
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "not_available",
+          "reason": "India-specific coverage not established by retrieved global OEM excerpt"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "not_available",
+          "reason": "India-specific coverage not established by retrieved global OEM excerpt"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "not_available",
+          "reason": "India-specific coverage not established by retrieved global OEM excerpt"
+        },
+        {
+          "field": "NVH",
+          "status": "not_available",
+          "reason": "India-specific coverage not established by retrieved global OEM excerpt"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "not_available",
+          "reason": "India-specific coverage not established by retrieved global OEM excerpt"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "not_available",
+          "reason": "India-specific coverage not established by retrieved global OEM excerpt"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "not_available",
+          "reason": "India-specific coverage not established by retrieved global OEM excerpt"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "not_available",
+          "reason": "India-specific coverage not established by retrieved global OEM excerpt"
+        },
+        {
+          "field": "warranty",
+          "status": "not_available",
+          "reason": "India-specific coverage not established by retrieved global OEM excerpt"
+        }
+      ]
+    },
+    {
+      "brand": "Lamborghini",
+      "model": "Revuelto",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.lamborghini.com/original/DAM/lamborghini/0_facelift_2025/model_details/revuelto/2026/brochure/03_05/Lamborghini_REVUELTO_DIGITAL_BROCHURE_EN_2026_WCAG.pdf",
+      "scope": "global OEM technical data; India applicability and orderability unverified",
+      "observations": {
+        "engine_cc": 6498.5,
+        "combined_cv": 1015,
+        "ice_torque_nm": 725,
+        "gears": 8
+      },
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "not_available",
+          "reason": "India-specific coverage not established by retrieved global OEM excerpt"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "not_available",
+          "reason": "India-specific coverage not established by retrieved global OEM excerpt"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "not_available",
+          "reason": "India-specific coverage not established by retrieved global OEM excerpt"
+        },
+        {
+          "field": "NVH",
+          "status": "not_available",
+          "reason": "India-specific coverage not established by retrieved global OEM excerpt"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "not_available",
+          "reason": "India-specific coverage not established by retrieved global OEM excerpt"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "not_available",
+          "reason": "India-specific coverage not established by retrieved global OEM excerpt"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "not_available",
+          "reason": "India-specific coverage not established by retrieved global OEM excerpt"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "not_available",
+          "reason": "India-specific coverage not established by retrieved global OEM excerpt"
+        },
+        {
+          "field": "warranty",
+          "status": "not_available",
+          "reason": "India-specific coverage not established by retrieved global OEM excerpt"
+        }
+      ]
+    }
+  ],
+  "scope_candidates": {
+    "source": "https://www.lamborghini.com/en-en?department=product+and+engineering",
+    "names": [
+      "Revuelto SV",
+      "Urus SE Performante",
+      "Temerario Spyder"
+    ],
+    "status": "not offered for sale per retrieved global homepage; India scope unverified; no new identities added"
+  }
+}
