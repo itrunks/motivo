@@ -1,0 +1,52 @@
+brand,model,engine,fuel,trim,transmission,seats,market,source_url,checked_at,status,publication_review
+Hyundai,i20,1.2 Kappa,petrol,Era,MT,,IN,https://www.hyundai.com/in/en/find-a-car/i20/features,2026-11-28,oem_matrix_orderability_pending,pending
+Hyundai,i20,1.2 Kappa,petrol,Magna Executive,MT,,IN,https://www.hyundai.com/in/en/find-a-car/i20/features,2026-11-28,oem_matrix_orderability_pending,pending
+Hyundai,i20,1.2 Kappa,petrol,Magna,MT,,IN,https://www.hyundai.com/in/en/find-a-car/i20/features,2026-11-28,oem_matrix_orderability_pending,pending
+Hyundai,i20,1.2 Kappa,petrol,Sportz,MT,,IN,https://www.hyundai.com/in/en/find-a-car/i20/features,2026-11-28,oem_matrix_orderability_pending,pending
+Hyundai,i20,1.2 Kappa,petrol,Sportz(O),MT,,IN,https://www.hyundai.com/in/en/find-a-car/i20/features,2026-11-28,oem_matrix_orderability_pending,pending
+Hyundai,i20,1.2 Kappa,petrol,Sportz(O) Knight,MT,,IN,https://www.hyundai.com/in/en/find-a-car/i20/features,2026-11-28,oem_matrix_orderability_pending,pending
+Hyundai,i20,1.2 Kappa,petrol,Asta,MT,,IN,https://www.hyundai.com/in/en/find-a-car/i20/features,2026-11-28,oem_matrix_orderability_pending,pending
+Hyundai,i20,1.2 Kappa,petrol,Asta (O),MT,,IN,https://www.hyundai.com/in/en/find-a-car/i20/features,2026-11-28,oem_matrix_orderability_pending,pending
+Hyundai,i20,1.2 Kappa,petrol,Sportz,IVT,,IN,https://www.hyundai.com/in/en/find-a-car/i20/features,2026-11-28,oem_matrix_orderability_pending,pending
+Hyundai,i20,1.2 Kappa,petrol,Sportz(O),IVT,,IN,https://www.hyundai.com/in/en/find-a-car/i20/features,2026-11-28,oem_matrix_orderability_pending,pending
+Hyundai,i20,1.2 Kappa,petrol,Asta (O),IVT,,IN,https://www.hyundai.com/in/en/find-a-car/i20/features,2026-11-28,oem_matrix_orderability_pending,pending
+Hyundai,i20,1.2 Kappa,petrol,Asta(O) Knight,IVT,,IN,https://www.hyundai.com/in/en/find-a-car/i20/features,2026-11-28,oem_matrix_orderability_pending,pending
+Hyundai,Exter,1.2 Kappa,petrol,HX 2,MT,,IN,https://www.hyundai.com/in/en/find-a-car/exter/features,2026-11-28,oem_matrix_orderability_pending,pending
+Hyundai,Exter,1.2 Kappa,petrol,HX 3,MT,,IN,https://www.hyundai.com/in/en/find-a-car/exter/features,2026-11-28,oem_matrix_orderability_pending,pending
+Hyundai,Exter,1.2 Kappa,petrol,HX 4,MT,,IN,https://www.hyundai.com/in/en/find-a-car/exter/features,2026-11-28,oem_matrix_orderability_pending,pending
+Hyundai,Exter,1.2 Kappa,petrol,HX 6,MT,,IN,https://www.hyundai.com/in/en/find-a-car/exter/features,2026-11-28,oem_matrix_orderability_pending,pending
+Hyundai,Exter,1.2 Kappa,petrol,HX 6 Knight,MT,,IN,https://www.hyundai.com/in/en/find-a-car/exter/features,2026-11-28,oem_matrix_orderability_pending,pending
+Hyundai,Exter,1.2 Kappa,petrol,HX 8,MT,,IN,https://www.hyundai.com/in/en/find-a-car/exter/features,2026-11-28,oem_matrix_orderability_pending,pending
+Hyundai,Exter,1.2 Kappa,petrol,HX 3,AMT,,IN,https://www.hyundai.com/in/en/find-a-car/exter/features,2026-11-28,oem_matrix_orderability_pending,pending
+Hyundai,Exter,1.2 Kappa,petrol,HX 4+,AMT,,IN,https://www.hyundai.com/in/en/find-a-car/exter/features,2026-11-28,oem_matrix_orderability_pending,pending
+Hyundai,Exter,1.2 Kappa,petrol,HX 6,AMT,,IN,https://www.hyundai.com/in/en/find-a-car/exter/features,2026-11-28,oem_matrix_orderability_pending,pending
+Hyundai,Exter,1.2 Kappa,petrol,HX 6 Knight,AMT,,IN,https://www.hyundai.com/in/en/find-a-car/exter/features,2026-11-28,oem_matrix_orderability_pending,pending
+Hyundai,Exter,1.2 Kappa,petrol,HX 8,AMT,,IN,https://www.hyundai.com/in/en/find-a-car/exter/features,2026-11-28,oem_matrix_orderability_pending,pending
+Hyundai,Exter,1.2 Kappa,petrol,HX 10,AMT,,IN,https://www.hyundai.com/in/en/find-a-car/exter/features,2026-11-28,oem_matrix_orderability_pending,pending
+Hyundai,Exter,1.2 Kappa,petrol,HX 10 Knight,AMT,,IN,https://www.hyundai.com/in/en/find-a-car/exter/features,2026-11-28,oem_matrix_orderability_pending,pending
+Hyundai,Exter,1.2 Kappa bi-fuel,CNG,HX 2,MT,,IN,https://www.hyundai.com/in/en/find-a-car/exter/features,2026-11-28,oem_matrix_orderability_pending,pending
+Hyundai,Exter,1.2 Kappa bi-fuel,CNG,HX 3,MT,,IN,https://www.hyundai.com/in/en/find-a-car/exter/features,2026-11-28,oem_matrix_orderability_pending,pending
+Hyundai,Exter,1.2 Kappa bi-fuel,CNG,HX 4,MT,,IN,https://www.hyundai.com/in/en/find-a-car/exter/features,2026-11-28,oem_matrix_orderability_pending,pending
+Hyundai,Exter,1.2 Kappa bi-fuel,CNG,HX 6,MT,,IN,https://www.hyundai.com/in/en/find-a-car/exter/features,2026-11-28,oem_matrix_orderability_pending,pending
+Hyundai,Exter,1.2 Kappa bi-fuel,CNG,HX 6 Knight,MT,,IN,https://www.hyundai.com/in/en/find-a-car/exter/features,2026-11-28,oem_matrix_orderability_pending,pending
+Hyundai,Exter,1.2 Kappa bi-fuel,CNG,HX 8,MT,,IN,https://www.hyundai.com/in/en/find-a-car/exter/features,2026-11-28,oem_matrix_orderability_pending,pending
+Maruti Suzuki,Dzire,Z12E,petrol,LXI,5MT,5,IN,https://www.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/dzire/brochures/Dzire_brochure_Vertical.pdf,2026-11-28,oem_matrix_orderability_pending,pending
+Maruti Suzuki,Dzire,Z12E,petrol,VXI,5MT,5,IN,https://www.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/dzire/brochures/Dzire_brochure_Vertical.pdf,2026-11-28,oem_matrix_orderability_pending,pending
+Maruti Suzuki,Dzire,Z12E,petrol,ZXI,5MT,5,IN,https://www.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/dzire/brochures/Dzire_brochure_Vertical.pdf,2026-11-28,oem_matrix_orderability_pending,pending
+Maruti Suzuki,Dzire,Z12E,petrol,ZXI+,5MT,5,IN,https://www.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/dzire/brochures/Dzire_brochure_Vertical.pdf,2026-11-28,oem_matrix_orderability_pending,pending
+Maruti Suzuki,Dzire,Z12E,petrol,VXI,5AMT,5,IN,https://www.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/dzire/brochures/Dzire_brochure_Vertical.pdf,2026-11-28,oem_matrix_orderability_pending,pending
+Maruti Suzuki,Dzire,Z12E,petrol,ZXI,5AMT,5,IN,https://www.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/dzire/brochures/Dzire_brochure_Vertical.pdf,2026-11-28,oem_matrix_orderability_pending,pending
+Maruti Suzuki,Dzire,Z12E,petrol,ZXI+,5AMT,5,IN,https://www.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/dzire/brochures/Dzire_brochure_Vertical.pdf,2026-11-28,oem_matrix_orderability_pending,pending
+Maruti Suzuki,Dzire,Z12E,CNG,VXI,5MT,5,IN,https://www.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/dzire/brochures/Dzire_brochure_Vertical.pdf,2026-11-28,oem_matrix_orderability_pending,pending
+Maruti Suzuki,Dzire,Z12E,CNG,ZXI,5MT,5,IN,https://www.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/dzire/brochures/Dzire_brochure_Vertical.pdf,2026-11-28,oem_matrix_orderability_pending,pending
+Maruti Suzuki,Dzire,Z12E,CNG,VXI,5AMT,5,IN,https://www.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/dzire/brochures/Dzire_brochure_Vertical.pdf,2026-11-28,oem_matrix_orderability_pending,pending
+Maruti Suzuki,Dzire,Z12E,CNG,ZXI,5AMT,5,IN,https://www.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/dzire/brochures/Dzire_brochure_Vertical.pdf,2026-11-28,oem_matrix_orderability_pending,pending
+Toyota,Innova Hycross,,petrol,GX,,7,IN,https://www.toyotabharat.com/documents/brochures/e-brochure-hycross-specsheet.pdf,2026-11-28,oem_grade_seating_transmission_pending,pending
+Toyota,Innova Hycross,,petrol,GX,,8,IN,https://www.toyotabharat.com/documents/brochures/e-brochure-hycross-specsheet.pdf,2026-11-28,oem_grade_seating_transmission_pending,pending
+Toyota,Innova Hycross,,hybrid,G-SLF,,7,IN,https://www.toyotabharat.com/documents/brochures/e-brochure-hycross-specsheet.pdf,2026-11-28,oem_grade_seating_transmission_pending,pending
+Toyota,Innova Hycross,,hybrid,G-SLF,,8,IN,https://www.toyotabharat.com/documents/brochures/e-brochure-hycross-specsheet.pdf,2026-11-28,oem_grade_seating_transmission_pending,pending
+Toyota,Innova Hycross,,hybrid,GX,,7,IN,https://www.toyotabharat.com/documents/brochures/e-brochure-hycross-specsheet.pdf,2026-11-28,oem_grade_seating_transmission_pending,pending
+Toyota,Innova Hycross,,hybrid,GX,,8,IN,https://www.toyotabharat.com/documents/brochures/e-brochure-hycross-specsheet.pdf,2026-11-28,oem_grade_seating_transmission_pending,pending
+Toyota,Innova Hycross,,hybrid,VX,,7,IN,https://www.toyotabharat.com/documents/brochures/e-brochure-hycross-specsheet.pdf,2026-11-28,oem_grade_seating_transmission_pending,pending
+Toyota,Innova Hycross,,hybrid,VX,,8,IN,https://www.toyotabharat.com/documents/brochures/e-brochure-hycross-specsheet.pdf,2026-11-28,oem_grade_seating_transmission_pending,pending
+Toyota,Innova Hycross,,hybrid,ZX,,7,IN,https://www.toyotabharat.com/documents/brochures/e-brochure-hycross-specsheet.pdf,2026-11-28,oem_grade_seating_transmission_pending,pending
