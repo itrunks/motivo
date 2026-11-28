@@ -5840,7 +5840,9 @@
         "notes": "Rolls-Royce does not operate a conventional fixed trim/option matrix; Bespoke commissions materially change final price. Keep wheelbase and Black Badge as identified configurations. Confirm current India availability and written retailer quote; do not infer global Bespoke packages as variant codes."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-rolls-royce-bounded-2026-11-28.json",
+      "stage2_verification": "bounded_global_oem_review_india_pending"
     },
     {
       "brand_id": "rolls_royce",
@@ -5864,7 +5866,9 @@
         "notes": "Current India variants are distinguished by wheelbase rather than conventional trim. Confirm model-year, wheelbase, coach-door/option specification and dealer quotation. Bespoke content is not a separate variant."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-rolls-royce-bounded-2026-11-28.json",
+      "stage2_verification": "bounded_global_oem_review_india_pending"
     },
     {
       "brand_id": "rolls_royce",
@@ -5888,7 +5892,9 @@
         "notes": "Two India configurations are documented by current reporting. Black Badge is a manufacturer performance/design derivative, not an arbitrary bespoke package. Confirm current allocation and dealer invoice quote; bespoke options remain customer-specific."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-rolls-royce-bounded-2026-11-28.json",
+      "stage2_verification": "bounded_global_oem_review_india_pending"
     },
     {
       "brand_id": "rolls_royce",
@@ -5912,7 +5918,9 @@
         "notes": "Keep Standard and Black Badge power outputs/specifications separate. Bespoke paint, interior and commissioning choices are customer-specific and not additional variants. Confirm current India orderability and written dealer quotation."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-rolls-royce-bounded-2026-11-28.json",
+      "stage2_verification": "bounded_global_oem_review_india_pending"
     },
     {
       "brand_id": "skoda",
@@ -17736,5 +17744,5 @@
   },
   "stage1_status": "completed_with_gaps",
   "stage2_status": "in_progress",
-  "stage2_active_brand": "Rolls-Royce"
+  "stage2_active_brand": "Škoda"
 }
