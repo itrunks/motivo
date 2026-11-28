@@ -258,3 +258,7 @@ Eight names observed in current India OEM navigation; Q3 Sportback not listed, o
 ## BMW bounded lineup checkpoint
 
 22 identities dispositioned; 19 listed, i4/iX/XM orderability unverified. 201 deferred gaps. 40 completed_with_gaps, 92 review_required preserved, 119 pending. BYD next. No production changes. Standing reporting preference: show master roadmap, actual model counts, completed/pending/review queue, validation and commit at each batch; proceed to next pending brand within available execution without requesting routine confirmation.
+
+## BYD bounded checkpoint
+
+Four models, 13 observed price rows, 36 deferred gaps including SEALION 7 conflicting starting price. 44 completed_with_gaps, 92 review_required, 115 pending. Citroën next. No production changes.

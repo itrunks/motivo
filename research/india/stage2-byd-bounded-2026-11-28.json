@@ -1,0 +1,298 @@
+{
+  "retrieval_scope": "Indexed official price table retrieved; homepage JS only; no live orderability verification",
+  "models": [
+    {
+      "brand": "BYD",
+      "model": "ATTO 3",
+      "checked_at": "2026-11-28",
+      "source_url": "https://bydautoindia.com/car-dealer/electric-car-price",
+      "observations": {
+        "variant_price_rows_inr_lakh": [
+          [
+            "Dynamic",
+            24.99
+          ],
+          [
+            "Premium",
+            30.35
+          ],
+          [
+            "Superior",
+            34.49
+          ]
+        ],
+        "price_basis": "OEM indexed table ex-showroom, effective date unknown"
+      },
+      "publication_review": "pending",
+      "status": "bounded_indexed_oem_review",
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "unverified",
+          "reason": "indexed OEM price table observed; effective date and complete orderability not established"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM price page"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "unverified",
+          "reason": "indexed OEM price table observed; effective date and complete orderability not established"
+        },
+        {
+          "field": "NVH",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM price page"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM price page"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM price page"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM price page"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM price page"
+        },
+        {
+          "field": "warranty",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM price page"
+        }
+      ]
+    },
+    {
+      "brand": "BYD",
+      "model": "eMAX 7",
+      "checked_at": "2026-11-28",
+      "source_url": "https://bydautoindia.com/car-dealer/electric-car-price",
+      "observations": {
+        "variant_price_rows_inr_lakh": [
+          [
+            "Comfort 6 seats",
+            27.9
+          ],
+          [
+            "Comfort 7 seats",
+            28.3
+          ],
+          [
+            "Superior 6 seats",
+            29.3
+          ],
+          [
+            "Superior 7 seats",
+            29.9
+          ]
+        ],
+        "price_basis": "OEM indexed table ex-showroom, effective date unknown"
+      },
+      "publication_review": "pending",
+      "status": "bounded_indexed_oem_review",
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "unverified",
+          "reason": "indexed OEM price table observed; effective date and complete orderability not established"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM price page"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "unverified",
+          "reason": "indexed OEM price table observed; effective date and complete orderability not established"
+        },
+        {
+          "field": "NVH",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM price page"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM price page"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM price page"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM price page"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM price page"
+        },
+        {
+          "field": "warranty",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM price page"
+        }
+      ]
+    },
+    {
+      "brand": "BYD",
+      "model": "SEAL",
+      "checked_at": "2026-11-28",
+      "source_url": "https://bydautoindia.com/car-dealer/electric-car-price",
+      "observations": {
+        "variant_price_rows_inr_lakh": [
+          [
+            "Dynamic",
+            41.5
+          ],
+          [
+            "Premium",
+            46.2
+          ],
+          [
+            "Performance",
+            53.65
+          ]
+        ],
+        "price_basis": "OEM indexed table ex-showroom, effective date unknown"
+      },
+      "publication_review": "pending",
+      "status": "bounded_indexed_oem_review",
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "unverified",
+          "reason": "indexed OEM price table observed; effective date and complete orderability not established"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM price page"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "unverified",
+          "reason": "indexed OEM price table observed; effective date and complete orderability not established"
+        },
+        {
+          "field": "NVH",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM price page"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM price page"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM price page"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM price page"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM price page"
+        },
+        {
+          "field": "warranty",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM price page"
+        }
+      ]
+    },
+    {
+      "brand": "BYD",
+      "model": "SEALION 7",
+      "checked_at": "2026-11-28",
+      "source_url": "https://bydautoindia.com/car-dealer/electric-car-price",
+      "observations": {
+        "variant_price_rows_inr_lakh": [
+          [
+            "Dynamic",
+            41.9
+          ],
+          [
+            "Premium",
+            49.9
+          ],
+          [
+            "Performance",
+            55.9
+          ]
+        ],
+        "price_basis": "OEM indexed table ex-showroom, effective date unknown",
+        "card_starting_price_inr_lakh": 49.9
+      },
+      "publication_review": "pending",
+      "status": "bounded_indexed_oem_review",
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "unverified",
+          "reason": "indexed OEM price table observed; effective date and complete orderability not established"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM price page"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "conflicting",
+          "reason": "OEM card starts 49.90 lakh but table lists Dynamic 41.90; effective date and orderability unknown"
+        },
+        {
+          "field": "NVH",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM price page"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM price page"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM price page"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM price page"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM price page"
+        },
+        {
+          "field": "warranty",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM price page"
+        }
+      ]
+    }
+  ]
+}

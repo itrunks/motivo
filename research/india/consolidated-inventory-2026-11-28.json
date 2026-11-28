@@ -3368,7 +3368,9 @@
         "notes": "Current OEM price page exposes all three variants and individual starting prices. Launch release supplies battery and range mapping. Verify price effective date and dealer quote before import; keep special colour editions as appearance options unless priced as a distinct retail variant."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-byd-bounded-2026-11-28.json",
+      "stage2_verification": "bounded_indexed_oem_review"
     },
     {
       "brand_id": "byd",
@@ -3392,7 +3394,9 @@
         "notes": "OEM price page identifies Comfort/Superior and seating-specific prices. The 2024 launch release listed Premium/Superior and 55.4/71.8 kWh; July 2026 secondary reporting says Premium renamed Comfort. Keep the old Premium label out of the current matrix unless BYD confirms the transition and current 55.4kWh availability."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-byd-bounded-2026-11-28.json",
+      "stage2_verification": "bounded_indexed_oem_review"
     },
     {
       "brand_id": "byd",
@@ -3416,7 +3420,9 @@
         "notes": "Current OEM page amounts reflect a later price revision than the 2025 model-year launch table. Retain current page values as current observations and historic release prices as dated reference only. Confirm effective date and dealer quote before import."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-byd-bounded-2026-11-28.json",
+      "stage2_verification": "bounded_indexed_oem_review"
     },
     {
       "brand_id": "byd",
@@ -3440,7 +3446,9 @@
         "notes": "Current OEM page lists three grades and current prices. Official anniversary release says edition offers apply to first 1100 customers and booking window ended 2026-04-30; do not treat that limited edition/offer as a new standard trim. Confirm Dynamic battery/drive mapping and current price basis with BYD dealer."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-byd-bounded-2026-11-28.json",
+      "stage2_verification": "bounded_indexed_oem_review"
     },
     {
       "brand_id": "citroen",
@@ -17544,5 +17552,5 @@
   },
   "stage1_status": "completed_with_gaps",
   "stage2_status": "in_progress",
-  "stage2_active_brand": "BYD"
+  "stage2_active_brand": "Citroën"
 }
