@@ -1,0 +1,108 @@
+{
+  "models": [
+    {
+      "brand": "Force Motors",
+      "model": "Gurkha",
+      "checked_at": "2026-11-28",
+      "sources": [
+        "https://forcegurkha.co.in/",
+        "https://forcegurkha.co.in/explore/",
+        "https://forcegurkha.co.in/faqs/",
+        "https://forcegurkha.co.in/shop/",
+        "https://forcegurkha.co.in/wp-content/themes/force-motors/assets/pdf/All%20New%20Gurkha%20E-Brochure.pdf",
+        "https://www.forcegurkha.co.in/wp-content/uploads/2024/07/2May_2024-Press-Release_ForceMotors.pdf"
+      ],
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "observations": {
+        "homepage_prices_inr": {
+          "three_door": 1668400,
+          "five_door": 1801200
+        },
+        "shop_prices_inr": {
+          "three_door": 1625013,
+          "five_door": 1758013
+        },
+        "engine_cc": 2596,
+        "power_ps": 140,
+        "torque_nm": 320,
+        "manual_gears": 5,
+        "ground_clearance_mm": 233,
+        "wading_mm": 700,
+        "wheelbase_mm": [
+          2400,
+          2825
+        ],
+        "seats": [
+          4,
+          7
+        ],
+        "front_suspension": "independent double wishbone coil",
+        "rear_suspension": "multi-link Panhard rod coil",
+        "manual_diff_locks": "front and rear",
+        "certified_kmpl": 15,
+        "historical_warranty": {
+          "years": 3,
+          "km": 150000
+        },
+        "phone_projection_conflict": true
+      },
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "unverified",
+          "source_url": "https://forcegurkha.co.in/explore/",
+          "reason": "3 door seating matrix also lists 5+D; orderability unknown"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "conflicting",
+          "source_url": "https://forcegurkha.co.in/faqs/",
+          "reason": "FAQ denies phone projection; 2024 press release says compatible"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "conflicting",
+          "source_url": "https://forcegurkha.co.in/",
+          "reason": "homepage and shop prices differ; effective dates unknown"
+        },
+        {
+          "field": "NVH",
+          "status": "not_available",
+          "source_url": "https://forcegurkha.co.in/explore/",
+          "reason": "no measured NVH"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "not_available",
+          "source_url": "https://forcegurkha.co.in/explore/",
+          "reason": "hardware known; tuning and ride measurements absent"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "not_available",
+          "source_url": "https://forcegurkha.co.in/faqs/",
+          "reason": "only certified 15 kmpl"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "not_available",
+          "source_url": "https://forcegurkha.co.in/",
+          "reason": "no complete cost"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "unverified",
+          "source_url": "https://forcegurkha.co.in/faqs/",
+          "reason": "accessory names only; prices absent"
+        },
+        {
+          "field": "warranty",
+          "status": "unverified",
+          "source_url": "https://forcegurkha.co.in/wp-content/themes/force-motors/assets/pdf/All%20New%20Gurkha%20E-Brochure.pdf",
+          "reason": "historical brochure 3 years/150000 km; current terms unknown"
+        }
+      ]
+    }
+  ]
+}

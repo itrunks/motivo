@@ -274,3 +274,7 @@ Five model identities listed in OEM price and booking pages. Elevate and ZR-V pr
 ## Jeep bounded checkpoint
 
 Four OEM listings; three comparator starting prices; historical maintenance MRP and Meridian 2026 press release observations. 36 gap rows. 58 completed_with_gaps, 92 review_required, 101 pending. Force Motors next. No production changes.
+
+## Force Motors bounded checkpoint
+
+Gurkha 3/5-door OEM technical and price observations; price and phone projection conflicts retained. Nine gaps. 59 completed_with_gaps, 92 review_required, 100 pending. Lamborghini next. No production changes.

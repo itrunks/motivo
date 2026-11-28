@@ -2434,7 +2434,9 @@
         "notes": "Official product page presents two body/seating configurations. Official e-brochure and 2024 launch release describe a 2.6L (2596cc) turbocharged intercooled diesel, 140PS and 320Nm, 5-speed manual, shift-on-the-fly 2H/4H/4L 4WD; 3 Door is 4-seat and 5 Door is 7-seat. Do not split into additional engine/transmission variants. The live OEM prices differ from some third-party 2026 listings; retain OEM page values as observations but confirm effective date and dealer quote before import. Accessories, road tax, registration and insurance excluded."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-force-bounded-2026-11-28.json",
+      "stage2_verification": "bounded_indexed_oem_review"
     },
     {
       "brand_id": "tesla",
@@ -17580,5 +17582,5 @@
   },
   "stage1_status": "completed_with_gaps",
   "stage2_status": "in_progress",
-  "stage2_active_brand": "Force Motors"
+  "stage2_active_brand": "Lamborghini"
 }
