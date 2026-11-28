@@ -210,3 +210,7 @@ Track unresolved optional model/variant gaps in `research/india/POST_GO_LIVE_VER
 ## Historical evidence recovery and missing-data report
 
 All 251 legacy variant audit rows matched to the 251 master model identities. Historical notes are retained, not independently verified. Fresh official source attempts: Verna exact 12 engine/trim/gearbox combinations observed, Fortuner HTTP 403 deferred. Master missing-data report contains 252 field rows, including 250 models with unavailable verified variant data, plus Verna price and current orderability. 249 historical evidence reviews remain pending; not all are fresh source attempts. Stage 1 open; no production import or Firebase changes.
+
+## Stage 1 closure with gaps / Stage 2 entry
+
+Latest authoritative checkpoint supersedes earlier progress counts. All 251 historical model identities have dated source URLs and audit notes. Under owner non-blocking policy, inventory scope is closed with gaps, not verified current retail completeness. 535 raw candidates retained, zero independently verified in this checkpoint. All 251 variant information fields remain not_available; previous unconfirmed Verna matrix and Fortuner access claim preserved as unconfirmed history, not fresh evidence. Missing-data export covers 251 identities. Stage 2 queue initialized; zero completed feature audits in this checkpoint. No production import, Firebase or deployment.
