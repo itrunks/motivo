@@ -1,0 +1,342 @@
+{
+  "retrieval_scope": "Indexed India OEM product extracts retrieved 2026-11-28; model pages crawled last month; catalogue crawled today. Grade starting prices are city-dependent and not exact SKU matrix.",
+  "catalogue": "https://www.renault.co.in/all-renault-cars.html?type=0",
+  "brochure_index": "https://www.renault.co.in/download-a-brochure.html",
+  "models": [
+    {
+      "brand": "Renault",
+      "model": "Duster",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.renault.co.in/cars/renault-duster.html",
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "observations": {
+        "grades": [
+          {
+            "name": "authentic TCe 100 MT",
+            "starting_price_inr": 1049000
+          },
+          {
+            "name": "evolution TCe 100 MT",
+            "starting_price_inr": 1169000
+          },
+          {
+            "name": "adventure TCe 100 MT",
+            "starting_price_inr": 1299000
+          },
+          {
+            "name": "techno+ TCe 160 MT",
+            "starting_price_inr": 1529000
+          },
+          {
+            "name": "iconic TCe 160 MT",
+            "starting_price_inr": 1699000
+          },
+          {
+            "name": "iconic launch edition TCe 160 MT",
+            "starting_price_inr": 1719000
+          }
+        ],
+        "selected_features": {
+          "authentic": "LED headlights and tail lights",
+          "adventure": "panoramic sunroof and powered tailgate",
+          "iconic": "ventilated front seats and 360 degree camera"
+        },
+        "hybrid_catalogue_starting_price_inr": 1699000
+      },
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "unverified",
+          "reason": "Full variant-specific documentation not retrieved; brochure index only"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "unverified",
+          "reason": "Full variant-specific documentation not retrieved; brochure index only"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "unverified",
+          "reason": "Full variant-specific documentation not retrieved; brochure index only"
+        },
+        {
+          "field": "NVH",
+          "status": "unverified",
+          "reason": "Full variant-specific documentation not retrieved; brochure index only"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "unverified",
+          "reason": "Full variant-specific documentation not retrieved; brochure index only"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "unverified",
+          "reason": "Full variant-specific documentation not retrieved; brochure index only"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "unverified",
+          "reason": "Full variant-specific documentation not retrieved; brochure index only"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "unverified",
+          "reason": "Full variant-specific documentation not retrieved; brochure index only"
+        },
+        {
+          "field": "warranty",
+          "status": "unverified",
+          "reason": "Full variant-specific documentation not retrieved; brochure index only"
+        }
+      ]
+    },
+    {
+      "brand": "Renault",
+      "model": "Triber",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.renault.co.in/cars/renault-triber.html",
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "observations": {
+        "grades": [
+          {
+            "name": "authentic",
+            "starting_price_inr": 580875
+          },
+          {
+            "name": "evolution",
+            "starting_price_inr": 673605
+          },
+          {
+            "name": "techno",
+            "starting_price_inr": 744120
+          },
+          {
+            "name": "emotion",
+            "starting_price_inr": 805350
+          }
+        ],
+        "ground_clearance_mm": 182,
+        "engine_power_ps": [
+          72,
+          100
+        ],
+        "torque_nm": [
+          96,
+          180
+        ],
+        "selected_features": {
+          "evolution": "rear camera and rear AC vents",
+          "emotion": "automatic AC and cruise control"
+        }
+      },
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "unverified",
+          "reason": "Full variant-specific documentation not retrieved; brochure index only"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "unverified",
+          "reason": "Full variant-specific documentation not retrieved; brochure index only"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "unverified",
+          "reason": "Full variant-specific documentation not retrieved; brochure index only"
+        },
+        {
+          "field": "NVH",
+          "status": "unverified",
+          "reason": "Full variant-specific documentation not retrieved; brochure index only"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "unverified",
+          "reason": "Full variant-specific documentation not retrieved; brochure index only"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "unverified",
+          "reason": "Full variant-specific documentation not retrieved; brochure index only"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "unverified",
+          "reason": "Full variant-specific documentation not retrieved; brochure index only"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "unverified",
+          "reason": "Full variant-specific documentation not retrieved; brochure index only"
+        },
+        {
+          "field": "warranty",
+          "status": "unverified",
+          "reason": "Full variant-specific documentation not retrieved; brochure index only"
+        }
+      ]
+    },
+    {
+      "brand": "Renault",
+      "model": "Kiger",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.renault.co.in/cars/renault-kiger.html",
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "observations": {
+        "grades": [
+          {
+            "name": "authentic",
+            "starting_price_inr": 581000
+          },
+          {
+            "name": "evolution",
+            "starting_price_inr": 659000
+          },
+          {
+            "name": "evolution+",
+            "starting_price_inr": 703000
+          },
+          {
+            "name": "techno",
+            "starting_price_inr": 760000
+          },
+          {
+            "name": "emotion",
+            "starting_price_inr": 850000
+          }
+        ],
+        "ground_clearance_mm": 205,
+        "boot_l": 405,
+        "selected_features": {
+          "authentic": "side and curtain airbags",
+          "emotion": "ventilated front seats"
+        }
+      },
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "unverified",
+          "reason": "Full variant-specific documentation not retrieved; brochure index only"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "unverified",
+          "reason": "Full variant-specific documentation not retrieved; brochure index only"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "unverified",
+          "reason": "Full variant-specific documentation not retrieved; brochure index only"
+        },
+        {
+          "field": "NVH",
+          "status": "unverified",
+          "reason": "Full variant-specific documentation not retrieved; brochure index only"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "unverified",
+          "reason": "Full variant-specific documentation not retrieved; brochure index only"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "unverified",
+          "reason": "Full variant-specific documentation not retrieved; brochure index only"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "unverified",
+          "reason": "Full variant-specific documentation not retrieved; brochure index only"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "unverified",
+          "reason": "Full variant-specific documentation not retrieved; brochure index only"
+        },
+        {
+          "field": "warranty",
+          "status": "unverified",
+          "reason": "Full variant-specific documentation not retrieved; brochure index only"
+        }
+      ]
+    },
+    {
+      "brand": "Renault",
+      "model": "Kwid",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.renault.co.in/cars/renault-kwid.html",
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "observations": {
+        "grades": [
+          {
+            "name": "evolution",
+            "starting_price_inr": 452900
+          },
+          {
+            "name": "climber",
+            "starting_price_inr": 514900
+          }
+        ],
+        "ground_clearance_mm": 184,
+        "boot_l": 279,
+        "selected_features": {
+          "evolution": "hill start assist and touchscreen",
+          "climber": "rear camera and electric mirrors"
+        }
+      },
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "unverified",
+          "reason": "Full variant-specific documentation not retrieved; brochure index only"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "unverified",
+          "reason": "Full variant-specific documentation not retrieved; brochure index only"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "unverified",
+          "reason": "Full variant-specific documentation not retrieved; brochure index only"
+        },
+        {
+          "field": "NVH",
+          "status": "unverified",
+          "reason": "Full variant-specific documentation not retrieved; brochure index only"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "unverified",
+          "reason": "Full variant-specific documentation not retrieved; brochure index only"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "unverified",
+          "reason": "Full variant-specific documentation not retrieved; brochure index only"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "unverified",
+          "reason": "Full variant-specific documentation not retrieved; brochure index only"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "unverified",
+          "reason": "Full variant-specific documentation not retrieved; brochure index only"
+        },
+        {
+          "field": "warranty",
+          "status": "unverified",
+          "reason": "Full variant-specific documentation not retrieved; brochure index only"
+        }
+      ]
+    }
+  ]
+}
