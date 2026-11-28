@@ -1,0 +1,1362 @@
+{
+  "retrieval_scope": "Actual BMW India lineup page retrieved 2026-11-28; displayed labels not complete SKUs",
+  "models": [
+    {
+      "brand": "BMW",
+      "model": "2 Series Gran Coupe",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.bmw.in/en/all-models.html",
+      "observations": {
+        "listed": true,
+        "displayed_card_labels": [
+          "218 M Sport"
+        ]
+      },
+      "status": "bounded_oem_lineup_review",
+      "publication_review": "pending",
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "NVH",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "warranty",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        }
+      ]
+    },
+    {
+      "brand": "BMW",
+      "model": "3 Series Long Wheelbase",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.bmw.in/en/all-models.html",
+      "observations": {
+        "listed": true,
+        "displayed_card_labels": [
+          "330Li M Sport",
+          "320Ld M Sport"
+        ]
+      },
+      "status": "bounded_oem_lineup_review",
+      "publication_review": "pending",
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "NVH",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "warranty",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        }
+      ]
+    },
+    {
+      "brand": "BMW",
+      "model": "5 Series Long Wheelbase",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.bmw.in/en/all-models.html",
+      "observations": {
+        "listed": true,
+        "displayed_card_labels": [
+          "530Li M Sport LWB"
+        ]
+      },
+      "status": "bounded_oem_lineup_review",
+      "publication_review": "pending",
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "NVH",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "warranty",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        }
+      ]
+    },
+    {
+      "brand": "BMW",
+      "model": "7 Series",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.bmw.in/en/all-models.html",
+      "observations": {
+        "listed": true,
+        "displayed_card_labels": [
+          "740 M Sport"
+        ]
+      },
+      "status": "bounded_oem_lineup_review",
+      "publication_review": "pending",
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "NVH",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "warranty",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        }
+      ]
+    },
+    {
+      "brand": "BMW",
+      "model": "M340i",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.bmw.in/en/all-models.html",
+      "observations": {
+        "listed": true,
+        "displayed_card_labels": [
+          "M340i xDrive"
+        ]
+      },
+      "status": "bounded_oem_lineup_review",
+      "publication_review": "pending",
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "NVH",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "warranty",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        }
+      ]
+    },
+    {
+      "brand": "BMW",
+      "model": "X1",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.bmw.in/en/all-models.html",
+      "observations": {
+        "listed": true,
+        "displayed_card_labels": [
+          "X1 sDrive18d M Sport"
+        ]
+      },
+      "status": "bounded_oem_lineup_review",
+      "publication_review": "pending",
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "NVH",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "warranty",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        }
+      ]
+    },
+    {
+      "brand": "BMW",
+      "model": "X1 Long Wheelbase",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.bmw.in/en/all-models.html",
+      "observations": {
+        "listed": true,
+        "displayed_card_labels": [
+          "X1 sDrive18Li M Sport"
+        ]
+      },
+      "status": "bounded_oem_lineup_review",
+      "publication_review": "pending",
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "NVH",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "warranty",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        }
+      ]
+    },
+    {
+      "brand": "BMW",
+      "model": "X3",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.bmw.in/en/all-models.html",
+      "observations": {
+        "listed": true,
+        "displayed_card_labels": [
+          "X3 30 xDrive M Sport Pro",
+          "X3 xDrive20 M Sport",
+          "X3 xDrive20d M Sport Pro"
+        ]
+      },
+      "status": "bounded_oem_lineup_review",
+      "publication_review": "pending",
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "NVH",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "warranty",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        }
+      ]
+    },
+    {
+      "brand": "BMW",
+      "model": "X5",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.bmw.in/en/all-models.html",
+      "observations": {
+        "listed": true,
+        "displayed_card_labels": [
+          "X5 xDrive40i",
+          "X5 xDrive30d"
+        ]
+      },
+      "status": "bounded_oem_lineup_review",
+      "publication_review": "pending",
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "NVH",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "warranty",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        }
+      ]
+    },
+    {
+      "brand": "BMW",
+      "model": "X6 M60i",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.bmw.in/en/all-models.html",
+      "observations": {
+        "listed": true,
+        "displayed_card_labels": [
+          "X6 M60i xDrive"
+        ]
+      },
+      "status": "bounded_oem_lineup_review",
+      "publication_review": "pending",
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "NVH",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "warranty",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        }
+      ]
+    },
+    {
+      "brand": "BMW",
+      "model": "X7",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.bmw.in/en/all-models.html",
+      "observations": {
+        "listed": true,
+        "displayed_card_labels": [
+          "X7 xDrive40i",
+          "X7 xDrive40d DPE 7 Seater",
+          "X7 xDrive40d"
+        ]
+      },
+      "status": "bounded_oem_lineup_review",
+      "publication_review": "pending",
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "NVH",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "warranty",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        }
+      ]
+    },
+    {
+      "brand": "BMW",
+      "model": "i4",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.bmw.in/en/all-models.html",
+      "observations": {
+        "listed": false,
+        "displayed_card_labels": []
+      },
+      "status": "bounded_oem_lineup_review",
+      "publication_review": "pending",
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "NVH",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "warranty",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "current_orderability",
+          "status": "unverified",
+          "reason": "not listed in retrieved lineup; no discontinuation inferred"
+        }
+      ]
+    },
+    {
+      "brand": "BMW",
+      "model": "i5",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.bmw.in/en/all-models.html",
+      "observations": {
+        "listed": true,
+        "displayed_card_labels": [
+          "i5 M60"
+        ]
+      },
+      "status": "bounded_oem_lineup_review",
+      "publication_review": "pending",
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "NVH",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "warranty",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        }
+      ]
+    },
+    {
+      "brand": "BMW",
+      "model": "i5 Long Wheelbase",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.bmw.in/en/all-models.html",
+      "observations": {
+        "listed": true,
+        "displayed_card_labels": [
+          "i5 eDrive35L M Sport"
+        ]
+      },
+      "status": "bounded_oem_lineup_review",
+      "publication_review": "pending",
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "NVH",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "warranty",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        }
+      ]
+    },
+    {
+      "brand": "BMW",
+      "model": "i7",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.bmw.in/en/all-models.html",
+      "observations": {
+        "listed": true,
+        "displayed_card_labels": [
+          "i7 50 xDrive M sport"
+        ]
+      },
+      "status": "bounded_oem_lineup_review",
+      "publication_review": "pending",
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "NVH",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "warranty",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        }
+      ]
+    },
+    {
+      "brand": "BMW",
+      "model": "iX",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.bmw.in/en/all-models.html",
+      "observations": {
+        "listed": false,
+        "displayed_card_labels": []
+      },
+      "status": "bounded_oem_lineup_review",
+      "publication_review": "pending",
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "NVH",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "warranty",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "current_orderability",
+          "status": "unverified",
+          "reason": "not listed in retrieved lineup; no discontinuation inferred"
+        }
+      ]
+    },
+    {
+      "brand": "BMW",
+      "model": "iX1 Long Wheelbase",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.bmw.in/en/all-models.html",
+      "observations": {
+        "listed": true,
+        "displayed_card_labels": [
+          "iX1 eDrive20L M Sport"
+        ]
+      },
+      "status": "bounded_oem_lineup_review",
+      "publication_review": "pending",
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "NVH",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "warranty",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        }
+      ]
+    },
+    {
+      "brand": "BMW",
+      "model": "M2",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.bmw.in/en/all-models.html",
+      "observations": {
+        "listed": true,
+        "displayed_card_labels": [
+          "M2 Coupé"
+        ]
+      },
+      "status": "bounded_oem_lineup_review",
+      "publication_review": "pending",
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "NVH",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "warranty",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        }
+      ]
+    },
+    {
+      "brand": "BMW",
+      "model": "M4 Competition",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.bmw.in/en/all-models.html",
+      "observations": {
+        "listed": true,
+        "displayed_card_labels": [
+          "M4 Competition M xDrive"
+        ]
+      },
+      "status": "bounded_oem_lineup_review",
+      "publication_review": "pending",
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "NVH",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "warranty",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        }
+      ]
+    },
+    {
+      "brand": "BMW",
+      "model": "M5",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.bmw.in/en/all-models.html",
+      "observations": {
+        "listed": true,
+        "displayed_card_labels": [
+          "M5"
+        ]
+      },
+      "status": "bounded_oem_lineup_review",
+      "publication_review": "pending",
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "NVH",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "warranty",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        }
+      ]
+    },
+    {
+      "brand": "BMW",
+      "model": "M440i Convertible",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.bmw.in/en/all-models.html",
+      "observations": {
+        "listed": true,
+        "displayed_card_labels": [
+          "M440i xDrive"
+        ]
+      },
+      "status": "bounded_oem_lineup_review",
+      "publication_review": "pending",
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "NVH",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "warranty",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        }
+      ]
+    },
+    {
+      "brand": "BMW",
+      "model": "XM",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.bmw.in/en/all-models.html",
+      "observations": {
+        "listed": false,
+        "displayed_card_labels": []
+      },
+      "status": "bounded_oem_lineup_review",
+      "publication_review": "pending",
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "NVH",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "warranty",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM lineup cards"
+        },
+        {
+          "field": "current_orderability",
+          "status": "unverified",
+          "reason": "not listed in retrieved lineup; no discontinuation inferred"
+        }
+      ]
+    }
+  ]
+}

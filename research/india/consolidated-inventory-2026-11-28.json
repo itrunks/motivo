@@ -2796,7 +2796,9 @@
         "notes": "One named India configuration observed: 218 M Sport. Do not infer additional engine/transmission variants from global-market BMW 2 Series configurations. Confirm price effective date and current dealer quotation."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-bmw-bounded-2026-11-28.json",
+      "stage2_verification": "bounded_oem_lineup_review"
     },
     {
       "brand_id": "bmw",
@@ -2820,7 +2822,9 @@
         "notes": "India page identifies 330Li M Sport. No additional India grade/engine/gearbox combination is established by the captured OEM page."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-bmw-bounded-2026-11-28.json",
+      "stage2_verification": "bounded_oem_lineup_review"
     },
     {
       "brand_id": "bmw",
@@ -2844,7 +2848,9 @@
         "notes": "Retain the 530Li M Sport LWB identity. Price is a model-level starting observation. Confirm current configurator output and invoice-date price."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-bmw-bounded-2026-11-28.json",
+      "stage2_verification": "bounded_oem_lineup_review"
     },
     {
       "brand_id": "bmw",
@@ -2868,7 +2874,9 @@
         "notes": "Keep ICE 7 Series separate from i7. Captured India model label is 740 M Sport; do not import global 730d/760i or other international configurations."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-bmw-bounded-2026-11-28.json",
+      "stage2_verification": "bounded_oem_lineup_review"
     },
     {
       "brand_id": "bmw",
@@ -2892,7 +2900,9 @@
         "notes": "Single India performance model configuration observed. Price basis is ex-showroom inclusive of GST but excludes road tax, TCS, RTO, statutory/local levies and insurance per BMW India page."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-bmw-bounded-2026-11-28.json",
+      "stage2_verification": "bounded_oem_lineup_review"
     },
     {
       "brand_id": "bmw",
@@ -2916,7 +2926,9 @@
         "notes": "Official product page confirms two India engine variants, petrol sDrive18i and diesel sDrive18d, with 7-speed Steptronic automatic. Do not confuse standard X1 with separately listed X1 Long Wheelbase."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-bmw-bounded-2026-11-28.json",
+      "stage2_verification": "bounded_oem_lineup_review"
     },
     {
       "brand_id": "bmw",
@@ -2940,7 +2952,9 @@
         "notes": "Keep distinct from standard X1. Captured official range card does not expose the exact India engine/grade suffix; no variant or price inference from global-market X1 LWB."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-bmw-bounded-2026-11-28.json",
+      "stage2_verification": "bounded_oem_lineup_review"
     },
     {
       "brand_id": "bmw",
@@ -2964,7 +2978,9 @@
         "notes": "Current X3 product page confirms X3 30 xDrive. All-models cards include X3 20 xDrive and 20d family references; validate exact model-year/trim labels and avoid merging current and prior-generation X3 names."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-bmw-bounded-2026-11-28.json",
+      "stage2_verification": "bounded_oem_lineup_review"
     },
     {
       "brand_id": "bmw",
@@ -2988,7 +3004,9 @@
         "notes": "OEM listing confirms separate petrol and diesel xDrive variants. Captured data does not expose a full India grade/option price matrix; confirm current dealer orderability and price."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-bmw-bounded-2026-11-28.json",
+      "stage2_verification": "bounded_oem_lineup_review"
     },
     {
       "brand_id": "bmw",
@@ -3012,7 +3030,9 @@
         "notes": "Single named India configuration and model starting price captured. BMW page identifies V8 petrol and xDrive; price remains subject to invoice-date confirmation."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-bmw-bounded-2026-11-28.json",
+      "stage2_verification": "bounded_oem_lineup_review"
     },
     {
       "brand_id": "bmw",
@@ -3036,7 +3056,9 @@
         "notes": "Official product page confirms petrol xDrive40i; all-models listing exposes diesel xDrive40d and DPE 7-seat label. M-model listing may represent a different equipment package; do not collapse price cards without exact configurator mapping."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-bmw-bounded-2026-11-28.json",
+      "stage2_verification": "bounded_oem_lineup_review"
     },
     {
       "brand_id": "bmw",
@@ -3060,7 +3082,9 @@
         "notes": "The candidate is retained from the existing model audit, but current BMW India model navigation capture does not independently surface i4. Third-party listings are not accepted as evidence of current India orderability; confirm with BMW India/dealer."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-bmw-bounded-2026-11-28.json",
+      "stage2_verification": "bounded_oem_lineup_review"
     },
     {
       "brand_id": "bmw",
@@ -3084,7 +3108,9 @@
         "notes": "Do not merge standard i5 M60 with i5 Long Wheelbase eDrive35L. Captured official page identifies i5 M60; detailed current option/grade mapping not exposed."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-bmw-bounded-2026-11-28.json",
+      "stage2_verification": "bounded_oem_lineup_review"
     },
     {
       "brand_id": "bmw",
@@ -3108,7 +3134,9 @@
         "notes": "Official page confirms eDrive35L M Sport and up to 669km range claim. Treat as model/one-configuration price observation; confirm price effective date and homologated range basis."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-bmw-bounded-2026-11-28.json",
+      "stage2_verification": "bounded_oem_lineup_review"
     },
     {
       "brand_id": "bmw",
@@ -3132,7 +3160,9 @@
         "notes": "Retain exact i7 50 xDrive M Sport label and keep M70 derivative separate only if confirmed in current India configurator. Reconcile ₹1.95Cr model-page and ₹2.10Cr special-offer card before using any price."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-bmw-bounded-2026-11-28.json",
+      "stage2_verification": "bounded_oem_lineup_review"
     },
     {
       "brand_id": "bmw",
@@ -3156,7 +3186,9 @@
         "notes": "BMW Group India July 2026 price announcement identifies iX as a CBU model, but current India trim suffix, battery/drive configuration and exact price require product configurator/dealer confirmation."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-bmw-bounded-2026-11-28.json",
+      "stage2_verification": "bounded_oem_lineup_review"
     },
     {
       "brand_id": "bmw",
@@ -3180,7 +3212,9 @@
         "notes": "September 2026 official India brochure confirms one eDrive20L technical configuration: all-electric front-wheel drive, 150 kW/204 hp, 250 Nm, 8.6 s 0–100 km/h, 175 km/h, 546 km MIDC. Product page lists iX1 LWB and displays ₹54,70,000. Exact marketed suffix M Sport comes from current official all-models card; gearbox and seating count not stated in the cited India technical brochure, so left blank."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-bmw-bounded-2026-11-28.json",
+      "stage2_verification": "bounded_oem_lineup_review"
     },
     {
       "brand_id": "bmw",
@@ -3204,7 +3238,9 @@
         "notes": "Separate four technical configurations: standard M2 automatic and optional manual; M2 CS; M2 xDrive Turbo Edition. Standard M2 India release gives 3.0L inline-six, 480 hp, 600 Nm auto / 550 Nm manual, 8-speed M Steptronic standard and optional 6-speed manual, 4.0s/4.2s 0-100. CS India release gives 390 kW/530 hp, 650 Nm, RWD, 8-speed M Steptronic, 3.8s, 302 km/h, ₹1.66Cr launch price. Turbo Edition India pre-order release gives 353 kW/480 hp, 3.7s, 250 km/h or 285 km/h with optional M Driver Package; price not announced and its transmission/torque details are not stated in the India release. Current catalogue displays M2 Coupé from ₹1.065Cr. Keep model-level catalogue price separate from special-edition launch pricing."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-bmw-bounded-2026-11-28.json",
+      "stage2_verification": "bounded_oem_lineup_review"
     },
     {
       "brand_id": "bmw",
@@ -3228,7 +3264,9 @@
         "notes": "One current India-market configuration normalized: M4 Competition M xDrive, 3.0L S58 inline-six petrol, 2,993 cc, 390 kW/530 hp, 650 Nm, 8-speed automatic, M xDrive AWD, 0-100 km/h 3.5s, top speed 250 km/h. BMW India current page displays ₹1.629Cr starting price. The technical page also contains an RWD 510 hp data block, but the India-specific launch release confirms the India car as 530 hp M xDrive; do not treat the generic/global RWD block as another India variant. M4 CS is separately labelled and excluded."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-bmw-bounded-2026-11-28.json",
+      "stage2_verification": "bounded_oem_lineup_review"
     },
     {
       "brand_id": "bmw",
@@ -3252,7 +3290,9 @@
         "notes": "One current India M5 Sedan powertrain configuration normalized: 4.4L S68 V8 PHEV, system 535 kW/727 hp and 1,000 Nm; ICE 430 kW/585 hp and 750 Nm; electric drive 145 kW/197 hp and 280 Nm; 8-speed M Steptronic with Drivelogic; M xDrive AWD; 0-100 km/h 3.5s; top speed 250 km/h standard / 305 km/h with M Driver's Package; 18.6 battery figure in India release is printed with unit kW, not kWh, so capacity not normalized; pure-electric range 69 km WLTP. 100 Jahre Nürburgring Edition is a limited appearance/collector edition, underlying M5 technical data applies; no separate price announced. Current catalogue starting price ₹2.115Cr."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-bmw-bounded-2026-11-28.json",
+      "stage2_verification": "bounded_oem_lineup_review"
     },
     {
       "brand_id": "bmw",
@@ -3276,7 +3316,9 @@
         "notes": "The official product page identifies the M440i xDrive Convertible and a single petrol powertrain. Confirm invoice-date price and current orderability."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-bmw-bounded-2026-11-28.json",
+      "stage2_verification": "bounded_oem_lineup_review"
     },
     {
       "brand_id": "bmw",
@@ -3300,7 +3342,9 @@
         "notes": "BMW Group India July 2026 CBU release includes XM. Secondary sites identify Label/Label Red variants, but these are not substituted for current India OEM trim evidence."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-bmw-bounded-2026-11-28.json",
+      "stage2_verification": "bounded_oem_lineup_review"
     },
     {
       "brand_id": "byd",
@@ -17500,5 +17544,5 @@
   },
   "stage1_status": "completed_with_gaps",
   "stage2_status": "in_progress",
-  "stage2_active_brand": "BMW"
+  "stage2_active_brand": "BYD"
 }
