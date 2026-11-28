@@ -634,9 +634,9 @@
       "historical_listing_status": "listed_on_official_site",
       "historical_audit_status": "blocked",
       "variant_information": "not_available",
-      "candidate_count": 0,
+      "candidate_count": 10,
       "review_status": "unverified",
-      "queue_status": "source_attempt_pending"
+      "queue_status": "candidate_review_pending"
     },
     {
       "brand_id": "toyota",
@@ -658,9 +658,9 @@
       "historical_listing_status": "listed_on_official_site",
       "historical_audit_status": "complete",
       "variant_information": "not_available",
-      "candidate_count": 0,
+      "candidate_count": 10,
       "review_status": "unverified",
-      "queue_status": "source_attempt_pending"
+      "queue_status": "candidate_review_pending"
     },
     {
       "brand_id": "toyota",
@@ -3035,7 +3035,8 @@
         "status": "listed_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "marutisuzuki|baleno"
     },
     {
       "path": "research/india/variant-inventory-four-models-2026-11-22.csv",
@@ -3056,7 +3057,8 @@
         "status": "listed_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "marutisuzuki|baleno"
     },
     {
       "path": "research/india/variant-inventory-four-models-2026-11-22.csv",
@@ -3077,7 +3079,8 @@
         "status": "listed_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "marutisuzuki|baleno"
     },
     {
       "path": "research/india/variant-inventory-four-models-2026-11-22.csv",
@@ -3098,7 +3101,8 @@
         "status": "listed_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "marutisuzuki|baleno"
     },
     {
       "path": "research/india/variant-inventory-four-models-2026-11-22.csv",
@@ -3119,7 +3123,8 @@
         "status": "listed_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "marutisuzuki|baleno"
     },
     {
       "path": "research/india/variant-inventory-four-models-2026-11-22.csv",
@@ -3140,7 +3145,8 @@
         "status": "listed_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "marutisuzuki|baleno"
     },
     {
       "path": "research/india/variant-inventory-four-models-2026-11-22.csv",
@@ -3161,7 +3167,8 @@
         "status": "listed_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "marutisuzuki|baleno"
     },
     {
       "path": "research/india/variant-inventory-four-models-2026-11-22.csv",
@@ -3182,7 +3189,8 @@
         "status": "listed_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "marutisuzuki|baleno"
     },
     {
       "path": "research/india/variant-inventory-four-models-2026-11-22.csv",
@@ -3203,7 +3211,8 @@
         "status": "listed_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "marutisuzuki|baleno"
     },
     {
       "path": "research/india/variant-inventory-four-models-2026-11-22.csv",
@@ -3224,7 +3233,8 @@
         "status": "listed_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "marutisuzuki|baleno"
     },
     {
       "path": "research/india/variant-inventory-four-models-2026-11-22.csv",
@@ -3245,7 +3255,8 @@
         "status": "listed_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "marutisuzuki|baleno"
     },
     {
       "path": "research/india/variant-inventory-four-models-2026-11-22.csv",
@@ -3266,7 +3277,8 @@
         "status": "listed_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "marutisuzuki|baleno"
     },
     {
       "path": "research/india/variant-inventory-four-models-2026-11-22.csv",
@@ -3287,7 +3299,8 @@
         "status": "listed_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "marutisuzuki|baleno"
     },
     {
       "path": "research/india/variant-inventory-four-models-2026-11-22.csv",
@@ -3308,7 +3321,8 @@
         "status": "listed_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "marutisuzuki|fronx"
     },
     {
       "path": "research/india/variant-inventory-four-models-2026-11-22.csv",
@@ -3329,7 +3343,8 @@
         "status": "listed_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "marutisuzuki|fronx"
     },
     {
       "path": "research/india/variant-inventory-four-models-2026-11-22.csv",
@@ -3350,7 +3365,8 @@
         "status": "listed_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "marutisuzuki|fronx"
     },
     {
       "path": "research/india/variant-inventory-four-models-2026-11-22.csv",
@@ -3371,7 +3387,8 @@
         "status": "listed_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "marutisuzuki|fronx"
     },
     {
       "path": "research/india/variant-inventory-four-models-2026-11-22.csv",
@@ -3392,7 +3409,8 @@
         "status": "listed_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "marutisuzuki|fronx"
     },
     {
       "path": "research/india/variant-inventory-four-models-2026-11-22.csv",
@@ -3413,7 +3431,8 @@
         "status": "listed_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "marutisuzuki|fronx"
     },
     {
       "path": "research/india/variant-inventory-four-models-2026-11-22.csv",
@@ -3434,7 +3453,8 @@
         "status": "listed_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "marutisuzuki|fronx"
     },
     {
       "path": "research/india/variant-inventory-four-models-2026-11-22.csv",
@@ -3455,7 +3475,8 @@
         "status": "listed_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "marutisuzuki|fronx"
     },
     {
       "path": "research/india/variant-inventory-four-models-2026-11-22.csv",
@@ -3476,7 +3497,8 @@
         "status": "listed_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "marutisuzuki|fronx"
     },
     {
       "path": "research/india/variant-inventory-four-models-2026-11-22.csv",
@@ -3497,7 +3519,8 @@
         "status": "listed_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "marutisuzuki|fronx"
     },
     {
       "path": "research/india/variant-inventory-four-models-2026-11-22.csv",
@@ -3518,7 +3541,8 @@
         "status": "listed_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "marutisuzuki|fronx"
     },
     {
       "path": "research/india/variant-inventory-four-models-2026-11-22.csv",
@@ -3539,7 +3563,8 @@
         "status": "listed_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "marutisuzuki|fronx"
     },
     {
       "path": "research/india/variant-inventory-four-models-2026-11-22.csv",
@@ -3560,7 +3585,8 @@
         "status": "listed_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "marutisuzuki|fronx"
     },
     {
       "path": "research/india/variant-inventory-four-models-2026-11-22.csv",
@@ -3581,7 +3607,8 @@
         "status": "listed_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "hyundai|venue"
     },
     {
       "path": "research/india/variant-inventory-four-models-2026-11-22.csv",
@@ -3602,7 +3629,8 @@
         "status": "listed_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "hyundai|venue"
     },
     {
       "path": "research/india/variant-inventory-four-models-2026-11-22.csv",
@@ -3623,7 +3651,8 @@
         "status": "listed_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "hyundai|venue"
     },
     {
       "path": "research/india/variant-inventory-four-models-2026-11-22.csv",
@@ -3644,7 +3673,8 @@
         "status": "listed_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "hyundai|venue"
     },
     {
       "path": "research/india/variant-inventory-four-models-2026-11-22.csv",
@@ -3665,7 +3695,8 @@
         "status": "listed_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "hyundai|venue"
     },
     {
       "path": "research/india/variant-inventory-four-models-2026-11-22.csv",
@@ -3686,7 +3717,8 @@
         "status": "listed_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "hyundai|venue"
     },
     {
       "path": "research/india/variant-inventory-four-models-2026-11-22.csv",
@@ -3707,7 +3739,8 @@
         "status": "listed_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "hyundai|venue"
     },
     {
       "path": "research/india/variant-inventory-four-models-2026-11-22.csv",
@@ -3728,7 +3761,8 @@
         "status": "listed_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "hyundai|venue"
     },
     {
       "path": "research/india/variant-inventory-four-models-2026-11-22.csv",
@@ -3749,7 +3783,8 @@
         "status": "listed_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "hyundai|venue"
     },
     {
       "path": "research/india/variant-inventory-four-models-2026-11-22.csv",
@@ -3770,7 +3805,8 @@
         "status": "listed_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "hyundai|venue"
     },
     {
       "path": "research/india/variant-inventory-four-models-2026-11-22.csv",
@@ -3791,7 +3827,8 @@
         "status": "listed_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "hyundai|venue"
     },
     {
       "path": "research/india/variant-inventory-four-models-2026-11-22.csv",
@@ -3812,7 +3849,8 @@
         "status": "listed_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "hyundai|venue"
     },
     {
       "path": "research/india/variant-inventory-four-models-2026-11-22.csv",
@@ -3833,7 +3871,8 @@
         "status": "listed_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "hyundai|venue"
     },
     {
       "path": "research/india/variant-inventory-four-models-2026-11-22.csv",
@@ -3854,7 +3893,8 @@
         "status": "listed_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "hyundai|venue"
     },
     {
       "path": "research/india/variant-inventory-four-models-2026-11-22.csv",
@@ -3875,7 +3915,8 @@
         "status": "listed_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "hyundai|venue"
     },
     {
       "path": "research/india/variant-inventory-four-models-2026-11-22.csv",
@@ -3896,7 +3937,8 @@
         "status": "listed_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "hyundai|venue"
     },
     {
       "path": "research/india/variant-inventory-four-models-2026-11-22.csv",
@@ -3917,7 +3959,8 @@
         "status": "listed_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "hyundai|venue"
     },
     {
       "path": "research/india/variant-inventory-four-models-2026-11-22.csv",
@@ -3938,7 +3981,8 @@
         "status": "listed_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "hyundai|venue"
     },
     {
       "path": "research/india/variant-inventory-four-models-2026-11-22.csv",
@@ -3959,7 +4003,8 @@
         "status": "listed_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "hyundai|venue"
     },
     {
       "path": "research/india/variant-inventory-four-models-2026-11-22.csv",
@@ -3980,7 +4025,8 @@
         "status": "listed_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "hyundai|venue"
     },
     {
       "path": "research/india/variant-inventory-four-models-2026-11-22.csv",
@@ -4001,7 +4047,8 @@
         "status": "listed_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "hyundai|venue"
     },
     {
       "path": "research/india/variant-inventory-four-models-2026-11-22.csv",
@@ -4022,7 +4069,8 @@
         "status": "listed_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "hyundai|venue"
     },
     {
       "path": "research/india/variant-inventory-four-models-2026-11-22.csv",
@@ -4043,7 +4091,8 @@
         "status": "listed_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "hyundai|venue"
     },
     {
       "path": "research/india/variant-inventory-four-models-2026-11-22.csv",
@@ -4064,7 +4113,8 @@
         "status": "listed_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "hyundai|creta"
     },
     {
       "path": "research/india/variant-inventory-four-models-2026-11-22.csv",
@@ -4085,7 +4135,8 @@
         "status": "listed_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "hyundai|creta"
     },
     {
       "path": "research/india/variant-inventory-four-models-2026-11-22.csv",
@@ -4106,7 +4157,8 @@
         "status": "listed_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "hyundai|creta"
     },
     {
       "path": "research/india/variant-inventory-four-models-2026-11-22.csv",
@@ -4127,7 +4179,8 @@
         "status": "listed_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "hyundai|creta"
     },
     {
       "path": "research/india/variant-inventory-four-models-2026-11-22.csv",
@@ -4148,7 +4201,8 @@
         "status": "listed_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "hyundai|creta"
     },
     {
       "path": "research/india/variant-inventory-four-models-2026-11-22.csv",
@@ -4169,7 +4223,8 @@
         "status": "listed_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "hyundai|creta"
     },
     {
       "path": "research/india/variant-inventory-four-models-2026-11-22.csv",
@@ -4190,7 +4245,8 @@
         "status": "listed_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "hyundai|creta"
     },
     {
       "path": "research/india/variant-inventory-four-models-2026-11-22.csv",
@@ -4211,7 +4267,8 @@
         "status": "listed_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "hyundai|creta"
     },
     {
       "path": "research/india/variant-inventory-four-models-2026-11-22.csv",
@@ -4232,7 +4289,8 @@
         "status": "listed_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "hyundai|creta"
     },
     {
       "path": "research/india/variant-inventory-four-models-2026-11-22.csv",
@@ -4253,7 +4311,8 @@
         "status": "listed_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "hyundai|creta"
     },
     {
       "path": "research/india/variant-inventory-four-models-2026-11-22.csv",
@@ -4274,7 +4333,8 @@
         "status": "listed_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "hyundai|creta"
     },
     {
       "path": "research/india/variant-inventory-four-models-2026-11-22.csv",
@@ -4295,7 +4355,8 @@
         "status": "listed_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "hyundai|creta"
     },
     {
       "path": "research/india/variant-inventory-four-models-2026-11-22.csv",
@@ -4316,7 +4377,8 @@
         "status": "listed_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "hyundai|creta"
     },
     {
       "path": "research/india/variant-inventory-four-models-2026-11-22.csv",
@@ -4337,7 +4399,8 @@
         "status": "listed_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "hyundai|creta"
     },
     {
       "path": "research/india/variant-inventory-four-models-2026-11-22.csv",
@@ -4358,7 +4421,8 @@
         "status": "listed_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "hyundai|creta"
     },
     {
       "path": "research/india/variant-inventory-four-models-2026-11-22.csv",
@@ -4379,7 +4443,8 @@
         "status": "listed_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "hyundai|creta"
     },
     {
       "path": "research/india/variant-inventory-four-models-2026-11-22.csv",
@@ -4400,7 +4465,8 @@
         "status": "listed_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "hyundai|creta"
     },
     {
       "path": "research/india/variant-inventory-four-models-2026-11-22.csv",
@@ -4421,7 +4487,8 @@
         "status": "listed_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "hyundai|creta"
     },
     {
       "path": "research/india/variant-inventory-four-models-2026-11-22.csv",
@@ -4442,7 +4509,8 @@
         "status": "listed_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "hyundai|creta"
     },
     {
       "path": "research/india/variant-inventory-four-models-2026-11-22.csv",
@@ -4463,7 +4531,8 @@
         "status": "listed_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "hyundai|creta"
     },
     {
       "path": "research/india/variant-inventory-four-models-2026-11-22.csv",
@@ -4484,7 +4553,8 @@
         "status": "listed_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "hyundai|creta"
     },
     {
       "path": "research/india/variant-inventory-four-models-2026-11-22.csv",
@@ -4505,7 +4575,8 @@
         "status": "listed_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "hyundai|creta"
     },
     {
       "path": "research/india/variant-inventory-four-models-2026-11-22.csv",
@@ -4526,7 +4597,8 @@
         "status": "listed_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "hyundai|creta"
     },
     {
       "path": "research/india/variant-inventory-four-models-2026-11-22.csv",
@@ -4547,7 +4619,8 @@
         "status": "listed_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "hyundai|creta"
     },
     {
       "path": "research/india/variant-inventory-four-models-2026-11-22.csv",
@@ -4568,7 +4641,8 @@
         "status": "listed_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "hyundai|creta"
     },
     {
       "path": "research/india/variant-inventory-four-models-2026-11-22.csv",
@@ -4589,7 +4663,8 @@
         "status": "listed_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "hyundai|creta"
     },
     {
       "path": "research/india/variant-inventory-four-models-2026-11-22.csv",
@@ -4610,7 +4685,8 @@
         "status": "listed_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "hyundai|creta"
     },
     {
       "path": "research/india/variant-inventory-four-models-2026-11-22.csv",
@@ -4631,7 +4707,8 @@
         "status": "listed_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "hyundai|creta"
     },
     {
       "path": "research/india/variant-inventory-four-models-2026-11-22.csv",
@@ -4652,7 +4729,8 @@
         "status": "listed_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "hyundai|creta"
     },
     {
       "path": "research/india/byd/variant-inventory-2026-11-28.csv",
@@ -4670,7 +4748,8 @@
         "source_url": "https://www.bydautoindia.com/car-dealer/electric-car-price/telangana",
         "status": "listed_orderability_pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "byd|atto3"
     },
     {
       "path": "research/india/byd/variant-inventory-2026-11-28.csv",
@@ -4688,7 +4767,8 @@
         "source_url": "https://www.bydautoindia.com/car-dealer/electric-car-price/telangana",
         "status": "listed_orderability_pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "byd|atto3"
     },
     {
       "path": "research/india/byd/variant-inventory-2026-11-28.csv",
@@ -4706,7 +4786,8 @@
         "source_url": "https://www.bydautoindia.com/car-dealer/electric-car-price/telangana",
         "status": "listed_orderability_pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "byd|atto3"
     },
     {
       "path": "research/india/byd/variant-inventory-2026-11-28.csv",
@@ -4724,7 +4805,8 @@
         "source_url": "https://www.bydautoindia.com/car-dealer/electric-car-price/telangana",
         "status": "listed_orderability_pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "byd|emax7"
     },
     {
       "path": "research/india/byd/variant-inventory-2026-11-28.csv",
@@ -4742,7 +4824,8 @@
         "source_url": "https://www.bydautoindia.com/car-dealer/electric-car-price/telangana",
         "status": "listed_orderability_pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "byd|emax7"
     },
     {
       "path": "research/india/byd/variant-inventory-2026-11-28.csv",
@@ -4760,7 +4843,8 @@
         "source_url": "https://www.bydautoindia.com/car-dealer/electric-car-price/telangana",
         "status": "listed_orderability_pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "byd|emax7"
     },
     {
       "path": "research/india/byd/variant-inventory-2026-11-28.csv",
@@ -4778,7 +4862,8 @@
         "source_url": "https://www.bydautoindia.com/car-dealer/electric-car-price/telangana",
         "status": "listed_orderability_pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "byd|emax7"
     },
     {
       "path": "research/india/byd/variant-inventory-2026-11-28.csv",
@@ -4796,7 +4881,8 @@
         "source_url": "https://www.bydautoindia.com/car-dealer/electric-car-price/telangana",
         "status": "listed_orderability_pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "byd|seal"
     },
     {
       "path": "research/india/byd/variant-inventory-2026-11-28.csv",
@@ -4814,7 +4900,8 @@
         "source_url": "https://www.bydautoindia.com/car-dealer/electric-car-price/telangana",
         "status": "listed_orderability_pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "byd|seal"
     },
     {
       "path": "research/india/byd/variant-inventory-2026-11-28.csv",
@@ -4832,7 +4919,8 @@
         "source_url": "https://www.bydautoindia.com/car-dealer/electric-car-price/telangana",
         "status": "listed_orderability_pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "byd|seal"
     },
     {
       "path": "research/india/byd/variant-inventory-2026-11-28.csv",
@@ -4850,7 +4938,8 @@
         "source_url": "https://www.bydautoindia.com/car-dealer/electric-car-price/telangana",
         "status": "listed_orderability_pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "byd|sealion7"
     },
     {
       "path": "research/india/byd/variant-inventory-2026-11-28.csv",
@@ -4868,7 +4957,8 @@
         "source_url": "https://www.bydautoindia.com/car-dealer/electric-car-price/telangana",
         "status": "listed_orderability_pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "byd|sealion7"
     },
     {
       "path": "research/india/byd/variant-inventory-2026-11-28.csv",
@@ -4886,7 +4976,8 @@
         "source_url": "https://www.bydautoindia.com/car-dealer/electric-car-price/telangana",
         "status": "listed_orderability_pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "byd|sealion7"
     },
     {
       "path": "research/india/variant-inventory-xuv3xo-sonet-2026-11-28.csv",
@@ -4906,7 +4997,8 @@
         "status": "brochure_listed_current_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "kia|sonet"
     },
     {
       "path": "research/india/variant-inventory-xuv3xo-sonet-2026-11-28.csv",
@@ -4926,7 +5018,8 @@
         "status": "brochure_listed_current_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "kia|sonet"
     },
     {
       "path": "research/india/variant-inventory-xuv3xo-sonet-2026-11-28.csv",
@@ -4946,7 +5039,8 @@
         "status": "brochure_listed_current_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "kia|sonet"
     },
     {
       "path": "research/india/variant-inventory-xuv3xo-sonet-2026-11-28.csv",
@@ -4966,7 +5060,8 @@
         "status": "brochure_listed_current_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "kia|sonet"
     },
     {
       "path": "research/india/variant-inventory-xuv3xo-sonet-2026-11-28.csv",
@@ -4986,7 +5081,8 @@
         "status": "brochure_listed_current_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "kia|sonet"
     },
     {
       "path": "research/india/variant-inventory-xuv3xo-sonet-2026-11-28.csv",
@@ -5006,7 +5102,8 @@
         "status": "brochure_listed_current_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "kia|sonet"
     },
     {
       "path": "research/india/variant-inventory-xuv3xo-sonet-2026-11-28.csv",
@@ -5026,7 +5123,8 @@
         "status": "brochure_listed_current_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "kia|sonet"
     },
     {
       "path": "research/india/variant-inventory-xuv3xo-sonet-2026-11-28.csv",
@@ -5046,7 +5144,8 @@
         "status": "brochure_listed_current_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "kia|sonet"
     },
     {
       "path": "research/india/variant-inventory-xuv3xo-sonet-2026-11-28.csv",
@@ -5066,7 +5165,8 @@
         "status": "brochure_listed_current_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "kia|sonet"
     },
     {
       "path": "research/india/variant-inventory-xuv3xo-sonet-2026-11-28.csv",
@@ -5086,7 +5186,8 @@
         "status": "brochure_listed_current_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "kia|sonet"
     },
     {
       "path": "research/india/variant-inventory-xuv3xo-sonet-2026-11-28.csv",
@@ -5106,7 +5207,8 @@
         "status": "brochure_listed_current_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "kia|sonet"
     },
     {
       "path": "research/india/variant-inventory-xuv3xo-sonet-2026-11-28.csv",
@@ -5126,7 +5228,8 @@
         "status": "brochure_listed_current_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "kia|sonet"
     },
     {
       "path": "research/india/variant-inventory-xuv3xo-sonet-2026-11-28.csv",
@@ -5146,7 +5249,8 @@
         "status": "brochure_listed_current_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "kia|sonet"
     },
     {
       "path": "research/india/variant-inventory-xuv3xo-sonet-2026-11-28.csv",
@@ -5166,7 +5270,8 @@
         "status": "brochure_listed_current_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "kia|sonet"
     },
     {
       "path": "research/india/variant-inventory-xuv3xo-sonet-2026-11-28.csv",
@@ -5186,7 +5291,8 @@
         "status": "brochure_listed_current_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "kia|sonet"
     },
     {
       "path": "research/india/variant-inventory-xuv3xo-sonet-2026-11-28.csv",
@@ -5206,7 +5312,8 @@
         "status": "selector_listed_engine_and_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "mahindra|xuv3xo"
     },
     {
       "path": "research/india/variant-inventory-xuv3xo-sonet-2026-11-28.csv",
@@ -5226,7 +5333,8 @@
         "status": "selector_listed_engine_and_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "mahindra|xuv3xo"
     },
     {
       "path": "research/india/variant-inventory-xuv3xo-sonet-2026-11-28.csv",
@@ -5246,7 +5354,8 @@
         "status": "selector_listed_engine_and_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "mahindra|xuv3xo"
     },
     {
       "path": "research/india/variant-inventory-xuv3xo-sonet-2026-11-28.csv",
@@ -5266,7 +5375,8 @@
         "status": "selector_listed_engine_and_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "mahindra|xuv3xo"
     },
     {
       "path": "research/india/variant-inventory-xuv3xo-sonet-2026-11-28.csv",
@@ -5286,7 +5396,8 @@
         "status": "selector_listed_engine_and_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "mahindra|xuv3xo"
     },
     {
       "path": "research/india/variant-inventory-xuv3xo-sonet-2026-11-28.csv",
@@ -5306,7 +5417,8 @@
         "status": "selector_listed_engine_and_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "mahindra|xuv3xo"
     },
     {
       "path": "research/india/variant-inventory-xuv3xo-sonet-2026-11-28.csv",
@@ -5326,7 +5438,8 @@
         "status": "selector_listed_engine_and_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "mahindra|xuv3xo"
     },
     {
       "path": "research/india/variant-inventory-xuv3xo-sonet-2026-11-28.csv",
@@ -5346,7 +5459,8 @@
         "status": "selector_listed_engine_and_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "mahindra|xuv3xo"
     },
     {
       "path": "research/india/variant-inventory-xuv3xo-sonet-2026-11-28.csv",
@@ -5366,7 +5480,8 @@
         "status": "selector_listed_engine_and_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "mahindra|xuv3xo"
     },
     {
       "path": "research/india/variant-inventory-xuv3xo-sonet-2026-11-28.csv",
@@ -5386,7 +5501,8 @@
         "status": "selector_listed_engine_and_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "mahindra|xuv3xo"
     },
     {
       "path": "research/india/variant-inventory-xuv3xo-sonet-2026-11-28.csv",
@@ -5406,7 +5522,8 @@
         "status": "selector_listed_engine_and_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "mahindra|xuv3xo"
     },
     {
       "path": "research/india/variant-inventory-xuv3xo-sonet-2026-11-28.csv",
@@ -5426,7 +5543,8 @@
         "status": "selector_listed_engine_and_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "mahindra|xuv3xo"
     },
     {
       "path": "research/india/variant-inventory-xuv3xo-sonet-2026-11-28.csv",
@@ -5446,7 +5564,8 @@
         "status": "selector_listed_engine_and_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "mahindra|xuv3xo"
     },
     {
       "path": "research/india/variant-inventory-xuv3xo-sonet-2026-11-28.csv",
@@ -5466,7 +5585,8 @@
         "status": "selector_listed_engine_and_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "mahindra|xuv3xo"
     },
     {
       "path": "research/india/variant-inventory-xuv3xo-sonet-2026-11-28.csv",
@@ -5486,7 +5606,8 @@
         "status": "selector_listed_engine_and_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "mahindra|xuv3xo"
     },
     {
       "path": "research/india/variant-inventory-xuv3xo-sonet-2026-11-28.csv",
@@ -5506,7 +5627,8 @@
         "status": "selector_listed_engine_and_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "mahindra|xuv3xo"
     },
     {
       "path": "research/india/variant-inventory-xuv3xo-sonet-2026-11-28.csv",
@@ -5526,7 +5648,8 @@
         "status": "selector_listed_engine_and_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "mahindra|xuv3xo"
     },
     {
       "path": "research/india/variant-inventory-xuv3xo-sonet-2026-11-28.csv",
@@ -5546,7 +5669,8 @@
         "status": "selector_listed_engine_and_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "mahindra|xuv3xo"
     },
     {
       "path": "research/india/variant-inventory-xuv3xo-sonet-2026-11-28.csv",
@@ -5566,7 +5690,8 @@
         "status": "selector_listed_engine_and_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "mahindra|xuv3xo"
     },
     {
       "path": "research/india/variant-inventory-xuv3xo-sonet-2026-11-28.csv",
@@ -5586,7 +5711,8 @@
         "status": "selector_listed_engine_and_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "mahindra|xuv3xo"
     },
     {
       "path": "research/india/variant-inventory-xuv3xo-sonet-2026-11-28.csv",
@@ -5606,7 +5732,8 @@
         "status": "selector_listed_engine_and_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "mahindra|xuv3xo"
     },
     {
       "path": "research/india/variant-inventory-xuv3xo-sonet-2026-11-28.csv",
@@ -5626,7 +5753,8 @@
         "status": "selector_listed_engine_and_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "mahindra|xuv3xo"
     },
     {
       "path": "research/india/variant-inventory-xuv3xo-sonet-2026-11-28.csv",
@@ -5646,7 +5774,8 @@
         "status": "selector_listed_engine_and_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "mahindra|xuv3xo"
     },
     {
       "path": "research/india/variant-inventory-xuv3xo-sonet-2026-11-28.csv",
@@ -5666,7 +5795,8 @@
         "status": "selector_listed_engine_and_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "mahindra|xuv3xo"
     },
     {
       "path": "research/india/variant-inventory-xuv3xo-sonet-2026-11-28.csv",
@@ -5686,7 +5816,8 @@
         "status": "selector_listed_engine_and_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "mahindra|xuv3xo"
     },
     {
       "path": "research/india/variant-inventory-xuv3xo-sonet-2026-11-28.csv",
@@ -5706,7 +5837,8 @@
         "status": "selector_listed_engine_and_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "mahindra|xuv3xo"
     },
     {
       "path": "research/india/variant-inventory-xuv3xo-sonet-2026-11-28.csv",
@@ -5726,7 +5858,8 @@
         "status": "selector_listed_engine_and_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "mahindra|xuv3xo"
     },
     {
       "path": "research/india/variant-inventory-xuv3xo-sonet-2026-11-28.csv",
@@ -5746,7 +5879,8 @@
         "status": "selector_listed_engine_and_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "mahindra|xuv3xo"
     },
     {
       "path": "research/india/variant-inventory-xuv3xo-sonet-2026-11-28.csv",
@@ -5766,7 +5900,8 @@
         "status": "selector_listed_transmission_unresolved",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "mahindra|xuv3xo"
     },
     {
       "path": "research/india/variant-inventory-xuv3xo-sonet-2026-11-28.csv",
@@ -5786,7 +5921,8 @@
         "status": "selector_listed_transmission_unresolved",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "mahindra|xuv3xo"
     },
     {
       "path": "research/india/variant-inventory-xuv3xo-sonet-2026-11-28.csv",
@@ -5806,7 +5942,8 @@
         "status": "selector_listed_transmission_unresolved",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "mahindra|xuv3xo"
     },
     {
       "path": "research/india/variant-inventory-xuv3xo-sonet-2026-11-28.csv",
@@ -5826,7 +5963,8 @@
         "status": "selector_listed_transmission_unresolved",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "mahindra|xuv3xo"
     },
     {
       "path": "research/india/variant-inventory-tata-punch-nexon-2026-11-28.csv",
@@ -5846,7 +5984,8 @@
         "status": "prior_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "tatamotors|punch"
     },
     {
       "path": "research/india/variant-inventory-tata-punch-nexon-2026-11-28.csv",
@@ -5866,7 +6005,8 @@
         "status": "prior_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "tatamotors|punch"
     },
     {
       "path": "research/india/variant-inventory-tata-punch-nexon-2026-11-28.csv",
@@ -5886,7 +6026,8 @@
         "status": "prior_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "tatamotors|punch"
     },
     {
       "path": "research/india/variant-inventory-tata-punch-nexon-2026-11-28.csv",
@@ -5906,7 +6047,8 @@
         "status": "prior_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "tatamotors|punch"
     },
     {
       "path": "research/india/variant-inventory-tata-punch-nexon-2026-11-28.csv",
@@ -5926,7 +6068,8 @@
         "status": "prior_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "tatamotors|punch"
     },
     {
       "path": "research/india/variant-inventory-tata-punch-nexon-2026-11-28.csv",
@@ -5946,7 +6089,8 @@
         "status": "prior_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "tatamotors|punch"
     },
     {
       "path": "research/india/variant-inventory-tata-punch-nexon-2026-11-28.csv",
@@ -5966,7 +6110,8 @@
         "status": "prior_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "tatamotors|punch"
     },
     {
       "path": "research/india/variant-inventory-tata-punch-nexon-2026-11-28.csv",
@@ -5986,7 +6131,8 @@
         "status": "prior_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "tatamotors|punch"
     },
     {
       "path": "research/india/variant-inventory-tata-punch-nexon-2026-11-28.csv",
@@ -6006,7 +6152,8 @@
         "status": "prior_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "tatamotors|punch"
     },
     {
       "path": "research/india/variant-inventory-tata-punch-nexon-2026-11-28.csv",
@@ -6026,7 +6173,8 @@
         "status": "prior_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "tatamotors|punch"
     },
     {
       "path": "research/india/variant-inventory-tata-punch-nexon-2026-11-28.csv",
@@ -6046,7 +6194,8 @@
         "status": "prior_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "tatamotors|punch"
     },
     {
       "path": "research/india/variant-inventory-tata-punch-nexon-2026-11-28.csv",
@@ -6066,7 +6215,8 @@
         "status": "prior_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "tatamotors|punch"
     },
     {
       "path": "research/india/variant-inventory-tata-punch-nexon-2026-11-28.csv",
@@ -6086,7 +6236,8 @@
         "status": "prior_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "tatamotors|punch"
     },
     {
       "path": "research/india/variant-inventory-tata-punch-nexon-2026-11-28.csv",
@@ -6106,7 +6257,8 @@
         "status": "prior_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "tatamotors|punch"
     },
     {
       "path": "research/india/variant-inventory-tata-punch-nexon-2026-11-28.csv",
@@ -6126,7 +6278,8 @@
         "status": "prior_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "tatamotors|punch"
     },
     {
       "path": "research/india/variant-inventory-tata-punch-nexon-2026-11-28.csv",
@@ -6146,7 +6299,8 @@
         "status": "prior_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "tatamotors|punch"
     },
     {
       "path": "research/india/variant-inventory-tata-punch-nexon-2026-11-28.csv",
@@ -6166,7 +6320,8 @@
         "status": "prior_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "tatamotors|punch"
     },
     {
       "path": "research/india/variant-inventory-tata-punch-nexon-2026-11-28.csv",
@@ -6186,7 +6341,8 @@
         "status": "prior_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "tatamotors|punch"
     },
     {
       "path": "research/india/variant-inventory-tata-punch-nexon-2026-11-28.csv",
@@ -6206,7 +6362,8 @@
         "status": "prior_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "tatamotors|punch"
     },
     {
       "path": "research/india/variant-inventory-tata-punch-nexon-2026-11-28.csv",
@@ -6226,7 +6383,8 @@
         "status": "prior_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "tatamotors|punch"
     },
     {
       "path": "research/india/variant-inventory-tata-punch-nexon-2026-11-28.csv",
@@ -6246,7 +6404,8 @@
         "status": "prior_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "tatamotors|punch"
     },
     {
       "path": "research/india/variant-inventory-tata-punch-nexon-2026-11-28.csv",
@@ -6266,7 +6425,8 @@
         "status": "prior_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "tatamotors|punch"
     },
     {
       "path": "research/india/variant-inventory-tata-punch-nexon-2026-11-28.csv",
@@ -6286,7 +6446,8 @@
         "status": "prior_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "tatamotors|punch"
     },
     {
       "path": "research/india/variant-inventory-tata-punch-nexon-2026-11-28.csv",
@@ -6306,7 +6467,8 @@
         "status": "prior_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "tatamotors|punch"
     },
     {
       "path": "research/india/variant-inventory-tata-punch-nexon-2026-11-28.csv",
@@ -6326,7 +6488,8 @@
         "status": "prior_card_partial_inventory",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "tatamotors|nexon"
     },
     {
       "path": "research/india/variant-inventory-tata-punch-nexon-2026-11-28.csv",
@@ -6346,7 +6509,8 @@
         "status": "prior_card_partial_inventory",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "tatamotors|nexon"
     },
     {
       "path": "research/india/variant-inventory-tata-punch-nexon-2026-11-28.csv",
@@ -6366,7 +6530,8 @@
         "status": "prior_card_partial_inventory",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "tatamotors|nexon"
     },
     {
       "path": "research/india/variant-inventory-tata-punch-nexon-2026-11-28.csv",
@@ -6386,7 +6551,8 @@
         "status": "prior_card_partial_inventory",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "tatamotors|nexon"
     },
     {
       "path": "research/india/variant-inventory-tata-punch-nexon-2026-11-28.csv",
@@ -6406,7 +6572,8 @@
         "status": "prior_card_partial_inventory",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "tatamotors|nexon"
     },
     {
       "path": "research/india/variant-inventory-tata-punch-nexon-2026-11-28.csv",
@@ -6426,7 +6593,8 @@
         "status": "prior_card_partial_inventory",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "tatamotors|nexon"
     },
     {
       "path": "research/india/variant-inventory-kia-seltos-syros-2026-11-28.csv",
@@ -6446,7 +6614,8 @@
         "status": "indexed_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "kia|seltos"
     },
     {
       "path": "research/india/variant-inventory-kia-seltos-syros-2026-11-28.csv",
@@ -6466,7 +6635,8 @@
         "status": "indexed_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "kia|seltos"
     },
     {
       "path": "research/india/variant-inventory-kia-seltos-syros-2026-11-28.csv",
@@ -6486,7 +6656,8 @@
         "status": "indexed_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "kia|seltos"
     },
     {
       "path": "research/india/variant-inventory-kia-seltos-syros-2026-11-28.csv",
@@ -6506,7 +6677,8 @@
         "status": "indexed_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "kia|seltos"
     },
     {
       "path": "research/india/variant-inventory-kia-seltos-syros-2026-11-28.csv",
@@ -6526,7 +6698,8 @@
         "status": "indexed_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "kia|seltos"
     },
     {
       "path": "research/india/variant-inventory-kia-seltos-syros-2026-11-28.csv",
@@ -6546,7 +6719,8 @@
         "status": "indexed_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "kia|seltos"
     },
     {
       "path": "research/india/variant-inventory-kia-seltos-syros-2026-11-28.csv",
@@ -6566,7 +6740,8 @@
         "status": "indexed_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "kia|seltos"
     },
     {
       "path": "research/india/variant-inventory-kia-seltos-syros-2026-11-28.csv",
@@ -6586,7 +6761,8 @@
         "status": "indexed_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "kia|seltos"
     },
     {
       "path": "research/india/variant-inventory-kia-seltos-syros-2026-11-28.csv",
@@ -6606,7 +6782,8 @@
         "status": "indexed_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "kia|seltos"
     },
     {
       "path": "research/india/variant-inventory-kia-seltos-syros-2026-11-28.csv",
@@ -6626,7 +6803,8 @@
         "status": "indexed_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "kia|seltos"
     },
     {
       "path": "research/india/variant-inventory-kia-seltos-syros-2026-11-28.csv",
@@ -6646,7 +6824,8 @@
         "status": "indexed_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "kia|seltos"
     },
     {
       "path": "research/india/variant-inventory-kia-seltos-syros-2026-11-28.csv",
@@ -6666,7 +6845,8 @@
         "status": "indexed_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "kia|seltos"
     },
     {
       "path": "research/india/variant-inventory-kia-seltos-syros-2026-11-28.csv",
@@ -6686,7 +6866,8 @@
         "status": "indexed_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "kia|seltos"
     },
     {
       "path": "research/india/variant-inventory-kia-seltos-syros-2026-11-28.csv",
@@ -6706,7 +6887,8 @@
         "status": "indexed_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "kia|seltos"
     },
     {
       "path": "research/india/variant-inventory-kia-seltos-syros-2026-11-28.csv",
@@ -6726,7 +6908,8 @@
         "status": "indexed_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "kia|seltos"
     },
     {
       "path": "research/india/variant-inventory-kia-seltos-syros-2026-11-28.csv",
@@ -6746,7 +6929,8 @@
         "status": "indexed_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "kia|seltos"
     },
     {
       "path": "research/india/variant-inventory-kia-seltos-syros-2026-11-28.csv",
@@ -6766,7 +6950,8 @@
         "status": "indexed_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "kia|seltos"
     },
     {
       "path": "research/india/variant-inventory-kia-seltos-syros-2026-11-28.csv",
@@ -6786,7 +6971,8 @@
         "status": "indexed_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "kia|seltos"
     },
     {
       "path": "research/india/variant-inventory-kia-seltos-syros-2026-11-28.csv",
@@ -6806,7 +6992,8 @@
         "status": "indexed_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "kia|seltos"
     },
     {
       "path": "research/india/variant-inventory-kia-seltos-syros-2026-11-28.csv",
@@ -6826,7 +7013,8 @@
         "status": "indexed_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "kia|seltos"
     },
     {
       "path": "research/india/variant-inventory-kia-seltos-syros-2026-11-28.csv",
@@ -6846,7 +7034,8 @@
         "status": "indexed_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "kia|seltos"
     },
     {
       "path": "research/india/variant-inventory-kia-seltos-syros-2026-11-28.csv",
@@ -6866,7 +7055,8 @@
         "status": "indexed_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "kia|seltos"
     },
     {
       "path": "research/india/variant-inventory-kia-seltos-syros-2026-11-28.csv",
@@ -6886,7 +7076,8 @@
         "status": "indexed_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "kia|seltos"
     },
     {
       "path": "research/india/variant-inventory-kia-seltos-syros-2026-11-28.csv",
@@ -6906,7 +7097,8 @@
         "status": "indexed_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "kia|seltos"
     },
     {
       "path": "research/india/variant-inventory-kia-seltos-syros-2026-11-28.csv",
@@ -6926,7 +7118,8 @@
         "status": "indexed_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "kia|seltos"
     },
     {
       "path": "research/india/variant-inventory-kia-seltos-syros-2026-11-28.csv",
@@ -6946,7 +7139,8 @@
         "status": "indexed_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "kia|seltos"
     },
     {
       "path": "research/india/variant-inventory-kia-seltos-syros-2026-11-28.csv",
@@ -6966,7 +7160,8 @@
         "status": "indexed_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "kia|seltos"
     },
     {
       "path": "research/india/variant-inventory-kia-seltos-syros-2026-11-28.csv",
@@ -6986,7 +7181,8 @@
         "status": "indexed_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "kia|seltos"
     },
     {
       "path": "research/india/variant-inventory-kia-seltos-syros-2026-11-28.csv",
@@ -7006,7 +7202,8 @@
         "status": "indexed_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "kia|seltos"
     },
     {
       "path": "research/india/variant-inventory-kia-seltos-syros-2026-11-28.csv",
@@ -7026,7 +7223,8 @@
         "status": "indexed_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "kia|seltos"
     },
     {
       "path": "research/india/variant-inventory-kia-seltos-syros-2026-11-28.csv",
@@ -7046,7 +7244,8 @@
         "status": "indexed_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "kia|seltos"
     },
     {
       "path": "research/india/variant-inventory-kia-seltos-syros-2026-11-28.csv",
@@ -7066,7 +7265,8 @@
         "status": "indexed_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "kia|seltos"
     },
     {
       "path": "research/india/variant-inventory-kia-seltos-syros-2026-11-28.csv",
@@ -7086,7 +7286,8 @@
         "status": "indexed_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "kia|seltos"
     },
     {
       "path": "research/india/variant-inventory-kia-seltos-syros-2026-11-28.csv",
@@ -7106,7 +7307,8 @@
         "status": "indexed_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "kia|seltos"
     },
     {
       "path": "research/india/variant-inventory-kia-seltos-syros-2026-11-28.csv",
@@ -7126,7 +7328,8 @@
         "status": "indexed_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "kia|seltos"
     },
     {
       "path": "research/india/variant-inventory-kia-seltos-syros-2026-11-28.csv",
@@ -7146,7 +7349,8 @@
         "status": "indexed_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "kia|seltos"
     },
     {
       "path": "research/india/variant-inventory-kia-seltos-syros-2026-11-28.csv",
@@ -7166,7 +7370,8 @@
         "status": "indexed_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "kia|seltos"
     },
     {
       "path": "research/india/variant-inventory-kia-seltos-syros-2026-11-28.csv",
@@ -7186,7 +7391,8 @@
         "status": "indexed_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "kia|seltos"
     },
     {
       "path": "research/india/variant-inventory-kia-seltos-syros-2026-11-28.csv",
@@ -7206,7 +7412,8 @@
         "status": "indexed_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "kia|seltos"
     },
     {
       "path": "research/india/variant-inventory-kia-seltos-syros-2026-11-28.csv",
@@ -7226,7 +7433,8 @@
         "status": "indexed_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "kia|seltos"
     },
     {
       "path": "research/india/variant-inventory-kia-seltos-syros-2026-11-28.csv",
@@ -7246,7 +7454,8 @@
         "status": "indexed_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "kia|seltos"
     },
     {
       "path": "research/india/variant-inventory-kia-seltos-syros-2026-11-28.csv",
@@ -7266,7 +7475,8 @@
         "status": "indexed_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "kia|seltos"
     },
     {
       "path": "research/india/variant-inventory-kia-seltos-syros-2026-11-28.csv",
@@ -7286,7 +7496,8 @@
         "status": "indexed_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "kia|syros"
     },
     {
       "path": "research/india/variant-inventory-kia-seltos-syros-2026-11-28.csv",
@@ -7306,7 +7517,8 @@
         "status": "indexed_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "kia|syros"
     },
     {
       "path": "research/india/variant-inventory-kia-seltos-syros-2026-11-28.csv",
@@ -7326,7 +7538,8 @@
         "status": "indexed_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "kia|syros"
     },
     {
       "path": "research/india/variant-inventory-kia-seltos-syros-2026-11-28.csv",
@@ -7346,7 +7559,8 @@
         "status": "indexed_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "kia|syros"
     },
     {
       "path": "research/india/variant-inventory-kia-seltos-syros-2026-11-28.csv",
@@ -7366,7 +7580,8 @@
         "status": "indexed_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "kia|syros"
     },
     {
       "path": "research/india/variant-inventory-kia-seltos-syros-2026-11-28.csv",
@@ -7386,7 +7601,8 @@
         "status": "indexed_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "kia|syros"
     },
     {
       "path": "research/india/variant-inventory-kia-seltos-syros-2026-11-28.csv",
@@ -7406,7 +7622,8 @@
         "status": "indexed_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "kia|syros"
     },
     {
       "path": "research/india/variant-inventory-kia-seltos-syros-2026-11-28.csv",
@@ -7426,7 +7643,8 @@
         "status": "indexed_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "kia|syros"
     },
     {
       "path": "research/india/variant-inventory-kia-seltos-syros-2026-11-28.csv",
@@ -7446,7 +7664,8 @@
         "status": "indexed_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "kia|syros"
     },
     {
       "path": "research/india/variant-inventory-kia-seltos-syros-2026-11-28.csv",
@@ -7466,7 +7685,8 @@
         "status": "indexed_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "kia|syros"
     },
     {
       "path": "research/india/variant-inventory-kia-seltos-syros-2026-11-28.csv",
@@ -7486,7 +7706,8 @@
         "status": "indexed_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "kia|syros"
     },
     {
       "path": "research/india/variant-inventory-kia-seltos-syros-2026-11-28.csv",
@@ -7506,7 +7727,8 @@
         "status": "indexed_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "kia|syros"
     },
     {
       "path": "research/india/variant-inventory-kia-seltos-syros-2026-11-28.csv",
@@ -7526,7 +7748,8 @@
         "status": "indexed_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "kia|syros"
     },
     {
       "path": "research/india/variant-inventory-kia-seltos-syros-2026-11-28.csv",
@@ -7546,7 +7769,8 @@
         "status": "indexed_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "kia|syros"
     },
     {
       "path": "research/india/variant-inventory-kia-seltos-syros-2026-11-28.csv",
@@ -7566,7 +7790,8 @@
         "status": "indexed_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "kia|syros"
     },
     {
       "path": "research/india/variant-inventory-kia-seltos-syros-2026-11-28.csv",
@@ -7586,7 +7811,8 @@
         "status": "indexed_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "kia|syros"
     },
     {
       "path": "research/india/variant-inventory-kia-seltos-syros-2026-11-28.csv",
@@ -7606,7 +7832,8 @@
         "status": "indexed_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "kia|syros"
     },
     {
       "path": "research/india/variant-inventory-scorpio-n-thar-roxx-2026-11-28.csv",
@@ -7629,7 +7856,8 @@
         "status": "indexed_selector_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "mahindra|scorpion"
     },
     {
       "path": "research/india/variant-inventory-scorpio-n-thar-roxx-2026-11-28.csv",
@@ -7652,7 +7880,8 @@
         "status": "indexed_selector_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "mahindra|scorpion"
     },
     {
       "path": "research/india/variant-inventory-scorpio-n-thar-roxx-2026-11-28.csv",
@@ -7675,7 +7904,8 @@
         "status": "indexed_selector_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "mahindra|scorpion"
     },
     {
       "path": "research/india/variant-inventory-scorpio-n-thar-roxx-2026-11-28.csv",
@@ -7698,7 +7928,8 @@
         "status": "indexed_selector_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "mahindra|scorpion"
     },
     {
       "path": "research/india/variant-inventory-scorpio-n-thar-roxx-2026-11-28.csv",
@@ -7721,7 +7952,8 @@
         "status": "indexed_selector_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "mahindra|scorpion"
     },
     {
       "path": "research/india/variant-inventory-scorpio-n-thar-roxx-2026-11-28.csv",
@@ -7744,7 +7976,8 @@
         "status": "indexed_selector_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "mahindra|scorpion"
     },
     {
       "path": "research/india/variant-inventory-scorpio-n-thar-roxx-2026-11-28.csv",
@@ -7767,7 +8000,8 @@
         "status": "indexed_selector_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "mahindra|scorpion"
     },
     {
       "path": "research/india/variant-inventory-scorpio-n-thar-roxx-2026-11-28.csv",
@@ -7790,7 +8024,8 @@
         "status": "indexed_selector_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "mahindra|scorpion"
     },
     {
       "path": "research/india/variant-inventory-scorpio-n-thar-roxx-2026-11-28.csv",
@@ -7813,7 +8048,8 @@
         "status": "indexed_selector_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "mahindra|scorpion"
     },
     {
       "path": "research/india/variant-inventory-scorpio-n-thar-roxx-2026-11-28.csv",
@@ -7836,7 +8072,8 @@
         "status": "indexed_selector_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "mahindra|scorpion"
     },
     {
       "path": "research/india/variant-inventory-scorpio-n-thar-roxx-2026-11-28.csv",
@@ -7859,7 +8096,8 @@
         "status": "indexed_selector_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "mahindra|scorpion"
     },
     {
       "path": "research/india/variant-inventory-scorpio-n-thar-roxx-2026-11-28.csv",
@@ -7882,7 +8120,8 @@
         "status": "indexed_selector_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "mahindra|scorpion"
     },
     {
       "path": "research/india/variant-inventory-scorpio-n-thar-roxx-2026-11-28.csv",
@@ -7905,7 +8144,8 @@
         "status": "indexed_selector_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "mahindra|scorpion"
     },
     {
       "path": "research/india/variant-inventory-scorpio-n-thar-roxx-2026-11-28.csv",
@@ -7928,7 +8168,8 @@
         "status": "indexed_selector_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "mahindra|scorpion"
     },
     {
       "path": "research/india/variant-inventory-scorpio-n-thar-roxx-2026-11-28.csv",
@@ -7951,7 +8192,8 @@
         "status": "indexed_selector_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "mahindra|scorpion"
     },
     {
       "path": "research/india/variant-inventory-scorpio-n-thar-roxx-2026-11-28.csv",
@@ -7974,7 +8216,8 @@
         "status": "indexed_selector_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "mahindra|scorpion"
     },
     {
       "path": "research/india/variant-inventory-scorpio-n-thar-roxx-2026-11-28.csv",
@@ -7997,7 +8240,8 @@
         "status": "indexed_selector_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "mahindra|scorpion"
     },
     {
       "path": "research/india/variant-inventory-scorpio-n-thar-roxx-2026-11-28.csv",
@@ -8020,7 +8264,8 @@
         "status": "indexed_selector_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "mahindra|scorpion"
     },
     {
       "path": "research/india/variant-inventory-scorpio-n-thar-roxx-2026-11-28.csv",
@@ -8043,7 +8288,8 @@
         "status": "indexed_selector_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "mahindra|scorpion"
     },
     {
       "path": "research/india/variant-inventory-scorpio-n-thar-roxx-2026-11-28.csv",
@@ -8066,7 +8312,8 @@
         "status": "indexed_selector_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "mahindra|scorpion"
     },
     {
       "path": "research/india/variant-inventory-scorpio-n-thar-roxx-2026-11-28.csv",
@@ -8089,7 +8336,8 @@
         "status": "indexed_selector_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "mahindra|scorpion"
     },
     {
       "path": "research/india/variant-inventory-scorpio-n-thar-roxx-2026-11-28.csv",
@@ -8112,7 +8360,8 @@
         "status": "indexed_selector_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "mahindra|scorpion"
     },
     {
       "path": "research/india/variant-inventory-scorpio-n-thar-roxx-2026-11-28.csv",
@@ -8135,7 +8384,8 @@
         "status": "indexed_selector_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "mahindra|scorpion"
     },
     {
       "path": "research/india/variant-inventory-scorpio-n-thar-roxx-2026-11-28.csv",
@@ -8158,7 +8408,8 @@
         "status": "indexed_selector_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "mahindra|scorpion"
     },
     {
       "path": "research/india/variant-inventory-scorpio-n-thar-roxx-2026-11-28.csv",
@@ -8181,7 +8432,8 @@
         "status": "indexed_selector_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "mahindra|scorpion"
     },
     {
       "path": "research/india/variant-inventory-scorpio-n-thar-roxx-2026-11-28.csv",
@@ -8204,7 +8456,8 @@
         "status": "indexed_selector_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "mahindra|scorpion"
     },
     {
       "path": "research/india/variant-inventory-scorpio-n-thar-roxx-2026-11-28.csv",
@@ -8227,7 +8480,8 @@
         "status": "indexed_selector_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "mahindra|scorpion"
     },
     {
       "path": "research/india/variant-inventory-scorpio-n-thar-roxx-2026-11-28.csv",
@@ -8250,7 +8504,8 @@
         "status": "indexed_selector_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "mahindra|tharroxx"
     },
     {
       "path": "research/india/variant-inventory-scorpio-n-thar-roxx-2026-11-28.csv",
@@ -8273,7 +8528,8 @@
         "status": "indexed_selector_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "mahindra|tharroxx"
     },
     {
       "path": "research/india/variant-inventory-scorpio-n-thar-roxx-2026-11-28.csv",
@@ -8296,7 +8552,8 @@
         "status": "indexed_selector_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "mahindra|tharroxx"
     },
     {
       "path": "research/india/variant-inventory-scorpio-n-thar-roxx-2026-11-28.csv",
@@ -8319,7 +8576,8 @@
         "status": "indexed_selector_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "mahindra|tharroxx"
     },
     {
       "path": "research/india/variant-inventory-scorpio-n-thar-roxx-2026-11-28.csv",
@@ -8342,7 +8600,8 @@
         "status": "indexed_selector_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "mahindra|tharroxx"
     },
     {
       "path": "research/india/variant-inventory-scorpio-n-thar-roxx-2026-11-28.csv",
@@ -8365,7 +8624,8 @@
         "status": "indexed_selector_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "mahindra|tharroxx"
     },
     {
       "path": "research/india/variant-inventory-scorpio-n-thar-roxx-2026-11-28.csv",
@@ -8388,7 +8648,8 @@
         "status": "indexed_selector_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "mahindra|tharroxx"
     },
     {
       "path": "research/india/variant-inventory-scorpio-n-thar-roxx-2026-11-28.csv",
@@ -8411,7 +8672,8 @@
         "status": "indexed_selector_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "mahindra|tharroxx"
     },
     {
       "path": "research/india/variant-inventory-scorpio-n-thar-roxx-2026-11-28.csv",
@@ -8434,7 +8696,8 @@
         "status": "indexed_selector_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "mahindra|tharroxx"
     },
     {
       "path": "research/india/variant-inventory-scorpio-n-thar-roxx-2026-11-28.csv",
@@ -8457,7 +8720,8 @@
         "status": "indexed_selector_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "mahindra|tharroxx"
     },
     {
       "path": "research/india/variant-inventory-scorpio-n-thar-roxx-2026-11-28.csv",
@@ -8480,7 +8744,8 @@
         "status": "indexed_selector_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "mahindra|tharroxx"
     },
     {
       "path": "research/india/variant-inventory-scorpio-n-thar-roxx-2026-11-28.csv",
@@ -8503,7 +8768,8 @@
         "status": "indexed_selector_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "mahindra|tharroxx"
     },
     {
       "path": "research/india/variant-inventory-scorpio-n-thar-roxx-2026-11-28.csv",
@@ -8526,7 +8792,8 @@
         "status": "indexed_selector_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "mahindra|tharroxx"
     },
     {
       "path": "research/india/variant-inventory-scorpio-n-thar-roxx-2026-11-28.csv",
@@ -8549,7 +8816,8 @@
         "status": "indexed_selector_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "mahindra|tharroxx"
     },
     {
       "path": "research/india/variant-inventory-scorpio-n-thar-roxx-2026-11-28.csv",
@@ -8572,7 +8840,8 @@
         "status": "indexed_selector_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "mahindra|tharroxx"
     },
     {
       "path": "research/india/variant-inventory-scorpio-n-thar-roxx-2026-11-28.csv",
@@ -8595,7 +8864,8 @@
         "status": "indexed_selector_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "mahindra|tharroxx"
     },
     {
       "path": "research/india/variant-inventory-scorpio-n-thar-roxx-2026-11-28.csv",
@@ -8618,7 +8888,8 @@
         "status": "indexed_selector_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "mahindra|tharroxx"
     },
     {
       "path": "research/india/variant-inventory-scorpio-n-thar-roxx-2026-11-28.csv",
@@ -8641,7 +8912,8 @@
         "status": "indexed_selector_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "mahindra|tharroxx"
     },
     {
       "path": "research/india/variant-inventory-scorpio-n-thar-roxx-2026-11-28.csv",
@@ -8664,7 +8936,8 @@
         "status": "indexed_selector_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "mahindra|tharroxx"
     },
     {
       "path": "research/india/variant-inventory-scorpio-n-thar-roxx-2026-11-28.csv",
@@ -8687,7 +8960,8 @@
         "status": "indexed_selector_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "mahindra|tharroxx"
     },
     {
       "path": "research/india/variant-inventory-scorpio-n-thar-roxx-2026-11-28.csv",
@@ -8710,7 +8984,8 @@
         "status": "indexed_selector_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "mahindra|tharroxx"
     },
     {
       "path": "research/india/variant-inventory-scorpio-n-thar-roxx-2026-11-28.csv",
@@ -8733,7 +9008,8 @@
         "status": "indexed_selector_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "mahindra|tharroxx"
     },
     {
       "path": "research/india/variant-inventory-scorpio-n-thar-roxx-2026-11-28.csv",
@@ -8756,7 +9032,8 @@
         "status": "indexed_selector_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "mahindra|tharroxx"
     },
     {
       "path": "research/india/variant-inventory-scorpio-n-thar-roxx-2026-11-28.csv",
@@ -8779,7 +9056,8 @@
         "status": "indexed_selector_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "mahindra|tharroxx"
     },
     {
       "path": "research/india/variant-inventory-scorpio-n-thar-roxx-2026-11-28.csv",
@@ -8802,7 +9080,8 @@
         "status": "indexed_selector_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "mahindra|tharroxx"
     },
     {
       "path": "research/india/variant-inventory-scorpio-n-thar-roxx-2026-11-28.csv",
@@ -8825,7 +9104,8 @@
         "status": "indexed_selector_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "mahindra|tharroxx"
     },
     {
       "path": "research/india/variant-inventory-scorpio-n-thar-roxx-2026-11-28.csv",
@@ -8848,7 +9128,8 @@
         "status": "indexed_selector_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "mahindra|tharroxx"
     },
     {
       "path": "research/india/variant-inventory-scorpio-n-thar-roxx-2026-11-28.csv",
@@ -8871,7 +9152,8 @@
         "status": "indexed_selector_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "mahindra|tharroxx"
     },
     {
       "path": "research/india/variant-inventory-xuv7xo-glanza-2026-11-28.csv",
@@ -8893,7 +9175,8 @@
         "status": "brochure_candidate",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "mahindra|xuv7xo"
     },
     {
       "path": "research/india/variant-inventory-xuv7xo-glanza-2026-11-28.csv",
@@ -8915,7 +9198,8 @@
         "status": "brochure_candidate",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "mahindra|xuv7xo"
     },
     {
       "path": "research/india/variant-inventory-xuv7xo-glanza-2026-11-28.csv",
@@ -8937,7 +9221,8 @@
         "status": "brochure_candidate",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "mahindra|xuv7xo"
     },
     {
       "path": "research/india/variant-inventory-xuv7xo-glanza-2026-11-28.csv",
@@ -8959,7 +9244,8 @@
         "status": "brochure_candidate",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "mahindra|xuv7xo"
     },
     {
       "path": "research/india/variant-inventory-xuv7xo-glanza-2026-11-28.csv",
@@ -8981,7 +9267,8 @@
         "status": "brochure_candidate",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "mahindra|xuv7xo"
     },
     {
       "path": "research/india/variant-inventory-xuv7xo-glanza-2026-11-28.csv",
@@ -9003,7 +9290,8 @@
         "status": "brochure_candidate",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "mahindra|xuv7xo"
     },
     {
       "path": "research/india/variant-inventory-xuv7xo-glanza-2026-11-28.csv",
@@ -9025,7 +9313,8 @@
         "status": "brochure_candidate",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "mahindra|xuv7xo"
     },
     {
       "path": "research/india/variant-inventory-xuv7xo-glanza-2026-11-28.csv",
@@ -9047,7 +9336,8 @@
         "status": "brochure_candidate",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "mahindra|xuv7xo"
     },
     {
       "path": "research/india/variant-inventory-xuv7xo-glanza-2026-11-28.csv",
@@ -9069,7 +9359,8 @@
         "status": "brochure_candidate",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "mahindra|xuv7xo"
     },
     {
       "path": "research/india/variant-inventory-xuv7xo-glanza-2026-11-28.csv",
@@ -9091,7 +9382,8 @@
         "status": "brochure_candidate",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "mahindra|xuv7xo"
     },
     {
       "path": "research/india/variant-inventory-xuv7xo-glanza-2026-11-28.csv",
@@ -9113,7 +9405,8 @@
         "status": "brochure_candidate",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "mahindra|xuv7xo"
     },
     {
       "path": "research/india/variant-inventory-xuv7xo-glanza-2026-11-28.csv",
@@ -9135,7 +9428,8 @@
         "status": "brochure_candidate",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "mahindra|xuv7xo"
     },
     {
       "path": "research/india/variant-inventory-xuv7xo-glanza-2026-11-28.csv",
@@ -9157,7 +9451,8 @@
         "status": "brochure_candidate",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "mahindra|xuv7xo"
     },
     {
       "path": "research/india/variant-inventory-xuv7xo-glanza-2026-11-28.csv",
@@ -9179,7 +9474,8 @@
         "status": "brochure_candidate",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "mahindra|xuv7xo"
     },
     {
       "path": "research/india/variant-inventory-xuv7xo-glanza-2026-11-28.csv",
@@ -9201,7 +9497,8 @@
         "status": "brochure_candidate",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "mahindra|xuv7xo"
     },
     {
       "path": "research/india/variant-inventory-xuv7xo-glanza-2026-11-28.csv",
@@ -9223,7 +9520,8 @@
         "status": "brochure_candidate",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "mahindra|xuv7xo"
     },
     {
       "path": "research/india/variant-inventory-xuv7xo-glanza-2026-11-28.csv",
@@ -9245,7 +9543,8 @@
         "status": "brochure_candidate",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "mahindra|xuv7xo"
     },
     {
       "path": "research/india/variant-inventory-xuv7xo-glanza-2026-11-28.csv",
@@ -9267,7 +9566,8 @@
         "status": "brochure_candidate",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "mahindra|xuv7xo"
     },
     {
       "path": "research/india/variant-inventory-xuv7xo-glanza-2026-11-28.csv",
@@ -9289,7 +9589,8 @@
         "status": "brochure_candidate",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "mahindra|xuv7xo"
     },
     {
       "path": "research/india/variant-inventory-xuv7xo-glanza-2026-11-28.csv",
@@ -9311,7 +9612,8 @@
         "status": "brochure_candidate",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "mahindra|xuv7xo"
     },
     {
       "path": "research/india/variant-inventory-xuv7xo-glanza-2026-11-28.csv",
@@ -9333,7 +9635,8 @@
         "status": "brochure_candidate",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "mahindra|xuv7xo"
     },
     {
       "path": "research/india/variant-inventory-xuv7xo-glanza-2026-11-28.csv",
@@ -9355,7 +9658,8 @@
         "status": "brochure_candidate",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "mahindra|xuv7xo"
     },
     {
       "path": "research/india/variant-inventory-xuv7xo-glanza-2026-11-28.csv",
@@ -9377,7 +9681,8 @@
         "status": "brochure_candidate",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "mahindra|xuv7xo"
     },
     {
       "path": "research/india/variant-inventory-xuv7xo-glanza-2026-11-28.csv",
@@ -9399,7 +9704,8 @@
         "status": "brochure_candidate",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "mahindra|xuv7xo"
     },
     {
       "path": "research/india/variant-inventory-xuv7xo-glanza-2026-11-28.csv",
@@ -9421,7 +9727,8 @@
         "status": "brochure_candidate",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "mahindra|xuv7xo"
     },
     {
       "path": "research/india/variant-inventory-xuv7xo-glanza-2026-11-28.csv",
@@ -9443,7 +9750,8 @@
         "status": "brochure_candidate",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "mahindra|xuv7xo"
     },
     {
       "path": "research/india/variant-inventory-xuv7xo-glanza-2026-11-28.csv",
@@ -9465,7 +9773,8 @@
         "status": "brochure_candidate",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "mahindra|xuv7xo"
     },
     {
       "path": "research/india/variant-inventory-xuv7xo-glanza-2026-11-28.csv",
@@ -9487,7 +9796,8 @@
         "status": "brochure_candidate",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "toyota|glanza"
     },
     {
       "path": "research/india/variant-inventory-xuv7xo-glanza-2026-11-28.csv",
@@ -9509,7 +9819,8 @@
         "status": "brochure_candidate",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "toyota|glanza"
     },
     {
       "path": "research/india/variant-inventory-xuv7xo-glanza-2026-11-28.csv",
@@ -9531,7 +9842,8 @@
         "status": "brochure_candidate",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "toyota|glanza"
     },
     {
       "path": "research/india/variant-inventory-xuv7xo-glanza-2026-11-28.csv",
@@ -9553,7 +9865,8 @@
         "status": "brochure_candidate",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "toyota|glanza"
     },
     {
       "path": "research/india/variant-inventory-xuv7xo-glanza-2026-11-28.csv",
@@ -9575,7 +9888,8 @@
         "status": "brochure_candidate",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "toyota|glanza"
     },
     {
       "path": "research/india/variant-inventory-xuv7xo-glanza-2026-11-28.csv",
@@ -9597,7 +9911,8 @@
         "status": "brochure_candidate",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "toyota|glanza"
     },
     {
       "path": "research/india/variant-inventory-xuv7xo-glanza-2026-11-28.csv",
@@ -9619,7 +9934,8 @@
         "status": "brochure_candidate",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "toyota|glanza"
     },
     {
       "path": "research/india/variant-inventory-xuv7xo-glanza-2026-11-28.csv",
@@ -9641,7 +9957,8 @@
         "status": "brochure_candidate",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "toyota|glanza"
     },
     {
       "path": "research/india/variant-inventory-xuv7xo-glanza-2026-11-28.csv",
@@ -9663,7 +9980,8 @@
         "status": "brochure_candidate",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "toyota|glanza"
     },
     {
       "path": "research/india/variant-inventory-i20-exter-dzire-hycross-2026-11-28.csv",
@@ -9684,7 +10002,8 @@
         "status": "oem_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "hyundai|i20"
     },
     {
       "path": "research/india/variant-inventory-i20-exter-dzire-hycross-2026-11-28.csv",
@@ -9705,7 +10024,8 @@
         "status": "oem_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "hyundai|i20"
     },
     {
       "path": "research/india/variant-inventory-i20-exter-dzire-hycross-2026-11-28.csv",
@@ -9726,7 +10046,8 @@
         "status": "oem_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "hyundai|i20"
     },
     {
       "path": "research/india/variant-inventory-i20-exter-dzire-hycross-2026-11-28.csv",
@@ -9747,7 +10068,8 @@
         "status": "oem_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "hyundai|i20"
     },
     {
       "path": "research/india/variant-inventory-i20-exter-dzire-hycross-2026-11-28.csv",
@@ -9768,7 +10090,8 @@
         "status": "oem_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "hyundai|i20"
     },
     {
       "path": "research/india/variant-inventory-i20-exter-dzire-hycross-2026-11-28.csv",
@@ -9789,7 +10112,8 @@
         "status": "oem_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "hyundai|i20"
     },
     {
       "path": "research/india/variant-inventory-i20-exter-dzire-hycross-2026-11-28.csv",
@@ -9810,7 +10134,8 @@
         "status": "oem_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "hyundai|i20"
     },
     {
       "path": "research/india/variant-inventory-i20-exter-dzire-hycross-2026-11-28.csv",
@@ -9831,7 +10156,8 @@
         "status": "oem_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "hyundai|i20"
     },
     {
       "path": "research/india/variant-inventory-i20-exter-dzire-hycross-2026-11-28.csv",
@@ -9852,7 +10178,8 @@
         "status": "oem_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "hyundai|i20"
     },
     {
       "path": "research/india/variant-inventory-i20-exter-dzire-hycross-2026-11-28.csv",
@@ -9873,7 +10200,8 @@
         "status": "oem_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "hyundai|i20"
     },
     {
       "path": "research/india/variant-inventory-i20-exter-dzire-hycross-2026-11-28.csv",
@@ -9894,7 +10222,8 @@
         "status": "oem_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "hyundai|i20"
     },
     {
       "path": "research/india/variant-inventory-i20-exter-dzire-hycross-2026-11-28.csv",
@@ -9915,7 +10244,8 @@
         "status": "oem_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "hyundai|i20"
     },
     {
       "path": "research/india/variant-inventory-i20-exter-dzire-hycross-2026-11-28.csv",
@@ -9936,7 +10266,8 @@
         "status": "oem_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "hyundai|exter"
     },
     {
       "path": "research/india/variant-inventory-i20-exter-dzire-hycross-2026-11-28.csv",
@@ -9957,7 +10288,8 @@
         "status": "oem_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "hyundai|exter"
     },
     {
       "path": "research/india/variant-inventory-i20-exter-dzire-hycross-2026-11-28.csv",
@@ -9978,7 +10310,8 @@
         "status": "oem_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "hyundai|exter"
     },
     {
       "path": "research/india/variant-inventory-i20-exter-dzire-hycross-2026-11-28.csv",
@@ -9999,7 +10332,8 @@
         "status": "oem_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "hyundai|exter"
     },
     {
       "path": "research/india/variant-inventory-i20-exter-dzire-hycross-2026-11-28.csv",
@@ -10020,7 +10354,8 @@
         "status": "oem_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "hyundai|exter"
     },
     {
       "path": "research/india/variant-inventory-i20-exter-dzire-hycross-2026-11-28.csv",
@@ -10041,7 +10376,8 @@
         "status": "oem_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "hyundai|exter"
     },
     {
       "path": "research/india/variant-inventory-i20-exter-dzire-hycross-2026-11-28.csv",
@@ -10062,7 +10398,8 @@
         "status": "oem_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "hyundai|exter"
     },
     {
       "path": "research/india/variant-inventory-i20-exter-dzire-hycross-2026-11-28.csv",
@@ -10083,7 +10420,8 @@
         "status": "oem_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "hyundai|exter"
     },
     {
       "path": "research/india/variant-inventory-i20-exter-dzire-hycross-2026-11-28.csv",
@@ -10104,7 +10442,8 @@
         "status": "oem_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "hyundai|exter"
     },
     {
       "path": "research/india/variant-inventory-i20-exter-dzire-hycross-2026-11-28.csv",
@@ -10125,7 +10464,8 @@
         "status": "oem_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "hyundai|exter"
     },
     {
       "path": "research/india/variant-inventory-i20-exter-dzire-hycross-2026-11-28.csv",
@@ -10146,7 +10486,8 @@
         "status": "oem_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "hyundai|exter"
     },
     {
       "path": "research/india/variant-inventory-i20-exter-dzire-hycross-2026-11-28.csv",
@@ -10167,7 +10508,8 @@
         "status": "oem_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "hyundai|exter"
     },
     {
       "path": "research/india/variant-inventory-i20-exter-dzire-hycross-2026-11-28.csv",
@@ -10188,7 +10530,8 @@
         "status": "oem_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "hyundai|exter"
     },
     {
       "path": "research/india/variant-inventory-i20-exter-dzire-hycross-2026-11-28.csv",
@@ -10209,7 +10552,8 @@
         "status": "oem_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "hyundai|exter"
     },
     {
       "path": "research/india/variant-inventory-i20-exter-dzire-hycross-2026-11-28.csv",
@@ -10230,7 +10574,8 @@
         "status": "oem_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "hyundai|exter"
     },
     {
       "path": "research/india/variant-inventory-i20-exter-dzire-hycross-2026-11-28.csv",
@@ -10251,7 +10596,8 @@
         "status": "oem_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "hyundai|exter"
     },
     {
       "path": "research/india/variant-inventory-i20-exter-dzire-hycross-2026-11-28.csv",
@@ -10272,7 +10618,8 @@
         "status": "oem_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "hyundai|exter"
     },
     {
       "path": "research/india/variant-inventory-i20-exter-dzire-hycross-2026-11-28.csv",
@@ -10293,7 +10640,8 @@
         "status": "oem_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "hyundai|exter"
     },
     {
       "path": "research/india/variant-inventory-i20-exter-dzire-hycross-2026-11-28.csv",
@@ -10314,7 +10662,8 @@
         "status": "oem_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "hyundai|exter"
     },
     {
       "path": "research/india/variant-inventory-i20-exter-dzire-hycross-2026-11-28.csv",
@@ -10335,7 +10684,8 @@
         "status": "oem_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "marutisuzuki|dzire"
     },
     {
       "path": "research/india/variant-inventory-i20-exter-dzire-hycross-2026-11-28.csv",
@@ -10356,7 +10706,8 @@
         "status": "oem_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "marutisuzuki|dzire"
     },
     {
       "path": "research/india/variant-inventory-i20-exter-dzire-hycross-2026-11-28.csv",
@@ -10377,7 +10728,8 @@
         "status": "oem_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "marutisuzuki|dzire"
     },
     {
       "path": "research/india/variant-inventory-i20-exter-dzire-hycross-2026-11-28.csv",
@@ -10398,7 +10750,8 @@
         "status": "oem_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "marutisuzuki|dzire"
     },
     {
       "path": "research/india/variant-inventory-i20-exter-dzire-hycross-2026-11-28.csv",
@@ -10419,7 +10772,8 @@
         "status": "oem_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "marutisuzuki|dzire"
     },
     {
       "path": "research/india/variant-inventory-i20-exter-dzire-hycross-2026-11-28.csv",
@@ -10440,7 +10794,8 @@
         "status": "oem_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "marutisuzuki|dzire"
     },
     {
       "path": "research/india/variant-inventory-i20-exter-dzire-hycross-2026-11-28.csv",
@@ -10461,7 +10816,8 @@
         "status": "oem_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "marutisuzuki|dzire"
     },
     {
       "path": "research/india/variant-inventory-i20-exter-dzire-hycross-2026-11-28.csv",
@@ -10482,7 +10838,8 @@
         "status": "oem_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "marutisuzuki|dzire"
     },
     {
       "path": "research/india/variant-inventory-i20-exter-dzire-hycross-2026-11-28.csv",
@@ -10503,7 +10860,8 @@
         "status": "oem_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "marutisuzuki|dzire"
     },
     {
       "path": "research/india/variant-inventory-i20-exter-dzire-hycross-2026-11-28.csv",
@@ -10524,7 +10882,8 @@
         "status": "oem_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "marutisuzuki|dzire"
     },
     {
       "path": "research/india/variant-inventory-i20-exter-dzire-hycross-2026-11-28.csv",
@@ -10545,7 +10904,8 @@
         "status": "oem_matrix_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "marutisuzuki|dzire"
     },
     {
       "path": "research/india/variant-inventory-i20-exter-dzire-hycross-2026-11-28.csv",
@@ -10566,7 +10926,8 @@
         "status": "oem_listed_fleet_scope_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "toyota|innovahycross"
     },
     {
       "path": "research/india/variant-inventory-i20-exter-dzire-hycross-2026-11-28.csv",
@@ -10587,7 +10948,8 @@
         "status": "oem_listed_fleet_scope_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "toyota|innovahycross"
     },
     {
       "path": "research/india/variant-inventory-i20-exter-dzire-hycross-2026-11-28.csv",
@@ -10608,7 +10970,8 @@
         "status": "oem_listed_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "toyota|innovahycross"
     },
     {
       "path": "research/india/variant-inventory-i20-exter-dzire-hycross-2026-11-28.csv",
@@ -10629,7 +10992,8 @@
         "status": "oem_listed_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "toyota|innovahycross"
     },
     {
       "path": "research/india/variant-inventory-i20-exter-dzire-hycross-2026-11-28.csv",
@@ -10650,7 +11014,8 @@
         "status": "oem_listed_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "toyota|innovahycross"
     },
     {
       "path": "research/india/variant-inventory-i20-exter-dzire-hycross-2026-11-28.csv",
@@ -10671,7 +11036,8 @@
         "status": "oem_listed_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "toyota|innovahycross"
     },
     {
       "path": "research/india/variant-inventory-i20-exter-dzire-hycross-2026-11-28.csv",
@@ -10692,7 +11058,8 @@
         "status": "oem_listed_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "toyota|innovahycross"
     },
     {
       "path": "research/india/variant-inventory-i20-exter-dzire-hycross-2026-11-28.csv",
@@ -10713,7 +11080,8 @@
         "status": "oem_listed_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "toyota|innovahycross"
     },
     {
       "path": "research/india/variant-inventory-i20-exter-dzire-hycross-2026-11-28.csv",
@@ -10734,7 +11102,8 @@
         "status": "oem_listed_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "toyota|innovahycross"
     },
     {
       "path": "research/india/variant-inventory-i20-exter-dzire-hycross-2026-11-28.csv",
@@ -10755,7 +11124,8 @@
         "status": "oem_listed_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "toyota|innovahycross"
     },
     {
       "path": "research/india/variant-inventory-i20-exter-dzire-hycross-2026-11-28.csv",
@@ -10776,7 +11146,8 @@
         "status": "oem_listed_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "toyota|innovahycross"
     },
     {
       "path": "research/india/variant-inventory-i20-exter-dzire-hycross-2026-11-28.csv",
@@ -10797,7 +11168,8 @@
         "status": "oem_listed_orderability_pending",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "toyota|innovahycross"
     },
     {
       "path": "research/india/nexon-selector-reconciliation-2026-11-28.csv",
@@ -10813,7 +11185,8 @@
         "reconciliation_status": "prior_candidate_overlap",
         "source_url": "https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "tatamotors|nexon"
     },
     {
       "path": "research/india/nexon-selector-reconciliation-2026-11-28.csv",
@@ -10829,7 +11202,8 @@
         "reconciliation_status": "new_selector_candidate",
         "source_url": "https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "tatamotors|nexon"
     },
     {
       "path": "research/india/nexon-selector-reconciliation-2026-11-28.csv",
@@ -10845,7 +11219,8 @@
         "reconciliation_status": "prior_candidate_overlap",
         "source_url": "https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "tatamotors|nexon"
     },
     {
       "path": "research/india/nexon-selector-reconciliation-2026-11-28.csv",
@@ -10861,7 +11236,8 @@
         "reconciliation_status": "new_selector_candidate",
         "source_url": "https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "tatamotors|nexon"
     },
     {
       "path": "research/india/nexon-selector-reconciliation-2026-11-28.csv",
@@ -10877,7 +11253,8 @@
         "reconciliation_status": "prior_candidate_overlap",
         "source_url": "https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "tatamotors|nexon"
     },
     {
       "path": "research/india/nexon-selector-reconciliation-2026-11-28.csv",
@@ -10893,7 +11270,8 @@
         "reconciliation_status": "prior_candidate_overlap",
         "source_url": "https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "tatamotors|nexon"
     },
     {
       "path": "research/india/nexon-selector-reconciliation-2026-11-28.csv",
@@ -10909,7 +11287,8 @@
         "reconciliation_status": "new_selector_candidate",
         "source_url": "https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "tatamotors|nexon"
     },
     {
       "path": "research/india/nexon-selector-reconciliation-2026-11-28.csv",
@@ -10925,7 +11304,8 @@
         "reconciliation_status": "new_selector_candidate",
         "source_url": "https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "tatamotors|nexon"
     },
     {
       "path": "research/india/nexon-selector-reconciliation-2026-11-28.csv",
@@ -10941,7 +11321,8 @@
         "reconciliation_status": "new_selector_candidate",
         "source_url": "https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "tatamotors|nexon"
     },
     {
       "path": "research/india/nexon-selector-reconciliation-2026-11-28.csv",
@@ -10957,7 +11338,8 @@
         "reconciliation_status": "new_selector_candidate",
         "source_url": "https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "tatamotors|nexon"
     },
     {
       "path": "research/india/nexon-selector-reconciliation-2026-11-28.csv",
@@ -10973,7 +11355,8 @@
         "reconciliation_status": "new_selector_candidate",
         "source_url": "https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "tatamotors|nexon"
     },
     {
       "path": "research/india/nexon-selector-reconciliation-2026-11-28.csv",
@@ -10989,7 +11372,8 @@
         "reconciliation_status": "new_selector_candidate",
         "source_url": "https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "tatamotors|nexon"
     },
     {
       "path": "research/india/nexon-selector-reconciliation-2026-11-28.csv",
@@ -11005,7 +11389,8 @@
         "reconciliation_status": "new_selector_candidate",
         "source_url": "https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "tatamotors|nexon"
     },
     {
       "path": "research/india/nexon-selector-reconciliation-2026-11-28.csv",
@@ -11021,7 +11406,8 @@
         "reconciliation_status": "new_selector_candidate",
         "source_url": "https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "tatamotors|nexon"
     },
     {
       "path": "research/india/nexon-selector-reconciliation-2026-11-28.csv",
@@ -11037,7 +11423,8 @@
         "reconciliation_status": "new_selector_candidate",
         "source_url": "https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "tatamotors|nexon"
     },
     {
       "path": "research/india/nexon-selector-reconciliation-2026-11-28.csv",
@@ -11053,7 +11440,8 @@
         "reconciliation_status": "prior_candidate_overlap",
         "source_url": "https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "tatamotors|nexon"
     },
     {
       "path": "research/india/nexon-selector-reconciliation-2026-11-28.csv",
@@ -11069,7 +11457,8 @@
         "reconciliation_status": "new_selector_candidate",
         "source_url": "https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "tatamotors|nexon"
     },
     {
       "path": "research/india/nexon-selector-reconciliation-2026-11-28.csv",
@@ -11085,7 +11474,8 @@
         "reconciliation_status": "new_selector_candidate",
         "source_url": "https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "tatamotors|nexon"
     },
     {
       "path": "research/india/nexon-selector-reconciliation-2026-11-28.csv",
@@ -11101,7 +11491,8 @@
         "reconciliation_status": "new_selector_candidate",
         "source_url": "https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "tatamotors|nexon"
     },
     {
       "path": "research/india/nexon-selector-reconciliation-2026-11-28.csv",
@@ -11117,7 +11508,8 @@
         "reconciliation_status": "new_selector_candidate",
         "source_url": "https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "tatamotors|nexon"
     },
     {
       "path": "research/india/nexon-selector-reconciliation-2026-11-28.csv",
@@ -11133,7 +11525,8 @@
         "reconciliation_status": "new_selector_candidate",
         "source_url": "https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "tatamotors|nexon"
     },
     {
       "path": "research/india/nexon-selector-reconciliation-2026-11-28.csv",
@@ -11149,7 +11542,8 @@
         "reconciliation_status": "new_selector_candidate",
         "source_url": "https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "tatamotors|nexon"
     },
     {
       "path": "research/india/nexon-selector-reconciliation-2026-11-28.csv",
@@ -11165,7 +11559,8 @@
         "reconciliation_status": "new_selector_candidate",
         "source_url": "https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "tatamotors|nexon"
     },
     {
       "path": "research/india/nexon-selector-reconciliation-2026-11-28.csv",
@@ -11181,7 +11576,8 @@
         "reconciliation_status": "new_selector_candidate",
         "source_url": "https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "tatamotors|nexon"
     },
     {
       "path": "research/india/nexon-selector-reconciliation-2026-11-28.csv",
@@ -11197,7 +11593,8 @@
         "reconciliation_status": "new_selector_candidate",
         "source_url": "https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "tatamotors|nexon"
     },
     {
       "path": "research/india/nexon-selector-reconciliation-2026-11-28.csv",
@@ -11213,7 +11610,8 @@
         "reconciliation_status": "new_selector_candidate",
         "source_url": "https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "tatamotors|nexon"
     },
     {
       "path": "research/india/nexon-selector-reconciliation-2026-11-28.csv",
@@ -11229,7 +11627,8 @@
         "reconciliation_status": "new_selector_candidate",
         "source_url": "https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "tatamotors|nexon"
     },
     {
       "path": "research/india/nexon-selector-reconciliation-2026-11-28.csv",
@@ -11245,7 +11644,8 @@
         "reconciliation_status": "new_selector_candidate",
         "source_url": "https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "tatamotors|nexon"
     },
     {
       "path": "research/india/nexon-selector-reconciliation-2026-11-28.csv",
@@ -11261,7 +11661,8 @@
         "reconciliation_status": "new_selector_candidate",
         "source_url": "https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "tatamotors|nexon"
     },
     {
       "path": "research/india/nexon-selector-reconciliation-2026-11-28.csv",
@@ -11277,7 +11678,8 @@
         "reconciliation_status": "new_selector_candidate",
         "source_url": "https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "tatamotors|nexon"
     },
     {
       "path": "research/india/nexon-selector-reconciliation-2026-11-28.csv",
@@ -11293,7 +11695,8 @@
         "reconciliation_status": "new_selector_candidate",
         "source_url": "https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "tatamotors|nexon"
     },
     {
       "path": "research/india/nexon-selector-reconciliation-2026-11-28.csv",
@@ -11309,7 +11712,8 @@
         "reconciliation_status": "new_selector_candidate",
         "source_url": "https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "tatamotors|nexon"
     },
     {
       "path": "research/india/nexon-selector-reconciliation-2026-11-28.csv",
@@ -11325,7 +11729,8 @@
         "reconciliation_status": "new_selector_candidate",
         "source_url": "https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "tatamotors|nexon"
     },
     {
       "path": "research/india/nexon-selector-reconciliation-2026-11-28.csv",
@@ -11341,7 +11746,8 @@
         "reconciliation_status": "prior_candidate_overlap",
         "source_url": "https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "tatamotors|nexon"
     },
     {
       "path": "research/india/nexon-selector-reconciliation-2026-11-28.csv",
@@ -11357,7 +11763,8 @@
         "reconciliation_status": "new_selector_candidate",
         "source_url": "https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "tatamotors|nexon"
     },
     {
       "path": "research/india/nexon-selector-reconciliation-2026-11-28.csv",
@@ -11373,7 +11780,8 @@
         "reconciliation_status": "new_selector_candidate",
         "source_url": "https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "tatamotors|nexon"
     },
     {
       "path": "research/india/nexon-selector-reconciliation-2026-11-28.csv",
@@ -11389,7 +11797,8 @@
         "reconciliation_status": "new_selector_candidate",
         "source_url": "https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "tatamotors|nexon"
     },
     {
       "path": "research/india/nexon-selector-reconciliation-2026-11-28.csv",
@@ -11405,7 +11814,8 @@
         "reconciliation_status": "new_selector_candidate",
         "source_url": "https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "tatamotors|nexon"
     },
     {
       "path": "research/india/nexon-selector-reconciliation-2026-11-28.csv",
@@ -11421,7 +11831,8 @@
         "reconciliation_status": "new_selector_candidate",
         "source_url": "https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "tatamotors|nexon"
     },
     {
       "path": "research/india/nexon-selector-reconciliation-2026-11-28.csv",
@@ -11437,7 +11848,8 @@
         "reconciliation_status": "new_selector_candidate",
         "source_url": "https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "tatamotors|nexon"
     },
     {
       "path": "research/india/nexon-selector-reconciliation-2026-11-28.csv",
@@ -11453,7 +11865,8 @@
         "reconciliation_status": "new_selector_candidate",
         "source_url": "https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "tatamotors|nexon"
     },
     {
       "path": "research/india/nexon-selector-reconciliation-2026-11-28.csv",
@@ -11469,7 +11882,8 @@
         "reconciliation_status": "new_selector_candidate",
         "source_url": "https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "tatamotors|nexon"
     },
     {
       "path": "research/india/nexon-selector-reconciliation-2026-11-28.csv",
@@ -11485,7 +11899,8 @@
         "reconciliation_status": "new_selector_candidate",
         "source_url": "https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "tatamotors|nexon"
     },
     {
       "path": "research/india/nexon-selector-reconciliation-2026-11-28.csv",
@@ -11501,7 +11916,8 @@
         "reconciliation_status": "new_selector_candidate",
         "source_url": "https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "tatamotors|nexon"
     },
     {
       "path": "research/india/nexon-selector-reconciliation-2026-11-28.csv",
@@ -11517,7 +11933,8 @@
         "reconciliation_status": "new_selector_candidate",
         "source_url": "https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "tatamotors|nexon"
     },
     {
       "path": "research/india/nexon-selector-reconciliation-2026-11-28.csv",
@@ -11533,7 +11950,8 @@
         "reconciliation_status": "new_selector_candidate",
         "source_url": "https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "tatamotors|nexon"
     },
     {
       "path": "research/india/nexon-selector-reconciliation-2026-11-28.csv",
@@ -11549,7 +11967,8 @@
         "reconciliation_status": "new_selector_candidate",
         "source_url": "https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "tatamotors|nexon"
     },
     {
       "path": "research/india/nexon-selector-reconciliation-2026-11-28.csv",
@@ -11565,7 +11984,8 @@
         "reconciliation_status": "new_selector_candidate",
         "source_url": "https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "tatamotors|nexon"
     },
     {
       "path": "research/india/nexon-selector-reconciliation-2026-11-28.csv",
@@ -11581,7 +12001,8 @@
         "reconciliation_status": "new_selector_candidate",
         "source_url": "https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "tatamotors|nexon"
     },
     {
       "path": "research/india/nexon-selector-reconciliation-2026-11-28.csv",
@@ -11597,7 +12018,8 @@
         "reconciliation_status": "new_selector_candidate",
         "source_url": "https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "tatamotors|nexon"
     },
     {
       "path": "research/india/nexon-selector-reconciliation-2026-11-28.csv",
@@ -11613,7 +12035,8 @@
         "reconciliation_status": "new_selector_candidate",
         "source_url": "https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "tatamotors|nexon"
     },
     {
       "path": "research/india/nexon-selector-reconciliation-2026-11-28.csv",
@@ -11629,7 +12052,8 @@
         "reconciliation_status": "new_selector_candidate",
         "source_url": "https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "tatamotors|nexon"
     },
     {
       "path": "research/india/nexon-selector-reconciliation-2026-11-28.csv",
@@ -11645,7 +12069,8 @@
         "reconciliation_status": "new_selector_candidate",
         "source_url": "https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "tatamotors|nexon"
     },
     {
       "path": "research/india/nexon-selector-reconciliation-2026-11-28.csv",
@@ -11661,7 +12086,8 @@
         "reconciliation_status": "new_selector_candidate",
         "source_url": "https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "tatamotors|nexon"
     },
     {
       "path": "research/india/nexon-selector-reconciliation-2026-11-28.csv",
@@ -11677,7 +12103,8 @@
         "reconciliation_status": "new_selector_candidate",
         "source_url": "https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "tatamotors|nexon"
     },
     {
       "path": "research/india/nexon-selector-reconciliation-2026-11-28.csv",
@@ -11693,7 +12120,8 @@
         "reconciliation_status": "new_selector_candidate",
         "source_url": "https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "tatamotors|nexon"
     },
     {
       "path": "research/india/nexon-selector-reconciliation-2026-11-28.csv",
@@ -11709,7 +12137,8 @@
         "reconciliation_status": "new_selector_candidate",
         "source_url": "https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "tatamotors|nexon"
     },
     {
       "path": "research/india/nexon-selector-reconciliation-2026-11-28.csv",
@@ -11725,7 +12154,8 @@
         "reconciliation_status": "new_selector_candidate",
         "source_url": "https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "tatamotors|nexon"
     },
     {
       "path": "research/india/nexon-selector-reconciliation-2026-11-28.csv",
@@ -11741,7 +12171,8 @@
         "reconciliation_status": "new_selector_candidate",
         "source_url": "https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "tatamotors|nexon"
     },
     {
       "path": "research/india/nexon-selector-reconciliation-2026-11-28.csv",
@@ -11757,7 +12188,8 @@
         "reconciliation_status": "new_selector_candidate",
         "source_url": "https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "tatamotors|nexon"
     },
     {
       "path": "research/india/nexon-selector-reconciliation-2026-11-28.csv",
@@ -11773,7 +12205,8 @@
         "reconciliation_status": "new_selector_candidate",
         "source_url": "https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "tatamotors|nexon"
     },
     {
       "path": "research/india/nexon-selector-reconciliation-2026-11-28.csv",
@@ -11789,7 +12222,8 @@
         "reconciliation_status": "new_selector_candidate",
         "source_url": "https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "tatamotors|nexon"
     },
     {
       "path": "research/india/nexon-selector-reconciliation-2026-11-28.csv",
@@ -11805,7 +12239,8 @@
         "reconciliation_status": "new_selector_candidate",
         "source_url": "https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "tatamotors|nexon"
     },
     {
       "path": "research/india/nexon-selector-reconciliation-2026-11-28.csv",
@@ -11821,7 +12256,8 @@
         "reconciliation_status": "new_selector_candidate",
         "source_url": "https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "tatamotors|nexon"
     },
     {
       "path": "research/india/nexon-selector-reconciliation-2026-11-28.csv",
@@ -11837,7 +12273,8 @@
         "reconciliation_status": "new_selector_candidate",
         "source_url": "https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "tatamotors|nexon"
     },
     {
       "path": "research/india/nexon-selector-reconciliation-2026-11-28.csv",
@@ -11853,7 +12290,8 @@
         "reconciliation_status": "new_selector_candidate",
         "source_url": "https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "tatamotors|nexon"
     },
     {
       "path": "research/india/nexon-selector-reconciliation-2026-11-28.csv",
@@ -11869,7 +12307,8 @@
         "reconciliation_status": "new_selector_candidate",
         "source_url": "https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "tatamotors|nexon"
     },
     {
       "path": "research/india/nexon-selector-reconciliation-2026-11-28.csv",
@@ -11885,7 +12324,8 @@
         "reconciliation_status": "new_selector_candidate",
         "source_url": "https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "tatamotors|nexon"
     },
     {
       "path": "research/india/nexon-selector-reconciliation-2026-11-28.csv",
@@ -11901,7 +12341,8 @@
         "reconciliation_status": "new_selector_candidate",
         "source_url": "https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "tatamotors|nexon"
     },
     {
       "path": "research/india/nexon-selector-reconciliation-2026-11-28.csv",
@@ -11917,7 +12358,8 @@
         "reconciliation_status": "new_selector_candidate",
         "source_url": "https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "tatamotors|nexon"
     },
     {
       "path": "research/india/nexon-selector-reconciliation-2026-11-28.csv",
@@ -11933,7 +12375,8 @@
         "reconciliation_status": "new_selector_candidate",
         "source_url": "https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "tatamotors|nexon"
     },
     {
       "path": "research/india/nexon-selector-reconciliation-2026-11-28.csv",
@@ -11949,7 +12392,8 @@
         "reconciliation_status": "new_selector_candidate",
         "source_url": "https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "tatamotors|nexon"
     },
     {
       "path": "research/india/nexon-selector-reconciliation-2026-11-28.csv",
@@ -11965,7 +12409,8 @@
         "reconciliation_status": "new_selector_candidate",
         "source_url": "https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "tatamotors|nexon"
     },
     {
       "path": "research/india/nexon-selector-reconciliation-2026-11-28.csv",
@@ -11981,7 +12426,8 @@
         "reconciliation_status": "new_selector_candidate",
         "source_url": "https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "tatamotors|nexon"
     },
     {
       "path": "research/india/nexon-selector-reconciliation-2026-11-28.csv",
@@ -11997,7 +12443,8 @@
         "reconciliation_status": "new_selector_candidate",
         "source_url": "https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "tatamotors|nexon"
     },
     {
       "path": "research/india/nexon-selector-reconciliation-2026-11-28.csv",
@@ -12013,7 +12460,8 @@
         "reconciliation_status": "new_selector_candidate",
         "source_url": "https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "tatamotors|nexon"
     },
     {
       "path": "research/india/nexon-selector-reconciliation-2026-11-28.csv",
@@ -12029,7 +12477,8 @@
         "reconciliation_status": "new_selector_candidate",
         "source_url": "https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "tatamotors|nexon"
     },
     {
       "path": "research/india/nexon-selector-reconciliation-2026-11-28.csv",
@@ -12045,7 +12494,8 @@
         "reconciliation_status": "new_selector_candidate",
         "source_url": "https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "tatamotors|nexon"
     },
     {
       "path": "research/india/nexon-selector-reconciliation-2026-11-28.csv",
@@ -12061,7 +12511,8 @@
         "reconciliation_status": "new_selector_candidate",
         "source_url": "https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "tatamotors|nexon"
     },
     {
       "path": "research/india/nexon-selector-reconciliation-2026-11-28.csv",
@@ -12077,7 +12528,8 @@
         "reconciliation_status": "new_selector_candidate",
         "source_url": "https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "tatamotors|nexon"
     },
     {
       "path": "research/india/nexon-selector-reconciliation-2026-11-28.csv",
@@ -12093,7 +12545,8 @@
         "reconciliation_status": "new_selector_candidate",
         "source_url": "https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "tatamotors|nexon"
     },
     {
       "path": "research/india/nexon-selector-reconciliation-2026-11-28.csv",
@@ -12109,7 +12562,8 @@
         "reconciliation_status": "new_selector_candidate",
         "source_url": "https://tatamotors-prod.adobecqms.net/nexon/ice/specifications.html"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "tatamotors|nexon"
     },
     {
       "path": "research/india/variant-inventory-brezza-swift-2026-11-28.csv",
@@ -12126,7 +12580,8 @@
         "evidence_status": "historical_oem",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "marutisuzuki|brezza"
     },
     {
       "path": "research/india/variant-inventory-brezza-swift-2026-11-28.csv",
@@ -12143,7 +12598,8 @@
         "evidence_status": "historical_oem",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "marutisuzuki|brezza"
     },
     {
       "path": "research/india/variant-inventory-brezza-swift-2026-11-28.csv",
@@ -12160,7 +12616,8 @@
         "evidence_status": "historical_oem",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "marutisuzuki|brezza"
     },
     {
       "path": "research/india/variant-inventory-brezza-swift-2026-11-28.csv",
@@ -12177,7 +12634,8 @@
         "evidence_status": "historical_oem",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "marutisuzuki|brezza"
     },
     {
       "path": "research/india/variant-inventory-brezza-swift-2026-11-28.csv",
@@ -12194,7 +12652,8 @@
         "evidence_status": "historical_oem",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "marutisuzuki|brezza"
     },
     {
       "path": "research/india/variant-inventory-brezza-swift-2026-11-28.csv",
@@ -12211,7 +12670,8 @@
         "evidence_status": "historical_oem",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "marutisuzuki|brezza"
     },
     {
       "path": "research/india/variant-inventory-brezza-swift-2026-11-28.csv",
@@ -12228,7 +12688,8 @@
         "evidence_status": "historical_oem",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "marutisuzuki|brezza"
     },
     {
       "path": "research/india/variant-inventory-brezza-swift-2026-11-28.csv",
@@ -12245,7 +12706,8 @@
         "evidence_status": "oem_price_listing",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "marutisuzuki|brezza"
     },
     {
       "path": "research/india/variant-inventory-brezza-swift-2026-11-28.csv",
@@ -12262,7 +12724,8 @@
         "evidence_status": "oem_price_listing",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "marutisuzuki|brezza"
     },
     {
       "path": "research/india/variant-inventory-brezza-swift-2026-11-28.csv",
@@ -12279,7 +12742,8 @@
         "evidence_status": "oem_price_listing",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "marutisuzuki|brezza"
     },
     {
       "path": "research/india/variant-inventory-brezza-swift-2026-11-28.csv",
@@ -12296,7 +12760,8 @@
         "evidence_status": "historical_oem",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "marutisuzuki|swift"
     },
     {
       "path": "research/india/variant-inventory-brezza-swift-2026-11-28.csv",
@@ -12313,7 +12778,8 @@
         "evidence_status": "historical_oem",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "marutisuzuki|swift"
     },
     {
       "path": "research/india/variant-inventory-brezza-swift-2026-11-28.csv",
@@ -12330,7 +12796,8 @@
         "evidence_status": "historical_oem",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "marutisuzuki|swift"
     },
     {
       "path": "research/india/variant-inventory-brezza-swift-2026-11-28.csv",
@@ -12347,7 +12814,8 @@
         "evidence_status": "historical_oem",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "marutisuzuki|swift"
     },
     {
       "path": "research/india/variant-inventory-brezza-swift-2026-11-28.csv",
@@ -12364,7 +12832,8 @@
         "evidence_status": "historical_oem",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "marutisuzuki|swift"
     },
     {
       "path": "research/india/variant-inventory-brezza-swift-2026-11-28.csv",
@@ -12381,7 +12850,8 @@
         "evidence_status": "historical_oem",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "marutisuzuki|swift"
     },
     {
       "path": "research/india/variant-inventory-brezza-swift-2026-11-28.csv",
@@ -12398,7 +12868,8 @@
         "evidence_status": "historical_oem",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "marutisuzuki|swift"
     },
     {
       "path": "research/india/variant-inventory-brezza-swift-2026-11-28.csv",
@@ -12415,7 +12886,8 @@
         "evidence_status": "historical_oem",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "marutisuzuki|swift"
     },
     {
       "path": "research/india/variant-inventory-brezza-swift-2026-11-28.csv",
@@ -12432,7 +12904,8 @@
         "evidence_status": "historical_oem",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "marutisuzuki|swift"
     },
     {
       "path": "research/india/variant-inventory-brezza-swift-2026-11-28.csv",
@@ -12449,7 +12922,8 @@
         "evidence_status": "historical_oem",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "marutisuzuki|swift"
     },
     {
       "path": "research/india/variant-inventory-brezza-swift-2026-11-28.csv",
@@ -12466,7 +12940,8 @@
         "evidence_status": "historical_oem",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "marutisuzuki|swift"
     },
     {
       "path": "research/india/variant-inventory-brezza-swift-2026-11-28.csv",
@@ -12483,7 +12958,8 @@
         "evidence_status": "historical_oem",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "marutisuzuki|swift"
     },
     {
       "path": "research/india/variant-inventory-brezza-swift-2026-11-28.csv",
@@ -12500,7 +12976,8 @@
         "evidence_status": "dealer_brochure_candidate",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "marutisuzuki|swift"
     },
     {
       "path": "research/india/variant-inventory-brezza-swift-2026-11-28.csv",
@@ -12517,7 +12994,8 @@
         "evidence_status": "dealer_brochure_candidate",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "marutisuzuki|swift"
     },
     {
       "path": "research/india/variant-inventory-brezza-swift-2026-11-28.csv",
@@ -12534,7 +13012,8 @@
         "evidence_status": "dealer_brochure_candidate",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "marutisuzuki|swift"
     },
     {
       "path": "research/india/variant-inventory-hyryder-taisor-2026-11-28.csv",
@@ -12551,7 +13030,8 @@
         "source_url": "https://www.toyotabharat.com/virtual-showroom/urbancruiserhyryder.html",
         "status": "oem_listed_orderability_pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "toyota|urbancruiserhyryder"
     },
     {
       "path": "research/india/variant-inventory-hyryder-taisor-2026-11-28.csv",
@@ -12568,7 +13048,8 @@
         "source_url": "https://www.toyotabharat.com/virtual-showroom/urbancruiserhyryder.html",
         "status": "oem_listed_orderability_pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "toyota|urbancruiserhyryder"
     },
     {
       "path": "research/india/variant-inventory-hyryder-taisor-2026-11-28.csv",
@@ -12585,7 +13066,8 @@
         "source_url": "https://www.toyotabharat.com/showroom/urbancruiser-hyryder/",
         "status": "oem_specification_orderability_pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "toyota|urbancruiserhyryder"
     },
     {
       "path": "research/india/variant-inventory-hyryder-taisor-2026-11-28.csv",
@@ -12602,7 +13084,8 @@
         "source_url": "https://www.toyotabharat.com/virtual-showroom/urbancruiserhyryder.html",
         "status": "oem_listed_orderability_pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "toyota|urbancruiserhyryder"
     },
     {
       "path": "research/india/variant-inventory-hyryder-taisor-2026-11-28.csv",
@@ -12619,7 +13102,8 @@
         "source_url": "https://www.toyotabharat.com/virtual-showroom/urbancruiserhyryder.html",
         "status": "oem_listed_orderability_pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "toyota|urbancruiserhyryder"
     },
     {
       "path": "research/india/variant-inventory-hyryder-taisor-2026-11-28.csv",
@@ -12636,7 +13120,8 @@
         "source_url": "https://www.toyotabharat.com/virtual-showroom/urbancruiserhyryder.html",
         "status": "listed_price_na"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "toyota|urbancruiserhyryder"
     },
     {
       "path": "research/india/variant-inventory-hyryder-taisor-2026-11-28.csv",
@@ -12653,7 +13138,8 @@
         "source_url": "https://www.toyotabharat.com/virtual-showroom/urbancruiserhyryder.html",
         "status": "oem_listed_orderability_pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "toyota|urbancruiserhyryder"
     },
     {
       "path": "research/india/variant-inventory-hyryder-taisor-2026-11-28.csv",
@@ -12670,7 +13156,8 @@
         "source_url": "https://www.toyotabharat.com/virtual-showroom/urbancruiserhyryder.html",
         "status": "oem_listed_orderability_pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "toyota|urbancruiserhyryder"
     },
     {
       "path": "research/india/variant-inventory-hyryder-taisor-2026-11-28.csv",
@@ -12687,7 +13174,8 @@
         "source_url": "https://www.toyotabharat.com/virtual-showroom/urbancruiserhyryder.html",
         "status": "oem_listed_orderability_pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "toyota|urbancruiserhyryder"
     },
     {
       "path": "research/india/variant-inventory-hyryder-taisor-2026-11-28.csv",
@@ -12704,7 +13192,8 @@
         "source_url": "https://www.toyotabharat.com/documents/brochures/urban-cruiser-taisor/e-brochure-uc-taisor.pdf",
         "status": "oem_2025_brochure_corroborated_orderability_pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "toyota|urbancruisertaisor"
     },
     {
       "path": "research/india/variant-inventory-hyryder-taisor-2026-11-28.csv",
@@ -12721,7 +13210,8 @@
         "source_url": "https://www.toyotabharat.com/documents/brochures/urban-cruiser-taisor/e-brochure-uc-taisor.pdf",
         "status": "oem_2025_brochure_corroborated_orderability_pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "toyota|urbancruisertaisor"
     },
     {
       "path": "research/india/variant-inventory-hyryder-taisor-2026-11-28.csv",
@@ -12738,7 +13228,8 @@
         "source_url": "https://www.toyotabharat.com/documents/brochures/urban-cruiser-taisor/e-brochure-uc-taisor.pdf",
         "status": "oem_2025_brochure_corroborated_orderability_pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "toyota|urbancruisertaisor"
     },
     {
       "path": "research/india/variant-inventory-hyryder-taisor-2026-11-28.csv",
@@ -12755,7 +13246,8 @@
         "source_url": "https://www.toyotabharat.com/documents/brochures/urban-cruiser-taisor/e-brochure-uc-taisor.pdf",
         "status": "oem_2025_brochure_corroborated_orderability_pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "toyota|urbancruisertaisor"
     },
     {
       "path": "research/india/variant-inventory-hyryder-taisor-2026-11-28.csv",
@@ -12772,7 +13264,8 @@
         "source_url": "https://www.toyotabharat.com/documents/brochures/urban-cruiser-taisor/e-brochure-uc-taisor.pdf",
         "status": "oem_2025_brochure_corroborated_orderability_pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "toyota|urbancruisertaisor"
     },
     {
       "path": "research/india/variant-inventory-hyryder-taisor-2026-11-28.csv",
@@ -12789,7 +13282,8 @@
         "source_url": "https://www.toyotabharat.com/documents/brochures/urban-cruiser-taisor/e-brochure-uc-taisor.pdf",
         "status": "oem_2025_brochure_corroborated_orderability_pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "toyota|urbancruisertaisor"
     },
     {
       "path": "research/india/variant-inventory-hyryder-taisor-2026-11-28.csv",
@@ -12806,7 +13300,8 @@
         "source_url": "https://www.toyotabharat.com/documents/brochures/urban-cruiser-taisor/e-brochure-uc-taisor.pdf",
         "status": "oem_2025_brochure_corroborated_orderability_pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "toyota|urbancruisertaisor"
     },
     {
       "path": "research/india/variant-inventory-hyryder-taisor-2026-11-28.csv",
@@ -12823,7 +13318,8 @@
         "source_url": "https://www.toyotabharat.com/documents/brochures/urban-cruiser-taisor/e-brochure-uc-taisor.pdf",
         "status": "oem_2025_brochure_corroborated_orderability_pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "toyota|urbancruisertaisor"
     },
     {
       "path": "research/india/variant-inventory-hyryder-taisor-2026-11-28.csv",
@@ -12840,7 +13336,8 @@
         "source_url": "https://www.toyotabharat.com/documents/brochures/urban-cruiser-taisor/e-brochure-uc-taisor.pdf",
         "status": "oem_2025_brochure_corroborated_orderability_pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "toyota|urbancruisertaisor"
     },
     {
       "path": "research/india/variant-inventory-hyryder-taisor-2026-11-28.csv",
@@ -12857,7 +13354,8 @@
         "source_url": "https://www.toyotabharat.com/documents/brochures/urban-cruiser-taisor/e-brochure-uc-taisor.pdf",
         "status": "oem_2025_brochure_corroborated_orderability_pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "toyota|urbancruisertaisor"
     },
     {
       "path": "research/india/variant-inventory-hyryder-taisor-2026-11-28.csv",
@@ -12874,7 +13372,8 @@
         "source_url": "https://www.toyotabharat.com/showroom/urbancruiser-hyryder/",
         "status": "oem_specification_orderability_pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "toyota|urbancruiserhyryder"
     },
     {
       "path": "research/india/variant-inventory-rumion-legender-2026-11-28.csv",
@@ -12894,7 +13393,8 @@
         "source_locator": "p6",
         "status": "oem_brochure_orderability_pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "toyota|rumion"
     },
     {
       "path": "research/india/variant-inventory-rumion-legender-2026-11-28.csv",
@@ -12914,7 +13414,8 @@
         "source_locator": "p6",
         "status": "oem_brochure_orderability_pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "toyota|rumion"
     },
     {
       "path": "research/india/variant-inventory-rumion-legender-2026-11-28.csv",
@@ -12934,7 +13435,8 @@
         "source_locator": "p6",
         "status": "oem_brochure_orderability_pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "toyota|rumion"
     },
     {
       "path": "research/india/variant-inventory-rumion-legender-2026-11-28.csv",
@@ -12954,7 +13456,8 @@
         "source_locator": "p6",
         "status": "oem_brochure_orderability_pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "toyota|rumion"
     },
     {
       "path": "research/india/variant-inventory-rumion-legender-2026-11-28.csv",
@@ -12974,7 +13477,8 @@
         "source_locator": "p6",
         "status": "oem_brochure_orderability_pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "toyota|rumion"
     },
     {
       "path": "research/india/variant-inventory-rumion-legender-2026-11-28.csv",
@@ -12994,7 +13498,8 @@
         "source_locator": "p6",
         "status": "oem_brochure_orderability_pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "toyota|rumion"
     },
     {
       "path": "research/india/variant-inventory-rumion-legender-2026-11-28.csv",
@@ -13014,7 +13519,8 @@
         "source_locator": "p6",
         "status": "oem_brochure_orderability_pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "toyota|rumion"
     },
     {
       "path": "research/india/variant-inventory-rumion-legender-2026-11-28.csv",
@@ -13034,7 +13540,8 @@
         "source_locator": "p6",
         "status": "oem_brochure_orderability_pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "toyota|rumion"
     },
     {
       "path": "research/india/variant-inventory-rumion-legender-2026-11-28.csv",
@@ -13054,7 +13561,8 @@
         "source_locator": "specification table Feb 2025",
         "status": "oem_brochure_orderability_pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "toyota|legender"
     },
     {
       "path": "research/india/variant-inventory-rumion-legender-2026-11-28.csv",
@@ -13074,7 +13582,8 @@
         "source_locator": "specification table Feb 2025",
         "status": "oem_brochure_orderability_pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "toyota|legender"
     },
     {
       "path": "research/india/variant-inventory-rumion-legender-2026-11-28.csv",
@@ -13094,7 +13603,8 @@
         "source_locator": "specification table Feb 2025",
         "status": "oem_brochure_orderability_pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "toyota|legender"
     },
     {
       "path": "research/india/variant-inventory-hilux-camry-nios-aura-2026-11-28.csv",
@@ -13115,7 +13625,8 @@
         "status": "oem_matrix_observed",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "toyota|hilux"
     },
     {
       "path": "research/india/variant-inventory-hilux-camry-nios-aura-2026-11-28.csv",
@@ -13136,7 +13647,8 @@
         "status": "oem_matrix_observed",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "toyota|hilux"
     },
     {
       "path": "research/india/variant-inventory-hilux-camry-nios-aura-2026-11-28.csv",
@@ -13157,7 +13669,8 @@
         "status": "oem_matrix_observed",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "toyota|hilux"
     },
     {
       "path": "research/india/variant-inventory-hilux-camry-nios-aura-2026-11-28.csv",
@@ -13178,7 +13691,8 @@
         "status": "oem_matrix_observed",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "hyundai|grandi10nios"
     },
     {
       "path": "research/india/variant-inventory-hilux-camry-nios-aura-2026-11-28.csv",
@@ -13199,7 +13713,8 @@
         "status": "oem_matrix_observed",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "hyundai|grandi10nios"
     },
     {
       "path": "research/india/variant-inventory-hilux-camry-nios-aura-2026-11-28.csv",
@@ -13220,7 +13735,8 @@
         "status": "oem_matrix_observed",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "hyundai|grandi10nios"
     },
     {
       "path": "research/india/variant-inventory-hilux-camry-nios-aura-2026-11-28.csv",
@@ -13241,7 +13757,8 @@
         "status": "oem_matrix_observed",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "hyundai|grandi10nios"
     },
     {
       "path": "research/india/variant-inventory-hilux-camry-nios-aura-2026-11-28.csv",
@@ -13262,7 +13779,8 @@
         "status": "oem_matrix_observed",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "hyundai|grandi10nios"
     },
     {
       "path": "research/india/variant-inventory-hilux-camry-nios-aura-2026-11-28.csv",
@@ -13283,7 +13801,8 @@
         "status": "oem_matrix_observed",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "hyundai|grandi10nios"
     },
     {
       "path": "research/india/variant-inventory-hilux-camry-nios-aura-2026-11-28.csv",
@@ -13304,7 +13823,8 @@
         "status": "oem_matrix_observed",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "hyundai|grandi10nios"
     },
     {
       "path": "research/india/variant-inventory-hilux-camry-nios-aura-2026-11-28.csv",
@@ -13325,7 +13845,8 @@
         "status": "oem_matrix_observed",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "hyundai|grandi10nios"
     },
     {
       "path": "research/india/variant-inventory-hilux-camry-nios-aura-2026-11-28.csv",
@@ -13346,7 +13867,8 @@
         "status": "oem_matrix_observed",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "hyundai|grandi10nios"
     },
     {
       "path": "research/india/variant-inventory-hilux-camry-nios-aura-2026-11-28.csv",
@@ -13367,7 +13889,8 @@
         "status": "oem_matrix_observed",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "hyundai|grandi10nios"
     },
     {
       "path": "research/india/variant-inventory-hilux-camry-nios-aura-2026-11-28.csv",
@@ -13388,7 +13911,8 @@
         "status": "oem_matrix_observed",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "hyundai|grandi10nios"
     },
     {
       "path": "research/india/variant-inventory-hilux-camry-nios-aura-2026-11-28.csv",
@@ -13409,7 +13933,8 @@
         "status": "oem_matrix_observed",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "hyundai|grandi10nios"
     },
     {
       "path": "research/india/variant-inventory-hilux-camry-nios-aura-2026-11-28.csv",
@@ -13430,7 +13955,8 @@
         "status": "oem_matrix_observed",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "hyundai|grandi10nios"
     },
     {
       "path": "research/india/variant-inventory-hilux-camry-nios-aura-2026-11-28.csv",
@@ -13451,7 +13977,8 @@
         "status": "oem_matrix_observed",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "hyundai|grandi10nios"
     },
     {
       "path": "research/india/variant-inventory-hilux-camry-nios-aura-2026-11-28.csv",
@@ -13472,7 +13999,8 @@
         "status": "oem_matrix_observed",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "hyundai|grandi10nios"
     },
     {
       "path": "research/india/variant-inventory-hilux-camry-nios-aura-2026-11-28.csv",
@@ -13493,7 +14021,8 @@
         "status": "oem_matrix_observed",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "hyundai|aura"
     },
     {
       "path": "research/india/variant-inventory-hilux-camry-nios-aura-2026-11-28.csv",
@@ -13514,7 +14043,8 @@
         "status": "oem_matrix_observed",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "hyundai|aura"
     },
     {
       "path": "research/india/variant-inventory-hilux-camry-nios-aura-2026-11-28.csv",
@@ -13535,7 +14065,8 @@
         "status": "oem_matrix_observed",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "hyundai|aura"
     },
     {
       "path": "research/india/variant-inventory-hilux-camry-nios-aura-2026-11-28.csv",
@@ -13556,7 +14087,8 @@
         "status": "oem_matrix_observed",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "hyundai|aura"
     },
     {
       "path": "research/india/variant-inventory-hilux-camry-nios-aura-2026-11-28.csv",
@@ -13577,7 +14109,8 @@
         "status": "oem_matrix_observed",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "hyundai|aura"
     },
     {
       "path": "research/india/variant-inventory-hilux-camry-nios-aura-2026-11-28.csv",
@@ -13598,7 +14131,8 @@
         "status": "oem_matrix_observed",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "hyundai|aura"
     },
     {
       "path": "research/india/variant-inventory-hilux-camry-nios-aura-2026-11-28.csv",
@@ -13619,11 +14153,16 @@
         "status": "oem_matrix_observed",
         "publication_review": "pending"
       },
-      "verification": "unverified"
+      "verification": "unverified",
+      "model_key": "hyundai|aura"
     }
   ],
-  "unmatched_candidate_keys": [
-    "toyota|hyryder",
-    "toyota|taisor"
-  ]
+  "unmatched_candidate_keys": [],
+  "validation": {
+    "unique_model_keys": 251,
+    "raw_candidate_rows": 535,
+    "matched_candidate_rows": 535,
+    "verified_candidate_rows": 0,
+    "normalization": "Unicode-preserving; explicit Toyota aliases; raw candidate duplicates retained for provenance"
+  }
 }
