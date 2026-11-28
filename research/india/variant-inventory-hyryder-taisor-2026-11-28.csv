@@ -1,20 +1,21 @@
 brand,model,trim,fuel,transmission,drive,source_url,status
 Toyota,Hyryder,S,petrol,AT,2WD,https://www.toyotabharat.com/virtual-showroom/urbancruiserhyryder.html,oem_listed_orderability_pending
 Toyota,Hyryder,G(O),petrol,MT,2WD,https://www.toyotabharat.com/virtual-showroom/urbancruiserhyryder.html,oem_listed_orderability_pending
-Toyota,Hyryder,G,CNG,MT,2WD,https://www.toyotabharat.com/virtual-showroom/urbancruiserhyryder.html,oem_listed_orderability_pending
+Toyota,Hyryder,G,CNG,5MT,2WD,https://www.toyotabharat.com/showroom/urbancruiser-hyryder/,oem_specification_orderability_pending
 Toyota,Hyryder,G(O),petrol,AT,2WD,https://www.toyotabharat.com/virtual-showroom/urbancruiserhyryder.html,oem_listed_orderability_pending
 Toyota,Hyryder,V,petrol,MT,2WD,https://www.toyotabharat.com/virtual-showroom/urbancruiserhyryder.html,oem_listed_orderability_pending
 Toyota,Hyryder,V,petrol,AT,AWD,https://www.toyotabharat.com/virtual-showroom/urbancruiserhyryder.html,listed_price_na
 Toyota,Hyryder,V,petrol,AT,2WD,https://www.toyotabharat.com/virtual-showroom/urbancruiserhyryder.html,oem_listed_orderability_pending
 Toyota,Hyryder,S,hybrid,e-Drive,2WD,https://www.toyotabharat.com/virtual-showroom/urbancruiserhyryder.html,oem_listed_orderability_pending
 Toyota,Hyryder,G(O),hybrid,e-Drive,2WD,https://www.toyotabharat.com/virtual-showroom/urbancruiserhyryder.html,oem_listed_orderability_pending
-Toyota,Taisor,E,petrol,5MT,,https://modytoyota.co.in/cars/urban-cruiser-taisor,dealer_listed_national_oem_pending
-Toyota,Taisor,S,petrol,5MT,,https://modytoyota.co.in/cars/urban-cruiser-taisor,dealer_listed_national_oem_pending
-Toyota,Taisor,S+,petrol,5MT,,https://modytoyota.co.in/cars/urban-cruiser-taisor,dealer_listed_national_oem_pending
-Toyota,Taisor,S,petrol,5AMT,,https://modytoyota.co.in/cars/urban-cruiser-taisor,dealer_listed_national_oem_pending
-Toyota,Taisor,S+,petrol,5AMT,,https://modytoyota.co.in/cars/urban-cruiser-taisor,dealer_listed_national_oem_pending
-Toyota,Taisor,E,CNG,5MT,,https://modytoyota.co.in/cars/urban-cruiser-taisor,dealer_listed_national_oem_pending
-Toyota,Taisor,G,turbo petrol,5MT,,https://modytoyota.co.in/cars/urban-cruiser-taisor,dealer_listed_national_oem_pending
-Toyota,Taisor,V,turbo petrol,5MT,,https://modytoyota.co.in/cars/urban-cruiser-taisor,dealer_listed_national_oem_pending
-Toyota,Taisor,G,turbo petrol,6AT,,https://modytoyota.co.in/cars/urban-cruiser-taisor,dealer_listed_national_oem_pending
-Toyota,Taisor,V,turbo petrol,6AT,,https://modytoyota.co.in/cars/urban-cruiser-taisor,dealer_listed_national_oem_pending
+Toyota,Taisor,E,petrol,5MT,,https://www.toyotabharat.com/documents/brochures/urban-cruiser-taisor/e-brochure-uc-taisor.pdf,oem_2025_brochure_corroborated_orderability_pending
+Toyota,Taisor,S,petrol,5MT,,https://www.toyotabharat.com/documents/brochures/urban-cruiser-taisor/e-brochure-uc-taisor.pdf,oem_2025_brochure_corroborated_orderability_pending
+Toyota,Taisor,S+,petrol,5MT,,https://www.toyotabharat.com/documents/brochures/urban-cruiser-taisor/e-brochure-uc-taisor.pdf,oem_2025_brochure_corroborated_orderability_pending
+Toyota,Taisor,S,petrol,5AMT,,https://www.toyotabharat.com/documents/brochures/urban-cruiser-taisor/e-brochure-uc-taisor.pdf,oem_2025_brochure_corroborated_orderability_pending
+Toyota,Taisor,S+,petrol,5AMT,,https://www.toyotabharat.com/documents/brochures/urban-cruiser-taisor/e-brochure-uc-taisor.pdf,oem_2025_brochure_corroborated_orderability_pending
+Toyota,Taisor,E,CNG,5MT,,https://www.toyotabharat.com/documents/brochures/urban-cruiser-taisor/e-brochure-uc-taisor.pdf,oem_2025_brochure_corroborated_orderability_pending
+Toyota,Taisor,G,turbo petrol,5MT,,https://www.toyotabharat.com/documents/brochures/urban-cruiser-taisor/e-brochure-uc-taisor.pdf,oem_2025_brochure_corroborated_orderability_pending
+Toyota,Taisor,V,turbo petrol,5MT,,https://www.toyotabharat.com/documents/brochures/urban-cruiser-taisor/e-brochure-uc-taisor.pdf,oem_2025_brochure_corroborated_orderability_pending
+Toyota,Taisor,G,turbo petrol,6AT,,https://www.toyotabharat.com/documents/brochures/urban-cruiser-taisor/e-brochure-uc-taisor.pdf,oem_2025_brochure_corroborated_orderability_pending
+Toyota,Taisor,V,turbo petrol,6AT,,https://www.toyotabharat.com/documents/brochures/urban-cruiser-taisor/e-brochure-uc-taisor.pdf,oem_2025_brochure_corroborated_orderability_pending
+Toyota,Hyryder,S,CNG,5MT,2WD,https://www.toyotabharat.com/showroom/urbancruiser-hyryder/,oem_specification_orderability_pending
