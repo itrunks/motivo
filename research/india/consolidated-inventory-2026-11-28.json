@@ -604,7 +604,8 @@
         "notes": "Page describes petrol turbo and diesel powertrain/gearbox combinations but table is empty; trim-to-engine mapping and prices require configurator or dealer confirmation."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "partial_safety_matrix_observed",
+      "stage2_evidence_path": "research/india/stage2-hyundai-safety-2026-11-28.json"
     },
     {
       "brand_id": "hyundai",
@@ -652,7 +653,8 @@
         "notes": "The detailed official price page exposes 38 named petrol/diesel price rows and directly displays the ₹20,45,700 top row. The separate highlights page says seven variants, apparently using a broader family-level count; the prior ₹20.11 lakh model-listing ceiling is not aligned with the detailed table. Preserve the detailed table as an OEM observation, but verify effective date, city scope and current dealer/configurator price before import. Do not import yet."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "partial_safety_matrix_observed",
+      "stage2_evidence_path": "research/india/stage2-hyundai-safety-2026-11-28.json"
     },
     {
       "brand_id": "hyundai",
