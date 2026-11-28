@@ -556,7 +556,9 @@
         ]
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-hyundai-bounded-2026-11-28.json",
+      "stage2_verification": "retrieved_selected_facts"
     },
     {
       "brand_id": "hyundai",
@@ -580,7 +582,9 @@
         "notes": "Rechecked 2026-11-07: feature matrix maps 1.2L Kappa petrol manual to E/S/SX/SX(O), AMT to SX+ (annotation under SX), and Hy-CNG manual to S/SX. Current highlights and price pages additionally list Corporate; current price-page prose names petrol MT trims E/S/Corporate/SX/SX(O), says selected trims have AMT, and confirms multiple CNG variants but does not expose exact AMT/CNG trim mapping. Official variant-price selector remains blank. Keep Corporate as an observed model configuration only; do not create a powertrain-specific row without OEM mapping. Exact prices remain unavailable."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-hyundai-bounded-2026-11-28.json",
+      "stage2_verification": "retrieved_selected_facts"
     },
     {
       "brand_id": "hyundai",
@@ -604,8 +608,9 @@
         "notes": "Page describes petrol turbo and diesel powertrain/gearbox combinations but table is empty; trim-to-engine mapping and prices require configurator or dealer confirmation."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "partial_safety_matrix_observed",
-      "stage2_evidence_path": "research/india/stage2-hyundai-safety-2026-11-28.json"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-hyundai-bounded-2026-11-28.json",
+      "stage2_verification": "retrieved_selected_facts"
     },
     {
       "brand_id": "hyundai",
@@ -629,7 +634,9 @@
         "notes": "Official price page explicitly names N6 and N10; N6 is offered with 6MT or 7DCT and N10 with 7DCT only. Price selector table was empty in captured content."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-hyundai-bounded-2026-11-28.json",
+      "stage2_verification": "retrieved_selected_facts"
     },
     {
       "brand_id": "hyundai",
@@ -653,8 +660,9 @@
         "notes": "The detailed official price page exposes 38 named petrol/diesel price rows and directly displays the ₹20,45,700 top row. The separate highlights page says seven variants, apparently using a broader family-level count; the prior ₹20.11 lakh model-listing ceiling is not aligned with the detailed table. Preserve the detailed table as an OEM observation, but verify effective date, city scope and current dealer/configurator price before import. Do not import yet."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "partial_safety_matrix_observed",
-      "stage2_evidence_path": "research/india/stage2-hyundai-safety-2026-11-28.json"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-hyundai-bounded-2026-11-28.json",
+      "stage2_verification": "retrieved_selected_facts"
     },
     {
       "brand_id": "hyundai",
@@ -678,7 +686,9 @@
         "notes": "Official page confirms petrol turbo and MT/DCT choices but does not expose exact trim labels in captured content. Do not infer variant count or names."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-hyundai-bounded-2026-11-28.json",
+      "stage2_verification": "retrieved_selected_facts"
     },
     {
       "brand_id": "hyundai",
@@ -702,7 +712,9 @@
         "notes": "Page describes petrol manual/AMT and CNG manual families; exact trim/powertrain mapping and prices require configurator or dealer confirmation."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-hyundai-bounded-2026-11-28.json",
+      "stage2_verification": "retrieved_selected_facts"
     },
     {
       "brand_id": "hyundai",
@@ -726,7 +738,9 @@
         "notes": "Official source confirms 1.5L Turbo GDi petrol and 1.5L U2 CRDi diesel; 6MT, 7DCT and 6AT availability, plus 6/7-seat layouts. Do not manufacture trim names or cross all powertrains/transmissions."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-hyundai-bounded-2026-11-28.json",
+      "stage2_verification": "retrieved_selected_facts"
     },
     {
       "brand_id": "hyundai",
@@ -750,7 +764,9 @@
         "notes": "Official price page text names petrol MT, AMT and CNG trims but its city/model price selector table is empty in captured content; exact powertrain-to-trim mapping and prices need dealer/configurator confirmation."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-hyundai-bounded-2026-11-28.json",
+      "stage2_verification": "retrieved_selected_facts"
     },
     {
       "brand_id": "hyundai",
@@ -774,7 +790,9 @@
         "notes": "Official price page describes 1.2 Kappa petrol with 5-speed MT and IVT and names trim families; exact trim/transmission mapping and prices remain unverified."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-hyundai-bounded-2026-11-28.json",
+      "stage2_verification": "retrieved_selected_facts"
     },
     {
       "brand_id": "hyundai",
@@ -798,7 +816,9 @@
         "notes": "Official price page identifies N6/N8 and dual-tone configurations with 1.0L Turbo GDi petrol, 6MT and 7DCT; exact individual price rows not exposed in captured source."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-hyundai-bounded-2026-11-28.json",
+      "stage2_verification": "retrieved_selected_facts"
     },
     {
       "brand_id": "hyundai",
@@ -822,7 +842,9 @@
         "notes": "Only one India model-card price and one battery/powertrain configuration exposed in captured official catalogue; verify whether multiple retail variants exist and confirm current price basis/date before variant-level import."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-hyundai-bounded-2026-11-28.json",
+      "stage2_verification": "source_inaccessible_via_tool"
     },
     {
       "brand_id": "hyundai",
@@ -846,7 +868,9 @@
         "notes": "Official highlights page explicitly groups configurations by 42 kWh and 51.4 kWh battery. Official BaaS press release introduces a separate battery-rental price basis; keep BaaS and full-battery purchase price separate."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-hyundai-bounded-2026-11-28.json",
+      "stage2_verification": "retrieved_selected_facts"
     },
     {
       "brand_id": "hyundai",
@@ -870,7 +894,9 @@
         "notes": "Official page confirms manual across range and IVT on selected trims, but does not name the trims or expose exact variant prices in captured content."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-hyundai-bounded-2026-11-28.json",
+      "stage2_verification": "retrieved_selected_facts"
     },
     {
       "brand_id": "mahindra",
@@ -17315,5 +17341,6 @@
     "inventory_closed_with_gaps": 251
   },
   "stage1_status": "completed_with_gaps",
-  "stage2_status": "in_progress"
+  "stage2_status": "in_progress",
+  "stage2_active_brand": "Tata Motors"
 }
