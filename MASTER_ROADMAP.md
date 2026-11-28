@@ -226,3 +226,7 @@ Four Maruti models (Alto K10, Celerio, Eeco, Ertiga) reviewed on actual OEM over
 ## Hyundai bounded selected-feature checkpoint
 
 14/14 Hyundai identities dispositioned; 13 feature pages retrieved, IONIQ 5 URL inaccessible via tool. Selected facts only, 112 gaps. 31/251 model bounded passes closed including prior Maruti records (Maruti source claims not independently checked here). Tata selected next; no fresh Tata evidence yet. No fully verified variant catalogue or production import.
+
+## Tata bounded checkpoint
+
+16 existing Tata models dispositioned with gaps using actual retrieved OEM catalogue and EV support archive. 47/251 bounded closures; prior brand claims not reverified. Aeris new listing requires scope review; denominator unchanged pending reconciliation. Mahindra next. No production changes.
