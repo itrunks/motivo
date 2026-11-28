@@ -182,3 +182,7 @@ Added 36 unique brochure candidate rows in research/india/variant-inventory-xuv7
 ## Continuous execution: Nexon and Maruti evidence
 
 Nexon 82 distinct raw labels, six potential prior overlaps, 76 additional candidates; no exact SKU count asserted. Brezza 10 and Swift 15 brochure candidates, three Swift CNG AMT dealer-only. Both CSVs readback passed. Prior 369 rows not independently verified; nominal non-overlap research count 470. Toyota follow-up pending. Continue alternative official pages, preserve uncertainty, validate before publication, show completed/pending/blocked checklist at each checkpoint. No Firebase or production changes.
+
+## Toyota evidence correction (2026-11-28)
+
+Replaced nine erroneous/partial Hycross rows with 12 OEM-listed grade/seat rows (G-SLF fleet scope pending). Added nine explicit Hyryder configurator rows and ten Taisor dealer-listed candidates, national OEM matrix pending. AWD Hyryder price N/A. Readback passed. Nominal research count 492, not globally verified. Earlier batches require independent source verification; no production import. Remaining Toyota, Maruti and Hyundai pending.
