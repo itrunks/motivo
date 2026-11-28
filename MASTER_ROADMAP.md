@@ -158,3 +158,7 @@ Aston Martin New Delhi authorization confirmed at https://www.astonmartin.com/en
 ## XUV 3XO and Sonet structured evidence (2026-11-28)
 
 Added 47 unique research rows in `research/india/variant-inventory-xuv3xo-sonet-2026-11-28.csv`: 15 Sonet brochure combinations and 32 XUV 3XO selector listings (10 petrol MT, 8 petrol AT, 6 diesel MT, 4 diesel AutoSHIFT+, 4 CNG with transmission unresolved). Sonet brochure extraction has surprising omissions; compare rendered matrix and current selector before completeness approval. Mahindra selector snapshots differ by date; preserve evidence URLs, unknown engine fields and CNG transmission blanks. No inference from ambiguous repeated variation codes. Readback and unique key check passed. Total research rows 138; not exact approved SKU count. No production imports. Six luxury brand gaps unchanged.
+
+## Tata structured inventory checkpoint
+
+Added 24 Punch and six explicit Nexon combinations from existing repository audit evidence, not a fresh OEM capture. File `research/india/variant-inventory-tata-punch-nexon-2026-11-28.csv`. 30 unique keys and GitHub readback passed. Nexon remains partial; 60+/70+/80 counts are not reconciled. Total research rows 168, not approved SKUs. Scorpio N, Thar ROXX, XUV 7XO, Seltos and Syros pending fresh source extraction. No production import.
