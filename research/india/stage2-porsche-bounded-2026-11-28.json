@@ -1,0 +1,473 @@
+{
+  "retrieval_scope": "Actual indexed India OEM configurator results; individual brochures and independent price list not retrieved",
+  "catalogue": "https://www.porsche.com/middle-east/_india_/models/",
+  "models": [
+    {
+      "brand": "Porsche",
+      "model": "911",
+      "checked_at": "2026-11-28",
+      "source_url": "https://models.porsche.com/en-IN/model-start/911",
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "observations": {
+        "variants": [
+          {
+            "name": "Carrera",
+            "starting_price_inr": 21129000,
+            "power_ps": 394,
+            "zero_to_100_s": 4.1,
+            "condition": "as listed",
+            "power_scope": "as listed"
+          },
+          {
+            "name": "Carrera 4 GTS",
+            "starting_price_inr": 28214000,
+            "power_ps": 541,
+            "zero_to_100_s": 3,
+            "condition": "Sport Chrono",
+            "power_scope": "as listed"
+          },
+          {
+            "name": "GT3",
+            "starting_price_inr": 33260000,
+            "power_ps": 510,
+            "zero_to_100_s": 3.4,
+            "condition": "as listed",
+            "power_scope": "as listed"
+          },
+          {
+            "name": "Turbo S",
+            "starting_price_inr": 38249000,
+            "power_ps": 711,
+            "zero_to_100_s": 2.5,
+            "condition": "Sport Chrono",
+            "power_scope": "as listed"
+          }
+        ],
+        "price_scope": "VAT inclusive starting price; indexed snapshot crawled two months earlier"
+      },
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "unverified",
+          "reason": "Indexed India configurator snapshot only; full current coverage and Indian homologation not established"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "unverified",
+          "reason": "Indexed India configurator snapshot only; full current coverage and Indian homologation not established"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "unverified",
+          "reason": "Indexed India configurator snapshot only; full current coverage and Indian homologation not established"
+        },
+        {
+          "field": "NVH",
+          "status": "unverified",
+          "reason": "Indexed India configurator snapshot only; full current coverage and Indian homologation not established"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "unverified",
+          "reason": "Indexed India configurator snapshot only; full current coverage and Indian homologation not established"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "unverified",
+          "reason": "Indexed India configurator snapshot only; full current coverage and Indian homologation not established"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "unverified",
+          "reason": "Indexed India configurator snapshot only; full current coverage and Indian homologation not established"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "unverified",
+          "reason": "Indexed India configurator snapshot only; full current coverage and Indian homologation not established"
+        },
+        {
+          "field": "warranty",
+          "status": "unverified",
+          "reason": "Indexed India configurator snapshot only; full current coverage and Indian homologation not established"
+        }
+      ]
+    },
+    {
+      "brand": "Porsche",
+      "model": "Taycan",
+      "checked_at": "2026-11-28",
+      "source_url": "https://models.porsche.com/en-IN/model-start/taycan",
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "observations": {
+        "variants": [
+          {
+            "name": "4S",
+            "starting_price_inr": 20070000,
+            "power_ps": 598,
+            "zero_to_100_s": 3.7,
+            "condition": "Launch Control",
+            "power_scope": "overboost up to"
+          },
+          {
+            "name": "4S Black Edition",
+            "starting_price_inr": 20945000,
+            "power_ps": 598,
+            "zero_to_100_s": 3.7,
+            "condition": "Launch Control",
+            "power_scope": "overboost up to"
+          },
+          {
+            "name": "Turbo",
+            "starting_price_inr": 27427000,
+            "power_ps": 884,
+            "zero_to_100_s": 2.7,
+            "condition": "Launch Control",
+            "power_scope": "overboost up to"
+          }
+        ],
+        "price_scope": "VAT inclusive starting price; indexed snapshot crawled two months earlier",
+        "homologation_note": "European specifications; market specific values subject to homologation",
+        "range_wltp_vehicle_high_km": [
+          506,
+          506,
+          505
+        ],
+        "range_source": "https://compare.porsche.com/en-IN?model-series=taycan"
+      },
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "unverified",
+          "reason": "Indexed India configurator snapshot only; full current coverage and Indian homologation not established"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "unverified",
+          "reason": "Indexed India configurator snapshot only; full current coverage and Indian homologation not established"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "unverified",
+          "reason": "Indexed India configurator snapshot only; full current coverage and Indian homologation not established"
+        },
+        {
+          "field": "NVH",
+          "status": "unverified",
+          "reason": "Indexed India configurator snapshot only; full current coverage and Indian homologation not established"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "unverified",
+          "reason": "Indexed India configurator snapshot only; full current coverage and Indian homologation not established"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "unverified",
+          "reason": "Indexed India configurator snapshot only; full current coverage and Indian homologation not established"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "unverified",
+          "reason": "Indexed India configurator snapshot only; full current coverage and Indian homologation not established"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "unverified",
+          "reason": "Indexed India configurator snapshot only; full current coverage and Indian homologation not established"
+        },
+        {
+          "field": "warranty",
+          "status": "unverified",
+          "reason": "Indexed India configurator snapshot only; full current coverage and Indian homologation not established"
+        }
+      ]
+    },
+    {
+      "brand": "Porsche",
+      "model": "Panamera",
+      "checked_at": "2026-11-28",
+      "source_url": "https://models.porsche.com/en-IN/model-start/panamera",
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "observations": {
+        "variants": [
+          {
+            "name": "Panamera",
+            "starting_price_inr": 17912000,
+            "power_ps": 353,
+            "zero_to_100_s": 5.3,
+            "condition": "as listed",
+            "power_scope": "as listed"
+          }
+        ],
+        "price_scope": "VAT inclusive starting price; indexed snapshot crawled two months earlier"
+      },
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "unverified",
+          "reason": "Indexed India configurator snapshot only; full current coverage and Indian homologation not established"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "unverified",
+          "reason": "Indexed India configurator snapshot only; full current coverage and Indian homologation not established"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "unverified",
+          "reason": "Indexed India configurator snapshot only; full current coverage and Indian homologation not established"
+        },
+        {
+          "field": "NVH",
+          "status": "unverified",
+          "reason": "Indexed India configurator snapshot only; full current coverage and Indian homologation not established"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "unverified",
+          "reason": "Indexed India configurator snapshot only; full current coverage and Indian homologation not established"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "unverified",
+          "reason": "Indexed India configurator snapshot only; full current coverage and Indian homologation not established"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "unverified",
+          "reason": "Indexed India configurator snapshot only; full current coverage and Indian homologation not established"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "unverified",
+          "reason": "Indexed India configurator snapshot only; full current coverage and Indian homologation not established"
+        },
+        {
+          "field": "warranty",
+          "status": "unverified",
+          "reason": "Indexed India configurator snapshot only; full current coverage and Indian homologation not established"
+        }
+      ]
+    },
+    {
+      "brand": "Porsche",
+      "model": "Macan",
+      "checked_at": "2026-11-28",
+      "source_url": "https://models.porsche.com/en-IN/model-start/macan",
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "observations": {
+        "variants": [
+          {
+            "name": "Macan Petrol",
+            "starting_price_inr": 9109000,
+            "power_ps": 265,
+            "zero_to_100_s": 6.4,
+            "condition": "as listed",
+            "power_scope": "as listed"
+          },
+          {
+            "name": "Macan Electric",
+            "starting_price_inr": 12162000,
+            "power_ps": 360,
+            "zero_to_100_s": 5.7,
+            "condition": "Launch Control",
+            "power_scope": "overboost up to"
+          },
+          {
+            "name": "4S Electric",
+            "starting_price_inr": 16304000,
+            "power_ps": 516,
+            "zero_to_100_s": 4.1,
+            "condition": "Launch Control",
+            "power_scope": "overboost up to"
+          },
+          {
+            "name": "Turbo Electric",
+            "starting_price_inr": 17774000,
+            "power_ps": 639,
+            "zero_to_100_s": 3.3,
+            "condition": "Launch Control",
+            "power_scope": "overboost up to"
+          }
+        ],
+        "price_scope": "VAT inclusive starting price; indexed snapshot crawled two months earlier"
+      },
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "unverified",
+          "reason": "Indexed India configurator snapshot only; full current coverage and Indian homologation not established"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "unverified",
+          "reason": "Indexed India configurator snapshot only; full current coverage and Indian homologation not established"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "unverified",
+          "reason": "Indexed India configurator snapshot only; full current coverage and Indian homologation not established"
+        },
+        {
+          "field": "NVH",
+          "status": "unverified",
+          "reason": "Indexed India configurator snapshot only; full current coverage and Indian homologation not established"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "unverified",
+          "reason": "Indexed India configurator snapshot only; full current coverage and Indian homologation not established"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "unverified",
+          "reason": "Indexed India configurator snapshot only; full current coverage and Indian homologation not established"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "unverified",
+          "reason": "Indexed India configurator snapshot only; full current coverage and Indian homologation not established"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "unverified",
+          "reason": "Indexed India configurator snapshot only; full current coverage and Indian homologation not established"
+        },
+        {
+          "field": "warranty",
+          "status": "unverified",
+          "reason": "Indexed India configurator snapshot only; full current coverage and Indian homologation not established"
+        }
+      ]
+    },
+    {
+      "brand": "Porsche",
+      "model": "Cayenne",
+      "checked_at": "2026-11-28",
+      "source_url": "https://models.porsche.com/en-IN/model-start/cayenne",
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "observations": {
+        "variants": [
+          {
+            "name": "Cayenne",
+            "starting_price_inr": 15118000,
+            "power_ps": 353,
+            "zero_to_100_s": 6,
+            "condition": "as listed",
+            "power_scope": "as listed"
+          },
+          {
+            "name": "Black Edition",
+            "starting_price_inr": 18303000,
+            "power_ps": 353,
+            "zero_to_100_s": 6,
+            "condition": "as listed",
+            "power_scope": "as listed"
+          },
+          {
+            "name": "GTS",
+            "starting_price_inr": 21126000,
+            "power_ps": 500,
+            "zero_to_100_s": 4.7,
+            "condition": "as listed",
+            "power_scope": "as listed"
+          },
+          {
+            "name": "Coupé",
+            "starting_price_inr": 15737000,
+            "power_ps": 353,
+            "zero_to_100_s": 5.7,
+            "condition": "Sport Chrono",
+            "power_scope": "as listed"
+          },
+          {
+            "name": "Coupé Black Edition",
+            "starting_price_inr": 18995000,
+            "power_ps": 353,
+            "zero_to_100_s": 5.7,
+            "condition": "Sport Chrono",
+            "power_scope": "as listed"
+          },
+          {
+            "name": "GTS Coupé",
+            "starting_price_inr": 21261000,
+            "power_ps": 500,
+            "zero_to_100_s": 4.4,
+            "condition": "Sport Chrono",
+            "power_scope": "as listed"
+          },
+          {
+            "name": "Electric",
+            "starting_price_inr": 17727000,
+            "power_ps": 442,
+            "zero_to_100_s": 4.8,
+            "condition": "Launch Control",
+            "power_scope": "overboost up to"
+          },
+          {
+            "name": "Turbo Electric",
+            "starting_price_inr": 22751000,
+            "power_ps": 1156,
+            "zero_to_100_s": 2.5,
+            "condition": "Launch Control",
+            "power_scope": "overboost up to"
+          }
+        ],
+        "price_scope": "VAT inclusive starting price; indexed snapshot crawled two months earlier"
+      },
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "unverified",
+          "reason": "Indexed India configurator snapshot only; full current coverage and Indian homologation not established"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "unverified",
+          "reason": "Indexed India configurator snapshot only; full current coverage and Indian homologation not established"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "unverified",
+          "reason": "Indexed India configurator snapshot only; full current coverage and Indian homologation not established"
+        },
+        {
+          "field": "NVH",
+          "status": "unverified",
+          "reason": "Indexed India configurator snapshot only; full current coverage and Indian homologation not established"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "unverified",
+          "reason": "Indexed India configurator snapshot only; full current coverage and Indian homologation not established"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "unverified",
+          "reason": "Indexed India configurator snapshot only; full current coverage and Indian homologation not established"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "unverified",
+          "reason": "Indexed India configurator snapshot only; full current coverage and Indian homologation not established"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "unverified",
+          "reason": "Indexed India configurator snapshot only; full current coverage and Indian homologation not established"
+        },
+        {
+          "field": "warranty",
+          "status": "unverified",
+          "reason": "Indexed India configurator snapshot only; full current coverage and Indian homologation not established"
+        }
+      ]
+    }
+  ]
+}

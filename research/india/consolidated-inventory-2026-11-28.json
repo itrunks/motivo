@@ -5606,7 +5606,9 @@
         "notes": "OEM India configurator displays four India-specific models and individual incl-VAT starting amounts. 911 Targa/Carrera GTS/Carrera S/GT3 Touring not present in captured India range; do not import global variants."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-porsche-bounded-2026-11-28.json",
+      "stage2_verification": "bounded_indexed_oem_review"
     },
     {
       "brand_id": "porsche",
@@ -5630,7 +5632,9 @@
         "notes": "Current captured India configurator lists three electric variants. Do not infer Taycan Cross Turismo, Turbo S or GTS unless separately present in India configurator."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-porsche-bounded-2026-11-28.json",
+      "stage2_verification": "bounded_indexed_oem_review"
     },
     {
       "brand_id": "porsche",
@@ -5654,7 +5658,9 @@
         "notes": "Current India configurator capture shows one Panamera Sport Saloon petrol RWD configuration. Do not carry forward older 4/4S E-Hybrid or Turbo E-Hybrid grades without a current India listing."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-porsche-bounded-2026-11-28.json",
+      "stage2_verification": "bounded_indexed_oem_review"
     },
     {
       "brand_id": "porsche",
@@ -5678,7 +5684,9 @@
         "notes": "Configurator treats combustion and electric Macan as separate powertrain product families. The current-model audit has one Macan candidate; review whether Macan Electric should be split into a separate model candidate in Step 4 rather than conflated with the ICE model. Do not cross-join petrol/EV grades."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-porsche-bounded-2026-11-28.json",
+      "stage2_verification": "bounded_indexed_oem_review"
     },
     {
       "brand_id": "porsche",
@@ -5702,7 +5710,9 @@
         "notes": "OEM India configurator lists petrol SUV/coupe and electric SUV derivatives. Keep body styles and propulsion families distinct; the current model audit has one Cayenne candidate, so review whether Cayenne Coupé and Cayenne Electric need separate model identities in Step 4. Prices shown incl. VAT."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-porsche-bounded-2026-11-28.json",
+      "stage2_verification": "bounded_indexed_oem_review"
     },
     {
       "brand_id": "renault",
@@ -17718,5 +17728,5 @@
   },
   "stage1_status": "completed_with_gaps",
   "stage2_status": "in_progress",
-  "stage2_active_brand": "Porsche"
+  "stage2_active_brand": "Renault"
 }
