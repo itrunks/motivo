@@ -17,7 +17,60 @@
           "6AT"
         ],
         "brochure": "https://www.skoda-auto.co.in/_doc/a0aacbcc-e30b-4b8f-affd-53a2f5fc4150",
-        "price_conflict_source": "https://www.skoda-auto.co.in/models/kylaq/kylaq/pricelist-table"
+        "price_conflict_source": "https://www.skoda-auto.co.in/models/kylaq/kylaq/pricelist-table",
+        "maintenance": {
+          "source_url": "https://www.skoda-auto.co.in/_doc/388307fd-1342-48c9-b2fd-debf648d6e3b",
+          "scope": "4 year plan; vehicles sold from 2026-01-01; GST inclusive; days 0-34 and 35-335",
+          "rows": [
+            [
+              "1.0 MT",
+              27499,
+              29499
+            ],
+            [
+              "1.0 AT",
+              40599,
+              42599
+            ]
+          ]
+        },
+        "price_conflicts": {
+          "status": "conflicting_data",
+          "scope": "Prior indexed observations not independently reverified in this checkpoint",
+          "rows": [
+            [
+              "Classic+ MT",
+              825000,
+              759000
+            ],
+            [
+              "Classic+ AT",
+              925000,
+              1299000
+            ],
+            [
+              "Signature MT",
+              943000,
+              909900
+            ],
+            [
+              "Signature AT",
+              1043000,
+              1009900
+            ],
+            [
+              "Prestige+ AT",
+              1299000,
+              1299000
+            ]
+          ],
+          "columns": [
+            "variant",
+            "brochure_inr",
+            "online_table_inr"
+          ],
+          "prestige_plus_at_configurator_inr": 1309000
+        }
       },
       "gaps": [
         {
@@ -79,7 +132,28 @@
           "1.0 TSI 6MT",
           "1.0 TSI 8AT",
           "1.5 TSI 7DSG"
-        ]
+        ],
+        "maintenance": {
+          "source_url": "https://www.skoda-auto.co.in/_doc/388307fd-1342-48c9-b2fd-debf648d6e3b",
+          "scope": "4 year plan; vehicles sold from 2026-01-01; GST inclusive; days 0-34 and 35-335",
+          "rows": [
+            [
+              "1.0 MT",
+              27499,
+              29499
+            ],
+            [
+              "1.0 AT",
+              40599,
+              42599
+            ],
+            [
+              "1.5 MT/AT",
+              32599,
+              34599
+            ]
+          ]
+        }
       },
       "gaps": [
         {
@@ -132,11 +206,60 @@
     {
       "brand": "Škoda",
       "model": "Kushaq",
-      "source_url": null,
+      "source_url": "https://www.skoda-auto.co.in/models/kushaq/kushaq",
       "checked_at": "2026-11-28",
-      "status": "unverified",
+      "status": "bounded_indexed_oem_review",
       "publication_review": "pending",
-      "observations": {},
+      "observations": {
+        "starting_price_inr": 1069000,
+        "brochure": "https://www.skoda-auto.co.in/_doc/c350b6f4-49ec-404d-8c20-c87b564da7de",
+        "powertrains": [
+          {
+            "engine": "1.0 TSI",
+            "kw": 85,
+            "nm": 178,
+            "gearbox": "6MT",
+            "certified_kmpl": 19.66
+          },
+          {
+            "engine": "1.0 TSI",
+            "kw": 85,
+            "nm": 178,
+            "gearbox": "8AT",
+            "certified_kmpl": 19.09
+          },
+          {
+            "engine": "1.5 TSI",
+            "kw": 110,
+            "nm": 250,
+            "gearbox": "7DSG",
+            "certified_kmpl": 18.72
+          }
+        ],
+        "warranty_years": 4,
+        "warranty_km": 100000,
+        "maintenance": {
+          "source_url": "https://www.skoda-auto.co.in/_doc/388307fd-1342-48c9-b2fd-debf648d6e3b",
+          "scope": "4 year plan; vehicles sold from 2026-01-01; GST inclusive; days 0-34 and 35-335",
+          "rows": [
+            [
+              "new 1.0 MT",
+              29049,
+              31049
+            ],
+            [
+              "new 1.0 AT",
+              28849,
+              30849
+            ],
+            [
+              "new 1.5 AT",
+              32799,
+              34799
+            ]
+          ]
+        }
+      },
       "gaps": [
         {
           "field": "exact_variant_matrix",
@@ -204,7 +327,18 @@
         "seats": [
           5,
           7
-        ]
+        ],
+        "maintenance": {
+          "source_url": "https://www.skoda-auto.co.in/_doc/388307fd-1342-48c9-b2fd-debf648d6e3b",
+          "scope": "4 year plan; vehicles sold from 2026-01-01; GST inclusive; days 0-34 and 35-335",
+          "rows": [
+            [
+              "NG 2.0 AT",
+              69899,
+              71899
+            ]
+          ]
+        }
       },
       "gaps": [
         {
