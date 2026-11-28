@@ -1,0 +1,4 @@
+brand,model,field,status,source_url,reason
+Toyota,Fortuner,exact inventory,source_inaccessible,https://www.toyotabharat.com/showroom/fortuner/,HTTP 403
+Toyota,Vellfire,trim matrix,not_available,https://www.toyotabharat.com/brochure/download-brochure/?model-id=135,brochure endpoint did not expose matrix
+Toyota,Camry,exact grade mapping,unverified,https://www.toyotabharat.com/showroom/camry/,Elegance and Sport labels plus model-level 2.5 hybrid e-CVT observed
