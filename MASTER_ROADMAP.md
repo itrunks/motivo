@@ -186,3 +186,7 @@ Nexon 82 distinct raw labels, six potential prior overlaps, 76 additional candid
 ## Toyota evidence correction (2026-11-28)
 
 Replaced nine erroneous/partial Hycross rows with 12 OEM-listed grade/seat rows (G-SLF fleet scope pending). Added nine explicit Hyryder configurator rows and ten Taisor dealer-listed candidates, national OEM matrix pending. AWD Hyryder price N/A. Readback passed. Nominal research count 492, not globally verified. Earlier batches require independent source verification; no production import. Remaining Toyota, Maruti and Hyundai pending.
+
+## Independent OEM verification checkpoint
+
+Opened Toyota Rumion and Taisor model pages and followed their linked PDF brochures. Rumion PDF page 6 supports eight rows; Taisor 2025 PDF page 12 corroborates ten previous candidates. Hyryder official specifications explicitly show S/G CNG 5MT 2WD (one additional row; refined existing G). Hyryder marketing brochure says 6-speed manual generically, so exact specification controls for CNG. Legender alternate official page and Feb 2025 spec sheet support three conventional diesel combinations; newer 48V variant not yet reconciled. Fortuner direct page 403, alternate combined brochure located but exact mapping pending. Readback passed. Nominal research count 504, earlier rows not independently certified. No production or Firebase changes.
