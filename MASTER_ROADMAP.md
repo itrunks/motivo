@@ -326,3 +326,7 @@ Five families and 20 configurations supported by retrieved India OEM configurato
 ## Renault bounded checkpoint and Porsche correction
 
 Renault four registered identities audited against actual indexed India OEM pages; 17 grade price observations and 36 unresolved fields. Duster hybrid catalogue listing retained within Duster scope; exact SKUs and individual brochures pending. Porsche 911 combined power labels corrected and drivetrain/top speed added from India configurator. 135 completed_with_gaps, 92 review_required, 24 pending. Rolls-Royce next; Ferrari residual pending. No production changes.
+
+## Rolls-Royce bounded checkpoint
+
+Four global OEM model identities reviewed; 36 India applicability gaps retained. No India price approval. 139 completed_with_gaps, 92 review_required, 20 pending. Škoda next; Ferrari residual pending. Separate Stage 2 registry and crosswalk created for Porsche, Renault and Rolls-Royce: 14 unique sources, 27 mappings, 13 models; generated mapping integrity checked. Legacy registry/crosswalk unchanged. Rights pending; prior Porsche/Renault evidence not independently reverified in this checkpoint. No production changes.
