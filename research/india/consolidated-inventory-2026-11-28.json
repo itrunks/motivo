@@ -3916,7 +3916,9 @@
         "notes": "Do not infer global SE/HSE/Autobiography/SV grade availability or global powertrain combinations as current India retail variants. Official India page warns that specifications/options vary by market and directs customers to local retailer for availability and prices. Confirm current India build/stock and dated quotation."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-land-rover-bounded-2026-11-28.json",
+      "stage2_verification": "bounded_indexed_oem_review"
     },
     {
       "brand_id": "land_rover",
@@ -3940,7 +3942,9 @@
         "notes": "Do not import global engine codes D250/D300/D350/P360/P400/P440e/P510e or trims into India retail without local configurator confirmation. India page expressly warns global specifications can vary by market."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-land-rover-bounded-2026-11-28.json",
+      "stage2_verification": "bounded_indexed_oem_review"
     },
     {
       "brand_id": "land_rover",
@@ -3964,7 +3968,9 @@
         "notes": "Do not carry forward MY24 Dynamic HSE trim as current 2026 orderable grade without live configurator/dealer verification. Current model-level start price and old dated grade-level prices are separate observations."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-land-rover-bounded-2026-11-28.json",
+      "stage2_verification": "bounded_indexed_oem_review"
     },
     {
       "brand_id": "land_rover",
@@ -3988,7 +3994,9 @@
         "notes": "Historical official 2024 price list named Dynamic SE for petrol/diesel but cannot substantiate current 2026 variant mapping. Confirm current build configurator, engine, grade and price effective date with authorized retailer."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-land-rover-bounded-2026-11-28.json",
+      "stage2_verification": "bounded_indexed_oem_review"
     },
     {
       "brand_id": "land_rover",
@@ -4012,7 +4020,9 @@
         "notes": "Do not cross-join all body styles, trims and engines. Trophy Edition and OCTA Black are edition identities; confirm current India allocation and exact homologated powertrain/grade mapping. Older 2024 price list is historical."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-land-rover-bounded-2026-11-28.json",
+      "stage2_verification": "bounded_indexed_oem_review"
     },
     {
       "brand_id": "land_rover",
@@ -4036,7 +4046,9 @@
         "notes": "Current page confirms Discovery identity and seven-seat positioning but not current trim/powertrain matrix. Do not reuse MY24 S/Dynamic HSE/Metropolitan Edition as current. Confirm current India build/orderability and dealer price."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-land-rover-bounded-2026-11-28.json",
+      "stage2_verification": "bounded_indexed_oem_review"
     },
     {
       "brand_id": "land_rover",
@@ -4060,7 +4072,9 @@
         "notes": "The 2024 MY24 price list is historical and must not be treated as current. Confirm current India engine, grade, availability and effective price with the authorized retailer."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-land-rover-bounded-2026-11-28.json",
+      "stage2_verification": "bounded_indexed_oem_review"
     },
     {
       "brand_id": "lexus",
@@ -17588,5 +17602,5 @@
   },
   "stage1_status": "completed_with_gaps",
   "stage2_status": "in_progress",
-  "stage2_active_brand": "Land Rover"
+  "stage2_active_brand": "Lexus"
 }

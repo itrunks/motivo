@@ -1,0 +1,489 @@
+{
+  "retrieval_scope": "Retrieved indexed OEM excerpts only; no full brochure downloads or live orderability",
+  "models": [
+    {
+      "brand": "Land Rover",
+      "model": "Range Rover",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.landrover.in/download-a-brochure/index.html",
+      "sources": [
+        "https://www.rangerover.com/en-in/index.html",
+        "https://www.landrover.in/offers-and-finance/retail-offers.html",
+        "https://www.landrover.in/download-a-brochure/index.html",
+        "https://www.landrover.in/content/dam/lrdx/pdfs/in/wltp/land-rover-vehicles-price-in-india.pdf"
+      ],
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "observations": {
+        "brochure_index_listed": true,
+        "catalogue_start_inr": 24000000,
+        "older_finance_start_inr": 23100000
+      },
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "conflicting",
+          "reason": "complete current variant matrix and effective date not established; older finance page kept separate"
+        },
+        {
+          "field": "NVH",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "warranty",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM excerpts"
+        }
+      ]
+    },
+    {
+      "brand": "Land Rover",
+      "model": "Range Rover Sport",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.landrover.in/download-a-brochure/index.html",
+      "sources": [
+        "https://www.rangerover.com/en-in/index.html",
+        "https://www.landrover.in/offers-and-finance/retail-offers.html",
+        "https://www.landrover.in/download-a-brochure/index.html",
+        "https://www.landrover.in/content/dam/lrdx/pdfs/in/wltp/land-rover-vehicles-price-in-india.pdf"
+      ],
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "observations": {
+        "brochure_index_listed": true,
+        "catalogue_start_inr": 14300000,
+        "older_finance_start_inr": 13766000
+      },
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "conflicting",
+          "reason": "complete current variant matrix and effective date not established; older finance page kept separate"
+        },
+        {
+          "field": "NVH",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "warranty",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM excerpts"
+        }
+      ]
+    },
+    {
+      "brand": "Land Rover",
+      "model": "Range Rover Velar",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.landrover.in/download-a-brochure/index.html",
+      "sources": [
+        "https://www.rangerover.com/en-in/index.html",
+        "https://www.landrover.in/offers-and-finance/retail-offers.html",
+        "https://www.landrover.in/download-a-brochure/index.html",
+        "https://www.landrover.in/content/dam/lrdx/pdfs/in/wltp/land-rover-vehicles-price-in-india.pdf"
+      ],
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "observations": {
+        "brochure_index_listed": true,
+        "catalogue_start_inr": 8850000,
+        "older_finance_start_inr": 8590000
+      },
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "conflicting",
+          "reason": "complete current variant matrix and effective date not established; older finance page kept separate"
+        },
+        {
+          "field": "NVH",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "warranty",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM excerpts"
+        }
+      ]
+    },
+    {
+      "brand": "Land Rover",
+      "model": "Range Rover Evoque",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.landrover.in/download-a-brochure/index.html",
+      "sources": [
+        "https://www.rangerover.com/en-in/index.html",
+        "https://www.landrover.in/offers-and-finance/retail-offers.html",
+        "https://www.landrover.in/download-a-brochure/index.html",
+        "https://www.landrover.in/content/dam/lrdx/pdfs/in/wltp/land-rover-vehicles-price-in-india.pdf"
+      ],
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "observations": {
+        "brochure_index_listed": true,
+        "catalogue_start_inr": 6486000,
+        "older_finance_start_inr": 6486000
+      },
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "unverified",
+          "reason": "complete current variant matrix and effective date not established; older finance page kept separate"
+        },
+        {
+          "field": "NVH",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "warranty",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM excerpts"
+        }
+      ]
+    },
+    {
+      "brand": "Land Rover",
+      "model": "Defender",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.landrover.in/download-a-brochure/index.html",
+      "sources": [
+        "https://www.rangerover.com/en-in/index.html",
+        "https://www.landrover.in/offers-and-finance/retail-offers.html",
+        "https://www.landrover.in/download-a-brochure/index.html",
+        "https://www.landrover.in/content/dam/lrdx/pdfs/in/wltp/land-rover-vehicles-price-in-india.pdf"
+      ],
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "observations": {
+        "brochure_index_listed": true,
+        "catalogue_start_inr": null,
+        "older_finance_start_inr": 10290000,
+        "configurations": [
+          "90",
+          "110",
+          "130"
+        ]
+      },
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "unverified",
+          "reason": "complete current variant matrix and effective date not established; older finance page kept separate"
+        },
+        {
+          "field": "NVH",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "warranty",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM excerpts"
+        }
+      ]
+    },
+    {
+      "brand": "Land Rover",
+      "model": "Discovery",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.landrover.in/download-a-brochure/index.html",
+      "sources": [
+        "https://www.rangerover.com/en-in/index.html",
+        "https://www.landrover.in/offers-and-finance/retail-offers.html",
+        "https://www.landrover.in/download-a-brochure/index.html",
+        "https://www.landrover.in/content/dam/lrdx/pdfs/in/wltp/land-rover-vehicles-price-in-india.pdf"
+      ],
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "observations": {
+        "brochure_index_listed": true,
+        "catalogue_start_inr": null,
+        "older_finance_start_inr": 12973000,
+        "brochure_seats": 7
+      },
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "unverified",
+          "reason": "complete current variant matrix and effective date not established; older finance page kept separate"
+        },
+        {
+          "field": "NVH",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "warranty",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM excerpts"
+        }
+      ]
+    },
+    {
+      "brand": "Land Rover",
+      "model": "Discovery Sport",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.landrover.in/download-a-brochure/index.html",
+      "sources": [
+        "https://www.rangerover.com/en-in/index.html",
+        "https://www.landrover.in/offers-and-finance/retail-offers.html",
+        "https://www.landrover.in/download-a-brochure/index.html",
+        "https://www.landrover.in/content/dam/lrdx/pdfs/in/wltp/land-rover-vehicles-price-in-india.pdf"
+      ],
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "observations": {
+        "brochure_index_listed": true,
+        "catalogue_start_inr": null,
+        "older_finance_start_inr": null
+      },
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "not_available",
+          "reason": "complete current variant matrix and effective date not established; older finance page kept separate"
+        },
+        {
+          "field": "NVH",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM excerpts"
+        },
+        {
+          "field": "warranty",
+          "status": "not_available",
+          "reason": "not established by retrieved OEM excerpts"
+        }
+      ]
+    }
+  ],
+  "historical_price_pdf": {
+    "url": "https://www.landrover.in/content/dam/lrdx/pdfs/in/wltp/land-rover-vehicles-price-in-india.pdf",
+    "model_years": [
+      2024,
+      2025
+    ],
+    "publication_review": "pending"
+  },
+  "scope_candidates": [
+    {
+      "model": "Range Rover Sport Electric",
+      "claimed_range_km": 609,
+      "source": "https://www.rangerover.com/en-in/index.html",
+      "India_orderability": "unverified"
+    }
+  ]
+}

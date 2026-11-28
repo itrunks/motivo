@@ -282,3 +282,7 @@ Gurkha 3/5-door OEM technical and price observations; price and phone projection
 ## Lamborghini bounded checkpoint
 
 Three global OEM technical excerpts recorded, India prices and orderability unverified; three global scope candidates noted without adding identities. 27 gaps. 62 completed_with_gaps, 92 review_required, 97 pending. Land Rover next. No production changes.
+
+## Land Rover bounded checkpoint
+
+Seven brochure-index identities, six model-level price observations across catalogue and older finance pages, three differences, 63 gaps. 69 completed_with_gaps, 92 review_required, 90 pending. Lexus next. No production changes.
