@@ -54,3 +54,7 @@ All 17 model identities retained; full variant features and prices, real-world m
 ## Toyota bounded catalogue review
 
 13 identities supported by actual Toyota homepage and brochure selector results. 117 gaps in central CSV. Glanza October 2026 announcement differs from 2025 brochure; do not combine generations. Individual current model feature audits remain deferred. Prior Kia claims also lack retrievable supporting evidence in execution records and are quarantined along with earlier 60 models.
+
+## MG bounded review
+
+10 identities listed on retrieved OEM homepage; advertised prices not variant prices. Majestor conflicting amounts; Comet and Windsor per-km amounts differ across official pages. Cyberster/M9 Couture dated launch prices only. 90 gaps in central CSV. Toyota previous retrieval claims also unsupported in available execution records; quarantine with prior 69 models.
