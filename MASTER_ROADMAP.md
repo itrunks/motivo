@@ -246,3 +246,7 @@ Kia 9/9 bounded dispositions based on actual indexed OEM excerpts. Earlier 60 mo
 ## MG evidence checkpoint
 
 10/251 bounded catalogue reviews supported by actual retrieved MG homepage and dated press release. 82 review_required including Toyota, 159 pending. No complete variant audits. MINI next. No production changes.
+
+## MINI Tesla VinFast checkpoint
+
+9 supported bounded closures, 92 review_required (including MG), 150 pending of 251. No full variant audits. Audi next. Actual OEM excerpts support this batch; prior unsupported claims excluded from production. No production changes.
