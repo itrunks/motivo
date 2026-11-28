@@ -40,9 +40,9 @@ Recovered historical inventory: 251 model rows, 35 brands. This is not a current
 | Land Rover | 7 | All seven matched; Defender body configurations pending |
 | Lexus | 5 | Dealer and historical OEM evidence; current national OEM check pending |
 | Maserati | 7 | All seven matched; MY2026/2027 configuration conflict |
-| Aston Martin | 4 | Pending |
-| Bentley | 5 | Pending |
-| Ferrari | 7 | Pending |
+| Aston Martin | 4 | Global OEM matched; India orderability pending |
+| Bentley | 5 | India OEM confirms three; two unresolved |
+| Ferrari | 7 | Global OEM evidence partial; India lineup pending |
 | McLaren | 3 | Pending |
 | Mercedes-Benz | 24 | Pending |
 | Nissan | 3 | Pending |
@@ -117,3 +117,7 @@ India range https://www.maserati.com/in/en/models and configurator https://www.m
 - Lamborghini: global OEM https://www.lamborghini.com/en-en includes all three legacy names and additional global candidates Temerario Spyder, Revuelto SV, Urus SE Performante; no India orderability inferred. India corporate release https://skoda-vw.co.in/lamborghini/lamborghini-conquers-new-heights-with-the-inaugural-esperienza-terra-india/ confirms Urus SE India activity. Secondary corroboration https://www.autocarindia.com/cars/lamborghini supports three local models, but India-specific OEM evidence for remaining models and completeness is pending.
 
 No production imports. Only Land Rover reaches initial India OEM lineup reconciliation in this batch.
+
+## Stage 1 — Aston Martin, Bentley, Ferrari checkpoint (2026-11-28)
+
+Aston Martin: https://media.astonmartin.com/section/current-models/?lang=eng confirms all four global core nameplates. https://www.astonmartin.com/en/models and June 29 2026 Goodwood OEM announcement identify S and Volante derivatives; India availability not established. Bentley: https://www.bentleymotors.com/in/en.html explicitly promotes Bentayga EWB, Flying Spur and Continental GT in India. Standard Bentayga and Continental GT Convertible not confirmed by this page; retain as unresolved. Ferrari: https://cdn.ferrari.com/cms/network/media/pdf/2.%20Ferrari%20Capital%20Markets%20Day%202025%20-%20Unique%20Proposition%2C%20Clients%20and%20Experiences.pdf confirms six historical global records and additional 296 GTS and 849 Testarossa Spider candidates. Amalfi Spider and current India orderability not established by this source. McLaren search did not yield sufficient official India evidence; status unchanged. No new brand marked fully initially reconciled, no production data imported.
