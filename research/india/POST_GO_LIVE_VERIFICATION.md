@@ -42,3 +42,7 @@ All 17 model identities retained; full variant features and prices, real-world m
 ## Tata bounded pass
 
 16 existing identities reviewed using retrieved catalogue and EV support results; 160 field gaps in `research/india/stage2-tata-bounded-2026-11-28.json`. Aeris newly listed: scope reconciliation pending before publication; XPRES retail applicability not assumed. Tigor and Tigor.ev retained; no discontinuation inferred. Individual model feature pages not freshly checked.
+
+## Mahindra 2026-11-28
+
+13 existing models reviewed: 10 listing-only, 3 selected FAQ facts. 117 unresolved field records in `research/india/stage2-mahindra-bounded-2026-11-28.json`. Bolero Neo Plus passenger scope review pending. Individual model pages not checked. Earlier brand claims not reverified.
