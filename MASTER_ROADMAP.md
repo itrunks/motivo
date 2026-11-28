@@ -242,3 +242,7 @@ Kia 9/9 bounded dispositions based on actual indexed OEM excerpts. Earlier 60 mo
 ## Toyota checkpoint and evidence correction
 
 13/251 bounded catalogue closures, not full variant audits. 69 review_required (Maruti, Hyundai, Tata, Mahindra, Kia), 169 pending. All prior unsupported observations excluded from publication. MG Motor next; review_required models remain in verification queue. No production changes.
+
+## MG evidence checkpoint
+
+10/251 bounded catalogue reviews supported by actual retrieved MG homepage and dated press release. 82 review_required including Toyota, 159 pending. No complete variant audits. MINI next. No production changes.
