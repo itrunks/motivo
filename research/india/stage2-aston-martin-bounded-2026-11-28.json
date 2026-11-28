@@ -1,0 +1,270 @@
+{
+  "retrieval_scope": "Global OEM media listing and retrieved model pages/2024 corporate documents; no India pricing or orderability verified",
+  "models": [
+    {
+      "brand": "Aston Martin",
+      "model": "Vantage",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.astonmartin.com/-/media/corporate/corporatearchive/documents/bondholders/final-offering-memorandum-13-march-2024.pdf?rev=a245d702dbd2401eafaadb26f9e3f2ac",
+      "sources": [
+        "https://media.astonmartin.com/section/current-models/?lang=eng",
+        "https://www.astonmartin.com/-/media/corporate/corporatearchive/documents/bondholders/final-offering-memorandum-13-march-2024.pdf?rev=a245d702dbd2401eafaadb26f9e3f2ac"
+      ],
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "observations": {
+        "scope": "2024 launch historical",
+        "litres": 4,
+        "power_ps": 665,
+        "torque_nm": 800
+      },
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "unverified",
+          "reason": "Retrieved global or dated OEM evidence does not establish current India-specific coverage"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "unverified",
+          "reason": "Retrieved global or dated OEM evidence does not establish current India-specific coverage"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "unverified",
+          "reason": "Retrieved global or dated OEM evidence does not establish current India-specific coverage"
+        },
+        {
+          "field": "NVH",
+          "status": "unverified",
+          "reason": "Retrieved global or dated OEM evidence does not establish current India-specific coverage"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "unverified",
+          "reason": "Retrieved global or dated OEM evidence does not establish current India-specific coverage"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "unverified",
+          "reason": "Retrieved global or dated OEM evidence does not establish current India-specific coverage"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "unverified",
+          "reason": "Retrieved global or dated OEM evidence does not establish current India-specific coverage"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "unverified",
+          "reason": "Retrieved global or dated OEM evidence does not establish current India-specific coverage"
+        },
+        {
+          "field": "warranty",
+          "status": "unverified",
+          "reason": "Retrieved global or dated OEM evidence does not establish current India-specific coverage"
+        }
+      ]
+    },
+    {
+      "brand": "Aston Martin",
+      "model": "DB12",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.astonmartin.com/en/models/db12-volante",
+      "sources": [
+        "https://media.astonmartin.com/section/current-models/?lang=eng",
+        "https://www.astonmartin.com/en/models/db12-volante"
+      ],
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "observations": {
+        "scope": "Volante only; not transferable to coupe",
+        "litres": 4,
+        "power_ps": 680,
+        "torque_nm": 800,
+        "zero_to_100_s": 3.7
+      },
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "unverified",
+          "reason": "Retrieved global or dated OEM evidence does not establish current India-specific coverage"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "unverified",
+          "reason": "Retrieved global or dated OEM evidence does not establish current India-specific coverage"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "unverified",
+          "reason": "Retrieved global or dated OEM evidence does not establish current India-specific coverage"
+        },
+        {
+          "field": "NVH",
+          "status": "unverified",
+          "reason": "Retrieved global or dated OEM evidence does not establish current India-specific coverage"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "unverified",
+          "reason": "Retrieved global or dated OEM evidence does not establish current India-specific coverage"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "unverified",
+          "reason": "Retrieved global or dated OEM evidence does not establish current India-specific coverage"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "unverified",
+          "reason": "Retrieved global or dated OEM evidence does not establish current India-specific coverage"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "unverified",
+          "reason": "Retrieved global or dated OEM evidence does not establish current India-specific coverage"
+        },
+        {
+          "field": "warranty",
+          "status": "unverified",
+          "reason": "Retrieved global or dated OEM evidence does not establish current India-specific coverage"
+        }
+      ]
+    },
+    {
+      "brand": "Aston Martin",
+      "model": "DBX",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.astonmartin.com/-/media/corporate/corporatearchive/documents/2025-gm/2024-annual-report-and-accounts.pdf?rev=00b852f574ee48e68cb46391657ed430",
+      "sources": [
+        "https://media.astonmartin.com/section/current-models/?lang=eng",
+        "https://www.astonmartin.com/-/media/corporate/corporatearchive/documents/2025-gm/2024-annual-report-and-accounts.pdf?rev=00b852f574ee48e68cb46391657ed430"
+      ],
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "observations": {
+        "scope": "2024 DBX707 historical",
+        "torque_nm": 900
+      },
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "unverified",
+          "reason": "Retrieved global or dated OEM evidence does not establish current India-specific coverage"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "unverified",
+          "reason": "Retrieved global or dated OEM evidence does not establish current India-specific coverage"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "unverified",
+          "reason": "Retrieved global or dated OEM evidence does not establish current India-specific coverage"
+        },
+        {
+          "field": "NVH",
+          "status": "unverified",
+          "reason": "Retrieved global or dated OEM evidence does not establish current India-specific coverage"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "unverified",
+          "reason": "Retrieved global or dated OEM evidence does not establish current India-specific coverage"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "unverified",
+          "reason": "Retrieved global or dated OEM evidence does not establish current India-specific coverage"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "unverified",
+          "reason": "Retrieved global or dated OEM evidence does not establish current India-specific coverage"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "unverified",
+          "reason": "Retrieved global or dated OEM evidence does not establish current India-specific coverage"
+        },
+        {
+          "field": "warranty",
+          "status": "unverified",
+          "reason": "Retrieved global or dated OEM evidence does not establish current India-specific coverage"
+        }
+      ]
+    },
+    {
+      "brand": "Aston Martin",
+      "model": "Vanquish",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.astonmartin.com/en/models/vanquish",
+      "sources": [
+        "https://media.astonmartin.com/section/current-models/?lang=eng",
+        "https://www.astonmartin.com/en/models/vanquish"
+      ],
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "observations": {
+        "scope": "global coupe",
+        "litres": 5.2,
+        "power_ps": 835,
+        "torque_nm": 1000,
+        "zero_to_100_s": 3.3,
+        "max_kmh": 345,
+        "gears": 8,
+        "front_suspension": "double wishbone",
+        "rear_suspension": "multi-link",
+        "adaptive_damping": true
+      },
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "unverified",
+          "reason": "Retrieved global or dated OEM evidence does not establish current India-specific coverage"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "unverified",
+          "reason": "Retrieved global or dated OEM evidence does not establish current India-specific coverage"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "unverified",
+          "reason": "Retrieved global or dated OEM evidence does not establish current India-specific coverage"
+        },
+        {
+          "field": "NVH",
+          "status": "unverified",
+          "reason": "Retrieved global or dated OEM evidence does not establish current India-specific coverage"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "unverified",
+          "reason": "Retrieved global or dated OEM evidence does not establish current India-specific coverage"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "unverified",
+          "reason": "Retrieved global or dated OEM evidence does not establish current India-specific coverage"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "unverified",
+          "reason": "Retrieved global or dated OEM evidence does not establish current India-specific coverage"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "unverified",
+          "reason": "Retrieved global or dated OEM evidence does not establish current India-specific coverage"
+        },
+        {
+          "field": "warranty",
+          "status": "unverified",
+          "reason": "Retrieved global or dated OEM evidence does not establish current India-specific coverage"
+        }
+      ]
+    }
+  ]
+}

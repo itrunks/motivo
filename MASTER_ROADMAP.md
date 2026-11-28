@@ -294,3 +294,7 @@ Five dated India OEM brochure excerpts retrieved; 45 unresolved fields. 74 compl
 ## Maserati bounded checkpoint
 
 Seven inventory identities matched to actual India OEM configurator results. Model-year 2026 versus newer homepage Grecale prices kept separate; five scope candidates not added to inventory. 63 unresolved fields. 81 completed_with_gaps, 92 review_required, 78 pending. Aston Martin next. Prior evidence provenance review remains required. No production changes.
+
+## Aston Martin bounded checkpoint
+
+Four historical inventory identities audited against global OEM listing and technical excerpts; variant and historical scopes retained. 36 unresolved fields. 85 completed_with_gaps, 92 review_required, 74 pending. Bentley next. Prior evidence provenance review remains required. No production changes.
