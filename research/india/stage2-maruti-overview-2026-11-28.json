@@ -1,0 +1,448 @@
+[
+  {
+    "brand": "Maruti Suzuki",
+    "model": "Alto K10",
+    "source_url": "https://www.marutisuzuki.com/arena/alto-k10",
+    "checked_at": "2026-11-28",
+    "source_locator": "Overview: performance, safety, interior and technology",
+    "status": "overview_reviewed_feature_audit_partial",
+    "publication_review": "pending",
+    "facts": [
+      {
+        "field": "engine_cc",
+        "value": 998,
+        "scope": "model",
+        "status": "oem_observed"
+      },
+      {
+        "field": "power_kw",
+        "value": 50.4,
+        "scope": "advertised power; fuel unspecified",
+        "status": "oem_observed"
+      },
+      {
+        "field": "mileage_km_l",
+        "value": 24.9,
+        "scope": "petrol AGS",
+        "status": "oem_observed"
+      },
+      {
+        "field": "airbags",
+        "value": 6,
+        "scope": "all variants",
+        "status": "oem_observed"
+      },
+      {
+        "field": "ESP",
+        "value": true,
+        "scope": "standard",
+        "status": "oem_observed"
+      },
+      {
+        "field": "smartplay_studio",
+        "value": true,
+        "scope": "variant unspecified",
+        "status": "oem_observed"
+      }
+    ],
+    "gaps": [
+      {
+        "field": "exact_variant_matrix",
+        "status": "not_available",
+        "reason": "Not established in bounded overview review"
+      },
+      {
+        "field": "variant_feature_applicability",
+        "status": "not_available",
+        "reason": "Not established in bounded overview review"
+      },
+      {
+        "field": "variant_price",
+        "status": "not_available",
+        "reason": "Not established in bounded overview review"
+      },
+      {
+        "field": "real_world_mileage",
+        "status": "not_available",
+        "reason": "Not established in bounded overview review"
+      },
+      {
+        "field": "suspension_tuning",
+        "status": "not_available",
+        "reason": "Not established in bounded overview review"
+      },
+      {
+        "field": "NVH",
+        "status": "not_available",
+        "reason": "Not established in bounded overview review"
+      },
+      {
+        "field": "OEM_accessory_prices",
+        "status": "not_available",
+        "reason": "Not established in bounded overview review"
+      },
+      {
+        "field": "maintenance_cost",
+        "status": "not_available",
+        "reason": "Not established in bounded overview review"
+      },
+      {
+        "field": "warranty",
+        "status": "not_available",
+        "reason": "Not established in bounded overview review"
+      },
+      {
+        "field": "ADAS_applicability",
+        "status": "not_available",
+        "reason": "Not established in bounded overview review"
+      },
+      {
+        "field": "crash_test_applicability",
+        "status": "not_available",
+        "reason": "Not established in bounded overview review"
+      }
+    ]
+  },
+  {
+    "brand": "Maruti Suzuki",
+    "model": "Celerio",
+    "source_url": "https://www.marutisuzuki.com/arena/celerio",
+    "checked_at": "2026-11-28",
+    "source_locator": "Overview: performance, safety, interior and technology",
+    "status": "overview_reviewed_feature_audit_partial",
+    "publication_review": "pending",
+    "facts": [
+      {
+        "field": "engine_cc",
+        "value": 998,
+        "scope": "model",
+        "status": "oem_observed"
+      },
+      {
+        "field": "transmission_options",
+        "value": [
+          "5MT",
+          "AGS"
+        ],
+        "scope": "model",
+        "status": "oem_observed"
+      },
+      {
+        "field": "airbags",
+        "value": 6,
+        "scope": "all variants",
+        "status": "oem_observed"
+      },
+      {
+        "field": "hill_hold",
+        "value": true,
+        "scope": "variant unspecified",
+        "status": "oem_observed"
+      },
+      {
+        "field": "ABS_EBD",
+        "value": true,
+        "scope": "variant unspecified",
+        "status": "oem_observed"
+      },
+      {
+        "field": "push_start",
+        "value": true,
+        "scope": "variant unspecified",
+        "status": "oem_observed"
+      },
+      {
+        "field": "rear_split_seats",
+        "value": "60:40",
+        "scope": "variant unspecified",
+        "status": "oem_observed"
+      }
+    ],
+    "gaps": [
+      {
+        "field": "exact_variant_matrix",
+        "status": "not_available",
+        "reason": "Not established in bounded overview review"
+      },
+      {
+        "field": "variant_feature_applicability",
+        "status": "not_available",
+        "reason": "Not established in bounded overview review"
+      },
+      {
+        "field": "variant_price",
+        "status": "not_available",
+        "reason": "Not established in bounded overview review"
+      },
+      {
+        "field": "real_world_mileage",
+        "status": "not_available",
+        "reason": "Not established in bounded overview review"
+      },
+      {
+        "field": "suspension_tuning",
+        "status": "not_available",
+        "reason": "Not established in bounded overview review"
+      },
+      {
+        "field": "NVH",
+        "status": "not_available",
+        "reason": "Not established in bounded overview review"
+      },
+      {
+        "field": "OEM_accessory_prices",
+        "status": "not_available",
+        "reason": "Not established in bounded overview review"
+      },
+      {
+        "field": "maintenance_cost",
+        "status": "not_available",
+        "reason": "Not established in bounded overview review"
+      },
+      {
+        "field": "warranty",
+        "status": "not_available",
+        "reason": "Not established in bounded overview review"
+      },
+      {
+        "field": "ADAS_applicability",
+        "status": "not_available",
+        "reason": "Not established in bounded overview review"
+      },
+      {
+        "field": "crash_test_applicability",
+        "status": "not_available",
+        "reason": "Not established in bounded overview review"
+      }
+    ]
+  },
+  {
+    "brand": "Maruti Suzuki",
+    "model": "Eeco",
+    "source_url": "https://www.marutisuzuki.com/arena/eeco",
+    "checked_at": "2026-11-28",
+    "source_locator": "Overview: performance, safety, interior and technology",
+    "status": "overview_reviewed_feature_audit_partial",
+    "publication_review": "pending",
+    "facts": [
+      {
+        "field": "engine_cc",
+        "value": 1197,
+        "scope": "model",
+        "status": "oem_observed"
+      },
+      {
+        "field": "power_kw",
+        "value": 52.7,
+        "scope": "CNG",
+        "status": "oem_observed"
+      },
+      {
+        "field": "mileage_km_kg",
+        "value": 26.78,
+        "scope": "CNG",
+        "status": "oem_observed"
+      },
+      {
+        "field": "airbags",
+        "value": 6,
+        "scope": "all passenger variants; image label conflicts",
+        "status": "oem_observed"
+      },
+      {
+        "field": "seat_options",
+        "value": [
+          5,
+          6
+        ],
+        "scope": "passenger model",
+        "status": "oem_observed"
+      },
+      {
+        "field": "ABS_EBD",
+        "value": true,
+        "scope": "variant unspecified",
+        "status": "oem_observed"
+      },
+      {
+        "field": "ESP",
+        "value": true,
+        "scope": "variant unspecified",
+        "status": "oem_observed"
+      }
+    ],
+    "gaps": [
+      {
+        "field": "exact_variant_matrix",
+        "status": "not_available",
+        "reason": "Not established in bounded overview review"
+      },
+      {
+        "field": "variant_feature_applicability",
+        "status": "not_available",
+        "reason": "Not established in bounded overview review"
+      },
+      {
+        "field": "variant_price",
+        "status": "not_available",
+        "reason": "Not established in bounded overview review"
+      },
+      {
+        "field": "real_world_mileage",
+        "status": "not_available",
+        "reason": "Not established in bounded overview review"
+      },
+      {
+        "field": "suspension_tuning",
+        "status": "not_available",
+        "reason": "Not established in bounded overview review"
+      },
+      {
+        "field": "NVH",
+        "status": "not_available",
+        "reason": "Not established in bounded overview review"
+      },
+      {
+        "field": "OEM_accessory_prices",
+        "status": "not_available",
+        "reason": "Not established in bounded overview review"
+      },
+      {
+        "field": "maintenance_cost",
+        "status": "not_available",
+        "reason": "Not established in bounded overview review"
+      },
+      {
+        "field": "warranty",
+        "status": "not_available",
+        "reason": "Not established in bounded overview review"
+      },
+      {
+        "field": "ADAS_applicability",
+        "status": "not_available",
+        "reason": "Not established in bounded overview review"
+      },
+      {
+        "field": "crash_test_applicability",
+        "status": "not_available",
+        "reason": "Not established in bounded overview review"
+      }
+    ]
+  },
+  {
+    "brand": "Maruti Suzuki",
+    "model": "Ertiga",
+    "source_url": "https://www.marutisuzuki.com/arena/ertiga",
+    "checked_at": "2026-11-28",
+    "source_locator": "Overview: performance, safety, interior and technology",
+    "status": "overview_reviewed_feature_audit_partial",
+    "publication_review": "pending",
+    "facts": [
+      {
+        "field": "engine_cc",
+        "value": 1462,
+        "scope": "model",
+        "status": "oem_observed"
+      },
+      {
+        "field": "power_kw",
+        "value": 75.8,
+        "scope": "advertised power; fuel unspecified",
+        "status": "oem_observed"
+      },
+      {
+        "field": "torque_nm",
+        "value": 139,
+        "scope": "advertised torque; fuel unspecified",
+        "status": "oem_observed"
+      },
+      {
+        "field": "airbags",
+        "value": 6,
+        "scope": "standard; image label conflicts",
+        "status": "oem_observed"
+      },
+      {
+        "field": "TPMS",
+        "value": true,
+        "scope": "variant unspecified",
+        "status": "oem_observed"
+      },
+      {
+        "field": "cruise_control",
+        "value": true,
+        "scope": "variant unspecified",
+        "status": "oem_observed"
+      },
+      {
+        "field": "automatic_gears",
+        "value": 6,
+        "scope": "AT",
+        "status": "oem_observed"
+      },
+      {
+        "field": "rear_usb_c",
+        "value": true,
+        "scope": "variant unspecified",
+        "status": "oem_observed"
+      }
+    ],
+    "gaps": [
+      {
+        "field": "exact_variant_matrix",
+        "status": "not_available",
+        "reason": "Not established in bounded overview review"
+      },
+      {
+        "field": "variant_feature_applicability",
+        "status": "not_available",
+        "reason": "Not established in bounded overview review"
+      },
+      {
+        "field": "variant_price",
+        "status": "not_available",
+        "reason": "Not established in bounded overview review"
+      },
+      {
+        "field": "real_world_mileage",
+        "status": "not_available",
+        "reason": "Not established in bounded overview review"
+      },
+      {
+        "field": "suspension_tuning",
+        "status": "not_available",
+        "reason": "Not established in bounded overview review"
+      },
+      {
+        "field": "NVH",
+        "status": "not_available",
+        "reason": "Not established in bounded overview review"
+      },
+      {
+        "field": "OEM_accessory_prices",
+        "status": "not_available",
+        "reason": "Not established in bounded overview review"
+      },
+      {
+        "field": "maintenance_cost",
+        "status": "not_available",
+        "reason": "Not established in bounded overview review"
+      },
+      {
+        "field": "warranty",
+        "status": "not_available",
+        "reason": "Not established in bounded overview review"
+      },
+      {
+        "field": "ADAS_applicability",
+        "status": "not_available",
+        "reason": "Not established in bounded overview review"
+      },
+      {
+        "field": "crash_test_applicability",
+        "status": "not_available",
+        "reason": "Not established in bounded overview review"
+      }
+    ]
+  }
+]
