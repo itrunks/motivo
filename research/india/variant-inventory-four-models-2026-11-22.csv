@@ -1,0 +1,79 @@
+brand,model,engine,fuel,trim,transmission_label,transmission_normalized,market,evidence_date,source_url,status,publication_review
+Maruti Suzuki,Baleno,Z12E petrol,petrol,Sigma,MT,MT,IN,2026-11-22,https://www.nexaexperience.com/baleno,listed_orderability_pending,pending
+Maruti Suzuki,Baleno,Z12E petrol,petrol,Delta,MT,MT,IN,2026-11-22,https://www.nexaexperience.com/baleno,listed_orderability_pending,pending
+Maruti Suzuki,Baleno,Z12E petrol,petrol,Delta,AMT,AMT,IN,2026-11-22,https://www.nexaexperience.com/baleno,listed_orderability_pending,pending
+Maruti Suzuki,Baleno,Z12E petrol,petrol,Zeta,MT,MT,IN,2026-11-22,https://www.nexaexperience.com/baleno,listed_orderability_pending,pending
+Maruti Suzuki,Baleno,Z12E petrol,petrol,Zeta,AMT,AMT,IN,2026-11-22,https://www.nexaexperience.com/baleno,listed_orderability_pending,pending
+Maruti Suzuki,Baleno,Z12E petrol,petrol,Alpha,MT,MT,IN,2026-11-22,https://www.nexaexperience.com/baleno,listed_orderability_pending,pending
+Maruti Suzuki,Baleno,Z12E petrol,petrol,Alpha,AMT,AMT,IN,2026-11-22,https://www.nexaexperience.com/baleno,listed_orderability_pending,pending
+Maruti Suzuki,Baleno,Z12E petrol,petrol,Alpha(O),MT,MT,IN,2026-11-22,https://www.nexaexperience.com/baleno,listed_orderability_pending,pending
+Maruti Suzuki,Baleno,Z12E petrol,petrol,Alpha(O),AMT,AMT,IN,2026-11-22,https://www.nexaexperience.com/baleno,listed_orderability_pending,pending
+Maruti Suzuki,Baleno,Z12E S-CNG,CNG,Delta,MT,MT,IN,2026-11-22,https://www.nexaexperience.com/baleno,listed_orderability_pending,pending
+Maruti Suzuki,Baleno,Z12E S-CNG,CNG,Zeta,MT,MT,IN,2026-11-22,https://www.nexaexperience.com/baleno,listed_orderability_pending,pending
+Maruti Suzuki,Baleno,Z12E S-CNG,CNG,Delta,AGS,AMT,IN,2026-11-22,https://www.nexaexperience.com/baleno,listed_orderability_pending,pending
+Maruti Suzuki,Baleno,Z12E S-CNG,CNG,Zeta,AGS,AMT,IN,2026-11-22,https://www.nexaexperience.com/baleno,listed_orderability_pending,pending
+Maruti Suzuki,Fronx,1.2L,petrol,Sigma,MT,MT,IN,2026-11-22,https://www.nexaexperience.com/fronx,listed_orderability_pending,pending
+Maruti Suzuki,Fronx,1.2L,petrol,Delta,MT,MT,IN,2026-11-22,https://www.nexaexperience.com/fronx,listed_orderability_pending,pending
+Maruti Suzuki,Fronx,1.2L,petrol,Delta,AMT,AMT,IN,2026-11-22,https://www.nexaexperience.com/fronx,listed_orderability_pending,pending
+Maruti Suzuki,Fronx,1.2L,petrol,Delta+,MT,MT,IN,2026-11-22,https://www.nexaexperience.com/fronx,listed_orderability_pending,pending
+Maruti Suzuki,Fronx,1.2L,petrol,Delta+,AMT,AMT,IN,2026-11-22,https://www.nexaexperience.com/fronx,listed_orderability_pending,pending
+Maruti Suzuki,Fronx,1.2L,petrol,Delta+ (O),MT,MT,IN,2026-11-22,https://www.nexaexperience.com/fronx,listed_orderability_pending,pending
+Maruti Suzuki,Fronx,1.0L turbo,petrol,Delta+,MT,MT,IN,2026-11-22,https://www.nexaexperience.com/fronx,listed_orderability_pending,pending
+Maruti Suzuki,Fronx,1.0L turbo,petrol,Zeta,MT,MT,IN,2026-11-22,https://www.nexaexperience.com/fronx,listed_orderability_pending,pending
+Maruti Suzuki,Fronx,1.0L turbo,petrol,Zeta,AT,AT,IN,2026-11-22,https://www.nexaexperience.com/fronx,listed_orderability_pending,pending
+Maruti Suzuki,Fronx,1.0L turbo,petrol,Alpha,MT,MT,IN,2026-11-22,https://www.nexaexperience.com/fronx,listed_orderability_pending,pending
+Maruti Suzuki,Fronx,1.0L turbo,petrol,Alpha,AT,AT,IN,2026-11-22,https://www.nexaexperience.com/fronx,listed_orderability_pending,pending
+Maruti Suzuki,Fronx,S-CNG,CNG,Sigma,MT,MT,IN,2026-11-22,https://www.nexaexperience.com/fronx,listed_orderability_pending,pending
+Maruti Suzuki,Fronx,S-CNG,CNG,Delta,MT,MT,IN,2026-11-22,https://www.nexaexperience.com/fronx,listed_orderability_pending,pending
+Hyundai,Venue,1.2 MPi,petrol,HX2,MT,MT,IN,2026-11-22,https://www.hyundai.com/in/en/find-a-car/venue/features,listed_orderability_pending,pending
+Hyundai,Venue,1.2 MPi,petrol,HX4,MT,MT,IN,2026-11-22,https://www.hyundai.com/in/en/find-a-car/venue/features,listed_orderability_pending,pending
+Hyundai,Venue,1.2 MPi,petrol,HX5,MT,MT,IN,2026-11-22,https://www.hyundai.com/in/en/find-a-car/venue/features,listed_orderability_pending,pending
+Hyundai,Venue,1.2 MPi,petrol,HX5+,MT,MT,IN,2026-11-22,https://www.hyundai.com/in/en/find-a-car/venue/features,listed_orderability_pending,pending
+Hyundai,Venue,1.2 MPi,petrol,HX5 Knight,MT,MT,IN,2026-11-22,https://www.hyundai.com/in/en/find-a-car/venue/features,listed_orderability_pending,pending
+Hyundai,Venue,1.2 MPi,petrol,HX6T,MT,MT,IN,2026-11-22,https://www.hyundai.com/in/en/find-a-car/venue/features,listed_orderability_pending,pending
+Hyundai,Venue,1.2 MPi,petrol,HX6T Knight,MT,MT,IN,2026-11-22,https://www.hyundai.com/in/en/find-a-car/venue/features,listed_orderability_pending,pending
+Hyundai,Venue,1.0 Turbo GDi,petrol,HX2,MT,MT,IN,2026-11-22,https://www.hyundai.com/in/en/find-a-car/venue/features,listed_orderability_pending,pending
+Hyundai,Venue,1.0 Turbo GDi,petrol,HX5,MT,MT,IN,2026-11-22,https://www.hyundai.com/in/en/find-a-car/venue/features,listed_orderability_pending,pending
+Hyundai,Venue,1.0 Turbo GDi,petrol,HX5,DCT,DCT,IN,2026-11-22,https://www.hyundai.com/in/en/find-a-car/venue/features,listed_orderability_pending,pending
+Hyundai,Venue,1.0 Turbo GDi,petrol,HX6,DCT,DCT,IN,2026-11-22,https://www.hyundai.com/in/en/find-a-car/venue/features,listed_orderability_pending,pending
+Hyundai,Venue,1.0 Turbo GDi,petrol,HX8,MT,MT,IN,2026-11-22,https://www.hyundai.com/in/en/find-a-car/venue/features,listed_orderability_pending,pending
+Hyundai,Venue,1.0 Turbo GDi,petrol,HX8,DCT,DCT,IN,2026-11-22,https://www.hyundai.com/in/en/find-a-car/venue/features,listed_orderability_pending,pending
+Hyundai,Venue,1.0 Turbo GDi,petrol,HX10,DCT,DCT,IN,2026-11-22,https://www.hyundai.com/in/en/find-a-car/venue/features,listed_orderability_pending,pending
+Hyundai,Venue,1.0 Turbo GDi,petrol,HX10 Knight,DCT,DCT,IN,2026-11-22,https://www.hyundai.com/in/en/find-a-car/venue/features,listed_orderability_pending,pending
+Hyundai,Venue,1.5 CRDi,diesel,HX2,MT,MT,IN,2026-11-22,https://www.hyundai.com/in/en/find-a-car/venue/features,listed_orderability_pending,pending
+Hyundai,Venue,1.5 CRDi,diesel,HX5,MT,MT,IN,2026-11-22,https://www.hyundai.com/in/en/find-a-car/venue/features,listed_orderability_pending,pending
+Hyundai,Venue,1.5 CRDi,diesel,HX5,AT,AT,IN,2026-11-22,https://www.hyundai.com/in/en/find-a-car/venue/features,listed_orderability_pending,pending
+Hyundai,Venue,1.5 CRDi,diesel,HX5 Knight,MT,MT,IN,2026-11-22,https://www.hyundai.com/in/en/find-a-car/venue/features,listed_orderability_pending,pending
+Hyundai,Venue,1.5 CRDi,diesel,HX7,MT,MT,IN,2026-11-22,https://www.hyundai.com/in/en/find-a-car/venue/features,listed_orderability_pending,pending
+Hyundai,Venue,1.5 CRDi,diesel,HX8,AT,AT,IN,2026-11-22,https://www.hyundai.com/in/en/find-a-car/venue/features,listed_orderability_pending,pending
+Hyundai,Venue,1.5 CRDi,diesel,HX8 Knight,AT,AT,IN,2026-11-22,https://www.hyundai.com/in/en/find-a-car/venue/features,listed_orderability_pending,pending
+Hyundai,Venue,1.5 CRDi,diesel,HX10,AT,AT,IN,2026-11-22,https://www.hyundai.com/in/en/find-a-car/venue/features,listed_orderability_pending,pending
+Hyundai,Creta,1.5 MPi,petrol,E,MT,MT,IN,2026-11-22,https://www.hyundai.com/in/en/find-a-car/creta/features,listed_orderability_pending,pending
+Hyundai,Creta,1.5 MPi,petrol,EX,MT,MT,IN,2026-11-22,https://www.hyundai.com/in/en/find-a-car/creta/features,listed_orderability_pending,pending
+Hyundai,Creta,1.5 MPi,petrol,EX(O),MT,MT,IN,2026-11-22,https://www.hyundai.com/in/en/find-a-car/creta/features,listed_orderability_pending,pending
+Hyundai,Creta,1.5 MPi,petrol,S(O),MT,MT,IN,2026-11-22,https://www.hyundai.com/in/en/find-a-car/creta/features,listed_orderability_pending,pending
+Hyundai,Creta,1.5 MPi,petrol,S(O) Knight,MT,MT,IN,2026-11-22,https://www.hyundai.com/in/en/find-a-car/creta/features,listed_orderability_pending,pending
+Hyundai,Creta,1.5 MPi,petrol,SX,MT,MT,IN,2026-11-22,https://www.hyundai.com/in/en/find-a-car/creta/features,listed_orderability_pending,pending
+Hyundai,Creta,1.5 MPi,petrol,SX Premium,MT,MT,IN,2026-11-22,https://www.hyundai.com/in/en/find-a-car/creta/features,listed_orderability_pending,pending
+Hyundai,Creta,1.5 MPi,petrol,King,MT,MT,IN,2026-11-22,https://www.hyundai.com/in/en/find-a-car/creta/features,listed_orderability_pending,pending
+Hyundai,Creta,1.5 MPi,petrol,King Knight,MT,MT,IN,2026-11-22,https://www.hyundai.com/in/en/find-a-car/creta/features,listed_orderability_pending,pending
+Hyundai,Creta,1.5 MPi,petrol,EX(O),IVT,IVT,IN,2026-11-22,https://www.hyundai.com/in/en/find-a-car/creta/features,listed_orderability_pending,pending
+Hyundai,Creta,1.5 MPi,petrol,S(O),IVT,IVT,IN,2026-11-22,https://www.hyundai.com/in/en/find-a-car/creta/features,listed_orderability_pending,pending
+Hyundai,Creta,1.5 MPi,petrol,SX Premium,IVT,IVT,IN,2026-11-22,https://www.hyundai.com/in/en/find-a-car/creta/features,listed_orderability_pending,pending
+Hyundai,Creta,1.5 MPi,petrol,King,IVT,IVT,IN,2026-11-22,https://www.hyundai.com/in/en/find-a-car/creta/features,listed_orderability_pending,pending
+Hyundai,Creta,1.5 MPi,petrol,King Knight,IVT,IVT,IN,2026-11-22,https://www.hyundai.com/in/en/find-a-car/creta/features,listed_orderability_pending,pending
+Hyundai,Creta,1.5 MPi,petrol,Lounge Edition,IVT,IVT,IN,2026-11-22,https://www.hyundai.com/in/en/find-a-car/creta/features,listed_orderability_pending,pending
+Hyundai,Creta,1.5 CRDi,diesel,E,MT,MT,IN,2026-11-22,https://www.hyundai.com/in/en/find-a-car/creta/features,listed_orderability_pending,pending
+Hyundai,Creta,1.5 CRDi,diesel,EX,MT,MT,IN,2026-11-22,https://www.hyundai.com/in/en/find-a-car/creta/features,listed_orderability_pending,pending
+Hyundai,Creta,1.5 CRDi,diesel,EX(O),MT,MT,IN,2026-11-22,https://www.hyundai.com/in/en/find-a-car/creta/features,listed_orderability_pending,pending
+Hyundai,Creta,1.5 CRDi,diesel,S(O),MT,MT,IN,2026-11-22,https://www.hyundai.com/in/en/find-a-car/creta/features,listed_orderability_pending,pending
+Hyundai,Creta,1.5 CRDi,diesel,S(O) Knight,MT,MT,IN,2026-11-22,https://www.hyundai.com/in/en/find-a-car/creta/features,listed_orderability_pending,pending
+Hyundai,Creta,1.5 CRDi,diesel,SX,MT,MT,IN,2026-11-22,https://www.hyundai.com/in/en/find-a-car/creta/features,listed_orderability_pending,pending
+Hyundai,Creta,1.5 CRDi,diesel,King,MT,MT,IN,2026-11-22,https://www.hyundai.com/in/en/find-a-car/creta/features,listed_orderability_pending,pending
+Hyundai,Creta,1.5 CRDi,diesel,King Knight,MT,MT,IN,2026-11-22,https://www.hyundai.com/in/en/find-a-car/creta/features,listed_orderability_pending,pending
+Hyundai,Creta,1.5 CRDi,diesel,EX(O),AT,AT,IN,2026-11-22,https://www.hyundai.com/in/en/find-a-car/creta/features,listed_orderability_pending,pending
+Hyundai,Creta,1.5 CRDi,diesel,S(O),AT,AT,IN,2026-11-22,https://www.hyundai.com/in/en/find-a-car/creta/features,listed_orderability_pending,pending
+Hyundai,Creta,1.5 CRDi,diesel,King,AT,AT,IN,2026-11-22,https://www.hyundai.com/in/en/find-a-car/creta/features,listed_orderability_pending,pending
+Hyundai,Creta,1.5 CRDi,diesel,King Knight,AT,AT,IN,2026-11-22,https://www.hyundai.com/in/en/find-a-car/creta/features,listed_orderability_pending,pending
+Hyundai,Creta,1.5 CRDi,diesel,Lounge Edition,AT,AT,IN,2026-11-22,https://www.hyundai.com/in/en/find-a-car/creta/features,listed_orderability_pending,pending
+Hyundai,Creta,1.5 Turbo GDi,petrol,King,DCT,DCT,IN,2026-11-22,https://www.hyundai.com/in/en/find-a-car/creta/features,listed_orderability_pending,pending
