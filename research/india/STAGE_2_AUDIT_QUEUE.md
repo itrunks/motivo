@@ -1,0 +1,3 @@
+# Stage 2 — evidence and feature audit
+
+Stage 1 inventory scope closed with gaps based on 251 documented historical source attempts, not fresh verification. All 251 model identities retained. No verified variant records asserted. Stage 2 starts with provenance review and supported facts only; missing optional data remains non-blocking. Review categories: powertrain, price, safety, exterior, interior, infotainment, comfort, mileage, suspension, NVH, ownership and OEM accessories. Record source and applicability; do not invent missing data. Queue is the consolidated inventory `stage2_status` field. First priority: high-volume Maruti, Hyundai, Tata, Mahindra, Kia, Toyota. Completed feature audits: 0 in this checkpoint.
