@@ -174,3 +174,7 @@ Added 24 Punch and six explicit Nexon combinations from existing repository audi
 ## OEM brochure checkpoint (2026-11-28)
 
 Added 36 unique brochure candidate rows in research/india/variant-inventory-xuv7xo-glanza-2026-11-28.csv: XUV 7XO 27, Glanza 9 (2025 brochure, not current generation confirmation). XUV 7XO brochure explicitly marks AWD only for selected seven-seat diesel AT; other drive labels left blank. Current orderability and source publication clearance pending. Nexon current specifications selector was located but remaining raw labels require reconciliation against six existing records; no additional Nexon rows committed in this batch. Cumulative research rows 318, not production SKU count. No production import.
+
+## Fresh OEM matrix checkpoint (2026-11-28)
+
+51 research rows added in `research/india/variant-inventory-i20-exter-dzire-hycross-2026-11-28.csv`: i20 12, Exter 19, Dzire 11, Hycross 9 (grade/seating only; engine/transmission blank). OEM search extracts explicitly support these mappings; cached Hyundai pages are two months old, current orderability and rights remain pending. 51 unique keys and readback passed. Cumulative nominal research rows 369, not global unique approved SKUs. Nexon search returned historical 2024 brochure only; no new raw selector evidence. Hyryder, Taisor, Swift, Brezza remain pending. No production import.
