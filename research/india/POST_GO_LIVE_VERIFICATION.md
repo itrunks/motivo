@@ -58,3 +58,7 @@ All 17 model identities retained; full variant features and prices, real-world m
 ## MG bounded review
 
 10 identities listed on retrieved OEM homepage; advertised prices not variant prices. Majestor conflicting amounts; Comet and Windsor per-km amounts differ across official pages. Cyberster/M9 Couture dated launch prices only. 90 gaps in central CSV. Toyota previous retrieval claims also unsupported in available execution records; quarantine with prior 69 models.
+
+## MINI Tesla VinFast bounded review
+
+Nine identities reviewed using retrieved OEM indexed excerpts, 81 completeness gaps merged into central CSV. MINI Cooper SE scope lead; Tesla Model Y L retained within family pending taxonomy review. MG previous claims lack supporting retrieval transcript and remain unverified alongside prior 82 models.
