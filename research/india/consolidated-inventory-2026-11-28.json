@@ -4514,7 +4514,9 @@
         "notes": "The candidate is not independently confirmed as a separate standard-wheelbase India retail model. Official India page currently promotes EWB only. Do not merge SWB and EWB into one price or infer global grades as India orderable. Confirm dealer order intake, FTA quota eligibility, exact model/grade and written quotation."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-bentley-bounded-2026-11-28.json",
+      "stage2_verification": "bounded_indexed_oem_review"
     },
     {
       "brand_id": "bentley",
@@ -4538,7 +4540,9 @@
         "notes": "Official Bentley India site lists EWB with 4.0L V8. FTA reduced-duty pricing was reported as limited to a quota; ₹4.20Cr is an estimate, not an OEM price. Confirm eligible build origin/engine, quota, current allocation and final dealer quote."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-bentley-bounded-2026-11-28.json",
+      "stage2_verification": "bounded_indexed_oem_review"
     },
     {
       "brand_id": "bentley",
@@ -4562,7 +4566,9 @@
         "notes": "Do not assume all global GT grades are orderable in India. Official India page confirms the model and hybrid powertrain only; confirm exact trim, options, delivery allocation and price with Bentley India retailer."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-bentley-bounded-2026-11-28.json",
+      "stage2_verification": "bounded_indexed_oem_review"
     },
     {
       "brand_id": "bentley",
@@ -4586,7 +4592,9 @@
         "notes": "The global OEM page lists Continental GTC, but current Bentley India page shows Continental GT without a separate convertible listing. Treat the India retail derivative as unconfirmed pending authorized retailer confirmation. Do not infer global grade availability."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-bentley-bounded-2026-11-28.json",
+      "stage2_verification": "bounded_indexed_oem_review"
     },
     {
       "brand_id": "bentley",
@@ -4610,7 +4618,9 @@
         "notes": "Official India page confirms model and hybrid powertrain but does not expose current grade-wise price table. Do not apply FTA petrol tariff reductions to the hybrid model without confirmation; India-UK FTA reporting says hybrids do not receive the same immediate duty reduction. Confirm exact India orderable grades and dealer quote."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-bentley-bounded-2026-11-28.json",
+      "stage2_verification": "bounded_indexed_oem_review"
     },
     {
       "brand_id": "ferrari",
@@ -17634,5 +17644,5 @@
   },
   "stage1_status": "completed_with_gaps",
   "stage2_status": "in_progress",
-  "stage2_active_brand": "Bentley"
+  "stage2_active_brand": "Ferrari"
 }

@@ -298,3 +298,7 @@ Seven inventory identities matched to actual India OEM configurator results. Mod
 ## Aston Martin bounded checkpoint
 
 Four historical inventory identities audited against global OEM listing and technical excerpts; variant and historical scopes retained. 36 unresolved fields. 85 completed_with_gaps, 92 review_required, 74 pending. Bentley next. Prior evidence provenance review remains required. No production changes.
+
+## Bentley bounded checkpoint
+
+Five model families matched to retrieved OEM catalogue. India landing-page powertrain observations and global/historical evidence separated. 45 unresolved fields. 90 completed_with_gaps, 92 review_required, 69 pending. Ferrari next. Prior evidence provenance review remains required. No production changes.

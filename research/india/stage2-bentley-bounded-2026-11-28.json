@@ -1,0 +1,364 @@
+{
+  "retrieval_scope": "Retrieved actual indexed OEM global catalogue, India landing page, Bentayga range and dated 2024 brochure excerpts",
+  "sources": [
+    "https://www.bentleymotors.com/en/models.html",
+    "https://www.bentleymotors.com/in/en.html?newsid=1127253",
+    "https://www.bentleymotors.com/en/models/bentayga.html",
+    "https://cdn.bentleymotors.com/downloads/en/brochure/global/bentayga-ewb/24MYBentaygaEWBCustomerBook%28English%29%28Jan24%29.pdf"
+  ],
+  "models": [
+    {
+      "brand": "Bentley",
+      "model": "Bentayga",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.bentleymotors.com/en/models/bentayga.html",
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "observations": {
+        "global": {
+          "v8_l": 4,
+          "power_torque_pairs": [
+            [
+              550,
+              770
+            ],
+            [
+              650,
+              850
+            ]
+          ],
+          "units": [
+            "PS",
+            "Nm"
+          ],
+          "hybrid_l": 3,
+          "accessory_names": [
+            "Fixed sill step",
+            "Paint protection film",
+            "Cross bars"
+          ]
+        }
+      },
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "unverified",
+          "reason": "Retrieved OEM excerpts do not establish complete current India-specific coverage; no inference of absence"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "unverified",
+          "reason": "Retrieved OEM excerpts do not establish complete current India-specific coverage; no inference of absence"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "unverified",
+          "reason": "Retrieved OEM excerpts do not establish complete current India-specific coverage; no inference of absence"
+        },
+        {
+          "field": "NVH",
+          "status": "unverified",
+          "reason": "Retrieved OEM excerpts do not establish complete current India-specific coverage; no inference of absence"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "unverified",
+          "reason": "Retrieved OEM excerpts do not establish complete current India-specific coverage; no inference of absence"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "unverified",
+          "reason": "Retrieved OEM excerpts do not establish complete current India-specific coverage; no inference of absence"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "unverified",
+          "reason": "Retrieved OEM excerpts do not establish complete current India-specific coverage; no inference of absence"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "unverified",
+          "reason": "Retrieved OEM excerpts do not establish complete current India-specific coverage; no inference of absence"
+        },
+        {
+          "field": "warranty",
+          "status": "unverified",
+          "reason": "Retrieved OEM excerpts do not establish complete current India-specific coverage; no inference of absence"
+        }
+      ]
+    },
+    {
+      "brand": "Bentley",
+      "model": "Bentayga Extended Wheelbase",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.bentleymotors.com/in/en.html?newsid=1127253",
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "observations": {
+        "india": {
+          "engine_l": 4,
+          "engine": "V8"
+        },
+        "historical_2024": {
+          "source": "https://cdn.bentleymotors.com/downloads/en/brochure/global/bentayga-ewb/24MYBentaygaEWBCustomerBook%28English%29%28Jan24%29.pdf",
+          "gears": 8,
+          "air_suspension": true,
+          "continuous_damping": true,
+          "all_wheel_steering": true
+        }
+      },
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "unverified",
+          "reason": "Retrieved OEM excerpts do not establish complete current India-specific coverage; no inference of absence"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "unverified",
+          "reason": "Retrieved OEM excerpts do not establish complete current India-specific coverage; no inference of absence"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "unverified",
+          "reason": "Retrieved OEM excerpts do not establish complete current India-specific coverage; no inference of absence"
+        },
+        {
+          "field": "NVH",
+          "status": "unverified",
+          "reason": "Retrieved OEM excerpts do not establish complete current India-specific coverage; no inference of absence"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "unverified",
+          "reason": "Retrieved OEM excerpts do not establish complete current India-specific coverage; no inference of absence"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "unverified",
+          "reason": "Retrieved OEM excerpts do not establish complete current India-specific coverage; no inference of absence"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "unverified",
+          "reason": "Retrieved OEM excerpts do not establish complete current India-specific coverage; no inference of absence"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "unverified",
+          "reason": "Retrieved OEM excerpts do not establish complete current India-specific coverage; no inference of absence"
+        },
+        {
+          "field": "warranty",
+          "status": "unverified",
+          "reason": "Retrieved OEM excerpts do not establish complete current India-specific coverage; no inference of absence"
+        }
+      ]
+    },
+    {
+      "brand": "Bentley",
+      "model": "Continental GT",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.bentleymotors.com/in/en.html?newsid=1127253",
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "observations": {
+        "india_page": {
+          "powertrain": "Ultra Performance Hybrid V8",
+          "power_ps": 782,
+          "torque_nm": 1000,
+          "zero_to_100_s": 3.2,
+          "max_kmh": 335
+        }
+      },
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "unverified",
+          "reason": "Retrieved OEM excerpts do not establish complete current India-specific coverage; no inference of absence"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "unverified",
+          "reason": "Retrieved OEM excerpts do not establish complete current India-specific coverage; no inference of absence"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "unverified",
+          "reason": "Retrieved OEM excerpts do not establish complete current India-specific coverage; no inference of absence"
+        },
+        {
+          "field": "NVH",
+          "status": "unverified",
+          "reason": "Retrieved OEM excerpts do not establish complete current India-specific coverage; no inference of absence"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "unverified",
+          "reason": "Retrieved OEM excerpts do not establish complete current India-specific coverage; no inference of absence"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "unverified",
+          "reason": "Retrieved OEM excerpts do not establish complete current India-specific coverage; no inference of absence"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "unverified",
+          "reason": "Retrieved OEM excerpts do not establish complete current India-specific coverage; no inference of absence"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "unverified",
+          "reason": "Retrieved OEM excerpts do not establish complete current India-specific coverage; no inference of absence"
+        },
+        {
+          "field": "warranty",
+          "status": "unverified",
+          "reason": "Retrieved OEM excerpts do not establish complete current India-specific coverage; no inference of absence"
+        }
+      ]
+    },
+    {
+      "brand": "Bentley",
+      "model": "Continental GT Convertible",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.bentleymotors.com/en/models.html",
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "observations": {
+        "global": {
+          "trims": [
+            "Standard",
+            "Azure",
+            "S",
+            "Speed",
+            "Mulliner"
+          ]
+        }
+      },
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "unverified",
+          "reason": "Retrieved OEM excerpts do not establish complete current India-specific coverage; no inference of absence"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "unverified",
+          "reason": "Retrieved OEM excerpts do not establish complete current India-specific coverage; no inference of absence"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "unverified",
+          "reason": "Retrieved OEM excerpts do not establish complete current India-specific coverage; no inference of absence"
+        },
+        {
+          "field": "NVH",
+          "status": "unverified",
+          "reason": "Retrieved OEM excerpts do not establish complete current India-specific coverage; no inference of absence"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "unverified",
+          "reason": "Retrieved OEM excerpts do not establish complete current India-specific coverage; no inference of absence"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "unverified",
+          "reason": "Retrieved OEM excerpts do not establish complete current India-specific coverage; no inference of absence"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "unverified",
+          "reason": "Retrieved OEM excerpts do not establish complete current India-specific coverage; no inference of absence"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "unverified",
+          "reason": "Retrieved OEM excerpts do not establish complete current India-specific coverage; no inference of absence"
+        },
+        {
+          "field": "warranty",
+          "status": "unverified",
+          "reason": "Retrieved OEM excerpts do not establish complete current India-specific coverage; no inference of absence"
+        }
+      ]
+    },
+    {
+      "brand": "Bentley",
+      "model": "Flying Spur",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.bentleymotors.com/in/en.html?newsid=1127253",
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "observations": {
+        "india_page": {
+          "powertrain": "Ultra Performance Hybrid V8",
+          "power_ps": 782,
+          "torque_nm": 1000
+        }
+      },
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "unverified",
+          "reason": "Retrieved OEM excerpts do not establish complete current India-specific coverage; no inference of absence"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "unverified",
+          "reason": "Retrieved OEM excerpts do not establish complete current India-specific coverage; no inference of absence"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "unverified",
+          "reason": "Retrieved OEM excerpts do not establish complete current India-specific coverage; no inference of absence"
+        },
+        {
+          "field": "NVH",
+          "status": "unverified",
+          "reason": "Retrieved OEM excerpts do not establish complete current India-specific coverage; no inference of absence"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "unverified",
+          "reason": "Retrieved OEM excerpts do not establish complete current India-specific coverage; no inference of absence"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "unverified",
+          "reason": "Retrieved OEM excerpts do not establish complete current India-specific coverage; no inference of absence"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "unverified",
+          "reason": "Retrieved OEM excerpts do not establish complete current India-specific coverage; no inference of absence"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "unverified",
+          "reason": "Retrieved OEM excerpts do not establish complete current India-specific coverage; no inference of absence"
+        },
+        {
+          "field": "warranty",
+          "status": "unverified",
+          "reason": "Retrieved OEM excerpts do not establish complete current India-specific coverage; no inference of absence"
+        }
+      ]
+    }
+  ],
+  "scope_candidates": [
+    {
+      "name": "Torcal",
+      "source": "https://www.bentleymotors.com/en/models.html",
+      "India_orderability": "unverified"
+    },
+    {
+      "name": "Supersports",
+      "source": "https://www.bentleymotors.com/en/models.html",
+      "India_orderability": "unverified",
+      "global_status": "pre-production per source"
+    }
+  ]
+}
