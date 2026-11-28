@@ -269,3 +269,18 @@ Owner direction: prioritize public beta and advertisement integration; defer RAG
 - [ ] Obtain owner go/no-go and verify production deployment, monitoring and rollback.
 
 Proposed target: 2026-12-10, conditional on release gates; not a committed date. Existing catalogue remains empty and no production approval is implied. No paid services without explicit approval.
+
+
+## Pre-Firebase recovery checkpoint — 2026-11-28
+
+Owner requires all pre-Firebase work before granting Firebase access. Recovered historical audit datasets on `feature/catalogue-source-audit-ingestion` at `9253c49f6dfa14d4c1364c7d9eb2c4bcabbbb6f0`. Read all four CSVs and independently compared exact audit keys and registry URL/source IDs: 35 brands, 251 model rows, 251 variant-audit rows (not individual SKUs), 263 registry sources, 502 crosswalk rows. Model audit status: complete 60, partial 33, pending 157, blocked 1. Missing/extra mappings, duplicate mappings, registry URL duplicates and mismatched source IDs: zero in independent check. Original Python validator and CI not executed in this checkpoint. All 263 legacy sources require review; legacy schema lacks current factual-use approval. Registry notes contain apparent cross-model mismatches (e.g. Bolero note references XUV400); review before migration. Do not overwrite current main registry or merge legacy branch blindly. Historical audit completion is not publication approval.
+
+- [x] Inventory main research files.
+- [x] Locate and read historical audit datasets from feature branch.
+- [ ] Reconcile historical inventory with current OEM lineups and newer main research.
+- [ ] Finish pending audits and field-level verification.
+- [ ] Migrate legacy sources into current policy schema, review source-specific factual use.
+- [ ] Run original validator and tests; reconcile migrated crosswalk and CI.
+- [ ] Generate approved catalogue and complete pre-deployment integration, ads preparation, privacy and QA.
+
+Firebase remains on hold. No production data published.
