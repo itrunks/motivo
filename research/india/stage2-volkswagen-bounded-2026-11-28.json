@@ -1,0 +1,240 @@
+{
+  "retrieval_scope": "Indexed official India OEM extracts retrieved 2026-11-28; prices are observed not verified invoice amounts",
+  "models": [
+    {
+      "brand": "Volkswagen",
+      "model": "Taigun",
+      "source_url": "https://www.volkswagen.co.in/en/discover-volkswagen/news/news-and-updates/the-new-taigun-introduces-a-new-75-perecnt-assured-buyback-program.html",
+      "checked_at": "2026-11-28",
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "observations": {
+        "starting_price_inr": 1099900,
+        "transmission": "1.0 TSI 8AT"
+      },
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "unverified",
+          "reason": "Complete current variant-specific evidence not established"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "unverified",
+          "reason": "Complete current variant-specific evidence not established"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "unverified",
+          "reason": "Complete current variant-specific evidence not established"
+        },
+        {
+          "field": "NVH",
+          "status": "unverified",
+          "reason": "Complete current variant-specific evidence not established"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "unverified",
+          "reason": "Complete current variant-specific evidence not established"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "unverified",
+          "reason": "Complete current variant-specific evidence not established"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "unverified",
+          "reason": "Complete current variant-specific evidence not established"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "unverified",
+          "reason": "Complete current variant-specific evidence not established"
+        },
+        {
+          "field": "warranty",
+          "status": "unverified",
+          "reason": "Complete current variant-specific evidence not established"
+        }
+      ]
+    },
+    {
+      "brand": "Volkswagen",
+      "model": "Tayron",
+      "source_url": "https://www.volkswagen.co.in/en/models.html",
+      "checked_at": "2026-11-28",
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "observations": {
+        "starting_price_inr": 4199000
+      },
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "unverified",
+          "reason": "Complete current variant-specific evidence not established"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "unverified",
+          "reason": "Complete current variant-specific evidence not established"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "unverified",
+          "reason": "Complete current variant-specific evidence not established"
+        },
+        {
+          "field": "NVH",
+          "status": "unverified",
+          "reason": "Complete current variant-specific evidence not established"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "unverified",
+          "reason": "Complete current variant-specific evidence not established"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "unverified",
+          "reason": "Complete current variant-specific evidence not established"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "unverified",
+          "reason": "Complete current variant-specific evidence not established"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "unverified",
+          "reason": "Complete current variant-specific evidence not established"
+        },
+        {
+          "field": "warranty",
+          "status": "unverified",
+          "reason": "Complete current variant-specific evidence not established"
+        }
+      ]
+    },
+    {
+      "brand": "Volkswagen",
+      "model": "Virtus",
+      "source_url": "https://www.volkswagen.co.in/en/models.html",
+      "checked_at": "2026-11-28",
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "observations": {
+        "chrome_from_inr": 1070900,
+        "sport_from_inr": 1434900,
+        "new_virtus_status": "coming soon"
+      },
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "unverified",
+          "reason": "Complete current variant-specific evidence not established"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "unverified",
+          "reason": "Complete current variant-specific evidence not established"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "unverified",
+          "reason": "Complete current variant-specific evidence not established"
+        },
+        {
+          "field": "NVH",
+          "status": "unverified",
+          "reason": "Complete current variant-specific evidence not established"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "unverified",
+          "reason": "Complete current variant-specific evidence not established"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "unverified",
+          "reason": "Complete current variant-specific evidence not established"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "unverified",
+          "reason": "Complete current variant-specific evidence not established"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "unverified",
+          "reason": "Complete current variant-specific evidence not established"
+        },
+        {
+          "field": "warranty",
+          "status": "unverified",
+          "reason": "Complete current variant-specific evidence not established"
+        }
+      ]
+    },
+    {
+      "brand": "Volkswagen",
+      "model": "Golf GTI",
+      "source_url": "https://www.volkswagen.co.in/en/models.html",
+      "checked_at": "2026-11-28",
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "observations": {
+        "starting_price_inr": 5090900
+      },
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "unverified",
+          "reason": "Complete current variant-specific evidence not established"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "unverified",
+          "reason": "Complete current variant-specific evidence not established"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "unverified",
+          "reason": "Complete current variant-specific evidence not established"
+        },
+        {
+          "field": "NVH",
+          "status": "unverified",
+          "reason": "Complete current variant-specific evidence not established"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "unverified",
+          "reason": "Complete current variant-specific evidence not established"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "unverified",
+          "reason": "Complete current variant-specific evidence not established"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "unverified",
+          "reason": "Complete current variant-specific evidence not established"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "unverified",
+          "reason": "Complete current variant-specific evidence not established"
+        },
+        {
+          "field": "warranty",
+          "status": "unverified",
+          "reason": "Complete current variant-specific evidence not established"
+        }
+      ]
+    }
+  ]
+}
