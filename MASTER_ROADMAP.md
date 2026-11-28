@@ -154,3 +154,7 @@ Aston Martin New Delhi authorization confirmed at https://www.astonmartin.com/en
 ## Structured inventory checkpoint
 
 78 prior audit combinations normalized in `research/india/variant-inventory-four-models-2026-11-22.csv`: Baleno 13, Fronx 13, Venue 23, Creta 29. Unique brand/model/engine/fuel/trim/normalized transmission keys: 78; four mapped OEM URLs. Evidence date retained from prior audit, not a fresh live verification. Together with BYD 13, 91 structured research rows. Creta price-matrix discrepancy, model years, orderability and publication rights remain open. Mahindra and Kia exact SKU extraction remains pending. No production imports.
+
+## XUV 3XO and Sonet structured evidence (2026-11-28)
+
+Added 47 unique research rows in `research/india/variant-inventory-xuv3xo-sonet-2026-11-28.csv`: 15 Sonet brochure combinations and 32 XUV 3XO selector listings (10 petrol MT, 8 petrol AT, 6 diesel MT, 4 diesel AutoSHIFT+, 4 CNG with transmission unresolved). Sonet brochure extraction has surprising omissions; compare rendered matrix and current selector before completeness approval. Mahindra selector snapshots differ by date; preserve evidence URLs, unknown engine fields and CNG transmission blanks. No inference from ambiguous repeated variation codes. Readback and unique key check passed. Total research rows 138; not exact approved SKU count. No production imports. Six luxury brand gaps unchanged.
