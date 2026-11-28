@@ -1,0 +1,947 @@
+{
+  "models": [
+    {
+      "model": "XUV 3XO",
+      "brand": "Mahindra",
+      "checked_at": "2026-11-28",
+      "source_url": "https://auto.mahindra.com/",
+      "observations": {
+        "listed_in_suv_navigation": true,
+        "locator": "53–66",
+        "scope": "identity only"
+      },
+      "historical_evidence_status": "not_independently_verified",
+      "publication_review": "pending",
+      "gaps": [
+        {
+          "field": "full_variant_matrix",
+          "status": "not_available",
+          "reason": "not fully established by current bounded source review"
+        },
+        {
+          "field": "complete_variant_feature_matrix",
+          "status": "not_available",
+          "reason": "not fully established by current bounded source review"
+        },
+        {
+          "field": "complete_price_matrix",
+          "status": "not_available",
+          "reason": "not fully established by current bounded source review"
+        },
+        {
+          "field": "NVH",
+          "status": "not_available",
+          "reason": "not fully established by current bounded source review"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "not_available",
+          "reason": "not fully established by current bounded source review"
+        },
+        {
+          "field": "independent_real_world_efficiency",
+          "status": "not_available",
+          "reason": "not fully established by current bounded source review"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "not_available",
+          "reason": "not fully established by current bounded source review"
+        },
+        {
+          "field": "OEM_accessory_catalogue",
+          "status": "not_available",
+          "reason": "not fully established by current bounded source review"
+        },
+        {
+          "field": "full_vehicle_warranty",
+          "status": "not_available",
+          "reason": "not fully established by current bounded source review"
+        }
+      ]
+    },
+    {
+      "model": "Thar",
+      "brand": "Mahindra",
+      "checked_at": "2026-11-28",
+      "source_url": "https://auto.mahindra.com/",
+      "observations": {
+        "listed_in_suv_navigation": true,
+        "locator": "53–66",
+        "scope": "identity only"
+      },
+      "historical_evidence_status": "not_independently_verified",
+      "publication_review": "pending",
+      "gaps": [
+        {
+          "field": "full_variant_matrix",
+          "status": "not_available",
+          "reason": "not fully established by current bounded source review"
+        },
+        {
+          "field": "complete_variant_feature_matrix",
+          "status": "not_available",
+          "reason": "not fully established by current bounded source review"
+        },
+        {
+          "field": "complete_price_matrix",
+          "status": "not_available",
+          "reason": "not fully established by current bounded source review"
+        },
+        {
+          "field": "NVH",
+          "status": "not_available",
+          "reason": "not fully established by current bounded source review"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "not_available",
+          "reason": "not fully established by current bounded source review"
+        },
+        {
+          "field": "independent_real_world_efficiency",
+          "status": "not_available",
+          "reason": "not fully established by current bounded source review"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "not_available",
+          "reason": "not fully established by current bounded source review"
+        },
+        {
+          "field": "OEM_accessory_catalogue",
+          "status": "not_available",
+          "reason": "not fully established by current bounded source review"
+        },
+        {
+          "field": "full_vehicle_warranty",
+          "status": "not_available",
+          "reason": "not fully established by current bounded source review"
+        }
+      ]
+    },
+    {
+      "model": "Scorpio-N",
+      "brand": "Mahindra",
+      "checked_at": "2026-11-28",
+      "source_url": "https://auto.mahindra.com/",
+      "observations": {
+        "listed_in_suv_navigation": true,
+        "locator": "53–66",
+        "scope": "identity only"
+      },
+      "historical_evidence_status": "not_independently_verified",
+      "publication_review": "pending",
+      "gaps": [
+        {
+          "field": "full_variant_matrix",
+          "status": "not_available",
+          "reason": "not fully established by current bounded source review"
+        },
+        {
+          "field": "complete_variant_feature_matrix",
+          "status": "not_available",
+          "reason": "not fully established by current bounded source review"
+        },
+        {
+          "field": "complete_price_matrix",
+          "status": "not_available",
+          "reason": "not fully established by current bounded source review"
+        },
+        {
+          "field": "NVH",
+          "status": "not_available",
+          "reason": "not fully established by current bounded source review"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "not_available",
+          "reason": "not fully established by current bounded source review"
+        },
+        {
+          "field": "independent_real_world_efficiency",
+          "status": "not_available",
+          "reason": "not fully established by current bounded source review"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "not_available",
+          "reason": "not fully established by current bounded source review"
+        },
+        {
+          "field": "OEM_accessory_catalogue",
+          "status": "not_available",
+          "reason": "not fully established by current bounded source review"
+        },
+        {
+          "field": "full_vehicle_warranty",
+          "status": "not_available",
+          "reason": "not fully established by current bounded source review"
+        }
+      ]
+    },
+    {
+      "model": "XUV 7XO",
+      "brand": "Mahindra",
+      "checked_at": "2026-11-28",
+      "source_url": "https://auto.mahindra.com/",
+      "observations": {
+        "listed_in_suv_navigation": true,
+        "locator": "53–66",
+        "scope": "identity only"
+      },
+      "historical_evidence_status": "not_independently_verified",
+      "publication_review": "pending",
+      "gaps": [
+        {
+          "field": "full_variant_matrix",
+          "status": "not_available",
+          "reason": "not fully established by current bounded source review"
+        },
+        {
+          "field": "complete_variant_feature_matrix",
+          "status": "not_available",
+          "reason": "not fully established by current bounded source review"
+        },
+        {
+          "field": "complete_price_matrix",
+          "status": "not_available",
+          "reason": "not fully established by current bounded source review"
+        },
+        {
+          "field": "NVH",
+          "status": "not_available",
+          "reason": "not fully established by current bounded source review"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "not_available",
+          "reason": "not fully established by current bounded source review"
+        },
+        {
+          "field": "independent_real_world_efficiency",
+          "status": "not_available",
+          "reason": "not fully established by current bounded source review"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "not_available",
+          "reason": "not fully established by current bounded source review"
+        },
+        {
+          "field": "OEM_accessory_catalogue",
+          "status": "not_available",
+          "reason": "not fully established by current bounded source review"
+        },
+        {
+          "field": "full_vehicle_warranty",
+          "status": "not_available",
+          "reason": "not fully established by current bounded source review"
+        }
+      ]
+    },
+    {
+      "model": "Thar ROXX",
+      "brand": "Mahindra",
+      "checked_at": "2026-11-28",
+      "source_url": "https://auto.mahindra.com/",
+      "observations": {
+        "listed_in_suv_navigation": true,
+        "locator": "53–66",
+        "scope": "identity only"
+      },
+      "historical_evidence_status": "not_independently_verified",
+      "publication_review": "pending",
+      "gaps": [
+        {
+          "field": "full_variant_matrix",
+          "status": "not_available",
+          "reason": "not fully established by current bounded source review"
+        },
+        {
+          "field": "complete_variant_feature_matrix",
+          "status": "not_available",
+          "reason": "not fully established by current bounded source review"
+        },
+        {
+          "field": "complete_price_matrix",
+          "status": "not_available",
+          "reason": "not fully established by current bounded source review"
+        },
+        {
+          "field": "NVH",
+          "status": "not_available",
+          "reason": "not fully established by current bounded source review"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "not_available",
+          "reason": "not fully established by current bounded source review"
+        },
+        {
+          "field": "independent_real_world_efficiency",
+          "status": "not_available",
+          "reason": "not fully established by current bounded source review"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "not_available",
+          "reason": "not fully established by current bounded source review"
+        },
+        {
+          "field": "OEM_accessory_catalogue",
+          "status": "not_available",
+          "reason": "not fully established by current bounded source review"
+        },
+        {
+          "field": "full_vehicle_warranty",
+          "status": "not_available",
+          "reason": "not fully established by current bounded source review"
+        }
+      ]
+    },
+    {
+      "model": "Scorpio Classic",
+      "brand": "Mahindra",
+      "checked_at": "2026-11-28",
+      "source_url": "https://auto.mahindra.com/",
+      "observations": {
+        "listed_in_suv_navigation": true,
+        "locator": "53–66",
+        "scope": "identity only"
+      },
+      "historical_evidence_status": "not_independently_verified",
+      "publication_review": "pending",
+      "gaps": [
+        {
+          "field": "full_variant_matrix",
+          "status": "not_available",
+          "reason": "not fully established by current bounded source review"
+        },
+        {
+          "field": "complete_variant_feature_matrix",
+          "status": "not_available",
+          "reason": "not fully established by current bounded source review"
+        },
+        {
+          "field": "complete_price_matrix",
+          "status": "not_available",
+          "reason": "not fully established by current bounded source review"
+        },
+        {
+          "field": "NVH",
+          "status": "not_available",
+          "reason": "not fully established by current bounded source review"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "not_available",
+          "reason": "not fully established by current bounded source review"
+        },
+        {
+          "field": "independent_real_world_efficiency",
+          "status": "not_available",
+          "reason": "not fully established by current bounded source review"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "not_available",
+          "reason": "not fully established by current bounded source review"
+        },
+        {
+          "field": "OEM_accessory_catalogue",
+          "status": "not_available",
+          "reason": "not fully established by current bounded source review"
+        },
+        {
+          "field": "full_vehicle_warranty",
+          "status": "not_available",
+          "reason": "not fully established by current bounded source review"
+        }
+      ]
+    },
+    {
+      "model": "Bolero Neo",
+      "brand": "Mahindra",
+      "checked_at": "2026-11-28",
+      "source_url": "https://auto.mahindra.com/",
+      "observations": {
+        "listed_in_suv_navigation": true,
+        "locator": "53–66",
+        "scope": "identity only"
+      },
+      "historical_evidence_status": "not_independently_verified",
+      "publication_review": "pending",
+      "gaps": [
+        {
+          "field": "full_variant_matrix",
+          "status": "not_available",
+          "reason": "not fully established by current bounded source review"
+        },
+        {
+          "field": "complete_variant_feature_matrix",
+          "status": "not_available",
+          "reason": "not fully established by current bounded source review"
+        },
+        {
+          "field": "complete_price_matrix",
+          "status": "not_available",
+          "reason": "not fully established by current bounded source review"
+        },
+        {
+          "field": "NVH",
+          "status": "not_available",
+          "reason": "not fully established by current bounded source review"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "not_available",
+          "reason": "not fully established by current bounded source review"
+        },
+        {
+          "field": "independent_real_world_efficiency",
+          "status": "not_available",
+          "reason": "not fully established by current bounded source review"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "not_available",
+          "reason": "not fully established by current bounded source review"
+        },
+        {
+          "field": "OEM_accessory_catalogue",
+          "status": "not_available",
+          "reason": "not fully established by current bounded source review"
+        },
+        {
+          "field": "full_vehicle_warranty",
+          "status": "not_available",
+          "reason": "not fully established by current bounded source review"
+        }
+      ]
+    },
+    {
+      "model": "Bolero",
+      "brand": "Mahindra",
+      "checked_at": "2026-11-28",
+      "source_url": "https://auto.mahindra.com/",
+      "observations": {
+        "listed_in_suv_navigation": true,
+        "locator": "53–66",
+        "scope": "identity only"
+      },
+      "historical_evidence_status": "not_independently_verified",
+      "publication_review": "pending",
+      "gaps": [
+        {
+          "field": "full_variant_matrix",
+          "status": "not_available",
+          "reason": "not fully established by current bounded source review"
+        },
+        {
+          "field": "complete_variant_feature_matrix",
+          "status": "not_available",
+          "reason": "not fully established by current bounded source review"
+        },
+        {
+          "field": "complete_price_matrix",
+          "status": "not_available",
+          "reason": "not fully established by current bounded source review"
+        },
+        {
+          "field": "NVH",
+          "status": "not_available",
+          "reason": "not fully established by current bounded source review"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "not_available",
+          "reason": "not fully established by current bounded source review"
+        },
+        {
+          "field": "independent_real_world_efficiency",
+          "status": "not_available",
+          "reason": "not fully established by current bounded source review"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "not_available",
+          "reason": "not fully established by current bounded source review"
+        },
+        {
+          "field": "OEM_accessory_catalogue",
+          "status": "not_available",
+          "reason": "not fully established by current bounded source review"
+        },
+        {
+          "field": "full_vehicle_warranty",
+          "status": "not_available",
+          "reason": "not fully established by current bounded source review"
+        }
+      ]
+    },
+    {
+      "model": "XUV400",
+      "brand": "Mahindra",
+      "checked_at": "2026-11-28",
+      "source_url": "https://auto.mahindra.com/",
+      "observations": {
+        "listed_in_suv_navigation": true,
+        "locator": "53–66",
+        "scope": "identity only"
+      },
+      "historical_evidence_status": "not_independently_verified",
+      "publication_review": "pending",
+      "gaps": [
+        {
+          "field": "full_variant_matrix",
+          "status": "not_available",
+          "reason": "not fully established by current bounded source review"
+        },
+        {
+          "field": "complete_variant_feature_matrix",
+          "status": "not_available",
+          "reason": "not fully established by current bounded source review"
+        },
+        {
+          "field": "complete_price_matrix",
+          "status": "not_available",
+          "reason": "not fully established by current bounded source review"
+        },
+        {
+          "field": "NVH",
+          "status": "not_available",
+          "reason": "not fully established by current bounded source review"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "not_available",
+          "reason": "not fully established by current bounded source review"
+        },
+        {
+          "field": "independent_real_world_efficiency",
+          "status": "not_available",
+          "reason": "not fully established by current bounded source review"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "not_available",
+          "reason": "not fully established by current bounded source review"
+        },
+        {
+          "field": "OEM_accessory_catalogue",
+          "status": "not_available",
+          "reason": "not fully established by current bounded source review"
+        },
+        {
+          "field": "full_vehicle_warranty",
+          "status": "not_available",
+          "reason": "not fully established by current bounded source review"
+        }
+      ]
+    },
+    {
+      "model": "BE 6",
+      "brand": "Mahindra",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.mahindraelectricsuv.com/faq.html",
+      "observations": {
+        "scope": "SPORTEQ only",
+        "locator": "79–107",
+        "battery_range_power": [
+          [
+            59,
+            573,
+            170
+          ],
+          [
+            70,
+            651,
+            180
+          ],
+          [
+            79,
+            708,
+            210
+          ]
+        ],
+        "drive": "RWD",
+        "torque_nm": 360,
+        "adas": {
+          "ONE": 0,
+          "TWO": 0,
+          "THREE": 0,
+          "FE": 0,
+          "THREE+": 2,
+          "FOUR": "2+",
+          "LAUNCH EDITION": "2+",
+          "FE FOUR": "2+"
+        },
+        "starting_full_inr": 1945000,
+        "starting_dual_loan_inr": 1145000
+      },
+      "historical_evidence_status": "not_independently_verified",
+      "publication_review": "pending",
+      "gaps": [
+        {
+          "field": "full_variant_matrix",
+          "status": "not_available",
+          "reason": "not fully established by current bounded source review"
+        },
+        {
+          "field": "complete_variant_feature_matrix",
+          "status": "not_available",
+          "reason": "not fully established by current bounded source review"
+        },
+        {
+          "field": "complete_price_matrix",
+          "status": "not_available",
+          "reason": "not fully established by current bounded source review"
+        },
+        {
+          "field": "NVH",
+          "status": "not_available",
+          "reason": "not fully established by current bounded source review"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "not_available",
+          "reason": "not fully established by current bounded source review"
+        },
+        {
+          "field": "independent_real_world_efficiency",
+          "status": "not_available",
+          "reason": "not fully established by current bounded source review"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "not_available",
+          "reason": "not fully established by current bounded source review"
+        },
+        {
+          "field": "OEM_accessory_catalogue",
+          "status": "not_available",
+          "reason": "not fully established by current bounded source review"
+        },
+        {
+          "field": "full_vehicle_warranty",
+          "status": "not_available",
+          "reason": "not fully established by current bounded source review"
+        }
+      ]
+    },
+    {
+      "model": "XEV 9e",
+      "brand": "Mahindra",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.mahindraelectricsuv.com/faq.html",
+      "observations": {
+        "locator": "125–147,176–204",
+        "drive": "RWD",
+        "seats": 5,
+        "battery_range_power": [
+          [
+            59,
+            522,
+            170
+          ],
+          [
+            79,
+            656,
+            210
+          ]
+        ],
+        "grade_prices": [
+          [
+            "Pack One",
+            59,
+            2190000
+          ],
+          [
+            "Pack Two",
+            null,
+            2490000
+          ],
+          [
+            "Pack Three Select",
+            59,
+            2790000
+          ],
+          [
+            "Pack Three",
+            79,
+            3050000
+          ],
+          [
+            "Cineluxe",
+            79,
+            2935000
+          ]
+        ],
+        "cineluxe": {
+          "airbags": 7,
+          "adas": "2+",
+          "wall_charger_112_inr": 75000,
+          "wall_charger_72_inr": 60000
+        },
+        "starting_dual_loan_inr": 1390000
+      },
+      "historical_evidence_status": "not_independently_verified",
+      "publication_review": "pending",
+      "gaps": [
+        {
+          "field": "full_variant_matrix",
+          "status": "not_available",
+          "reason": "not fully established by current bounded source review"
+        },
+        {
+          "field": "complete_variant_feature_matrix",
+          "status": "not_available",
+          "reason": "not fully established by current bounded source review"
+        },
+        {
+          "field": "complete_price_matrix",
+          "status": "not_available",
+          "reason": "not fully established by current bounded source review"
+        },
+        {
+          "field": "NVH",
+          "status": "not_available",
+          "reason": "not fully established by current bounded source review"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "not_available",
+          "reason": "not fully established by current bounded source review"
+        },
+        {
+          "field": "independent_real_world_efficiency",
+          "status": "not_available",
+          "reason": "not fully established by current bounded source review"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "not_available",
+          "reason": "not fully established by current bounded source review"
+        },
+        {
+          "field": "OEM_accessory_catalogue",
+          "status": "not_available",
+          "reason": "not fully established by current bounded source review"
+        },
+        {
+          "field": "full_vehicle_warranty",
+          "status": "not_available",
+          "reason": "not fully established by current bounded source review"
+        }
+      ]
+    },
+    {
+      "model": "XUV 3XO EV",
+      "brand": "Mahindra",
+      "checked_at": "2026-11-28",
+      "source_url": "https://auto.mahindra.com/",
+      "observations": {
+        "listed_in_suv_navigation": true,
+        "locator": "53–66",
+        "scope": "identity only"
+      },
+      "historical_evidence_status": "not_independently_verified",
+      "publication_review": "pending",
+      "gaps": [
+        {
+          "field": "full_variant_matrix",
+          "status": "not_available",
+          "reason": "not fully established by current bounded source review"
+        },
+        {
+          "field": "complete_variant_feature_matrix",
+          "status": "not_available",
+          "reason": "not fully established by current bounded source review"
+        },
+        {
+          "field": "complete_price_matrix",
+          "status": "not_available",
+          "reason": "not fully established by current bounded source review"
+        },
+        {
+          "field": "NVH",
+          "status": "not_available",
+          "reason": "not fully established by current bounded source review"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "not_available",
+          "reason": "not fully established by current bounded source review"
+        },
+        {
+          "field": "independent_real_world_efficiency",
+          "status": "not_available",
+          "reason": "not fully established by current bounded source review"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "not_available",
+          "reason": "not fully established by current bounded source review"
+        },
+        {
+          "field": "OEM_accessory_catalogue",
+          "status": "not_available",
+          "reason": "not fully established by current bounded source review"
+        },
+        {
+          "field": "full_vehicle_warranty",
+          "status": "not_available",
+          "reason": "not fully established by current bounded source review"
+        }
+      ]
+    },
+    {
+      "model": "XEV 9S",
+      "brand": "Mahindra",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.mahindraelectricsuv.com/faq.html",
+      "observations": {
+        "locator": "229–253",
+        "battery_range": [
+          [
+            59,
+            521
+          ],
+          [
+            70,
+            600
+          ],
+          [
+            79,
+            679
+          ]
+        ],
+        "price_includes_11_2kw_charger": true,
+        "grade_prices": [
+          [
+            "Pack One Above",
+            59,
+            7,
+            2140000
+          ],
+          [
+            "Pack One Above",
+            79,
+            7,
+            2340000
+          ],
+          [
+            "Pack Two Above",
+            70,
+            7,
+            2580000
+          ],
+          [
+            "Pack Two Above",
+            79,
+            7,
+            2670000
+          ],
+          [
+            "Pack Three",
+            79,
+            7,
+            2880000
+          ],
+          [
+            "Pack Three Above",
+            79,
+            7,
+            3070000
+          ],
+          [
+            "Pack Two Above",
+            70,
+            6,
+            2600000
+          ],
+          [
+            "Pack Two Above",
+            79,
+            6,
+            2690000
+          ],
+          [
+            "Pack Three",
+            79,
+            6,
+            2880000
+          ],
+          [
+            "Pack Three Above",
+            79,
+            6,
+            3090000
+          ]
+        ],
+        "captain_seats_scope": "six-seat configurations from Pack Two Above",
+        "starting_dual_loan_inr": 1265000
+      },
+      "historical_evidence_status": "not_independently_verified",
+      "publication_review": "pending",
+      "gaps": [
+        {
+          "field": "full_variant_matrix",
+          "status": "not_available",
+          "reason": "not fully established by current bounded source review"
+        },
+        {
+          "field": "complete_variant_feature_matrix",
+          "status": "not_available",
+          "reason": "not fully established by current bounded source review"
+        },
+        {
+          "field": "complete_price_matrix",
+          "status": "not_available",
+          "reason": "not fully established by current bounded source review"
+        },
+        {
+          "field": "NVH",
+          "status": "not_available",
+          "reason": "not fully established by current bounded source review"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "not_available",
+          "reason": "not fully established by current bounded source review"
+        },
+        {
+          "field": "independent_real_world_efficiency",
+          "status": "not_available",
+          "reason": "not fully established by current bounded source review"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "not_available",
+          "reason": "not fully established by current bounded source review"
+        },
+        {
+          "field": "OEM_accessory_catalogue",
+          "status": "not_available",
+          "reason": "not fully established by current bounded source review"
+        },
+        {
+          "field": "full_vehicle_warranty",
+          "status": "not_available",
+          "reason": "not fully established by current bounded source review"
+        }
+      ]
+    }
+  ],
+  "inventory_leads": [
+    {
+      "model": "Bolero Neo Plus",
+      "source_url": "https://auto.mahindra.com/",
+      "locator": "64–65",
+      "status": "passenger_scope_review_pending"
+    }
+  ],
+  "price_effective_date": null,
+  "baas_scope": "dual financing; not pay per use; subject to financier terms"
+}
