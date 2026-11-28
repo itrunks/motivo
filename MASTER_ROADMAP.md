@@ -206,3 +206,7 @@ Track unresolved optional model/variant gaps in `research/india/POST_GO_LIVE_VER
 ## Consolidated inventory checkpoint
 
 251 unique historical model identities across 35 brands, 535 raw candidate rows from 13 files, all linked after explicit Toyota aliases and Unicode-preserving normalization. 31 models have structured candidates; 220 lack structured candidates (not necessarily unattempted historically). All candidates remain unverified pending actual source evidence. Missing variant information is `not_available`. Stage 1 remains open: remaining source attempts and candidate evidence review not performed in this checkpoint. No production changes.
+
+## Historical evidence recovery and missing-data report
+
+All 251 legacy variant audit rows matched to the 251 master model identities. Historical notes are retained, not independently verified. Fresh official source attempts: Verna exact 12 engine/trim/gearbox combinations observed, Fortuner HTTP 403 deferred. Master missing-data report contains 252 field rows, including 250 models with unavailable verified variant data, plus Verna price and current orderability. 249 historical evidence reviews remain pending; not all are fresh source attempts. Stage 1 open; no production import or Firebase changes.
