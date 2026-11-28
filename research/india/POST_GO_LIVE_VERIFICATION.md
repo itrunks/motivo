@@ -38,3 +38,7 @@ All 17 model identities retained; full variant features and prices, real-world m
 ## Hyundai selected-feature bounded pass
 
 14 model outcomes, 13 retrieved feature pages and one inaccessible URL (IONIQ 5). 112 model-field gaps in `research/india/stage2-hyundai-bounded-2026-11-28.json`. Earlier generated safety matrix is superseded for selected observations; unrechecked cells remain unconfirmed. Retail availability and publication rights not established by this pass.
+
+## Tata bounded pass
+
+16 existing identities reviewed using retrieved catalogue and EV support results; 160 field gaps in `research/india/stage2-tata-bounded-2026-11-28.json`. Aeris newly listed: scope reconciliation pending before publication; XPRES retail applicability not assumed. Tigor and Tigor.ev retained; no discontinuation inferred. Individual model feature pages not freshly checked.
