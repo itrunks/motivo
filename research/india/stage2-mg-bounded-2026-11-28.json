@@ -1,0 +1,642 @@
+[
+  {
+    "model": "Comet EV",
+    "brand": "MG Motor",
+    "checked_at": "2026-11-28",
+    "source_url": "https://www.mgmotor.co.in/",
+    "locator": "homepage model cards",
+    "listed": true,
+    "publication_review": "pending",
+    "status": "bounded_catalogue_review",
+    "observation": {
+      "advertised_starting_inr": 499000,
+      "additional_inr_per_km": 3.3,
+      "scope": "model-level advertisement; not exact variant price",
+      "effective_date": null
+    },
+    "gaps": [
+      {
+        "field": "exact_variant_matrix",
+        "status": "not_available",
+        "reason": "not established by retrieved model-level evidence"
+      },
+      {
+        "field": "variant_feature_applicability",
+        "status": "not_available",
+        "reason": "not established by retrieved model-level evidence"
+      },
+      {
+        "field": "current_variant_prices",
+        "status": "not_available",
+        "reason": "not established by retrieved model-level evidence"
+      },
+      {
+        "field": "NVH",
+        "status": "not_available",
+        "reason": "not established by retrieved model-level evidence"
+      },
+      {
+        "field": "suspension_tuning",
+        "status": "not_available",
+        "reason": "not established by retrieved model-level evidence"
+      },
+      {
+        "field": "real_world_efficiency",
+        "status": "not_available",
+        "reason": "not established by retrieved model-level evidence"
+      },
+      {
+        "field": "ownership_cost",
+        "status": "not_available",
+        "reason": "not established by retrieved model-level evidence"
+      },
+      {
+        "field": "OEM_accessories",
+        "status": "not_available",
+        "reason": "not established by retrieved model-level evidence"
+      },
+      {
+        "field": "warranty",
+        "status": "not_available",
+        "reason": "not established by retrieved model-level evidence"
+      }
+    ]
+  },
+  {
+    "model": "Windsor EV",
+    "brand": "MG Motor",
+    "checked_at": "2026-11-28",
+    "source_url": "https://www.mgmotor.co.in/",
+    "locator": "homepage model cards",
+    "listed": true,
+    "publication_review": "pending",
+    "status": "bounded_catalogue_review",
+    "observation": {
+      "advertised_starting_inr": 999000,
+      "additional_inr_per_km": 4.3,
+      "scope": "model-level advertisement; not exact variant price",
+      "effective_date": null
+    },
+    "gaps": [
+      {
+        "field": "exact_variant_matrix",
+        "status": "not_available",
+        "reason": "not established by retrieved model-level evidence"
+      },
+      {
+        "field": "variant_feature_applicability",
+        "status": "not_available",
+        "reason": "not established by retrieved model-level evidence"
+      },
+      {
+        "field": "current_variant_prices",
+        "status": "not_available",
+        "reason": "not established by retrieved model-level evidence"
+      },
+      {
+        "field": "NVH",
+        "status": "not_available",
+        "reason": "not established by retrieved model-level evidence"
+      },
+      {
+        "field": "suspension_tuning",
+        "status": "not_available",
+        "reason": "not established by retrieved model-level evidence"
+      },
+      {
+        "field": "real_world_efficiency",
+        "status": "not_available",
+        "reason": "not established by retrieved model-level evidence"
+      },
+      {
+        "field": "ownership_cost",
+        "status": "not_available",
+        "reason": "not established by retrieved model-level evidence"
+      },
+      {
+        "field": "OEM_accessories",
+        "status": "not_available",
+        "reason": "not established by retrieved model-level evidence"
+      },
+      {
+        "field": "warranty",
+        "status": "not_available",
+        "reason": "not established by retrieved model-level evidence"
+      }
+    ]
+  },
+  {
+    "model": "ZS EV",
+    "brand": "MG Motor",
+    "checked_at": "2026-11-28",
+    "source_url": "https://www.mgmotor.co.in/",
+    "locator": "homepage model cards",
+    "listed": true,
+    "publication_review": "pending",
+    "status": "bounded_catalogue_review",
+    "observation": {
+      "advertised_starting_inr": 1300000,
+      "additional_inr_per_km": 4.5,
+      "scope": "model-level advertisement; not exact variant price",
+      "effective_date": null
+    },
+    "gaps": [
+      {
+        "field": "exact_variant_matrix",
+        "status": "not_available",
+        "reason": "not established by retrieved model-level evidence"
+      },
+      {
+        "field": "variant_feature_applicability",
+        "status": "not_available",
+        "reason": "not established by retrieved model-level evidence"
+      },
+      {
+        "field": "current_variant_prices",
+        "status": "not_available",
+        "reason": "not established by retrieved model-level evidence"
+      },
+      {
+        "field": "NVH",
+        "status": "not_available",
+        "reason": "not established by retrieved model-level evidence"
+      },
+      {
+        "field": "suspension_tuning",
+        "status": "not_available",
+        "reason": "not established by retrieved model-level evidence"
+      },
+      {
+        "field": "real_world_efficiency",
+        "status": "not_available",
+        "reason": "not established by retrieved model-level evidence"
+      },
+      {
+        "field": "ownership_cost",
+        "status": "not_available",
+        "reason": "not established by retrieved model-level evidence"
+      },
+      {
+        "field": "OEM_accessories",
+        "status": "not_available",
+        "reason": "not established by retrieved model-level evidence"
+      },
+      {
+        "field": "warranty",
+        "status": "not_available",
+        "reason": "not established by retrieved model-level evidence"
+      }
+    ]
+  },
+  {
+    "model": "Hector",
+    "brand": "MG Motor",
+    "checked_at": "2026-11-28",
+    "source_url": "https://www.mgmotor.co.in/",
+    "locator": "homepage model cards",
+    "listed": true,
+    "publication_review": "pending",
+    "status": "bounded_catalogue_review",
+    "observation": {
+      "advertised_starting_inr": 1214000,
+      "additional_inr_per_km": null,
+      "scope": "model-level advertisement; not exact variant price",
+      "effective_date": null
+    },
+    "gaps": [
+      {
+        "field": "exact_variant_matrix",
+        "status": "not_available",
+        "reason": "not established by retrieved model-level evidence"
+      },
+      {
+        "field": "variant_feature_applicability",
+        "status": "not_available",
+        "reason": "not established by retrieved model-level evidence"
+      },
+      {
+        "field": "current_variant_prices",
+        "status": "not_available",
+        "reason": "not established by retrieved model-level evidence"
+      },
+      {
+        "field": "NVH",
+        "status": "not_available",
+        "reason": "not established by retrieved model-level evidence"
+      },
+      {
+        "field": "suspension_tuning",
+        "status": "not_available",
+        "reason": "not established by retrieved model-level evidence"
+      },
+      {
+        "field": "real_world_efficiency",
+        "status": "not_available",
+        "reason": "not established by retrieved model-level evidence"
+      },
+      {
+        "field": "ownership_cost",
+        "status": "not_available",
+        "reason": "not established by retrieved model-level evidence"
+      },
+      {
+        "field": "OEM_accessories",
+        "status": "not_available",
+        "reason": "not established by retrieved model-level evidence"
+      },
+      {
+        "field": "warranty",
+        "status": "not_available",
+        "reason": "not established by retrieved model-level evidence"
+      }
+    ]
+  },
+  {
+    "model": "Astor",
+    "brand": "MG Motor",
+    "checked_at": "2026-11-28",
+    "source_url": "https://www.mgmotor.co.in/",
+    "locator": "homepage model cards",
+    "listed": true,
+    "publication_review": "pending",
+    "status": "bounded_catalogue_review",
+    "observation": {
+      "advertised_starting_inr": 979000,
+      "additional_inr_per_km": null,
+      "scope": "model-level advertisement; not exact variant price",
+      "effective_date": null
+    },
+    "gaps": [
+      {
+        "field": "exact_variant_matrix",
+        "status": "not_available",
+        "reason": "not established by retrieved model-level evidence"
+      },
+      {
+        "field": "variant_feature_applicability",
+        "status": "not_available",
+        "reason": "not established by retrieved model-level evidence"
+      },
+      {
+        "field": "current_variant_prices",
+        "status": "not_available",
+        "reason": "not established by retrieved model-level evidence"
+      },
+      {
+        "field": "NVH",
+        "status": "not_available",
+        "reason": "not established by retrieved model-level evidence"
+      },
+      {
+        "field": "suspension_tuning",
+        "status": "not_available",
+        "reason": "not established by retrieved model-level evidence"
+      },
+      {
+        "field": "real_world_efficiency",
+        "status": "not_available",
+        "reason": "not established by retrieved model-level evidence"
+      },
+      {
+        "field": "ownership_cost",
+        "status": "not_available",
+        "reason": "not established by retrieved model-level evidence"
+      },
+      {
+        "field": "OEM_accessories",
+        "status": "not_available",
+        "reason": "not established by retrieved model-level evidence"
+      },
+      {
+        "field": "warranty",
+        "status": "not_available",
+        "reason": "not established by retrieved model-level evidence"
+      }
+    ]
+  },
+  {
+    "model": "Hector Tomahawk EV",
+    "brand": "MG Motor",
+    "checked_at": "2026-11-28",
+    "source_url": "https://www.mgmotor.co.in/",
+    "locator": "homepage model cards",
+    "listed": true,
+    "publication_review": "pending",
+    "status": "bounded_catalogue_review",
+    "observation": {
+      "advertised_starting_inr": 1399000,
+      "additional_inr_per_km": 4.9,
+      "scope": "model-level advertisement; not exact variant price",
+      "effective_date": null
+    },
+    "gaps": [
+      {
+        "field": "exact_variant_matrix",
+        "status": "not_available",
+        "reason": "not established by retrieved model-level evidence"
+      },
+      {
+        "field": "variant_feature_applicability",
+        "status": "not_available",
+        "reason": "not established by retrieved model-level evidence"
+      },
+      {
+        "field": "current_variant_prices",
+        "status": "not_available",
+        "reason": "not established by retrieved model-level evidence"
+      },
+      {
+        "field": "NVH",
+        "status": "not_available",
+        "reason": "not established by retrieved model-level evidence"
+      },
+      {
+        "field": "suspension_tuning",
+        "status": "not_available",
+        "reason": "not established by retrieved model-level evidence"
+      },
+      {
+        "field": "real_world_efficiency",
+        "status": "not_available",
+        "reason": "not established by retrieved model-level evidence"
+      },
+      {
+        "field": "ownership_cost",
+        "status": "not_available",
+        "reason": "not established by retrieved model-level evidence"
+      },
+      {
+        "field": "OEM_accessories",
+        "status": "not_available",
+        "reason": "not established by retrieved model-level evidence"
+      },
+      {
+        "field": "warranty",
+        "status": "not_available",
+        "reason": "not established by retrieved model-level evidence"
+      }
+    ]
+  },
+  {
+    "model": "Hector Tomahawk PHEV",
+    "brand": "MG Motor",
+    "checked_at": "2026-11-28",
+    "source_url": "https://www.mgmotor.co.in/",
+    "locator": "homepage model cards",
+    "listed": true,
+    "publication_review": "pending",
+    "status": "bounded_catalogue_review",
+    "observation": {
+      "advertised_starting_inr": 2179000,
+      "additional_inr_per_km": 3.2,
+      "scope": "model-level advertisement; not exact variant price",
+      "effective_date": null
+    },
+    "gaps": [
+      {
+        "field": "exact_variant_matrix",
+        "status": "not_available",
+        "reason": "not established by retrieved model-level evidence"
+      },
+      {
+        "field": "variant_feature_applicability",
+        "status": "not_available",
+        "reason": "not established by retrieved model-level evidence"
+      },
+      {
+        "field": "current_variant_prices",
+        "status": "not_available",
+        "reason": "not established by retrieved model-level evidence"
+      },
+      {
+        "field": "NVH",
+        "status": "not_available",
+        "reason": "not established by retrieved model-level evidence"
+      },
+      {
+        "field": "suspension_tuning",
+        "status": "not_available",
+        "reason": "not established by retrieved model-level evidence"
+      },
+      {
+        "field": "real_world_efficiency",
+        "status": "not_available",
+        "reason": "not established by retrieved model-level evidence"
+      },
+      {
+        "field": "ownership_cost",
+        "status": "not_available",
+        "reason": "not established by retrieved model-level evidence"
+      },
+      {
+        "field": "OEM_accessories",
+        "status": "not_available",
+        "reason": "not established by retrieved model-level evidence"
+      },
+      {
+        "field": "warranty",
+        "status": "not_available",
+        "reason": "not established by retrieved model-level evidence"
+      }
+    ]
+  },
+  {
+    "model": "Majestor",
+    "brand": "MG Motor",
+    "checked_at": "2026-11-28",
+    "source_url": "https://www.mgmotor.co.in/",
+    "locator": "homepage model cards",
+    "listed": true,
+    "publication_review": "pending",
+    "status": "bounded_catalogue_review",
+    "observation": {
+      "advertised_starting_inr": 4349000,
+      "additional_inr_per_km": null,
+      "scope": "model-level advertisement; not exact variant price",
+      "effective_date": null
+    },
+    "price_conflicts": [
+      {
+        "url": "https://cars.mgmotor.co.in/",
+        "inr": 4099000
+      },
+      {
+        "url": "https://www.mgmotor.co.in/new-energy-vehicles",
+        "inr": 4249000
+      }
+    ],
+    "gaps": [
+      {
+        "field": "exact_variant_matrix",
+        "status": "not_available",
+        "reason": "not established by retrieved model-level evidence"
+      },
+      {
+        "field": "variant_feature_applicability",
+        "status": "not_available",
+        "reason": "not established by retrieved model-level evidence"
+      },
+      {
+        "field": "current_variant_prices",
+        "status": "not_available",
+        "reason": "not established by retrieved model-level evidence"
+      },
+      {
+        "field": "NVH",
+        "status": "not_available",
+        "reason": "not established by retrieved model-level evidence"
+      },
+      {
+        "field": "suspension_tuning",
+        "status": "not_available",
+        "reason": "not established by retrieved model-level evidence"
+      },
+      {
+        "field": "real_world_efficiency",
+        "status": "not_available",
+        "reason": "not established by retrieved model-level evidence"
+      },
+      {
+        "field": "ownership_cost",
+        "status": "not_available",
+        "reason": "not established by retrieved model-level evidence"
+      },
+      {
+        "field": "OEM_accessories",
+        "status": "not_available",
+        "reason": "not established by retrieved model-level evidence"
+      },
+      {
+        "field": "warranty",
+        "status": "not_available",
+        "reason": "not established by retrieved model-level evidence"
+      }
+    ]
+  },
+  {
+    "model": "Cyberster",
+    "brand": "MG Motor",
+    "checked_at": "2026-11-28",
+    "source_url": "https://www.mgmotor.co.in/",
+    "locator": "homepage model cards",
+    "listed": true,
+    "publication_review": "pending",
+    "status": "bounded_catalogue_review",
+    "observation": {
+      "source_url": "https://www.mgmotor.co.in/media-center/newsroom/mg-select-launches-the-couture-edition-of-m9-at-inr-84-94-lakh-and-cyberster-at-inr-87-49-lakh",
+      "source_date": "2026-08-03",
+      "edition": "Couture",
+      "launch_price_inr": 8749000
+    },
+    "gaps": [
+      {
+        "field": "exact_variant_matrix",
+        "status": "not_available",
+        "reason": "not established by retrieved model-level evidence"
+      },
+      {
+        "field": "variant_feature_applicability",
+        "status": "not_available",
+        "reason": "not established by retrieved model-level evidence"
+      },
+      {
+        "field": "current_variant_prices",
+        "status": "not_available",
+        "reason": "not established by retrieved model-level evidence"
+      },
+      {
+        "field": "NVH",
+        "status": "not_available",
+        "reason": "not established by retrieved model-level evidence"
+      },
+      {
+        "field": "suspension_tuning",
+        "status": "not_available",
+        "reason": "not established by retrieved model-level evidence"
+      },
+      {
+        "field": "real_world_efficiency",
+        "status": "not_available",
+        "reason": "not established by retrieved model-level evidence"
+      },
+      {
+        "field": "ownership_cost",
+        "status": "not_available",
+        "reason": "not established by retrieved model-level evidence"
+      },
+      {
+        "field": "OEM_accessories",
+        "status": "not_available",
+        "reason": "not established by retrieved model-level evidence"
+      },
+      {
+        "field": "warranty",
+        "status": "not_available",
+        "reason": "not established by retrieved model-level evidence"
+      }
+    ]
+  },
+  {
+    "model": "M9",
+    "brand": "MG Motor",
+    "checked_at": "2026-11-28",
+    "source_url": "https://www.mgmotor.co.in/",
+    "locator": "homepage model cards",
+    "listed": true,
+    "publication_review": "pending",
+    "status": "bounded_catalogue_review",
+    "observation": {
+      "source_url": "https://www.mgmotor.co.in/media-center/newsroom/mg-select-launches-the-couture-edition-of-m9-at-inr-84-94-lakh-and-cyberster-at-inr-87-49-lakh",
+      "source_date": "2026-08-03",
+      "edition": "Couture",
+      "launch_price_inr": 8494000
+    },
+    "gaps": [
+      {
+        "field": "exact_variant_matrix",
+        "status": "not_available",
+        "reason": "not established by retrieved model-level evidence"
+      },
+      {
+        "field": "variant_feature_applicability",
+        "status": "not_available",
+        "reason": "not established by retrieved model-level evidence"
+      },
+      {
+        "field": "current_variant_prices",
+        "status": "not_available",
+        "reason": "not established by retrieved model-level evidence"
+      },
+      {
+        "field": "NVH",
+        "status": "not_available",
+        "reason": "not established by retrieved model-level evidence"
+      },
+      {
+        "field": "suspension_tuning",
+        "status": "not_available",
+        "reason": "not established by retrieved model-level evidence"
+      },
+      {
+        "field": "real_world_efficiency",
+        "status": "not_available",
+        "reason": "not established by retrieved model-level evidence"
+      },
+      {
+        "field": "ownership_cost",
+        "status": "not_available",
+        "reason": "not established by retrieved model-level evidence"
+      },
+      {
+        "field": "OEM_accessories",
+        "status": "not_available",
+        "reason": "not established by retrieved model-level evidence"
+      },
+      {
+        "field": "warranty",
+        "status": "not_available",
+        "reason": "not established by retrieved model-level evidence"
+      }
+    ]
+  }
+]
