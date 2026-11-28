@@ -178,3 +178,7 @@ Added 36 unique brochure candidate rows in research/india/variant-inventory-xuv7
 ## Fresh OEM matrix checkpoint (2026-11-28)
 
 51 research rows added in `research/india/variant-inventory-i20-exter-dzire-hycross-2026-11-28.csv`: i20 12, Exter 19, Dzire 11, Hycross 9 (grade/seating only; engine/transmission blank). OEM search extracts explicitly support these mappings; cached Hyundai pages are two months old, current orderability and rights remain pending. 51 unique keys and readback passed. Cumulative nominal research rows 369, not global unique approved SKUs. Nexon search returned historical 2024 brochure only; no new raw selector evidence. Hyryder, Taisor, Swift, Brezza remain pending. No production import.
+
+## Continuous execution: Nexon and Maruti evidence
+
+Nexon 82 distinct raw labels, six potential prior overlaps, 76 additional candidates; no exact SKU count asserted. Brezza 10 and Swift 15 brochure candidates, three Swift CNG AMT dealer-only. Both CSVs readback passed. Prior 369 rows not independently verified; nominal non-overlap research count 470. Toyota follow-up pending. Continue alternative official pages, preserve uncertainty, validate before publication, show completed/pending/blocked checklist at each checkpoint. No Firebase or production changes.
