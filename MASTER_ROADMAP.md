@@ -198,3 +198,7 @@ Supersedes earlier requirements to resolve every missing OEM field before advanc
 ## Directly observed OEM matrices checkpoint
 
 25 new rows: Hilux 3, Grand i10 Nios 15, Aura 7. Official pages opened and exact engine/trim tables observed; unique batch keys and readback passed. Hilux includes 4x2 (corrects model-level 4WD impression). Fortuner 403, Vellfire grade matrix unavailable from linked brochure endpoint, Camry grade applicability unverified; recorded in deferred-enrichment-2026-11-28.csv. Nominal research count 529, earlier candidates not independently verified. Remaining brands and Toyota gaps not all processed. No production import.
+
+## Owner decision: post-launch enrichment
+
+Track unresolved optional model/variant gaps in `research/india/POST_GO_LIVE_VERIFICATION.md`. After bounded attempts, close with gaps and advance. Post-launch enrichment is not a launch gate. Unattempted models remain active; unsupported facts must not enter production. Initial brand reconciliation percentage is not Stage 1 completion percentage.
