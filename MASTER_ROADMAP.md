@@ -20,7 +20,7 @@ Recovered historical inventory: 251 model rows, 35 brands. This is not a current
 | Brand | Historical model rows | OEM reconciliation |
 |---|---:|---|
 | Maruti Suzuki | 17 | Nameplates matched; SKU pending |
-| Hyundai | 14 | Pending |
+| Hyundai | 14 | Nameplates matched; SKU and Tucson exception pending |
 | Mahindra | 13 | Pending |
 | Kia | 9 | Pending |
 | Toyota | 13 | Pending |
@@ -60,3 +60,7 @@ No Firebase writes or production publication authorized. Do not mark a brand com
 ## Stage 1 — Maruti Suzuki checkpoint (2026-11-28)
 
 OEM passenger retail lineup matched all 17 historical nameplates: Arena 10, Nexa 7. Sources: https://www.marutisuzuki.com/arena and https://www.nexaexperience.com/ ; corroborating configurators https://www.marutisuzuki.com/arena/configurator and https://www.nexaexperience.com/configurator . Tour commercial range excluded under passenger retail scope, not claimed discontinued. Exact SKU inventory and dealer orderability remain open. Arena comparison and landing page show inconsistent price references; no price imported. This is nameplate reconciliation only.
+
+## Stage 1 — Hyundai checkpoint (2026-11-28)
+
+All 14 historical passenger nameplates match the current India retail finder: Verna, Aura, Venue, Venue N Line, Creta, Creta N Line, Exter, Alcazar, Grand i10 NIOS, i20, i20 N Line, IONIQ 5, Creta Electric, Bayon. Sources checked: https://www.hyundai.com/in/en/find-a-car and https://www.hyundai.com/in/en.html . Prime-HB and Prime-SD explicitly classified as taxis in the finder, outside passenger retail scope. Tucson and Kona Electric occur in the sitemap/owner support but not current retail finder; do not infer discontinuation or dealer stock. Tucson also appears in corporate about page, so retain orderability as an open exception. Exact SKU inventory pending. No price or production data imported.
