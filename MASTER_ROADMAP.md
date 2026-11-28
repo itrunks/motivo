@@ -286,3 +286,7 @@ Three global OEM technical excerpts recorded, India prices and orderability unve
 ## Land Rover bounded checkpoint
 
 Seven brochure-index identities, six model-level price observations across catalogue and older finance pages, three differences, 63 gaps. 69 completed_with_gaps, 92 review_required, 90 pending. Lexus next. No production changes.
+
+## Lexus bounded checkpoint
+
+Five dated India OEM brochure excerpts retrieved; 45 unresolved fields. 74 completed_with_gaps, 92 review_required, 85 pending. Maserati next. Earlier batch evidence provenance requires re-review before publication; repository disposition is not verification. No production changes.

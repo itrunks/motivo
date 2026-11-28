@@ -4098,7 +4098,9 @@
         "notes": "The ES candidate covers both hybrid 350h and electric 500e powertrain branches. Do not conflate 350h and 500e prices/specifications. 350h Exquisite/Luxury are documented by 2026 launch reporting; 500e is shown by authorized dealer as one configuration. Confirm current official Lexus India price sheet and exact 500e grade name."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-lexus-bounded-2026-11-28.json",
+      "stage2_verification": "bounded_indexed_oem_review"
     },
     {
       "brand_id": "lexus",
@@ -4122,7 +4124,9 @@
         "notes": "Official Lexus India brochure confirms four grade names. Current price observations are from an authorized retailer site; obtain a dated Lexus India/dealer quotation and confirm model-year and local availability before import. Global NX facelift announced in 2026 is not assumed to be the India-spec model until launched."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-lexus-bounded-2026-11-28.json",
+      "stage2_verification": "bounded_indexed_oem_review"
     },
     {
       "brand_id": "lexus",
@@ -4146,7 +4150,9 @@
         "notes": "Keep RX 350h and RX 500h separate by powertrain. Mark Levinson is an audio equipment specification/package, not automatically a separate grade unless Lexus configurator treats it as one. Confirm current orderability and price sheet directly with Lexus."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-lexus-bounded-2026-11-28.json",
+      "stage2_verification": "bounded_indexed_oem_review"
     },
     {
       "brand_id": "lexus",
@@ -4170,7 +4176,9 @@
         "notes": "The India LX line is a 500d diesel configuration; Urban/Overtrail grade labels need current OEM confirmation. The 2024 official brochure is a historic snapshot and does not establish current 2026 equipment/price mapping. Do not import international LX petrol/hybrid variants."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-lexus-bounded-2026-11-28.json",
+      "stage2_verification": "bounded_indexed_oem_review"
     },
     {
       "brand_id": "lexus",
@@ -4194,7 +4202,9 @@
         "notes": "Official brochure confirms 4-seat and 7-seat layouts, with 2.5L hybrid system. Do not treat seating layout as two different model identities. Confirm current price, model-year, seating configuration and dealer allocation before import."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-lexus-bounded-2026-11-28.json",
+      "stage2_verification": "bounded_indexed_oem_review"
     },
     {
       "brand_id": "maserati",
@@ -17602,5 +17612,5 @@
   },
   "stage1_status": "completed_with_gaps",
   "stage2_status": "in_progress",
-  "stage2_active_brand": "Lexus"
+  "stage2_active_brand": "Maserati"
 }

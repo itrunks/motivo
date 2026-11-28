@@ -1,0 +1,333 @@
+{
+  "retrieval_scope": "Actual indexed India OEM PDF excerpts; current orderability not established",
+  "models": [
+    {
+      "brand": "Lexus",
+      "model": "ES",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.lexusindia.co.in/wp-content/uploads/2025/09/Lexus-ES-300-Brochure-2025_LR.pdf",
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "observations": {
+        "cc": 2487,
+        "system_kw": 160,
+        "wheelbase_mm": 2870,
+        "grades": [
+          "Exquisite",
+          "Luxury"
+        ],
+        "hud": [
+          false,
+          true
+        ],
+        "wireless_charger": [
+          false,
+          true
+        ]
+      },
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "unverified",
+          "reason": "Retrieved dated brochure excerpt does not establish complete current India coverage for this field"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "unverified",
+          "reason": "Retrieved dated brochure excerpt does not establish complete current India coverage for this field"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "unverified",
+          "reason": "Retrieved dated brochure excerpt does not establish complete current India coverage for this field"
+        },
+        {
+          "field": "NVH",
+          "status": "unverified",
+          "reason": "Retrieved dated brochure excerpt does not establish complete current India coverage for this field"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "unverified",
+          "reason": "Retrieved dated brochure excerpt does not establish complete current India coverage for this field"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "unverified",
+          "reason": "Retrieved dated brochure excerpt does not establish complete current India coverage for this field"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "unverified",
+          "reason": "Retrieved dated brochure excerpt does not establish complete current India coverage for this field"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "unverified",
+          "reason": "Retrieved dated brochure excerpt does not establish complete current India coverage for this field"
+        },
+        {
+          "field": "warranty",
+          "status": "unverified",
+          "reason": "Retrieved dated brochure excerpt does not establish complete current India coverage for this field"
+        }
+      ]
+    },
+    {
+      "brand": "Lexus",
+      "model": "NX",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.lexusindia.co.in/wp-content/uploads/2025/08/NX-Brochure_edited-22-08-25.pdf",
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "observations": {
+        "cc": 2487,
+        "system_kw": 176,
+        "wheelbase_mm": 2690,
+        "claimed_kmpl": 20.26,
+        "awd": true
+      },
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "unverified",
+          "reason": "Retrieved dated brochure excerpt does not establish complete current India coverage for this field"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "unverified",
+          "reason": "Retrieved dated brochure excerpt does not establish complete current India coverage for this field"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "unverified",
+          "reason": "Retrieved dated brochure excerpt does not establish complete current India coverage for this field"
+        },
+        {
+          "field": "NVH",
+          "status": "unverified",
+          "reason": "Retrieved dated brochure excerpt does not establish complete current India coverage for this field"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "unverified",
+          "reason": "Retrieved dated brochure excerpt does not establish complete current India coverage for this field"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "unverified",
+          "reason": "Retrieved dated brochure excerpt does not establish complete current India coverage for this field"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "unverified",
+          "reason": "Retrieved dated brochure excerpt does not establish complete current India coverage for this field"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "unverified",
+          "reason": "Retrieved dated brochure excerpt does not establish complete current India coverage for this field"
+        },
+        {
+          "field": "warranty",
+          "status": "unverified",
+          "reason": "Retrieved dated brochure excerpt does not establish complete current India coverage for this field"
+        }
+      ]
+    },
+    {
+      "brand": "Lexus",
+      "model": "RX",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.lexusindia.co.in/wp-content/uploads/2024/11/rx-brochure-2023.pdf",
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "observations": {
+        "grades": [
+          "350h",
+          "500h"
+        ],
+        "both_features": [
+          "radar cruise",
+          "lane tracing assist",
+          "blind spot monitor"
+        ]
+      },
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "unverified",
+          "reason": "Retrieved dated brochure excerpt does not establish complete current India coverage for this field"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "unverified",
+          "reason": "Retrieved dated brochure excerpt does not establish complete current India coverage for this field"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "unverified",
+          "reason": "Retrieved dated brochure excerpt does not establish complete current India coverage for this field"
+        },
+        {
+          "field": "NVH",
+          "status": "unverified",
+          "reason": "Retrieved dated brochure excerpt does not establish complete current India coverage for this field"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "unverified",
+          "reason": "Retrieved dated brochure excerpt does not establish complete current India coverage for this field"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "unverified",
+          "reason": "Retrieved dated brochure excerpt does not establish complete current India coverage for this field"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "unverified",
+          "reason": "Retrieved dated brochure excerpt does not establish complete current India coverage for this field"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "unverified",
+          "reason": "Retrieved dated brochure excerpt does not establish complete current India coverage for this field"
+        },
+        {
+          "field": "warranty",
+          "status": "unverified",
+          "reason": "Retrieved dated brochure excerpt does not establish complete current India coverage for this field"
+        }
+      ]
+    },
+    {
+      "brand": "Lexus",
+      "model": "LX",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.lexusindia.co.in/wp-content/uploads/2025/06/lx_500d_24jun_1.pdf",
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "observations": {
+        "cc": 3346,
+        "engine_kw": 227,
+        "torque_nm": 700,
+        "wheelbase_mm": 2850,
+        "transmission": "10AT",
+        "adaptive_suspension": true
+      },
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "unverified",
+          "reason": "Retrieved dated brochure excerpt does not establish complete current India coverage for this field"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "unverified",
+          "reason": "Retrieved dated brochure excerpt does not establish complete current India coverage for this field"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "unverified",
+          "reason": "Retrieved dated brochure excerpt does not establish complete current India coverage for this field"
+        },
+        {
+          "field": "NVH",
+          "status": "unverified",
+          "reason": "Retrieved dated brochure excerpt does not establish complete current India coverage for this field"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "unverified",
+          "reason": "Retrieved dated brochure excerpt does not establish complete current India coverage for this field"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "unverified",
+          "reason": "Retrieved dated brochure excerpt does not establish complete current India coverage for this field"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "unverified",
+          "reason": "Retrieved dated brochure excerpt does not establish complete current India coverage for this field"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "unverified",
+          "reason": "Retrieved dated brochure excerpt does not establish complete current India coverage for this field"
+        },
+        {
+          "field": "warranty",
+          "status": "unverified",
+          "reason": "Retrieved dated brochure excerpt does not establish complete current India coverage for this field"
+        }
+      ]
+    },
+    {
+      "brand": "Lexus",
+      "model": "LM",
+      "checked_at": "2026-11-28",
+      "source_url": "https://www.lexusindia.co.in/wp-content/uploads/2024/11/lexus-lm350h-brochure-2023.pdf",
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "observations": {
+        "cc": 2487,
+        "system_kw": 184,
+        "wheelbase_mm": 3000,
+        "seating": [
+          4,
+          7
+        ]
+      },
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "unverified",
+          "reason": "Retrieved dated brochure excerpt does not establish complete current India coverage for this field"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "unverified",
+          "reason": "Retrieved dated brochure excerpt does not establish complete current India coverage for this field"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "unverified",
+          "reason": "Retrieved dated brochure excerpt does not establish complete current India coverage for this field"
+        },
+        {
+          "field": "NVH",
+          "status": "unverified",
+          "reason": "Retrieved dated brochure excerpt does not establish complete current India coverage for this field"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "unverified",
+          "reason": "Retrieved dated brochure excerpt does not establish complete current India coverage for this field"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "unverified",
+          "reason": "Retrieved dated brochure excerpt does not establish complete current India coverage for this field"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "unverified",
+          "reason": "Retrieved dated brochure excerpt does not establish complete current India coverage for this field"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "unverified",
+          "reason": "Retrieved dated brochure excerpt does not establish complete current India coverage for this field"
+        },
+        {
+          "field": "warranty",
+          "status": "unverified",
+          "reason": "Retrieved dated brochure excerpt does not establish complete current India coverage for this field"
+        }
+      ]
+    }
+  ],
+  "prior_evidence_warning": "Earlier completed batches require independent evidence provenance review before publication."
+}
