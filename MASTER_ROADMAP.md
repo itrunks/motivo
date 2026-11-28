@@ -238,3 +238,7 @@ Four Maruti models (Alto K10, Celerio, Eeco, Ertiga) reviewed on actual OEM over
 ## Kia checkpoint and evidence integrity correction
 
 Kia 9/9 bounded dispositions based on actual indexed OEM excerpts. Earlier 60 model closures reset to review_required because source verification claims cannot be substantiated from available execution records. 9/251 supported bounded closures; 60 review_required; 182 pending. Toyota next. No production import. Existing earlier evidence files retained as unverified candidates, not verified facts.
+
+## Toyota checkpoint and evidence correction
+
+13/251 bounded catalogue closures, not full variant audits. 69 review_required (Maruti, Hyundai, Tata, Mahindra, Kia), 169 pending. All prior unsupported observations excluded from publication. MG Motor next; review_required models remain in verification queue. No production changes.
