@@ -1,0 +1,773 @@
+[
+  {
+    "model": "Glanza",
+    "brand": "Toyota",
+    "checked_at": "2026-11-28",
+    "source_url": "https://www.toyotabharat.com/",
+    "locator": "Discover the Toyota range",
+    "listed": true,
+    "publication_review": "pending",
+    "status": "bounded_catalogue_review",
+    "additional_evidence": [
+      {
+        "source_url": "https://www.toyotabharat.com/news/2026/tkm-introduces-the-new-toyota-glanza.html",
+        "source_date": "2026-10-14",
+        "scope": "new generation announcement, exact grades unspecified",
+        "petrol": {
+          "cylinders": 3,
+          "power_kw": 61,
+          "torque_nm": 112.4
+        },
+        "cng": {
+          "power_kw": 51.3,
+          "torque_nm": 101.8,
+          "amt_announced": true
+        }
+      },
+      {
+        "source_url": "https://www.toyotabharat.com/documents/brochures/e-brochure-glanza.pdf",
+        "scope": "historical brochure, not current generation",
+        "petrol": {
+          "cylinders": 4,
+          "power_kw": 66,
+          "torque_nm": 113
+        },
+        "cng": {
+          "power_kw": 57
+        },
+        "status": "historical_only"
+      }
+    ],
+    "gaps": [
+      {
+        "field": "exact_variant_matrix",
+        "status": "not_available",
+        "reason": "not established by retrieved catalogue or selected announcement"
+      },
+      {
+        "field": "variant_feature_applicability",
+        "status": "not_available",
+        "reason": "not established by retrieved catalogue or selected announcement"
+      },
+      {
+        "field": "current_variant_prices",
+        "status": "not_available",
+        "reason": "not established by retrieved catalogue or selected announcement"
+      },
+      {
+        "field": "NVH",
+        "status": "not_available",
+        "reason": "not established by retrieved catalogue or selected announcement"
+      },
+      {
+        "field": "suspension_tuning",
+        "status": "not_available",
+        "reason": "not established by retrieved catalogue or selected announcement"
+      },
+      {
+        "field": "real_world_efficiency",
+        "status": "not_available",
+        "reason": "not established by retrieved catalogue or selected announcement"
+      },
+      {
+        "field": "ownership_cost",
+        "status": "not_available",
+        "reason": "not established by retrieved catalogue or selected announcement"
+      },
+      {
+        "field": "OEM_accessories",
+        "status": "not_available",
+        "reason": "not established by retrieved catalogue or selected announcement"
+      },
+      {
+        "field": "warranty",
+        "status": "not_available",
+        "reason": "not established by retrieved catalogue or selected announcement"
+      }
+    ]
+  },
+  {
+    "model": "Urban Cruiser Taisor",
+    "brand": "Toyota",
+    "checked_at": "2026-11-28",
+    "source_url": "https://www.toyotabharat.com/",
+    "locator": "Discover the Toyota range",
+    "listed": true,
+    "publication_review": "pending",
+    "status": "bounded_catalogue_review",
+    "gaps": [
+      {
+        "field": "exact_variant_matrix",
+        "status": "not_available",
+        "reason": "not established by retrieved catalogue or selected announcement"
+      },
+      {
+        "field": "variant_feature_applicability",
+        "status": "not_available",
+        "reason": "not established by retrieved catalogue or selected announcement"
+      },
+      {
+        "field": "current_variant_prices",
+        "status": "not_available",
+        "reason": "not established by retrieved catalogue or selected announcement"
+      },
+      {
+        "field": "NVH",
+        "status": "not_available",
+        "reason": "not established by retrieved catalogue or selected announcement"
+      },
+      {
+        "field": "suspension_tuning",
+        "status": "not_available",
+        "reason": "not established by retrieved catalogue or selected announcement"
+      },
+      {
+        "field": "real_world_efficiency",
+        "status": "not_available",
+        "reason": "not established by retrieved catalogue or selected announcement"
+      },
+      {
+        "field": "ownership_cost",
+        "status": "not_available",
+        "reason": "not established by retrieved catalogue or selected announcement"
+      },
+      {
+        "field": "OEM_accessories",
+        "status": "not_available",
+        "reason": "not established by retrieved catalogue or selected announcement"
+      },
+      {
+        "field": "warranty",
+        "status": "not_available",
+        "reason": "not established by retrieved catalogue or selected announcement"
+      }
+    ]
+  },
+  {
+    "model": "Rumion",
+    "brand": "Toyota",
+    "checked_at": "2026-11-28",
+    "source_url": "https://www.toyotabharat.com/",
+    "locator": "Discover the Toyota range",
+    "listed": true,
+    "publication_review": "pending",
+    "status": "bounded_catalogue_review",
+    "gaps": [
+      {
+        "field": "exact_variant_matrix",
+        "status": "not_available",
+        "reason": "not established by retrieved catalogue or selected announcement"
+      },
+      {
+        "field": "variant_feature_applicability",
+        "status": "not_available",
+        "reason": "not established by retrieved catalogue or selected announcement"
+      },
+      {
+        "field": "current_variant_prices",
+        "status": "not_available",
+        "reason": "not established by retrieved catalogue or selected announcement"
+      },
+      {
+        "field": "NVH",
+        "status": "not_available",
+        "reason": "not established by retrieved catalogue or selected announcement"
+      },
+      {
+        "field": "suspension_tuning",
+        "status": "not_available",
+        "reason": "not established by retrieved catalogue or selected announcement"
+      },
+      {
+        "field": "real_world_efficiency",
+        "status": "not_available",
+        "reason": "not established by retrieved catalogue or selected announcement"
+      },
+      {
+        "field": "ownership_cost",
+        "status": "not_available",
+        "reason": "not established by retrieved catalogue or selected announcement"
+      },
+      {
+        "field": "OEM_accessories",
+        "status": "not_available",
+        "reason": "not established by retrieved catalogue or selected announcement"
+      },
+      {
+        "field": "warranty",
+        "status": "not_available",
+        "reason": "not established by retrieved catalogue or selected announcement"
+      }
+    ]
+  },
+  {
+    "model": "Urban Cruiser Hyryder",
+    "brand": "Toyota",
+    "checked_at": "2026-11-28",
+    "source_url": "https://www.toyotabharat.com/",
+    "locator": "Discover the Toyota range",
+    "listed": true,
+    "publication_review": "pending",
+    "status": "bounded_catalogue_review",
+    "gaps": [
+      {
+        "field": "exact_variant_matrix",
+        "status": "not_available",
+        "reason": "not established by retrieved catalogue or selected announcement"
+      },
+      {
+        "field": "variant_feature_applicability",
+        "status": "not_available",
+        "reason": "not established by retrieved catalogue or selected announcement"
+      },
+      {
+        "field": "current_variant_prices",
+        "status": "not_available",
+        "reason": "not established by retrieved catalogue or selected announcement"
+      },
+      {
+        "field": "NVH",
+        "status": "not_available",
+        "reason": "not established by retrieved catalogue or selected announcement"
+      },
+      {
+        "field": "suspension_tuning",
+        "status": "not_available",
+        "reason": "not established by retrieved catalogue or selected announcement"
+      },
+      {
+        "field": "real_world_efficiency",
+        "status": "not_available",
+        "reason": "not established by retrieved catalogue or selected announcement"
+      },
+      {
+        "field": "ownership_cost",
+        "status": "not_available",
+        "reason": "not established by retrieved catalogue or selected announcement"
+      },
+      {
+        "field": "OEM_accessories",
+        "status": "not_available",
+        "reason": "not established by retrieved catalogue or selected announcement"
+      },
+      {
+        "field": "warranty",
+        "status": "not_available",
+        "reason": "not established by retrieved catalogue or selected announcement"
+      }
+    ]
+  },
+  {
+    "model": "Innova Crysta",
+    "brand": "Toyota",
+    "checked_at": "2026-11-28",
+    "source_url": "https://www.toyotabharat.com/",
+    "locator": "Discover the Toyota range",
+    "listed": true,
+    "publication_review": "pending",
+    "status": "bounded_catalogue_review",
+    "gaps": [
+      {
+        "field": "exact_variant_matrix",
+        "status": "not_available",
+        "reason": "not established by retrieved catalogue or selected announcement"
+      },
+      {
+        "field": "variant_feature_applicability",
+        "status": "not_available",
+        "reason": "not established by retrieved catalogue or selected announcement"
+      },
+      {
+        "field": "current_variant_prices",
+        "status": "not_available",
+        "reason": "not established by retrieved catalogue or selected announcement"
+      },
+      {
+        "field": "NVH",
+        "status": "not_available",
+        "reason": "not established by retrieved catalogue or selected announcement"
+      },
+      {
+        "field": "suspension_tuning",
+        "status": "not_available",
+        "reason": "not established by retrieved catalogue or selected announcement"
+      },
+      {
+        "field": "real_world_efficiency",
+        "status": "not_available",
+        "reason": "not established by retrieved catalogue or selected announcement"
+      },
+      {
+        "field": "ownership_cost",
+        "status": "not_available",
+        "reason": "not established by retrieved catalogue or selected announcement"
+      },
+      {
+        "field": "OEM_accessories",
+        "status": "not_available",
+        "reason": "not established by retrieved catalogue or selected announcement"
+      },
+      {
+        "field": "warranty",
+        "status": "not_available",
+        "reason": "not established by retrieved catalogue or selected announcement"
+      }
+    ]
+  },
+  {
+    "model": "Innova Hycross",
+    "brand": "Toyota",
+    "checked_at": "2026-11-28",
+    "source_url": "https://www.toyotabharat.com/",
+    "locator": "Discover the Toyota range",
+    "listed": true,
+    "publication_review": "pending",
+    "status": "bounded_catalogue_review",
+    "gaps": [
+      {
+        "field": "exact_variant_matrix",
+        "status": "not_available",
+        "reason": "not established by retrieved catalogue or selected announcement"
+      },
+      {
+        "field": "variant_feature_applicability",
+        "status": "not_available",
+        "reason": "not established by retrieved catalogue or selected announcement"
+      },
+      {
+        "field": "current_variant_prices",
+        "status": "not_available",
+        "reason": "not established by retrieved catalogue or selected announcement"
+      },
+      {
+        "field": "NVH",
+        "status": "not_available",
+        "reason": "not established by retrieved catalogue or selected announcement"
+      },
+      {
+        "field": "suspension_tuning",
+        "status": "not_available",
+        "reason": "not established by retrieved catalogue or selected announcement"
+      },
+      {
+        "field": "real_world_efficiency",
+        "status": "not_available",
+        "reason": "not established by retrieved catalogue or selected announcement"
+      },
+      {
+        "field": "ownership_cost",
+        "status": "not_available",
+        "reason": "not established by retrieved catalogue or selected announcement"
+      },
+      {
+        "field": "OEM_accessories",
+        "status": "not_available",
+        "reason": "not established by retrieved catalogue or selected announcement"
+      },
+      {
+        "field": "warranty",
+        "status": "not_available",
+        "reason": "not established by retrieved catalogue or selected announcement"
+      }
+    ]
+  },
+  {
+    "model": "Hilux",
+    "brand": "Toyota",
+    "checked_at": "2026-11-28",
+    "source_url": "https://www.toyotabharat.com/",
+    "locator": "Discover the Toyota range",
+    "listed": true,
+    "publication_review": "pending",
+    "status": "bounded_catalogue_review",
+    "gaps": [
+      {
+        "field": "exact_variant_matrix",
+        "status": "not_available",
+        "reason": "not established by retrieved catalogue or selected announcement"
+      },
+      {
+        "field": "variant_feature_applicability",
+        "status": "not_available",
+        "reason": "not established by retrieved catalogue or selected announcement"
+      },
+      {
+        "field": "current_variant_prices",
+        "status": "not_available",
+        "reason": "not established by retrieved catalogue or selected announcement"
+      },
+      {
+        "field": "NVH",
+        "status": "not_available",
+        "reason": "not established by retrieved catalogue or selected announcement"
+      },
+      {
+        "field": "suspension_tuning",
+        "status": "not_available",
+        "reason": "not established by retrieved catalogue or selected announcement"
+      },
+      {
+        "field": "real_world_efficiency",
+        "status": "not_available",
+        "reason": "not established by retrieved catalogue or selected announcement"
+      },
+      {
+        "field": "ownership_cost",
+        "status": "not_available",
+        "reason": "not established by retrieved catalogue or selected announcement"
+      },
+      {
+        "field": "OEM_accessories",
+        "status": "not_available",
+        "reason": "not established by retrieved catalogue or selected announcement"
+      },
+      {
+        "field": "warranty",
+        "status": "not_available",
+        "reason": "not established by retrieved catalogue or selected announcement"
+      }
+    ]
+  },
+  {
+    "model": "Fortuner",
+    "brand": "Toyota",
+    "checked_at": "2026-11-28",
+    "source_url": "https://www.toyotabharat.com/",
+    "locator": "Discover the Toyota range",
+    "listed": true,
+    "publication_review": "pending",
+    "status": "bounded_catalogue_review",
+    "gaps": [
+      {
+        "field": "exact_variant_matrix",
+        "status": "not_available",
+        "reason": "not established by retrieved catalogue or selected announcement"
+      },
+      {
+        "field": "variant_feature_applicability",
+        "status": "not_available",
+        "reason": "not established by retrieved catalogue or selected announcement"
+      },
+      {
+        "field": "current_variant_prices",
+        "status": "not_available",
+        "reason": "not established by retrieved catalogue or selected announcement"
+      },
+      {
+        "field": "NVH",
+        "status": "not_available",
+        "reason": "not established by retrieved catalogue or selected announcement"
+      },
+      {
+        "field": "suspension_tuning",
+        "status": "not_available",
+        "reason": "not established by retrieved catalogue or selected announcement"
+      },
+      {
+        "field": "real_world_efficiency",
+        "status": "not_available",
+        "reason": "not established by retrieved catalogue or selected announcement"
+      },
+      {
+        "field": "ownership_cost",
+        "status": "not_available",
+        "reason": "not established by retrieved catalogue or selected announcement"
+      },
+      {
+        "field": "OEM_accessories",
+        "status": "not_available",
+        "reason": "not established by retrieved catalogue or selected announcement"
+      },
+      {
+        "field": "warranty",
+        "status": "not_available",
+        "reason": "not established by retrieved catalogue or selected announcement"
+      }
+    ]
+  },
+  {
+    "model": "Legender",
+    "brand": "Toyota",
+    "checked_at": "2026-11-28",
+    "source_url": "https://www.toyotabharat.com/",
+    "locator": "Discover the Toyota range",
+    "listed": true,
+    "publication_review": "pending",
+    "status": "bounded_catalogue_review",
+    "gaps": [
+      {
+        "field": "exact_variant_matrix",
+        "status": "not_available",
+        "reason": "not established by retrieved catalogue or selected announcement"
+      },
+      {
+        "field": "variant_feature_applicability",
+        "status": "not_available",
+        "reason": "not established by retrieved catalogue or selected announcement"
+      },
+      {
+        "field": "current_variant_prices",
+        "status": "not_available",
+        "reason": "not established by retrieved catalogue or selected announcement"
+      },
+      {
+        "field": "NVH",
+        "status": "not_available",
+        "reason": "not established by retrieved catalogue or selected announcement"
+      },
+      {
+        "field": "suspension_tuning",
+        "status": "not_available",
+        "reason": "not established by retrieved catalogue or selected announcement"
+      },
+      {
+        "field": "real_world_efficiency",
+        "status": "not_available",
+        "reason": "not established by retrieved catalogue or selected announcement"
+      },
+      {
+        "field": "ownership_cost",
+        "status": "not_available",
+        "reason": "not established by retrieved catalogue or selected announcement"
+      },
+      {
+        "field": "OEM_accessories",
+        "status": "not_available",
+        "reason": "not established by retrieved catalogue or selected announcement"
+      },
+      {
+        "field": "warranty",
+        "status": "not_available",
+        "reason": "not established by retrieved catalogue or selected announcement"
+      }
+    ]
+  },
+  {
+    "model": "Camry",
+    "brand": "Toyota",
+    "checked_at": "2026-11-28",
+    "source_url": "https://www.toyotabharat.com/",
+    "locator": "Discover the Toyota range",
+    "listed": true,
+    "publication_review": "pending",
+    "status": "bounded_catalogue_review",
+    "gaps": [
+      {
+        "field": "exact_variant_matrix",
+        "status": "not_available",
+        "reason": "not established by retrieved catalogue or selected announcement"
+      },
+      {
+        "field": "variant_feature_applicability",
+        "status": "not_available",
+        "reason": "not established by retrieved catalogue or selected announcement"
+      },
+      {
+        "field": "current_variant_prices",
+        "status": "not_available",
+        "reason": "not established by retrieved catalogue or selected announcement"
+      },
+      {
+        "field": "NVH",
+        "status": "not_available",
+        "reason": "not established by retrieved catalogue or selected announcement"
+      },
+      {
+        "field": "suspension_tuning",
+        "status": "not_available",
+        "reason": "not established by retrieved catalogue or selected announcement"
+      },
+      {
+        "field": "real_world_efficiency",
+        "status": "not_available",
+        "reason": "not established by retrieved catalogue or selected announcement"
+      },
+      {
+        "field": "ownership_cost",
+        "status": "not_available",
+        "reason": "not established by retrieved catalogue or selected announcement"
+      },
+      {
+        "field": "OEM_accessories",
+        "status": "not_available",
+        "reason": "not established by retrieved catalogue or selected announcement"
+      },
+      {
+        "field": "warranty",
+        "status": "not_available",
+        "reason": "not established by retrieved catalogue or selected announcement"
+      }
+    ]
+  },
+  {
+    "model": "Vellfire",
+    "brand": "Toyota",
+    "checked_at": "2026-11-28",
+    "source_url": "https://www.toyotabharat.com/",
+    "locator": "Discover the Toyota range",
+    "listed": true,
+    "publication_review": "pending",
+    "status": "bounded_catalogue_review",
+    "gaps": [
+      {
+        "field": "exact_variant_matrix",
+        "status": "not_available",
+        "reason": "not established by retrieved catalogue or selected announcement"
+      },
+      {
+        "field": "variant_feature_applicability",
+        "status": "not_available",
+        "reason": "not established by retrieved catalogue or selected announcement"
+      },
+      {
+        "field": "current_variant_prices",
+        "status": "not_available",
+        "reason": "not established by retrieved catalogue or selected announcement"
+      },
+      {
+        "field": "NVH",
+        "status": "not_available",
+        "reason": "not established by retrieved catalogue or selected announcement"
+      },
+      {
+        "field": "suspension_tuning",
+        "status": "not_available",
+        "reason": "not established by retrieved catalogue or selected announcement"
+      },
+      {
+        "field": "real_world_efficiency",
+        "status": "not_available",
+        "reason": "not established by retrieved catalogue or selected announcement"
+      },
+      {
+        "field": "ownership_cost",
+        "status": "not_available",
+        "reason": "not established by retrieved catalogue or selected announcement"
+      },
+      {
+        "field": "OEM_accessories",
+        "status": "not_available",
+        "reason": "not established by retrieved catalogue or selected announcement"
+      },
+      {
+        "field": "warranty",
+        "status": "not_available",
+        "reason": "not established by retrieved catalogue or selected announcement"
+      }
+    ]
+  },
+  {
+    "model": "Land Cruiser 300",
+    "brand": "Toyota",
+    "checked_at": "2026-11-28",
+    "source_url": "https://www.toyotabharat.com/",
+    "locator": "Discover the Toyota range",
+    "listed": true,
+    "publication_review": "pending",
+    "status": "bounded_catalogue_review",
+    "gaps": [
+      {
+        "field": "exact_variant_matrix",
+        "status": "not_available",
+        "reason": "not established by retrieved catalogue or selected announcement"
+      },
+      {
+        "field": "variant_feature_applicability",
+        "status": "not_available",
+        "reason": "not established by retrieved catalogue or selected announcement"
+      },
+      {
+        "field": "current_variant_prices",
+        "status": "not_available",
+        "reason": "not established by retrieved catalogue or selected announcement"
+      },
+      {
+        "field": "NVH",
+        "status": "not_available",
+        "reason": "not established by retrieved catalogue or selected announcement"
+      },
+      {
+        "field": "suspension_tuning",
+        "status": "not_available",
+        "reason": "not established by retrieved catalogue or selected announcement"
+      },
+      {
+        "field": "real_world_efficiency",
+        "status": "not_available",
+        "reason": "not established by retrieved catalogue or selected announcement"
+      },
+      {
+        "field": "ownership_cost",
+        "status": "not_available",
+        "reason": "not established by retrieved catalogue or selected announcement"
+      },
+      {
+        "field": "OEM_accessories",
+        "status": "not_available",
+        "reason": "not established by retrieved catalogue or selected announcement"
+      },
+      {
+        "field": "warranty",
+        "status": "not_available",
+        "reason": "not established by retrieved catalogue or selected announcement"
+      }
+    ]
+  },
+  {
+    "model": "Urban Cruiser Ebella",
+    "brand": "Toyota",
+    "checked_at": "2026-11-28",
+    "source_url": "https://www.toyotabharat.com/",
+    "locator": "Discover the Toyota range",
+    "listed": true,
+    "publication_review": "pending",
+    "status": "bounded_catalogue_review",
+    "gaps": [
+      {
+        "field": "exact_variant_matrix",
+        "status": "not_available",
+        "reason": "not established by retrieved catalogue or selected announcement"
+      },
+      {
+        "field": "variant_feature_applicability",
+        "status": "not_available",
+        "reason": "not established by retrieved catalogue or selected announcement"
+      },
+      {
+        "field": "current_variant_prices",
+        "status": "not_available",
+        "reason": "not established by retrieved catalogue or selected announcement"
+      },
+      {
+        "field": "NVH",
+        "status": "not_available",
+        "reason": "not established by retrieved catalogue or selected announcement"
+      },
+      {
+        "field": "suspension_tuning",
+        "status": "not_available",
+        "reason": "not established by retrieved catalogue or selected announcement"
+      },
+      {
+        "field": "real_world_efficiency",
+        "status": "not_available",
+        "reason": "not established by retrieved catalogue or selected announcement"
+      },
+      {
+        "field": "ownership_cost",
+        "status": "not_available",
+        "reason": "not established by retrieved catalogue or selected announcement"
+      },
+      {
+        "field": "OEM_accessories",
+        "status": "not_available",
+        "reason": "not established by retrieved catalogue or selected announcement"
+      },
+      {
+        "field": "warranty",
+        "status": "not_available",
+        "reason": "not established by retrieved catalogue or selected announcement"
+      }
+    ]
+  }
+]
