@@ -30,3 +30,7 @@ Retain known in-scope vehicle identities in selection lists even when variant or
 - Celerio: brochure feature matrix not_available; PDF exceeds retrieval limit; card transmission bullet conflicts with header. https://www.marutisuzuki.com/arena/celerio/price. Price effective date and full variant feature mapping unresolved.
 - Eeco: brochure feature matrix not_available; PDF returned no extracted text. https://www.marutisuzuki.com/arena/eeco/price. Price effective date and full variant feature mapping unresolved.
 - Ertiga: brochure feature matrix not_available; PDF viewer returned no brochure text. https://www.marutisuzuki.com/arena/ertiga/price. Price effective date and full variant feature mapping unresolved.
+
+## Maruti bounded pass
+
+All 17 model identities retained; full variant features and prices, real-world mileage, NVH, suspension, ownership and OEM accessories remain gaps unless separately established. Wagon R price URL inaccessible in this run. First four models' previously asserted observations remain unconfirmed; do not publish as verified. See `research/india/stage2-maruti-bounded-evidence-2026-11-28.json` for 13 model outcomes and per-field backlog.
