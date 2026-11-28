@@ -1,0 +1,279 @@
+{
+  "retrieval_scope": "Actual indexed global OEM newsroom and FAQ excerpts retrieved 2026-11-28; India dealer price and homologation not established",
+  "catalogue": "https://newsroom.rolls-roycemotorcars.com/all-products/",
+  "price_policy_source": "https://www.rolls-roycemotorcars.com/",
+  "models": [
+    {
+      "brand": "Rolls-Royce",
+      "model": "Ghost",
+      "checked_at": "2026-11-28",
+      "source_url": "https://newsroom.rolls-roycemotorcars.com/all-products/",
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "observations": {
+        "powertrain": "V12",
+        "global_configurations": [
+          "Ghost",
+          "Ghost Extended",
+          "Black Badge Ghost"
+        ],
+        "wltp_l_100km": [
+          15.3,
+          15.7
+        ],
+        "scope": "Ghost Series II"
+      },
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "unverified",
+          "reason": "Global OEM excerpt only; India applicability or dealer documentation not established"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "unverified",
+          "reason": "Global OEM excerpt only; India applicability or dealer documentation not established"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "unverified",
+          "reason": "Global OEM excerpt only; India applicability or dealer documentation not established"
+        },
+        {
+          "field": "NVH",
+          "status": "unverified",
+          "reason": "Global OEM excerpt only; India applicability or dealer documentation not established"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "unverified",
+          "reason": "Global OEM excerpt only; India applicability or dealer documentation not established"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "unverified",
+          "reason": "Global OEM excerpt only; India applicability or dealer documentation not established"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "unverified",
+          "reason": "Global OEM excerpt only; India applicability or dealer documentation not established"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "unverified",
+          "reason": "Global OEM excerpt only; India applicability or dealer documentation not established"
+        },
+        {
+          "field": "warranty",
+          "status": "unverified",
+          "reason": "Global OEM excerpt only; India applicability or dealer documentation not established"
+        }
+      ]
+    },
+    {
+      "brand": "Rolls-Royce",
+      "model": "Phantom",
+      "checked_at": "2026-11-28",
+      "source_url": "https://newsroom.rolls-roycemotorcars.com/all-products/",
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "observations": {
+        "global_configurations": [
+          "Phantom",
+          "Phantom Extended"
+        ],
+        "wltp_l_100km": [
+          16,
+          16.4
+        ],
+        "scope": "Phantom Extended Series II"
+      },
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "unverified",
+          "reason": "Global OEM excerpt only; India applicability or dealer documentation not established"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "unverified",
+          "reason": "Global OEM excerpt only; India applicability or dealer documentation not established"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "unverified",
+          "reason": "Global OEM excerpt only; India applicability or dealer documentation not established"
+        },
+        {
+          "field": "NVH",
+          "status": "unverified",
+          "reason": "Global OEM excerpt only; India applicability or dealer documentation not established"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "unverified",
+          "reason": "Global OEM excerpt only; India applicability or dealer documentation not established"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "unverified",
+          "reason": "Global OEM excerpt only; India applicability or dealer documentation not established"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "unverified",
+          "reason": "Global OEM excerpt only; India applicability or dealer documentation not established"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "unverified",
+          "reason": "Global OEM excerpt only; India applicability or dealer documentation not established"
+        },
+        {
+          "field": "warranty",
+          "status": "unverified",
+          "reason": "Global OEM excerpt only; India applicability or dealer documentation not established"
+        }
+      ]
+    },
+    {
+      "brand": "Rolls-Royce",
+      "model": "Cullinan",
+      "checked_at": "2026-11-28",
+      "source_url": "https://newsroom.rolls-roycemotorcars.com/all-products/",
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "observations": {
+        "body_style": "SUV",
+        "global_configurations": [
+          "Cullinan",
+          "Black Badge Cullinan"
+        ],
+        "wltp_l_100km": [
+          16,
+          16.8
+        ],
+        "scope": "Cullinan Series II Pioneer example"
+      },
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "unverified",
+          "reason": "Global OEM excerpt only; India applicability or dealer documentation not established"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "unverified",
+          "reason": "Global OEM excerpt only; India applicability or dealer documentation not established"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "unverified",
+          "reason": "Global OEM excerpt only; India applicability or dealer documentation not established"
+        },
+        {
+          "field": "NVH",
+          "status": "unverified",
+          "reason": "Global OEM excerpt only; India applicability or dealer documentation not established"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "unverified",
+          "reason": "Global OEM excerpt only; India applicability or dealer documentation not established"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "unverified",
+          "reason": "Global OEM excerpt only; India applicability or dealer documentation not established"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "unverified",
+          "reason": "Global OEM excerpt only; India applicability or dealer documentation not established"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "unverified",
+          "reason": "Global OEM excerpt only; India applicability or dealer documentation not established"
+        },
+        {
+          "field": "warranty",
+          "status": "unverified",
+          "reason": "Global OEM excerpt only; India applicability or dealer documentation not established"
+        }
+      ]
+    },
+    {
+      "brand": "Rolls-Royce",
+      "model": "Spectre",
+      "checked_at": "2026-11-28",
+      "source_url": "https://newsroom.rolls-roycemotorcars.com/all-products/",
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "observations": {
+        "powertrain": "electric",
+        "global_configurations": [
+          "Spectre",
+          "Black Badge Spectre"
+        ],
+        "wltp_range_km": [
+          582,
+          628
+        ],
+        "wltp_kwh_100km": [
+          20.2,
+          21.7
+        ],
+        "scope": "Spectre Series II; India orderability unverified"
+      },
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "unverified",
+          "reason": "Global OEM excerpt only; India applicability or dealer documentation not established"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "unverified",
+          "reason": "Global OEM excerpt only; India applicability or dealer documentation not established"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "unverified",
+          "reason": "Global OEM excerpt only; India applicability or dealer documentation not established"
+        },
+        {
+          "field": "NVH",
+          "status": "unverified",
+          "reason": "Global OEM excerpt only; India applicability or dealer documentation not established"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "unverified",
+          "reason": "Global OEM excerpt only; India applicability or dealer documentation not established"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "unverified",
+          "reason": "Global OEM excerpt only; India applicability or dealer documentation not established"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "unverified",
+          "reason": "Global OEM excerpt only; India applicability or dealer documentation not established"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "unverified",
+          "reason": "Global OEM excerpt only; India applicability or dealer documentation not established"
+        },
+        {
+          "field": "warranty",
+          "status": "unverified",
+          "reason": "Global OEM excerpt only; India applicability or dealer documentation not established"
+        }
+      ]
+    }
+  ]
+}
