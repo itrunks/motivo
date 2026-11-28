@@ -19,3 +19,7 @@ Owner decision (2026-11-28): missing optional model/variant information is non-b
 | Tata Motors | Nexon | Exact gearbox and edition identity | Deferred |
 
 Append model, field, source URL, attempt date, reason and status for subsequent gaps. Existing research candidates lacking independently confirmed evidence remain unverified and must not be published as facts. Unattempted models remain in the active inventory queue. Mandatory legal, security, data integrity and launch testing gates remain unchanged.
+
+## Owner requirement: selectable vehicles and missing-data export
+
+Retain known in-scope vehicle identities in selection lists even when variant or specification data is missing. Display `Not available` for missing information, not a claim that the vehicle is discontinued or the feature absent. Use machine-readable `not_available` for missing-data availability, retaining separate evidence/reason statuses. Do not invent placeholder variants. Provide a filterable/exportable missing-vehicle and missing-field report with brand, model, variant (nullable), field, source, attempt date, reason and review status. After launch, re-audit these entries and replace missing values only with supported evidence. Website and export implementation are pending roadmap tasks, not implemented by this documentation change.
