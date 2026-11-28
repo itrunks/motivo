@@ -24,10 +24,10 @@
         "notes": "Eight petrol/CNG configurations and Book Now path are visible on the official page. The current variant cards and embedded FAQ table conflict for four grades. Preserve both observations; use card amounts only as current displayed-price snapshots, not confirmed invoice prices. Official brochure supports 998cc K10C, petrol 5MT/AGS, CNG 5MT, 5-seat petrol and 4-seat CNG. Source rights remain review_required / unknown."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "completed_with_gaps",
+      "stage2_status": "review_required",
       "stage2_evidence_path": "research/india/stage2-maruti-overview-2026-11-28.json",
       "stage2_price_evidence_path": "research/india/stage2-maruti-price-evidence-2026-11-28.json",
-      "stage2_verification": "historical_claims_unconfirmed"
+      "stage2_verification": "prior_claims_unsubstantiated_require_review"
     },
     {
       "brand_id": "maruti_suzuki",
@@ -51,10 +51,10 @@
         "notes": "Eight exact petrol/S-CNG configurations are captured. Card headings identify manual, AGS and S-CNG; page also shows 2+ months waiting and Book Now. City-specific price differences affect several petrol grades. Prior unscoped normalized prices matched Perambra values but city scope was not retained; those amounts are preserved as legacy observations and removed from city-agnostic rows. Use companion price-observations file. Source rights remain review_required / unknown."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "completed_with_gaps",
+      "stage2_status": "review_required",
       "stage2_evidence_path": "research/india/stage2-maruti-overview-2026-11-28.json",
       "stage2_price_evidence_path": "research/india/stage2-maruti-price-evidence-2026-11-28.json",
-      "stage2_verification": "historical_claims_unconfirmed"
+      "stage2_verification": "prior_claims_unsubstantiated_require_review"
     },
     {
       "brand_id": "maruti_suzuki",
@@ -78,10 +78,10 @@
         "notes": "Four passenger configurations are confirmed with 5MT, 1197cc K12N and 5/6-seat mappings. Official cards show Book Now and 2+ months waiting. Prices differ by city; prior unscoped amounts matched Latur and are preserved as legacy observations. The FAQ cargo-price copy is not used as passenger price evidence. Source rights remain review_required / unknown."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "completed_with_gaps",
+      "stage2_status": "review_required",
       "stage2_evidence_path": "research/india/stage2-maruti-overview-2026-11-28.json",
       "stage2_price_evidence_path": "research/india/stage2-maruti-price-evidence-2026-11-28.json",
-      "stage2_verification": "historical_claims_unconfirmed"
+      "stage2_verification": "prior_claims_unsubstantiated_require_review"
     },
     {
       "brand_id": "maruti_suzuki",
@@ -105,10 +105,10 @@
         "notes": "Nine named passenger configurations confirmed: 1.5L K15C Smart Hybrid petrol and S-CNG; 5MT/6AT by grade; seven seats. City-scoped price observations are preserved separately. Two prior normalized prices matched Punalur but city scope was lost; all price values have been removed from city-agnostic normalized rows. Source rights remain review_required / unknown."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "completed_with_gaps",
+      "stage2_status": "review_required",
       "stage2_evidence_path": "research/india/stage2-maruti-overview-2026-11-28.json",
       "stage2_price_evidence_path": "research/india/stage2-maruti-price-evidence-2026-11-28.json",
-      "stage2_verification": "historical_claims_unconfirmed"
+      "stage2_verification": "prior_claims_unsubstantiated_require_review"
     },
     {
       "brand_id": "maruti_suzuki",
@@ -132,10 +132,10 @@
         "notes": "Official page identifies 998cc K10C petrol/S-CNG, 5MT/AGS. Variant names include (O) on current price page. Price page card extraction is incomplete for one listed variant; do not infer its price."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "completed_with_gaps",
+      "stage2_status": "review_required",
       "stage2_price_evidence_path": "research/india/stage2-maruti-price-evidence-2026-11-28.json",
       "stage2_evidence_path": "research/india/stage2-maruti-bounded-evidence-2026-11-28.json",
-      "stage2_verification": "partial_oem_observation"
+      "stage2_verification": "prior_claims_unsubstantiated_require_review"
     },
     {
       "brand_id": "maruti_suzuki",
@@ -159,10 +159,10 @@
         "notes": "Official page lists petrol and S-CNG variants with 1197cc petrol and manual/AMT; card extraction shows CNG AGS variants in selector despite incomplete transmission detail in some cards. Verify full selector-to-price matrix and current price effective date before import."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "completed_with_gaps",
+      "stage2_status": "review_required",
       "stage2_price_evidence_path": "research/india/stage2-maruti-price-evidence-2026-11-28.json",
       "stage2_evidence_path": "research/india/stage2-maruti-bounded-evidence-2026-11-28.json",
-      "stage2_verification": "partial_oem_observation"
+      "stage2_verification": "prior_claims_unsubstantiated_require_review"
     },
     {
       "brand_id": "maruti_suzuki",
@@ -186,10 +186,10 @@
         "notes": "Official Arena page explicitly distinguishes petrol, S-CNG and strong-hybrid grades, 2W/4W and automatic/manual. Do not collapse petrol AT, strong hybrid and AllGrip into one powertrain. Captured prices are page observations, not yet import-approved."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "completed_with_gaps",
+      "stage2_status": "review_required",
       "stage2_price_evidence_path": "research/india/stage2-maruti-price-evidence-2026-11-28.json",
       "stage2_evidence_path": "research/india/stage2-maruti-bounded-evidence-2026-11-28.json",
-      "stage2_verification": "partial_oem_observation"
+      "stage2_verification": "prior_claims_unsubstantiated_require_review"
     },
     {
       "brand_id": "maruti_suzuki",
@@ -213,10 +213,10 @@
         "notes": "Official page exposes petrol, S-CNG and FLEX FUEL filters. Overview page names LXi/VXi/ZXi/ZXi+ with 1.0L/1.2L and MT/AGS, plus CNG LXi/VXi. Flex-fuel filter appears on price page but current orderable variants/specs need separate confirmation. Do not infer all engine/transmission cross-combinations."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "completed_with_gaps",
+      "stage2_status": "review_required",
       "stage2_price_evidence_path": "research/india/stage2-maruti-price-evidence-2026-11-28.json",
       "stage2_evidence_path": "research/india/stage2-maruti-bounded-evidence-2026-11-28.json",
-      "stage2_verification": "source_inaccessible"
+      "stage2_verification": "prior_claims_unsubstantiated_require_review"
     },
     {
       "brand_id": "maruti_suzuki",
@@ -240,10 +240,10 @@
         "notes": "Official price page displays nine variants and 1197cc Z12E petrol/S-CNG, 5MT/AMT. The page also has a top-price FAQ amount that differs from its card amount; use card values as observations and flag FAQ copy for confirmation before import."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "completed_with_gaps",
+      "stage2_status": "review_required",
       "stage2_price_evidence_path": "research/india/stage2-maruti-price-evidence-2026-11-28.json",
       "stage2_evidence_path": "research/india/stage2-maruti-bounded-evidence-2026-11-28.json",
-      "stage2_verification": "partial_oem_observation"
+      "stage2_verification": "prior_claims_unsubstantiated_require_review"
     },
     {
       "brand_id": "maruti_suzuki",
@@ -267,10 +267,10 @@
         "notes": "Official price page contains anomalous 'LXI/VXI/ZXI Turbo MT' selector labels while its own specs describe 1462cc petrol and S-CNG, not a turbo petrol engine. Do not create turbo variants; preserve only clearly supported non-turbo/CNG grades pending official selector clarification. Price page explicitly gives Delhi effective date 24-Jul-2026."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "completed_with_gaps",
+      "stage2_status": "review_required",
       "stage2_price_evidence_path": "research/india/stage2-maruti-price-evidence-2026-11-28.json",
       "stage2_evidence_path": "research/india/stage2-maruti-bounded-evidence-2026-11-28.json",
-      "stage2_verification": "partial_oem_observation"
+      "stage2_verification": "prior_claims_unsubstantiated_require_review"
     },
     {
       "brand_id": "maruti_suzuki",
@@ -294,9 +294,9 @@
         "notes": "Official NEXA page identifies current petrol and CNG variant families and transmission choices. Do not add legacy RS or older petrol-only trim rows without current official evidence. Capture the live price configurator and confirm whether AMT naming is current."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "completed_with_gaps",
+      "stage2_status": "review_required",
       "stage2_evidence_path": "research/india/stage2-maruti-bounded-evidence-2026-11-28.json",
-      "stage2_verification": "partial_oem_observation"
+      "stage2_verification": "prior_claims_unsubstantiated_require_review"
     },
     {
       "brand_id": "maruti_suzuki",
@@ -320,9 +320,9 @@
         "notes": "Official NEXA page separates strong hybrid, petrol, ALLGRIP SELECT 4x4 and S-CNG. Variant comparison additionally shows AT derivatives and CNG grades. Avoid crossing every trim with every transmission; capture full live matrix and price effective date before import."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "completed_with_gaps",
+      "stage2_status": "review_required",
       "stage2_evidence_path": "research/india/stage2-maruti-bounded-evidence-2026-11-28.json",
-      "stage2_verification": "partial_oem_observation"
+      "stage2_verification": "prior_claims_unsubstantiated_require_review"
     },
     {
       "brand_id": "maruti_suzuki",
@@ -346,9 +346,9 @@
         "notes": "Official NEXA page maps 1.0L Boosterjet turbo, 1.2L K-series petrol and S-CNG to distinct trim families. Official page currently has a 2026 facelift banner elsewhere in the wider site; confirm whether any facelift variant changes are live before import. Do not treat 2026 third-party facelift estimates as OEM prices."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "completed_with_gaps",
+      "stage2_status": "review_required",
       "stage2_evidence_path": "research/india/stage2-maruti-bounded-evidence-2026-11-28.json",
-      "stage2_verification": "partial_oem_observation"
+      "stage2_verification": "prior_claims_unsubstantiated_require_review"
     },
     {
       "brand_id": "maruti_suzuki",
@@ -372,9 +372,9 @@
         "notes": "Official NEXA page confirms 5-speed MT and 4-speed AT; current brochure confirms 1.5L K15B petrol and ALLGRIP PRO 4WD. The brochure snapshot is older; verify current orderability and price at dealer before import."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "completed_with_gaps",
+      "stage2_status": "review_required",
       "stage2_evidence_path": "research/india/stage2-maruti-bounded-evidence-2026-11-28.json",
-      "stage2_verification": "partial_oem_observation"
+      "stage2_verification": "prior_claims_unsubstantiated_require_review"
     },
     {
       "brand_id": "maruti_suzuki",
@@ -398,9 +398,9 @@
         "notes": "Official NEXA page confirms 1.5L K-series Smart Hybrid and Zeta CNG, 6-seat MPV. The page FAQ contains a likely typo 'Apha+'; standardized to Alpha+ only because the page variant heading otherwise clearly identifies Alpha+ and current product naming. Confirm exact CNG price and current grade availability."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "completed_with_gaps",
+      "stage2_status": "review_required",
       "stage2_evidence_path": "research/india/stage2-maruti-bounded-evidence-2026-11-28.json",
-      "stage2_verification": "partial_oem_observation"
+      "stage2_verification": "prior_claims_unsubstantiated_require_review"
     },
     {
       "brand_id": "maruti_suzuki",
@@ -424,9 +424,9 @@
         "notes": "Official page identifies strong-hybrid-only range, Zeta+ 7/8-seat and Alpha+ 7-seat. Do not carry forward old Alpha+ 8-seat unless current official source confirms it. Capture current NEXA price configurator and effective date."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "completed_with_gaps",
+      "stage2_status": "review_required",
       "stage2_evidence_path": "research/india/stage2-maruti-bounded-evidence-2026-11-28.json",
-      "stage2_verification": "partial_oem_observation"
+      "stage2_verification": "prior_claims_unsubstantiated_require_review"
     },
     {
       "brand_id": "maruti_suzuki",
@@ -450,9 +450,9 @@
         "notes": "Official NEXA page links to India-specific variants/pricing and Build Your Own configurator, but current variant names, battery capacities and price rows were not extractable in this capture. Do not infer from international e VITARA specifications or secondary sources; inspect India configurator/brochure in next pass."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "completed_with_gaps",
+      "stage2_status": "review_required",
       "stage2_evidence_path": "research/india/stage2-maruti-bounded-evidence-2026-11-28.json",
-      "stage2_verification": "partial_oem_observation"
+      "stage2_verification": "prior_claims_unsubstantiated_require_review"
     },
     {
       "brand_id": "hyundai",
@@ -556,9 +556,9 @@
         ]
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "completed_with_gaps",
+      "stage2_status": "review_required",
       "stage2_evidence_path": "research/india/stage2-hyundai-bounded-2026-11-28.json",
-      "stage2_verification": "retrieved_selected_facts"
+      "stage2_verification": "prior_claims_unsubstantiated_require_review"
     },
     {
       "brand_id": "hyundai",
@@ -582,9 +582,9 @@
         "notes": "Rechecked 2026-11-07: feature matrix maps 1.2L Kappa petrol manual to E/S/SX/SX(O), AMT to SX+ (annotation under SX), and Hy-CNG manual to S/SX. Current highlights and price pages additionally list Corporate; current price-page prose names petrol MT trims E/S/Corporate/SX/SX(O), says selected trims have AMT, and confirms multiple CNG variants but does not expose exact AMT/CNG trim mapping. Official variant-price selector remains blank. Keep Corporate as an observed model configuration only; do not create a powertrain-specific row without OEM mapping. Exact prices remain unavailable."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "completed_with_gaps",
+      "stage2_status": "review_required",
       "stage2_evidence_path": "research/india/stage2-hyundai-bounded-2026-11-28.json",
-      "stage2_verification": "retrieved_selected_facts"
+      "stage2_verification": "prior_claims_unsubstantiated_require_review"
     },
     {
       "brand_id": "hyundai",
@@ -608,9 +608,9 @@
         "notes": "Page describes petrol turbo and diesel powertrain/gearbox combinations but table is empty; trim-to-engine mapping and prices require configurator or dealer confirmation."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "completed_with_gaps",
+      "stage2_status": "review_required",
       "stage2_evidence_path": "research/india/stage2-hyundai-bounded-2026-11-28.json",
-      "stage2_verification": "retrieved_selected_facts"
+      "stage2_verification": "prior_claims_unsubstantiated_require_review"
     },
     {
       "brand_id": "hyundai",
@@ -634,9 +634,9 @@
         "notes": "Official price page explicitly names N6 and N10; N6 is offered with 6MT or 7DCT and N10 with 7DCT only. Price selector table was empty in captured content."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "completed_with_gaps",
+      "stage2_status": "review_required",
       "stage2_evidence_path": "research/india/stage2-hyundai-bounded-2026-11-28.json",
-      "stage2_verification": "retrieved_selected_facts"
+      "stage2_verification": "prior_claims_unsubstantiated_require_review"
     },
     {
       "brand_id": "hyundai",
@@ -660,9 +660,9 @@
         "notes": "The detailed official price page exposes 38 named petrol/diesel price rows and directly displays the ₹20,45,700 top row. The separate highlights page says seven variants, apparently using a broader family-level count; the prior ₹20.11 lakh model-listing ceiling is not aligned with the detailed table. Preserve the detailed table as an OEM observation, but verify effective date, city scope and current dealer/configurator price before import. Do not import yet."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "completed_with_gaps",
+      "stage2_status": "review_required",
       "stage2_evidence_path": "research/india/stage2-hyundai-bounded-2026-11-28.json",
-      "stage2_verification": "retrieved_selected_facts"
+      "stage2_verification": "prior_claims_unsubstantiated_require_review"
     },
     {
       "brand_id": "hyundai",
@@ -686,9 +686,9 @@
         "notes": "Official page confirms petrol turbo and MT/DCT choices but does not expose exact trim labels in captured content. Do not infer variant count or names."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "completed_with_gaps",
+      "stage2_status": "review_required",
       "stage2_evidence_path": "research/india/stage2-hyundai-bounded-2026-11-28.json",
-      "stage2_verification": "retrieved_selected_facts"
+      "stage2_verification": "prior_claims_unsubstantiated_require_review"
     },
     {
       "brand_id": "hyundai",
@@ -712,9 +712,9 @@
         "notes": "Page describes petrol manual/AMT and CNG manual families; exact trim/powertrain mapping and prices require configurator or dealer confirmation."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "completed_with_gaps",
+      "stage2_status": "review_required",
       "stage2_evidence_path": "research/india/stage2-hyundai-bounded-2026-11-28.json",
-      "stage2_verification": "retrieved_selected_facts"
+      "stage2_verification": "prior_claims_unsubstantiated_require_review"
     },
     {
       "brand_id": "hyundai",
@@ -738,9 +738,9 @@
         "notes": "Official source confirms 1.5L Turbo GDi petrol and 1.5L U2 CRDi diesel; 6MT, 7DCT and 6AT availability, plus 6/7-seat layouts. Do not manufacture trim names or cross all powertrains/transmissions."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "completed_with_gaps",
+      "stage2_status": "review_required",
       "stage2_evidence_path": "research/india/stage2-hyundai-bounded-2026-11-28.json",
-      "stage2_verification": "retrieved_selected_facts"
+      "stage2_verification": "prior_claims_unsubstantiated_require_review"
     },
     {
       "brand_id": "hyundai",
@@ -764,9 +764,9 @@
         "notes": "Official price page text names petrol MT, AMT and CNG trims but its city/model price selector table is empty in captured content; exact powertrain-to-trim mapping and prices need dealer/configurator confirmation."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "completed_with_gaps",
+      "stage2_status": "review_required",
       "stage2_evidence_path": "research/india/stage2-hyundai-bounded-2026-11-28.json",
-      "stage2_verification": "retrieved_selected_facts"
+      "stage2_verification": "prior_claims_unsubstantiated_require_review"
     },
     {
       "brand_id": "hyundai",
@@ -790,9 +790,9 @@
         "notes": "Official price page describes 1.2 Kappa petrol with 5-speed MT and IVT and names trim families; exact trim/transmission mapping and prices remain unverified."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "completed_with_gaps",
+      "stage2_status": "review_required",
       "stage2_evidence_path": "research/india/stage2-hyundai-bounded-2026-11-28.json",
-      "stage2_verification": "retrieved_selected_facts"
+      "stage2_verification": "prior_claims_unsubstantiated_require_review"
     },
     {
       "brand_id": "hyundai",
@@ -816,9 +816,9 @@
         "notes": "Official price page identifies N6/N8 and dual-tone configurations with 1.0L Turbo GDi petrol, 6MT and 7DCT; exact individual price rows not exposed in captured source."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "completed_with_gaps",
+      "stage2_status": "review_required",
       "stage2_evidence_path": "research/india/stage2-hyundai-bounded-2026-11-28.json",
-      "stage2_verification": "retrieved_selected_facts"
+      "stage2_verification": "prior_claims_unsubstantiated_require_review"
     },
     {
       "brand_id": "hyundai",
@@ -842,9 +842,9 @@
         "notes": "Only one India model-card price and one battery/powertrain configuration exposed in captured official catalogue; verify whether multiple retail variants exist and confirm current price basis/date before variant-level import."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "completed_with_gaps",
+      "stage2_status": "review_required",
       "stage2_evidence_path": "research/india/stage2-hyundai-bounded-2026-11-28.json",
-      "stage2_verification": "source_inaccessible_via_tool"
+      "stage2_verification": "prior_claims_unsubstantiated_require_review"
     },
     {
       "brand_id": "hyundai",
@@ -868,9 +868,9 @@
         "notes": "Official highlights page explicitly groups configurations by 42 kWh and 51.4 kWh battery. Official BaaS press release introduces a separate battery-rental price basis; keep BaaS and full-battery purchase price separate."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "completed_with_gaps",
+      "stage2_status": "review_required",
       "stage2_evidence_path": "research/india/stage2-hyundai-bounded-2026-11-28.json",
-      "stage2_verification": "retrieved_selected_facts"
+      "stage2_verification": "prior_claims_unsubstantiated_require_review"
     },
     {
       "brand_id": "hyundai",
@@ -894,9 +894,9 @@
         "notes": "Official page confirms manual across range and IVT on selected trims, but does not name the trims or expose exact variant prices in captured content."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "completed_with_gaps",
+      "stage2_status": "review_required",
       "stage2_evidence_path": "research/india/stage2-hyundai-bounded-2026-11-28.json",
-      "stage2_verification": "retrieved_selected_facts"
+      "stage2_verification": "prior_claims_unsubstantiated_require_review"
     },
     {
       "brand_id": "mahindra",
@@ -920,9 +920,9 @@
         "notes": "OEM selector exposes petrol/diesel/CNG filters; captured prices are partial and do not map every grade to a transmission. Do not cross-join powertrain/gearbox combinations; confirm current dealer/configurator matrix."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "completed_with_gaps",
+      "stage2_status": "review_required",
       "stage2_evidence_path": "research/india/stage2-mahindra-bounded-2026-11-28.json",
-      "stage2_verification": "oem_listing_only"
+      "stage2_verification": "prior_claims_unsubstantiated_require_review"
     },
     {
       "brand_id": "mahindra",
@@ -946,9 +946,9 @@
         "notes": "OEM SUV range gives model-level band ₹10.32L–₹18.99L; selector snapshot only exposes one card. Keep the two price observations separate and obtain full current variant matrix."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "completed_with_gaps",
+      "stage2_status": "review_required",
       "stage2_evidence_path": "research/india/stage2-mahindra-bounded-2026-11-28.json",
-      "stage2_verification": "oem_listing_only"
+      "stage2_verification": "prior_claims_unsubstantiated_require_review"
     },
     {
       "brand_id": "mahindra",
@@ -972,9 +972,9 @@
         "notes": "Only populated OEM matrix combinations are saleable evidence; blank cells are not interpolated. Confirm city/effective date and seating derivatives."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "completed_with_gaps",
+      "stage2_status": "review_required",
       "stage2_evidence_path": "research/india/stage2-mahindra-bounded-2026-11-28.json",
-      "stage2_verification": "oem_listing_only"
+      "stage2_verification": "prior_claims_unsubstantiated_require_review"
     },
     {
       "brand_id": "mahindra",
@@ -998,9 +998,9 @@
         "notes": "The current 2026 OEM brochure resolves the 27 exact grade/fuel/transmission/seating/drive combinations. Current selector cards expose 12 grade/fuel prices but do not expose per-derivative gearbox/seating prices. January launch prices were introductory for first 40,000 deliveries and are not used as current prices. Keep current selector prices separate from the exact derivative matrix."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "completed_with_gaps",
+      "stage2_status": "review_required",
       "stage2_evidence_path": "research/india/stage2-mahindra-bounded-2026-11-28.json",
-      "stage2_verification": "oem_listing_only"
+      "stage2_verification": "prior_claims_unsubstantiated_require_review"
     },
     {
       "brand_id": "mahindra",
@@ -1024,9 +1024,9 @@
         "notes": "Diesel 4WD limited to selected diesel grades per OEM guide. Keep interior codes/edition derivatives separate from trim names; full price and orderability require configurator/dealer confirmation."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "completed_with_gaps",
+      "stage2_status": "review_required",
       "stage2_evidence_path": "research/india/stage2-mahindra-bounded-2026-11-28.json",
-      "stage2_verification": "oem_listing_only"
+      "stage2_verification": "prior_claims_unsubstantiated_require_review"
     },
     {
       "brand_id": "mahindra",
@@ -1050,9 +1050,9 @@
         "notes": "Live selector/detail-page price conflict resolved on 2026-11-07. Effective date and city scope are not exposed; source reuse rights remain pending."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "completed_with_gaps",
+      "stage2_status": "review_required",
       "stage2_evidence_path": "research/india/stage2-mahindra-bounded-2026-11-28.json",
-      "stage2_verification": "oem_listing_only"
+      "stage2_verification": "prior_claims_unsubstantiated_require_review"
     },
     {
       "brand_id": "mahindra",
@@ -1076,9 +1076,9 @@
         "notes": "Five current diesel grades confirmed. No effective date is published; current selector amounts are snapshots and prior captures are retained separately. Source rights remain pending."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "completed_with_gaps",
+      "stage2_status": "review_required",
       "stage2_evidence_path": "research/india/stage2-mahindra-bounded-2026-11-28.json",
-      "stage2_verification": "oem_listing_only"
+      "stage2_verification": "prior_claims_unsubstantiated_require_review"
     },
     {
       "brand_id": "mahindra",
@@ -1102,9 +1102,9 @@
         "notes": "Four diesel cards captured. Verify city, effective date and orderability."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "completed_with_gaps",
+      "stage2_status": "review_required",
       "stage2_evidence_path": "research/india/stage2-mahindra-bounded-2026-11-28.json",
-      "stage2_verification": "oem_listing_only"
+      "stage2_verification": "prior_claims_unsubstantiated_require_review"
     },
     {
       "brand_id": "mahindra",
@@ -1128,9 +1128,9 @@
         "notes": "Current live booking selector renders one card: EL PRO ST 39.4KW 7.2KW at ₹17,49,000. Official brochure confirms 7.2 kW wallbox included and 110 kW/150 PS, 310 Nm, FWD, automatic, 456 km MIDC. Preserve OEM suffix ST. Booking flow is present, but online booking is only an indication of intent until dealer accepts in writing; no price effective date."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "completed_with_gaps",
+      "stage2_status": "review_required",
       "stage2_evidence_path": "research/india/stage2-mahindra-bounded-2026-11-28.json",
-      "stage2_verification": "oem_listing_only"
+      "stage2_verification": "prior_claims_unsubstantiated_require_review"
     },
     {
       "brand_id": "mahindra",
@@ -1154,9 +1154,9 @@
         "notes": "Latest captured OEM table is specifically SPORTEQ and includes limited editions. Do not treat all special editions as standard trims. Keep BaaS upfront amount and per-km battery rental separate from full-battery ex-showroom prices."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "completed_with_gaps",
+      "stage2_status": "review_required",
       "stage2_evidence_path": "research/india/stage2-mahindra-bounded-2026-11-28.json",
-      "stage2_verification": "selected_oem_facts_retrieved"
+      "stage2_verification": "prior_claims_unsubstantiated_require_review"
     },
     {
       "brand_id": "mahindra",
@@ -1180,9 +1180,9 @@
         "notes": "Current FAQ confirms full-battery prices for all five grade labels and Cineluxe; Pack Two price is not mapped to 59 vs 79 kWh, so do not duplicate it. Current BaaS FAQ confirms four grade/battery vehicle-upfront amounts; these are dual-loan chassis prices, not full prices. No price effective date; source rights pending."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "completed_with_gaps",
+      "stage2_status": "review_required",
       "stage2_evidence_path": "research/india/stage2-mahindra-bounded-2026-11-28.json",
-      "stage2_verification": "selected_oem_facts_retrieved"
+      "stage2_verification": "prior_claims_unsubstantiated_require_review"
     },
     {
       "brand_id": "kia",
@@ -1206,7 +1206,9 @@
         "notes": "Official 2026 brochure lists trim/powertrain applicability; variant comparison page has missing prices for HTK and HTX. Do not infer them. Confirm exact fuel/transmission combination and price basis per trim before import."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-kia-bounded-2026-11-28.json",
+      "stage2_verification": "selected_indexed_oem_evidence"
     },
     {
       "brand_id": "kia",
@@ -1230,7 +1232,9 @@
         "notes": "Official Kia India comparison page displays seven trim prices and feature applicability. Engine/transmission combinations shown include 1.0 T-GDi 6MT/7DCT and 1.5 CRDi VGT 6MT/6AT. Need confirm price basis/effective date and map exact powertrain availability to each trim from the comparison matrix before import."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-kia-bounded-2026-11-28.json",
+      "stage2_verification": "selected_indexed_oem_evidence"
     },
     {
       "brand_id": "kia",
@@ -1254,7 +1258,9 @@
         "notes": "All 12 trim prices are displayed on the official comparison page. Verify current powertrain/transmission applicability, exact city/ex-showroom price basis and effective date before import; no price should be generalized across engine/gearbox combinations."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-kia-bounded-2026-11-28.json",
+      "stage2_verification": "selected_indexed_oem_evidence"
     },
     {
       "brand_id": "kia",
@@ -1278,7 +1284,9 @@
         "notes": "Official India showroom currently renders two configurations: Premium (O) petrol and Premium (O) CNG, both manual. Do not add older Prestige/Luxury trims from legacy model years. A third-party listing reports a diesel MT configuration, but it is not corroborated by the current captured official showroom content and remains excluded pending dealer confirmation."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-kia-bounded-2026-11-28.json",
+      "stage2_verification": "selected_indexed_oem_evidence"
     },
     {
       "brand_id": "kia",
@@ -1302,7 +1310,9 @@
         "notes": "Current comparison page rechecked 2026-11-07: 11 named grades and 11 starting MSRP observations remain unchanged. A 12th column after HTE(EX) still has a blank header, only ₹ in price and 7DCT included; no mapping to the showroom GT-Line/X-Line styling selector is established. Keep the unnamed column quarantined. 28 exact named-grade powertrain/seating combinations remain normalized."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-kia-bounded-2026-11-28.json",
+      "stage2_verification": "selected_indexed_oem_evidence"
     },
     {
       "brand_id": "kia",
@@ -1326,7 +1336,9 @@
         "notes": "Official spec page confirms 2.2L diesel, 8AT, 2WD, 7-seat layout and features. Price placeholder is clearly non-price data; do not ingest. Dealer confirmation required for current booking status, trim naming and price."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-kia-bounded-2026-11-28.json",
+      "stage2_verification": "selected_indexed_oem_evidence"
     },
     {
       "brand_id": "kia",
@@ -1350,7 +1362,9 @@
         "notes": "Official page separately identifies 42kWh and 51.4kWh ER batteries and 6/7-seat availability by trim. Verify whether displayed values are ex-showroom, price effective date, and seating variant price equality before import. Keep BaaS chassis/battery payment basis separate."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-kia-bounded-2026-11-28.json",
+      "stage2_verification": "selected_indexed_oem_evidence"
     },
     {
       "brand_id": "kia",
@@ -1374,7 +1388,9 @@
         "notes": "Official comparison page maps 77.4 kWh RWD to GT-Line and 77.4 kWh AWD to GT-Line AWD. Displayed amount must be retained as MSRP until its India tax/price basis and effective date are verified; AWD price is missing."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-kia-bounded-2026-11-28.json",
+      "stage2_verification": "selected_indexed_oem_evidence"
     },
     {
       "brand_id": "kia",
@@ -1398,7 +1414,9 @@
         "notes": "Official showroom explicitly carries the disclaimer 'Overseas model'. Although it displays one GT-Line AWD trim and a global EV9 feature set, this is not evidence of a current India retail configuration or price. Keep out of the approved India variant queue until local launch/orderability is verified."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "pending"
+      "stage2_status": "completed_with_gaps",
+      "stage2_evidence_path": "research/india/stage2-kia-bounded-2026-11-28.json",
+      "stage2_verification": "selected_indexed_oem_evidence"
     },
     {
       "brand_id": "toyota",
@@ -1836,9 +1854,9 @@
         "notes": "The official catalogue links this model, but its product page returned HTTP 403 to the research fetch. Do not infer ICE trim/powertrain structure from Sierra.ev. Retry official configurator or dealer source."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "completed_with_gaps",
+      "stage2_status": "review_required",
       "stage2_evidence_path": "research/india/stage2-tata-bounded-2026-11-28.json",
-      "stage2_verification": "limited_catalogue_or_support_evidence"
+      "stage2_verification": "prior_claims_unsubstantiated_require_review"
     },
     {
       "brand_id": "tata",
@@ -1862,9 +1880,9 @@
         "notes": "Preserve battery, ACFC charger pack and AWD/QWD distinctions only where explicitly named. Verify complete live price matrix and drive mapping before import."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "completed_with_gaps",
+      "stage2_status": "review_required",
       "stage2_evidence_path": "research/india/stage2-tata-bounded-2026-11-28.json",
-      "stage2_verification": "limited_catalogue_or_support_evidence"
+      "stage2_verification": "prior_claims_unsubstantiated_require_review"
     },
     {
       "brand_id": "tata",
@@ -1888,9 +1906,9 @@
         "notes": "Official catalogue confirms the model listing, but product detail page returned HTTP 403. Do not reuse Harrier.ev trims or infer ICE grade/powertrain mapping."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "completed_with_gaps",
+      "stage2_status": "review_required",
       "stage2_evidence_path": "research/india/stage2-tata-bounded-2026-11-28.json",
-      "stage2_verification": "limited_catalogue_or_support_evidence"
+      "stage2_verification": "prior_claims_unsubstantiated_require_review"
     },
     {
       "brand_id": "tata",
@@ -1914,9 +1932,9 @@
         "notes": "Official page identifies 65/75 kWh, QWD dual-motor, ACFC wallbox and Stealth edition. Do not cross all combinations; only explicitly named cards are observed. Verify exact live prices and edition applicability."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "completed_with_gaps",
+      "stage2_status": "review_required",
       "stage2_evidence_path": "research/india/stage2-tata-bounded-2026-11-28.json",
-      "stage2_verification": "limited_catalogue_or_support_evidence"
+      "stage2_verification": "prior_claims_unsubstantiated_require_review"
     },
     {
       "brand_id": "tata",
@@ -1940,9 +1958,9 @@
         "notes": "Official catalogue confirms New Safari listing, but product detail page returned HTTP 403. Current trim and powertrain matrix requires official configurator/dealer evidence."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "completed_with_gaps",
+      "stage2_status": "review_required",
       "stage2_evidence_path": "research/india/stage2-tata-bounded-2026-11-28.json",
-      "stage2_verification": "limited_catalogue_or_support_evidence"
+      "stage2_verification": "prior_claims_unsubstantiated_require_review"
     },
     {
       "brand_id": "tata",
@@ -1966,9 +1984,9 @@
         "notes": "Official catalogue confirms Nexon listing and describes multiple powertrain combinations, but exact current ICE variants could not be retrieved. Do not infer grade/fuel/transmission combinations."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "completed_with_gaps",
+      "stage2_status": "review_required",
       "stage2_evidence_path": "research/india/stage2-tata-bounded-2026-11-28.json",
-      "stage2_verification": "limited_catalogue_or_support_evidence"
+      "stage2_verification": "prior_claims_unsubstantiated_require_review"
     },
     {
       "brand_id": "tata",
@@ -1992,9 +2010,9 @@
         "notes": "Official page identifies current 30 kWh MR and 45 kWh LR families. Do not copy legacy 40.5 kWh or Prime/Max battery data from support archives into current variants. Confirm complete current trim matrix and individual prices."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "completed_with_gaps",
+      "stage2_status": "review_required",
       "stage2_evidence_path": "research/india/stage2-tata-bounded-2026-11-28.json",
-      "stage2_verification": "limited_catalogue_or_support_evidence"
+      "stage2_verification": "prior_claims_unsubstantiated_require_review"
     },
     {
       "brand_id": "tata",
@@ -2018,9 +2036,9 @@
         "notes": "Official catalogue confirms New Punch listing, but product detail page returned HTTP 403. Current 2026 facelift trim and powertrain matrix requires official configurator/dealer evidence."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "completed_with_gaps",
+      "stage2_status": "review_required",
       "stage2_evidence_path": "research/india/stage2-tata-bounded-2026-11-28.json",
-      "stage2_verification": "limited_catalogue_or_support_evidence"
+      "stage2_verification": "prior_claims_unsubstantiated_require_review"
     },
     {
       "brand_id": "tata",
@@ -2044,9 +2062,9 @@
         "notes": "Official page identifies 30/40 kWh battery configurations. Confirm complete current trim matrix and individual prices before import."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "completed_with_gaps",
+      "stage2_status": "review_required",
       "stage2_evidence_path": "research/india/stage2-tata-bounded-2026-11-28.json",
-      "stage2_verification": "limited_catalogue_or_support_evidence"
+      "stage2_verification": "prior_claims_unsubstantiated_require_review"
     },
     {
       "brand_id": "tata",
@@ -2070,9 +2088,9 @@
         "notes": "Official catalogue confirms Altroz listing, but product detail page returned HTTP 403. Do not infer current petrol/diesel/CNG trim combinations from older brochures."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "completed_with_gaps",
+      "stage2_status": "review_required",
       "stage2_evidence_path": "research/india/stage2-tata-bounded-2026-11-28.json",
-      "stage2_verification": "limited_catalogue_or_support_evidence"
+      "stage2_verification": "prior_claims_unsubstantiated_require_review"
     },
     {
       "brand_id": "tata",
@@ -2096,9 +2114,9 @@
         "notes": "Official 2026 price page confirms trim labels and two CNG prices, but many dynamic price cells are blank. Secondary reporting contains more complete launch pricing but is not accepted as final price evidence."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "completed_with_gaps",
+      "stage2_status": "review_required",
       "stage2_evidence_path": "research/india/stage2-tata-bounded-2026-11-28.json",
-      "stage2_verification": "limited_catalogue_or_support_evidence"
+      "stage2_verification": "prior_claims_unsubstantiated_require_review"
     },
     {
       "brand_id": "tata",
@@ -2122,9 +2140,9 @@
         "notes": "Official pages identify four current grade/battery combinations. Keep 19.2 kWh and 24 kWh distinct. Verify full current matrix and price effective date."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "completed_with_gaps",
+      "stage2_status": "review_required",
       "stage2_evidence_path": "research/india/stage2-tata-bounded-2026-11-28.json",
-      "stage2_verification": "limited_catalogue_or_support_evidence"
+      "stage2_verification": "prior_claims_unsubstantiated_require_review"
     },
     {
       "brand_id": "tata",
@@ -2148,9 +2166,9 @@
         "notes": "Official catalogue confirms Curvv listing, but product detail page returned HTTP 403. Do not reuse Curvv.ev trim labels or infer petrol/diesel/gearbox combinations."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "completed_with_gaps",
+      "stage2_status": "review_required",
       "stage2_evidence_path": "research/india/stage2-tata-bounded-2026-11-28.json",
-      "stage2_verification": "limited_catalogue_or_support_evidence"
+      "stage2_verification": "prior_claims_unsubstantiated_require_review"
     },
     {
       "brand_id": "tata",
@@ -2174,9 +2192,9 @@
         "notes": "Preserve #DARK as edition suffix. Older 45 kWh series appears in historical material; do not merge with current Series X without configurator confirmation."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "completed_with_gaps",
+      "stage2_status": "review_required",
       "stage2_evidence_path": "research/india/stage2-tata-bounded-2026-11-28.json",
-      "stage2_verification": "limited_catalogue_or_support_evidence"
+      "stage2_verification": "prior_claims_unsubstantiated_require_review"
     },
     {
       "brand_id": "tata",
@@ -2200,9 +2218,9 @@
         "notes": "Tigor remains in the prior candidate inventory, but the current official Tata Cars model navigation does not list it. Confirm whether the retail model is discontinued/removed or available through dealer-only stock before treating it as a current passenger retail model."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "completed_with_gaps",
+      "stage2_status": "review_required",
       "stage2_evidence_path": "research/india/stage2-tata-bounded-2026-11-28.json",
-      "stage2_verification": "limited_catalogue_or_support_evidence"
+      "stage2_verification": "prior_claims_unsubstantiated_require_review"
     },
     {
       "brand_id": "tata",
@@ -2226,9 +2244,9 @@
         "notes": "Official page is live but captured variant content includes legacy XE/XT/XZ+ nomenclature. Tata support archive also contains XpresT/fleet battery families; do not mix commercial products with current private retail variants. Dealer confirmation required."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "completed_with_gaps",
+      "stage2_status": "review_required",
       "stage2_evidence_path": "research/india/stage2-tata-bounded-2026-11-28.json",
-      "stage2_verification": "limited_catalogue_or_support_evidence"
+      "stage2_verification": "prior_claims_unsubstantiated_require_review"
     },
     {
       "brand_id": "mini",
@@ -6140,9 +6158,9 @@
         "notes": "Two exact variant structures captured. Current model-level range corroborates the dated launch price endpoints but does not independently map endpoints to grades or establish a new effective date. Dealer locator presence confirms dealer-network listing, not booking acceptance. Optional 7.2kW charger is ₹50,000 extra per launch release. Current grade-wise price and dealer orderability remain pending."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "completed_with_gaps",
+      "stage2_status": "review_required",
       "stage2_evidence_path": "research/india/stage2-mahindra-bounded-2026-11-28.json",
-      "stage2_verification": "oem_listing_only"
+      "stage2_verification": "prior_claims_unsubstantiated_require_review"
     },
     {
       "brand_id": "mahindra",
@@ -6166,9 +6184,9 @@
         "notes": "Current FAQ resolves full prices and 6/7-seat availability. BaaS table is grade/battery-level and does not split by seating; do not assign BaaS prices to individual seat derivatives. No price effective date shown; source rights remain pending."
       },
       "evidence_review_status": "historical_attempt_documented_not_independently_verified",
-      "stage2_status": "completed_with_gaps",
+      "stage2_status": "review_required",
       "stage2_evidence_path": "research/india/stage2-mahindra-bounded-2026-11-28.json",
-      "stage2_verification": "selected_oem_facts_retrieved"
+      "stage2_verification": "prior_claims_unsubstantiated_require_review"
     },
     {
       "brand_id": "lotus",
@@ -17400,5 +17418,5 @@
   },
   "stage1_status": "completed_with_gaps",
   "stage2_status": "in_progress",
-  "stage2_active_brand": "Kia"
+  "stage2_active_brand": "Toyota"
 }
