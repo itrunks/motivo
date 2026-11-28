@@ -1,0 +1,69 @@
+{
+  "retrieval_scope": "Official indexed OEM extracts retrieved 2026-11-28; India retail availability unverified",
+  "models": [
+    {
+      "brand": "Isuzu",
+      "model": "mu-X",
+      "source_url": "https://www.isuzu.in/mux",
+      "checked_at": "2026-11-28",
+      "status": "bounded_indexed_oem_review",
+      "publication_review": "pending",
+      "observations": {
+        "cc": 1898,
+        "kw": 120,
+        "nm": 360,
+        "seats": 7,
+        "front_suspension": "double wishbone",
+        "rear_suspension": "penta-link",
+        "brochure": "https://mail.isuzu.in/images/Brochure/pdf_area/ISUZU%20mu-X%20brochure.pdf"
+      },
+      "gaps": [
+        {
+          "field": "exact_variant_matrix",
+          "status": "unverified",
+          "reason": "Full India variant-specific evidence not retrieved"
+        },
+        {
+          "field": "variant_feature_applicability",
+          "status": "unverified",
+          "reason": "Full India variant-specific evidence not retrieved"
+        },
+        {
+          "field": "current_variant_prices",
+          "status": "unverified",
+          "reason": "Full India variant-specific evidence not retrieved"
+        },
+        {
+          "field": "NVH",
+          "status": "unverified",
+          "reason": "Full India variant-specific evidence not retrieved"
+        },
+        {
+          "field": "suspension_tuning",
+          "status": "unverified",
+          "reason": "Full India variant-specific evidence not retrieved"
+        },
+        {
+          "field": "real_world_efficiency",
+          "status": "unverified",
+          "reason": "Full India variant-specific evidence not retrieved"
+        },
+        {
+          "field": "ownership_cost",
+          "status": "unverified",
+          "reason": "Full India variant-specific evidence not retrieved"
+        },
+        {
+          "field": "OEM_accessories",
+          "status": "unverified",
+          "reason": "Full India variant-specific evidence not retrieved"
+        },
+        {
+          "field": "warranty",
+          "status": "unverified",
+          "reason": "Full India variant-specific evidence not retrieved"
+        }
+      ]
+    }
+  ]
+}
