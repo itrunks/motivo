@@ -234,3 +234,7 @@ Four Maruti models (Alto K10, Celerio, Eeco, Ertiga) reviewed on actual OEM over
 ## Mahindra bounded review checkpoint
 
 60/251 existing models marked bounded closure (includes previous 47 dispositions, not independently reverified). Mahindra 13/13: 10 navigation identity checks and 3 electric SUV FAQ reviews. No full variant audits asserted. Bolero Neo Plus scope lead pending. Kia queued. No production changes.
+
+## Kia checkpoint and evidence integrity correction
+
+Kia 9/9 bounded dispositions based on actual indexed OEM excerpts. Earlier 60 model closures reset to review_required because source verification claims cannot be substantiated from available execution records. 9/251 supported bounded closures; 60 review_required; 182 pending. Toyota next. No production import. Existing earlier evidence files retained as unverified candidates, not verified facts.
